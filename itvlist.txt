@@ -1754,7 +1754,7 @@ CETV4[768*576],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225784/ind
 央广购物[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226012/index.m3u8
 中视购物[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 优购物[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226015/index.m3u8
-四川电信组播,#genr
+四川电信组播,#genre#
 CCTV-1高清,http://221.237.169.36:8100/rtp/239.93.0.184:5140
 CCTV-2高清,http://221.237.169.36:8100/rtp/239.93.1.23:6000
 CCTV-3高清,http://221.237.169.36:8100/rtp/239.93.1.11:2223
