@@ -1554,7 +1554,7 @@ NNM家庭理财 576,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 湖南快乐购 576,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226353/index.m3u8
 陕西乐家购物 576,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226362/index.m3u8
 购物 576,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226365/index.m3u8
-黑龙江移动,#genre#
+黑龙江移动v6,#genre#
 CCTV1[1280*720],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
 CCTV1[1280*720],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226005/index.m3u8
 CCTV1[1280*720],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
