@@ -5,7 +5,9 @@
 交流群
 645316932
 临时频道,#genre#
-(临时)重温经典,http://mtw.so/5Gns7P
+(临时)重温经典1,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+(临时)重温经典2,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+(临时)重温经典3,http://mtw.so/5Gns7P
 (临时)无线财经,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
 (临时)无线财经2,http://8.218.240.247:9080/hls/tvbjabe.m3u8
 
