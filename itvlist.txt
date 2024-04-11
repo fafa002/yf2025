@@ -84,15 +84,13 @@
 
 (ytb)TVBSHD,http://47.76.82.26:29500/live.m3u8?c=1
 (ytb)TVBS新闻,http://47.76.82.26:29500/live.m3u8?c=2
-(ytb)中天新闻,http://47.76.82.26:29500/live.m3u8?c=3
+(ytb)中天新闻,http://mtw.so/6wgIqO
 (ytb)寰宇新聞,http://47.76.82.26:29500/live.m3u8?c=5
 (ytb)万秀猪王,http://47.76.82.26:29500/live.m3u8?c=6
 (ytb)猪哥会社,http://47.76.82.26:29500/live.m3u8?c=7
 (ytb)現代嘉慶君,http://47.76.82.26:29500/live.m3u8?c=8
 (ytb)藍色水玲瓏,http://47.76.82.26:29500/live.m3u8?c=9
 (ytb)东森新闻,http://47.76.82.26:29500/live.m3u8?c=10
-(ytb)中天新聞2台,http://47.76.82.26:29500/live.m3u8?c=11
-(ytb)中天新聞,http://47.76.82.26:29500/live.m3u8?c=12
 (ytb)民視新聞,http://47.76.82.26:29500/live.m3u8?c=13
 (ytb)TVBS新聞,http://47.76.82.26:29500/live.m3u8?c=14
 (ytb)寰宇新闻,http://47.76.82.26:29500/live.m3u8?c=15
