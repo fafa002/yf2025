@@ -1969,7 +1969,7 @@ V音乐台2,http://222.209.49.12:8088/rtp/239.93.1.7:2194
 动作电影,http://mtw.so/6he0fm
 李连杰,http://mtw.so/69HNaP
 韩国,#genre#
-1,http://142.4.119.231:9080/hls/123456mr.m3u8
-2,http://142.4.119.231:9080/hls/254666359mr.m3u8
-3,http://142.4.119.231:9080/hls/36545983mr.m3u8
-4,http://142.4.119.231:9080/hls/wkbs1.m3u8
+KBS11,http://mtw.so/6henIc
+MBC,http://mtw.so/6wgNRA
+SBS,http://mtw.so/5y77g1
+KBS11,http://mtw.so/5FDkkI
