@@ -1137,3 +1137,43 @@
                                             "cms.qdwght.com"
                                         ]
                                     }
+ "lives": [
+
+    {
+      "name": "易发TV",
+      "type": 0,
+      "url": "https://raw.nuaa.cf/zgyd11/xiangjiao/main/itvlist.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "酒店源自动更新",
+      "type": 0,
+      "url": "https://gitee.com/flying-snow-wu/tv/raw/main/itvlist.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "TVBOX多仓裤",
+      "type": 0,
+      "url": "https://gitee.com/ztxiaoyao/tv/raw/master/修改版.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "范明明ipv6反代",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
