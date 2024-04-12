@@ -31,25 +31,25 @@
 (临时2)天映频道2,http://mtw.so/6whnF6
 (临时2)香港C+,http://mtw.so/5GjUs9
 岗奥抬频道,#genre#
-(4线)now爆谷,http://58.87.99.251:8090/HK/nowbaogu/hls.m3u8
-(4线)now星影,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
+(4线)now体育,http://58.87.99.251:8090/HK/nowbaogu/hls.m3u8
+(4线)now新闻,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 (4线)广电翡翠2,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
 (4线)翡翠,http://58.87.99.251:8090/HK/tvb/hls.m3u8
 (4线)有线18,http://58.87.99.251:8090/HK/yx18/hls.m3u8
 (4线)中天新闻,http://58.87.99.251:8090/HK/ztxw/hls.m3u8
 
-(3线)now爆谷,http://47.106.39.230:8080/HK/nowbaogu/hls.m3u8
-(3线)now星影,http://47.106.39.230:8080/HK/nowxingying/hls.m3u8
+(3线)now体育,http://47.106.39.230:8080/HK/nowbaogu/hls.m3u8
+(3线)now新闻,http://47.106.39.230:8080/HK/nowxingying/hls.m3u8
 (3线)广电翡翠2,http://47.106.39.230:8080/GN/gdfc2/hls.m3u8
 (3线)翡翠,http://47.106.39.230:8080/HK/tvb/hls.m3u8
 
+(1线)now体育,http://119.23.61.191:8088/HK/nowbg/hls.m3u8
+(1线)now新闻,http://119.23.61.191:8088/HK/nowxy/hls.m3u8
 (1线)hoy77,http://119.23.61.191:8088/HK/hoy77/hls.m3u8
 (1线)hoy78,http://119.23.61.191:8088/HK/hoy78/hls.m3u8
 (1线)无线财经,http://119.23.61.191:8088/HK/wxcj/hls.m3u8
 (1线)无线新闻,http://119.23.61.191:8088/HK/wxxw/hls.m3u8
 (1线)j2,http://119.23.61.191:8088/HK/j2.live.flv
-(1线)now星影,http://119.23.61.191:8088/HK/nowxy/hls.m3u8
-(1线)now爆谷,http://119.23.61.191:8088/HK/nowbg/hls.m3u8
 
 (2线)无线财经,http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
 (2线)无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
