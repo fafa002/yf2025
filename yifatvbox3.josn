@@ -279,21 +279,21 @@
     {"name": "nm","hosts": [  "toutiaovod.com"],"regex": [  "video/tos/cn"]},
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
-  "lives": [
+   "lives": [
 
     {
-      "name": "酒店源自动更新",
+      "name": "易发TV",
       "type": 0,
-      "url": "https://gitee.com/flying-snow-wu/tv/raw/main/itvlist.txt",
+      "url": "https://raw.nuaa.cf/zgyd11/xiangjiao/main/itvlist.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "易发TV",
+      "name": "酒店源自动更新",
       "type": 0,
-      "url": "https://raw.nuaa.cf/zgyd11/xiangjiao/main/itvlist.txt",
+      "url": "https://gitee.com/flying-snow-wu/tv/raw/main/itvlist.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
