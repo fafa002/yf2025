@@ -3,7 +3,7 @@
 
 
 {
-    "spider": "https://raw.githubusercontent.com/zgyd11/xiangjiao/main/jar/易发出品.jar",
+    "spider": "https://raw.nuaa.cf/zgyd11/xiangjiao/main/jar/易发出品.jar",
     "lives": [
         {
             "group": "redirect",
