@@ -8,6 +8,9 @@
 (临时)重温经典2,http://mtw.so/5NPX0U
 (临时)重温经典3,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 (临时)重温经典4,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+(IPv6)翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+(IPv6)明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
+(IPv6)澳門澳視,https://iptv.hiper25.com/TDM/video.m3u8
 (临时)无线财经,http://mtw.so/5Vma8v
 (临时)广电翡翠,http://mtw.so/6oKvgt
 (临时)翡翠,http://mtw.so/5y76LR
