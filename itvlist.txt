@@ -93,7 +93,7 @@
 
 (ytb)TVBSHD,http://mtw.so/6wgNqO
 (ytb)TVBS新闻,http://mtw.so/5FDjU6
-(ytb)中天新闻,http://mtw.so/6wgIqO
+(ytb)中天新闻,http://mtw.so/5FDwQQ
 (ytb)寰宇新聞,http://mtw.so/62RXtS
 (ytb)万秀猪王,http://mtw.so/6oKACT
 (ytb)猪哥会社,http://mtw.so/5GnWqd
