@@ -2900,6 +2900,7 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 广西音乐,https://lhttp.qingting.fm/live/4875/64k.mp3
 陕西音乐,https://lhttp.qingting.fm/live/4873/64k.mp3
 河南音乐,https://lhttp.qingting.fm/live/1206/64k.mp3
+河南音乐2,https://lhttp.qingting.fm/live/1206/64k.mp3
 香港古典音乐,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8?sd=10&rebase=on
 四川音乐,https://lhttp.qingting.fm/live/1110/64k.mp3
 贵州音乐,https://lhttp.qingting.fm/live/20067/64k.mp3
