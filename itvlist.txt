@@ -44,8 +44,6 @@
 (4线)now新闻,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
 (4线)广电翡翠2,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
 (4线)翡翠,http://58.87.99.251:8090/HK/tvb/hls.m3u8
-(4线)有线18,http://58.87.99.251:8090/HK/yx18/hls.m3u8
-(4线)中天新闻,http://58.87.99.251:8090/HK/ztxw/hls.m3u8
 
 (1线)now体育,http://119.23.61.191:8088/HK/nowbg/hls.m3u8
 (1线)now新闻,http://119.23.61.191:8088/HK/nowxy/hls.m3u8
