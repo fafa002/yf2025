@@ -222,6 +222,7 @@ ET中国,http://startv365.com:80/live/9794783213/6955630461/473542.m3u8
 三立国际,http://startv365.com:80/live/9794783213/6955630461/473545.m3u8
 民视,http://startv365.com:80/live/9794783213/6955630461/473546.m3u8
 广东本地,#genre#
+广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
