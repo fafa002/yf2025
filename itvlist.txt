@@ -1,8 +1,8 @@
-﻿易发TV
+﻿易发TV,#genre#
+备用群,https://mirror.ghproxy.com/https://github.com/zgyd11/xiangjiao/blob/main/jar/易发交流中心.mp4
 感谢支持
 交流群 645316932 已满
-备用群,
-864959034,
+备用群 864959034
 临时频道,#genre#
 (临时)重温经典1,http://mtw.so/5Gns7P
 (临时)重温经典2,http://mtw.so/5NPX0U
