@@ -2790,6 +2790,207 @@ CETV-4,http://dp.sxtv.top:88/live/cqyx.php?id=cetv-4SD
 摄影频道,http://dp.sxtv.top:88/live/cqyx.php?id=sheying
 
 靓妆,http://dp.sxtv.top:88/live/cqyx.php?id=liang
+
+百视通8M,#genre#
+CCTV16-4K,http://lzoq.9l.lv/daili/?id=cctv16hd4k/15000000
+
+CCTV-4K,http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
+
+欢笑剧场4k,http://php.jdshipin.com:8880/bst.php?id=hxjc4k/15000000
+
+CCTV1 8M,http://php.jdshipin.com:8880/bst.php?id=cctv1hd8m/8000000
+
+CCTV2 8M,http://php.jdshipin.com:8880/bst.php?id=cctv2hd8m/8000000
+
+CCTV3 8M,http://php.jdshipin.com:8880/bst.php?id=cctv38m/8000000
+
+CCTV4 8M,http://php.jdshipin.com:8880/bst.php?id=cctv4hd8m/8000000
+
+CCTV5 8M,http://php.jdshipin.com:8880/bst.php?id=cctv58m/8000000
+
+CCTV5+ 8M,http://php.jdshipin.com:8880/bst.php?id=cctv5phd8m/8000000
+
+CCTV6 8M,http://php.jdshipin.com:8880/bst.php?id=cctv6hd8m/8000000
+
+CCTV7 8M,http://php.jdshipin.com:8880/bst.php?id=cctv7hd8m/8000000
+
+CCTV8 8M,http://php.jdshipin.com:8880/bst.php?id=cctv8hd8m/8000000
+
+CCTV9 8M,http://php.jdshipin.com:8880/bst.php?id=cctv9hd8m/8000000
+
+CCTV10 8M,http://php.jdshipin.com:8880/bst.php?id=cctv10hd8m/8000000
+
+CCTV11 8M,http://php.jdshipin.com:8880/bst.php?id=cctv11hd8m/8000000
+
+CCTV12 8M,http://php.jdshipin.com:8880/bst.php?id=cctv12hd8m/8000000
+
+CCTV13 8M,http://php.jdshipin.com:8880/bst.php?id=cctv13xwhd8m/8000000
+
+CCTV14 8M,http://php.jdshipin.com:8880/bst.php?id=cctvsehd8m/8000000
+
+CCTV15 8M,http://php.jdshipin.com:8880/bst.php?id=cctv15hd8m/8000000
+
+CCTV16 8M,http://php.jdshipin.com:8880/bst.php?id=cctv16hd8m/8000000
+
+CCTV17 8M,http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
+
+江苏卫视 8M,http://php.jdshipin.com:8880/bst.php?id=jswshd8m/8000000
+
+广西卫视 8M,http://php.jdshipin.com:8880/bst.php?id=gxwshd8m/8000000
+
+四川卫视 8M,http://php.jdshipin.com:8880/bst.php?id=scwshd/8000000
+
+湖南卫视 8M,http://php.jdshipin.com:8880/bst.php?id=hunanwshd8m/8000000
+
+浙江卫视 8M,http://php.jdshipin.com:8880/bst.php?id=zjwshd8m/8000000
+
+东方卫视 8M,http://php.jdshipin.com:8880/bst.php?id=dfwshd8m/8000000
+
+北京卫视 8M,http://php.jdshipin.com:8880/bst.php?id=bjwshd8m/8000000
+
+天津卫视 8M,http://php.jdshipin.com:8880/bst.php?id=tjwshd8m/8000000
+
+辽宁卫视 8M,http://php.jdshipin.com:8880/bst.php?id=lnwshd8m/8000000
+
+安徽卫视 8M,http://php.jdshipin.com:8880/bst.php?id=ahwshd8m/8000000
+
+黑龙江卫视 8M,http://php.jdshipin.com:8880/bst.php?id=hljwshd8m/8000000
+
+广东卫视 8M,http://php.jdshipin.com:8880/bst.php?id=gdwshd8m/8000000
+
+深圳卫视 8M,http://php.jdshipin.com:8880/bst.php?id=szwshd8m/8000000
+
+湖北卫视 8M,http://php.jdshipin.com:8880/bst.php?id=hubeiws8m/8000000
+
+吉林卫视 8M,http://php.jdshipin.com:8880/bst.php?id=jlwshd8m/8000000
+
+山东卫视 8M,http://php.jdshipin.com:8880/bst.php?id=sdws8m/8000000
+
+江西卫视 8M,http://php.jdshipin.com:8880/bst.php?id=jxws8m/8000000
+
+河南卫视 8M,http://php.jdshipin.com:8880/bst.php?id=hnwshd8m/8000000
+
+河北卫视 8M,http://php.jdshipin.com:8880/bst.php?id=hbwshd8m/8000000
+
+甘肃卫视 8M,http://php.jdshipin.com:8880/bst.php?id=gswshd8m/8000000
+
+重庆卫视 8M,http://php.jdshipin.com:8880/bst.php?id=cqws8m/8000000
+
+东南卫视 8M,http://php.jdshipin.com:8880/bst.php?id=dnwshd8m/8000000
+
+云南卫视 8M,http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
+
+贵州卫视 8M,http://php.jdshipin.com:8880/bst.php?id=gzwshd8m/8000000
+
+海南卫视 8M,http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
+
+欢笑剧场 8M,http://php.jdshipin.com:8880/bst.php?id=hxjc8m/8000000
+
+劲爆体育 8M,http://php.jdshipin.com:8880/bst.php?id=jbtyhd8m/8000000
+
+快乐垂钓 8M,http://php.jdshipin.com:8880/bst.php?id=klcd8m/8000000
+
+金鹰纪实 8M,http://php.jdshipin.com:8880/bst.php?id=jyjs8m/8000000
+
+戏曲精选 8M,http://php.jdshipin.com:8880/bst.php?id=xqjx8m/8000000
+
+上海第一财经 8M,http://php.jdshipin.com:8880/bst.php?id=dycjhd8m/8000000
+
+上视新闻 8M,http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000
+
+上海都市 8M,http://php.jdshipin.com:8880/bst.php?id=dshd8m/8000000
+
+上海纪实 8M,http://php.jdshipin.com:8880/bst.php?id=jspdhd/4000000
+
+东方影视 8M,http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
+
+五星体育 8M,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+
+上视外语 8M,http://php.jdshipin.com:8880/bst.php?id=icshd8m/8000000
+
+七彩戏剧 8M,http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
+
+上海教育 8M,http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
+
+全纪实 8M,http://php.jdshipin.com:8880/bst.php?id=qjshd8m/8000000
+
+生活时尚 8M,http://php.jdshipin.com:8880/bst.php?id=shss8m/8000000
+
+新视觉 8M,http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
+
+游戏风云 8M,http://php.jdshipin.com:8880/bst.php?id=yxfy8m/8000000
+
+热门综艺 8M,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
+
+超级体育 8M,http://php.jdshipin.com:8880/bst.php?id=qcsj8m/8000000
+
+健康养生 8M,http://php.jdshipin.com:8880/bst.php?id=jkys8m/8000000
+
+百变课堂 8M,http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
+
+看天下精选 8M,http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
+
+华语影院 8M,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
+
+电竞天堂 8M,http://php.jdshipin.com:8880/bst.php?id=djtt8m/8000000
+
+青春动漫 8M,http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
+
+宝宝动画 8M,http://php.jdshipin.com:8880/bst.php?id=bbdh8m/8000000
+
+星光影院 8M,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
+
+谍战剧场 8M,http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
+
+全球大片 8M,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
+
+热门剧场 8M,http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
+
+陶瓷高清 8M,http://php.jdshipin.com:8880/bst.php?id=taocihd/8000000
+
+中国教育-1 8M,http://php.jdshipin.com:8880/bst.php?id=zgjy1t8m/8000000
+
+中国教育-4 8M,http://php.jdshipin.com:8880/bst.php?id=zgjy4hd8m/8000000
+
+卡酷少儿 8M,http://php.jdshipin.com:8880/bst.php?id=kkse8m/8000000
+
+纪实科教 8M,http://php.jdshipin.com:8880/bst.php?id=dajs8m/8000000
+
+茶频道 8M,http://php.jdshipin.com:8880/bst.php?id=cpdhdavs8m/8000000
+
+足球高清 8M,http://php.jdshipin.com:8880/bst.php?id=zqpd8m/8000000
+
+炫动卡通 8M,http://php.jdshipin.com:8880/bst.php?id=hhxd8m/8000000
+
+东方财经 8M,http://php.jdshipin.com:8880/bst.php?id=dfcjhd8m/8000000
+
+都市剧场 8M,http://php.jdshipin.com:8880/bst.php?id=dsjc8m/8000000
+
+动漫秀场 8M,http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000
+
+法治天地 8M,http://php.jdshipin.com:8880/bst.php?id=fztd8m/8000000
+
+金色学堂 8M,http://php.jdshipin.com:8880/bst.php?id=jingsepd8m/8000000
+
+魅力足球 8M,http://php.jdshipin.com:8880/bst.php?id=mlyyhd8m/8000000
+
+
+福建综合,http://php.jdshipin.com:8880/bst.php?id=fjzhhd4m/4000000
+
+福建文体,http://php.jdshipin.com:8880/bst.php?id=fjtyhd4m/4000000
+
+福建少儿,http://php.jdshipin.com:8880/bst.php?id=fjsehd4m/4000000
+
+福建旅游,http://php.jdshipin.com:8880/bst.php?id=fjlyhd4m/4000000
+
+福建公共,http://php.jdshipin.com:8880/bst.php?id=fjgghd4m/4000000
+
+福建电视剧,http://php.jdshipin.com:8880/bst.php?id=fjdsjhd4m/4000000
+
+福建新闻,http://php.jdshipin.com:8880/bst.php?id=fjxwhd4m/4000000
+
+海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
+
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
 星爷,http://mtw.so/6oKdhX
