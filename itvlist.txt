@@ -140,6 +140,60 @@ HOY资讯台,http://mtw.so/6hhc6M
 港台电视31,http://mtw.so/6oMZaz
 港台电视32,http://mtw.so/6wjbZ8
 
+土拨鼠推流,#genre#
+凤凰卫视中文台,http://proxy.dfkj.live/alitv.php?u=min&id=1
+凤凰卫视资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=2
+凤凰香港台,http://proxy.dfkj.live/alitv.php?u=min&id=3
+香港有线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=4
+香港有线18台,http://proxy.dfkj.live/alitv.php?u=min&id=5
+香港有线18台(普通话),http://proxy.dfkj.live/alitv.php?u=min&id=6
+TVB无线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=7
+TVB财经体育资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=8
+TVB翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=9
+TVB华丽翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=10
+TVB明珠台,http://proxy.dfkj.live/alitv.php?u=min&id=11
+TVB J2,http://proxy.dfkj.live/alitv.php?u=min&id=12
+TVB星河,http://proxy.dfkj.live/alitv.php?u=min&id=13
+ViuTV,http://proxy.dfkj.live/alitv.php?u=min&id=14
+ViuTV6,http://proxy.dfkj.live/alitv.php?u=min&id=15
+香港国际财经台,http://proxy.dfkj.live/alitv.php?u=min&id=16
+HOY TV,http://proxy.dfkj.live/alitv.php?u=min&id=17
+HOY资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=18
+港台电视31,http://proxy.dfkj.live/alitv.php?u=min&id=19
+港台电视32,http://proxy.dfkj.live/alitv.php?u=min&id=20
+中天新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=21
+东森新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=22
+东森财经新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=23
+寰宇新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=24
+寰宇新闻台湾台,http://proxy.dfkj.live/alitv.php?u=min&id=25
+台视新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=26
+中视新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=27
+华视新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=28
+TVBS新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=29
+三立新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=30
+三立iNEWS,http://proxy.dfkj.live/alitv.php?u=min&id=31
+镜电视新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=32
+公视新闻,http://proxy.dfkj.live/alitv.php?u=min&id=33
+民视新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=34
+民视,http://proxy.dfkj.live/alitv.php?u=min&id=35
+台视,http://proxy.dfkj.live/alitv.php?u=min&id=36
+中视,http://proxy.dfkj.live/alitv.php?u=min&id=37
+华视,http://proxy.dfkj.live/alitv.php?u=min&id=38
+TVBS HD,http://proxy.dfkj.live/alitv.php?u=min&id=39
+TVBS欢乐台,http://proxy.dfkj.live/alitv.php?u=min&id=40
+中天亚洲台,http://proxy.dfkj.live/alitv.php?u=min&id=41
+纬来体育台,http://proxy.dfkj.live/alitv.php?u=min&id=42
+纬来日本台,http://proxy.dfkj.live/alitv.php?u=min&id=43
+纬来育乐台,http://proxy.dfkj.live/alitv.php?u=min&id=44
+ELEVEN 1,http://proxy.dfkj.live/alitv.php?u=min&id=45
+ELEVEN 2,http://proxy.dfkj.live/alitv.php?u=min&id=46
+爱尔达体育1台,http://proxy.dfkj.live/alitv.php?u=min&id=47
+爱尔达体育2台,http://proxy.dfkj.live/alitv.php?u=min&id=48
+爱尔达体育3台,http://proxy.dfkj.live/alitv.php?u=min&id=49
+MOMO综合台,http://proxy.dfkj.live/alitv.php?u=min&id=50
+东森超视,http://proxy.dfkj.live/alitv.php?u=min&id=51
+52,http://proxy.dfkj.live/alitv.php?u=min&id=52
+
 湾湾断流台,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
