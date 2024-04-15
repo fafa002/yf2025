@@ -141,6 +141,18 @@ HOY资讯台,http://mtw.so/6hhc6M
 港台电视31,http://mtw.so/6oMZaz
 港台电视32,http://mtw.so/6wjbZ8
 
+HK DTMB,#genre#
+翡翠台,http://mtw.so/6wjqSw
+无线新闻台,http://mtw.so/5y9KgX
+明珠台,http://mtw.so/5FFXlE
+无线J2,http://mtw.so/5Gq9Qd
+无线资讯台,http://mtw.so/5NWmUU
+HOY TV,http://mtw.so/5VszZB
+HOY资讯台,http://mtw.so/69P2qx
+ViuTV,http://mtw.so/6hh3mc
+HOY国际财经台,http://mtw.so/6oNdPB
+ViuTVsix,http://mtw.so/6wjqSG
+
 土拨鼠推流,#genre#
 凤凰卫视中文台,http://proxy.dfkj.live/alitv.php?u=min&id=1
 凤凰卫视资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=2
