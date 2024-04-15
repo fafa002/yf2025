@@ -25,6 +25,7 @@
 (临时2)香港C+,http://mtw.so/5GjUs9
 岗奥抬频道,#genre#
 (3线)NOW体育,http://47.106.39.230:8080/HK1/nowty/hls.m3u8
+(3线)NOW体育2,http://47.106.39.230:8080/HK1/nowty2/hls.m3u8
 (3线)NOW新闻,http://47.106.39.230:8080/HK1/nowxw/hls.m3u8
 (3线)NOW星影,http://47.106.39.230:8080/HK1/nowxy/hls.m3u8
 (3线)NOW爆谷,http://47.106.39.230:8080/HK1/nowbg/hls.m3u8
