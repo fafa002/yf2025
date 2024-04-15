@@ -19,7 +19,7 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (临时1)翡翠台,http://mtw.so/69P9aV
 (临时1)无线新闻,http://mtw.so/6hha6A
 (临时1)无线财经,http://mtw.so/6oNnbh
-(临时1)TJ2台,http://mtw.so/6wjaf4
+(临时1)J2台,http://mtw.so/6wjaf4
 (临时1)亚洲武侠,http://mtw.so/5y9tDv
 (临时2)韩国娱乐,http://mtw.so/5VmkBn
 (临时2)now体育,http://mtw.so/62SxG4
