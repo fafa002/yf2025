@@ -115,6 +115,29 @@
 (ytb)中天亞洲,http://mtw.so/5y771F
 (ytb)三立新聞,http://mtw.so/5GnWk5
 (ytb)三立+,http://mtw.so/5NPXfK
+
+易速岗抬,#genre#
+凤凰卫视中文台,http://mtw.so/5y9vnf
+凤凰卫视资讯台,http://mtw.so/5FFIrW
+凤凰香港台,http://mtw.so/5GqkXp
+香港有线新闻台,http://mtw.so/5NWy26
+香港有线18台,http://mtw.so/5VsL6N
+香港有线18台(普通话),http://mtw.so/62iY7S
+TVB无线新闻台,http://mtw.so/69PbaX
+TVB财经体育资讯台,http://mtw.so/6hhc6C
+TVB翡翠台,http://mtw.so/6oMZap
+TVB华丽翡翠台,http://mtw.so/6wjbYY
+TVB明珠台,http://mtw.so/5y9vnp
+TVB J2,http://mtw.so/5FFIs6
+TVB星河,http://mtw.so/5GqkXz
+ViuTV,http://mtw.so/5NWy2g
+ViuTV6,http://mtw.so/5VsL6X
+香港国际财经台,http://mtw.so/62iY6q
+HOY TV,http://mtw.so/69Pbb7
+HOY资讯台,http://mtw.so/6hhc6M
+港台电视31,http://mtw.so/6oMZaz
+港台电视32,http://mtw.so/6wjbZ8
+
 湾湾断流台,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
