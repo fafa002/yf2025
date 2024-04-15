@@ -603,7 +603,7 @@ CGTN,http://27.8.167.227:8089/newlive/live/hls/17/live.m3u8
 北京少儿,http://27.8.167.227:8089/newlive/live/hls/50/live.m3u8
 金鹰卡通,http://27.8.167.227:8089/newlive/live/hls/51/live.m3u8
 
-全网通央视,#genre#
+移动央视,#genre#
 CCTV1HD,http://mtw.so/6heoTA
 CCTV2HD,http://mtw.so/6oKBGx
 CCTV3HD,http://mtw.so/6wgOLe
@@ -2791,6 +2791,7 @@ Pname,http://113.225.176.10:9981/stream/channelid/51966245?profile=pass
 KBS11,http://mtw.so/6henIc
 MBC,http://mtw.so/6wgNRA
 SBS,http://mtw.so/5y77g1
+KBS2,http://mtw.so/6oNeK3
 KBS11,http://mtw.so/5FDkkI
 音乐电台,#genre#
 广东,https://lhttp.qingting.fm/live/1257/64k.mp3
