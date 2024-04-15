@@ -16,11 +16,11 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (临时)无线财经,http://mtw.so/5Vma8v
 (临时)广电翡翠,http://mtw.so/69JDZd
 (临时)翡翠,http://mtw.so/5y76LR
-(临时1)TVB翡翠台,http://mtw.so/69P9aV
-(临时1)TVB无线新闻台,http://mtw.so/6hha6A
-(临时1)TVB无线财经体育,http://mtw.so/6oNnbh
-(临时1)TVB_J2台,http://mtw.so/6wjaf4
-(临时1)TVB亚洲武侠,http://mtw.so/5y9tDv
+(临时1)翡翠台,http://mtw.so/69P9aV
+(临时1)无线新闻,http://mtw.so/6hha6A
+(临时1)无线财经,http://mtw.so/6oNnbh
+(临时1)TJ2台,http://mtw.so/6wjaf4
+(临时1)亚洲武侠,http://mtw.so/5y9tDv
 (临时2)韩国娱乐,http://mtw.so/5VmkBn
 (临时2)now体育,http://mtw.so/62SxG4
 (临时2)东森电影,http://mtw.so/69INir
