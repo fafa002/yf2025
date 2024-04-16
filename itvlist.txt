@@ -20,7 +20,7 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (临时1)无线财经,http://mtw.so/6oNnbh
 (临时1)J2台,http://mtw.so/6wjaf4
 (临时1)亚洲武侠,http://mtw.so/5y9tDv
-(临时2)韩国娱乐,http://mtw.so/5VmkBn
+(临时2)amc电影,http://mtw.so/5VmkBn
 (临时2)now体育,http://mtw.so/62SxG4
 (临时2)东森电影,http://mtw.so/69INir
 (临时2)东森超视,http://mtw.so/6oLaAp
@@ -32,7 +32,7 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (3线)NOW新闻,http://123.60.79.53:10000/HK/nowxw.live.ts
 (3线)NOW星影,http://123.60.79.53:10000/HK1/nowxy.live.ts
 (3线)NOW爆谷,http://123.60.79.53:10000/HK/nowbg.live.ts
-(3线)广电翡翠2,http://122.51.42.25:80/HK/gdfc/hls.m3u8
+(3线)广电翡翠2,http://106.14.34.43:9092/HK/gdfc/hls.m3u8
 (3线)翡翠,http://106.14.34.43:9092/HK/tvb/hls.m3u8
 (3线)无线新闻,http://106.14.34.43:9092/HK/wxxw/hls.m3u8
 
