@@ -33,7 +33,7 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (3线)NOW星影,http://123.60.79.53:10000/HK1/nowxy.live.ts
 (3线)NOW爆谷,http://123.60.79.53:10000/HK/nowbg.live.ts
 (3线)广电翡翠2,http://122.51.42.25:80/HK/gdfc/hls.m3u8
-(3线)翡翠,http://122.51.42.25:80/HK/tvb/hls.m3u8
+(3线)翡翠,http://106.14.34.43:9092/HK/tvb/hls.m3u8
 (3线)无线新闻,http://122.51.42.25:80/HK/wxxw/hls.m3u8
 
 (4线)NOW体育,http://58.87.99.251:8090/HK1/nowbaogu/hls.m3u8
