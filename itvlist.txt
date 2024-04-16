@@ -27,11 +27,11 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (临时2)天映频道2,http://mtw.so/6whnF6
 (临时2)香港C+,http://mtw.so/5GjUs9
 岗奥抬频道,#genre#
-(3线)NOW体育,http://123.60.79.53:10000/HK/nowty.live.ts
+(3线)NOW体育,http://106.14.34.43:9092/HK/nowty/hls.m3u8
 (3线)NOW体育2,http://106.14.34.43:9092/HK/nowty2/hls.m3u8
 (3线)NOW新闻,http://123.60.79.53:10000/HK/nowxw.live.ts
-(3线)NOW星影,http://123.60.79.53:10000/HK1/nowxy.live.ts
-(3线)NOW爆谷,http://123.60.79.53:10000/HK/nowbg.live.ts
+(失效)NOW星影,
+(失效)NOW爆谷,
 (3线)广电翡翠2,http://106.14.34.43:9092/HK/gdfc/hls.m3u8
 (3线)翡翠,http://106.14.34.43:9092/HK/tvb/hls.m3u8
 (3线)无线新闻,http://106.14.34.43:9092/HK/wxxw/hls.m3u8
