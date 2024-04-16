@@ -171,16 +171,18 @@ MOMO综合台,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=MOMOzht
 东森超视,http://8.134.236.66:45678/hk/tbs.php?key=SVr7s&id=dscs
 
 HK DTMB,#genre#
-翡翠台,http://mtw.so/6wjqSw
-无线新闻台,http://mtw.so/5y9KgX
-明珠台,http://mtw.so/5FFXlE
-无线J2,http://mtw.so/5Gq9Qd
-无线资讯台,http://mtw.so/5NWmUU
-HOY TV,http://mtw.so/5VszZB
-HOY资讯台,http://mtw.so/69P2qx
-ViuTV,http://mtw.so/6hh3mc
-HOY国际财经台,http://mtw.so/6oNdPB
-ViuTVsix,http://mtw.so/6wjqSG
+港台電視 31,http://mtw.so/5Gr9sR
+港台電視 32,http://mtw.so/5NXmxy
+港台電視 34,http://mtw.so/5VtzCf
+RTHK TV,http://mtw.so/62fD5A
+*香港開電視,http://mtw.so/6oNQ2D
+*78台,http://mtw.so/6wk37k
+翡翠台,http://mtw.so/5yamu9
+J2台,http://mtw.so/5FGwXy
+無綫新聞台,http://mtw.so/5NXmxI
+明珠台,http://mtw.so/62fD5K
+無綫財經 資訊台,http://mtw.so/69LQar
+ViuTVsix,http://mtw.so/6hi2Z0
 
 湾湾断流台,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
