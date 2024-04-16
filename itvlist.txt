@@ -2549,248 +2549,247 @@ CGTN SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3
 纪实人文,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/1.m3u8
 北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010042/1.m3u8
 重庆有线,#genre#
-欢笑剧场4K,http://dp.sxtv.top:88/live/cqyx.php?id=hxjc_4K
+欢笑剧场4K,http://php.jdshipin.com:8880/cqyx.php?id=hxjc_4K
 
-CCTV-4K,http://dp.sxtv.top:88/live/cqyx.php?id=CCTV4K
+CCTV-4K,http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
 
-CCTV16-4K,http://dp.sxtv.top:88/live/cqyx.php?id=CCTV16_4K
+CCTV16-4K,http://php.jdshipin.com:8880/cqyx.php?id=CCTV16_4K
 
-CCTV1综合高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv1HD
+CCTV1综合高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv1HD
 
-CCTV2财经高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv2HD
+CCTV2财经高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv2HD
 
-CCTV3综艺高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv3HD
+CCTV3综艺高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv3HD
 
-CCTV4中文国际高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv4
+CCTV4中文国际高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv4
 HD
-CCTV5体育高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv5HD
+CCTV5体育高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv5HD
 
-CCTV5P高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv5SportHD
+CCTV5P高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv5SportHD
 
-CCTV6电影高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv6HD
+CCTV6电影高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv6HD
 
-CCTV7国防军事高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv7HD
+CCTV7国防军事高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv7HD
 
-CCTV8电视剧高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv8HD
+CCTV8电视剧高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv8HD
 
-CCTV9纪录高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv9HD
+CCTV9纪录高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv9HD
 
-CCTV10科教高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv10HD
+CCTV10科教高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv10HD
 
-CCTV11戏曲高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv11HD
+CCTV11戏曲高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv11HD
 
-CCTV12社会与法高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv12HD
+CCTV12社会与法高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv12HD
 
-CCTV13新闻高清,http://dp.sxtv.top:88/live/cqyx.php?id=CCTVNewsHD
+CCTV13新闻高清,http://php.jdshipin.com:8880/cqyx.php?id=CCTVNewsHD
 
-CCTV14少儿高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctvseHD
+CCTV14少儿高清,http://php.jdshipin.com:8880/cqyx.php?id=cctvseHD
 
-CCTV15音乐高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv15HD
+CCTV15音乐高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv15HD
 
-CCTV16奥林匹克高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv16HD
+CCTV16奥林匹克高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv16HD
 
-CCTV17农业农村高清,http://dp.sxtv.top:88/live/cqyx.php?id=cctv17HD
+CCTV17农业农村高清,http://php.jdshipin.com:8880/cqyx.php?id=cctv17HD
 
-重庆卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=chongqingHD
+重庆卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=chongqingHD
 
-江苏卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=jiangsuHD
+江苏卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=jiangsuHD
 
-北京卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=beijingHD
+北京卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=beijingHD
 
-浙江卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=zhejiangHD
+浙江卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=zhejiangHD
 
-东方卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=shanghaiHD
+东方卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=shanghaiHD
 
-深圳卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=shenzhenHD
+深圳卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=shenzhenHD
 
-辽宁卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=liaoningHD
+辽宁卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=liaoningHD
 
-天津卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=tianjinHD
+天津卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=tianjinHD
 
-贵州卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=guizhouHD
+贵州卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=guizhouHD
 
-四川卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=sichuanHD
+四川卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=sichuanHD
 
-云南卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=yunnanSD
+云南卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=yunnanSD
 
-东南卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=dongnanHD
+东南卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=dongnanHD
 
-黑龙江卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=heilongjiangHD
+黑龙江卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=heilongjiangHD
 
-安徽卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=anhuiSD
+安徽卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=anhuiSD
 
-河北卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=hebeiSD
+河北卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=hebeiSD
 
-江西卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=jiangxiHD
+江西卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=jiangxiHD
 
-湖北卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=hubeiSD
+湖北卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=hubeiSD
 
-海南卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=hainanSD
+海南卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=hainanSD
 
-吉林卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=jilinHD
+吉林卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=jilinHD
 
-广西卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=guangxiHD
+广西卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=guangxiHD
 
-内蒙古卫视,http://dp.sxtv.top:88/live/cqyx.php?id=neimengkuSD
+内蒙古卫视,http://php.jdshipin.com:8880/cqyx.php?id=neimengkuSD
 
-湖南卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=hunanHD
+湖南卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=hunanHD
 
-广东卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=guangdongHD
+广东卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=guangdongHD
 
-河南卫视高清,http://dp.sxtv.top:88/live/cqyx.php?id=henanHD
+河南卫视高清,http://php.jdshipin.com:8880/cqyx.php?id=henanHD
 
-山西卫视,http://dp.sxtv.top:88/live/cqyx.php?id=shanxiSD
+山西卫视,http://php.jdshipin.com:8880/cqyx.php?id=shanxiSD
 
-兵团卫视,http://dp.sxtv.top:88/live/cqyx.php?id=bingtuanSD
+兵团卫视,http://php.jdshipin.com:8880/cqyx.php?id=bingtuanSD
 
-宁夏卫视,http://dp.sxtv.top:88/live/cqyx.php?id=ningxia
+宁夏卫视,http://php.jdshipin.com:8880/cqyx.php?id=ningxia
 
-北京卡酷少儿,http://dp.sxtv.top:88/live/cqyx.php?id=bjkakuSD
+北京卡酷少儿,http://php.jdshipin.com:8880/cqyx.php?id=bjkakuSD
 
-金鹰卡通高清,http://dp.sxtv.top:88/live/cqyx.php?id=jinyingSD
+金鹰卡通高清,http://php.jdshipin.com:8880/cqyx.php?id=jinyingSD
 
-三沙卫视,http://dp.sxtv.top:88/live/cqyx.php?id=sanshaSD
+三沙卫视,http://php.jdshipin.com:8880/cqyx.php?id=sanshaSD
 
-青海卫视,http://dp.sxtv.top:88/live/cqyx.php?id=qinghaiSD
+青海卫视,http://php.jdshipin.com:8880/cqyx.php?id=qinghaiSD
 
-中国天气,http://dp.sxtv.top:88/live/cqyx.php?id=tianqiSD
+中国天气,http://php.jdshipin.com:8880/cqyx.php?id=tianqiSD
 
-北京纪实科教高清,http://dp.sxtv.top:88/live/cqyx.php?id=bjayjsSD
+北京纪实科教高清,http://php.jdshipin.com:8880/cqyx.php?id=bjayjsSD
 
-山东教育卫视,http://dp.sxtv.top:88/live/cqyx.php?id=sdjiaoyuSD
+山东教育卫视,http://php.jdshipin.com:8880/cqyx.php?id=sdjiaoyuSD
 
-新疆卫视,http://dp.sxtv.top:88/live/cqyx.php?id=xinjiangSD
+新疆卫视,http://php.jdshipin.com:8880/cqyx.php?id=xinjiangSD
 
-西藏卫视,http://dp.sxtv.top:88/live/cqyx.php?id=xizangSD
+西藏卫视,http://php.jdshipin.com:8880/cqyx.php?id=xizangSD
 
-CGTN,http://dp.sxtv.top:88/live/cqyx.php?id=cgtnSD
+CGTN,http://php.jdshipin.com:8880/cqyx.php?id=cgtnSD
 
-CETV-1,http://dp.sxtv.top:88/live/cqyx.php?id=cetv-1SD
+CETV-1,http://php.jdshipin.com:8880/cqyx.php?id=cetv-1SD
 
-CETV-4,http://dp.sxtv.top:88/live/cqyx.php?id=cetv-4SD
+CETV-4,http://php.jdshipin.com:8880/cqyx.php?id=cetv-4SD
 
-生活时尚,http://dp.sxtv.top:88/live/cqyx.php?id=shenghuo
+生活时尚,http://php.jdshipin.com:8880/cqyx.php?id=shenghuo
 
-百姓健康,http://dp.sxtv.top:88/live/cqyx.php?id=jiankangSD
+百姓健康,http://php.jdshipin.com:8880/cqyx.php?id=jiankangSD
 
-快乐垂钓高清,http://dp.sxtv.top:88/live/cqyx.php?id=klcdHD
+快乐垂钓高清,http://php.jdshipin.com:8880/cqyx.php?id=klcdHD
 
-第一剧场高清,http://dp.sxtv.top:88/live/cqyx.php?id=diyijuchangHD
+第一剧场高清,http://php.jdshipin.com:8880/cqyx.php?id=diyijuchangHD
 
-都市剧场高清,http://dp.sxtv.top:88/live/cqyx.php?id=dsjcHD
+都市剧场高清,http://php.jdshipin.com:8880/cqyx.php?id=dsjcHD
 
-动漫秀场高清,http://dp.sxtv.top:88/live/cqyx.php?id=dmxcHD
+动漫秀场高清,http://php.jdshipin.com:8880/cqyx.php?id=dmxcHD
 
-魅力足球高清,http://dp.sxtv.top:88/live/cqyx.php?id=mlzqHD
+魅力足球高清,http://php.jdshipin.com:8880/cqyx.php?id=mlzqHD
 
-风云剧场高清,http://dp.sxtv.top:88/live/cqyx.php?id=fyjcHD
+风云剧场高清,http://php.jdshipin.com:8880/cqyx.php?id=fyjcHD
 
-求索纪录高清,http://dp.sxtv.top:88/live/cqyx.php?id=qsjlHD
+求索纪录高清,http://php.jdshipin.com:8880/cqyx.php?id=qsjlHD
 
-兵器科技高清,http://dp.sxtv.top:88/live/cqyx.php?id=bqkjHD
+兵器科技高清,http://php.jdshipin.com:8880/cqyx.php?id=bqkjHD
 
-游戏风云高清,http://dp.sxtv.top:88/live/cqyx.php?id=yxfyHD
+游戏风云高清,http://php.jdshipin.com:8880/cqyx.php?id=yxfyHD
 
-怀旧剧场高清,http://dp.sxtv.top:88/live/cqyx.php?id=hjjcHD
+怀旧剧场高清,http://php.jdshipin.com:8880/cqyx.php?id=hjjcHD
 
-风云音乐高清,http://dp.sxtv.top:88/live/cqyx.php?id=fyyyHD
+风云音乐高清,http://php.jdshipin.com:8880/cqyx.php?id=fyyyHD
 
-央视台球高清,http://dp.sxtv.top:88/live/cqyx.php?id=ystqHD
+央视台球高清,http://php.jdshipin.com:8880/cqyx.php?id=ystqHD
 
-风云足球高清,http://dp.sxtv.top:88/live/cqyx.php?id=fyzqHD
+风云足球高清,http://php.jdshipin.com:8880/cqyx.php?id=fyzqHD
 
-央视文化精品高清,http://dp.sxtv.top:88/live/cqyx.php?id=yswhHD
+央视文化精品高清,http://php.jdshipin.com:8880/cqyx.php?id=yswhHD
 
-高尔夫网球高清,http://dp.sxtv.top:88/live/cqyx.php?id=golfHD
+高尔夫网球高清,http://php.jdshipin.com:8880/cqyx.php?id=golfHD
 
-早期教育高清,http://dp.sxtv.top:88/live/cqyx.php?id=zaojiaoHD
+早期教育高清,http://php.jdshipin.com:8880/cqyx.php?id=zaojiaoHD
 
-重庆新闻高清,http://dp.sxtv.top:88/live/cqyx.php?id=CQTVNewsHD
+重庆新闻高清,http://php.jdshipin.com:8880/cqyx.php?id=CQTVNewsHD
 
-重庆影视高清,http://dp.sxtv.top:88/live/cqyx.php?id=cqyingshiHD
+重庆影视高清,http://php.jdshipin.com:8880/cqyx.php?id=cqyingshiHD
 
-重庆社会与法高清,http://dp.sxtv.top:88/live/cqyx.php?id=CQTVTrendyHD
+重庆社会与法高清,http://php.jdshipin.com:8880/cqyx.php?id=CQTVTrendyHD
 
-重庆时尚生活高清,http://dp.sxtv.top:88/live/cqyx.php?id=cqssgwHD
+重庆时尚生活高清,http://php.jdshipin.com:8880/cqyx.php?id=cqssgwHD
 
-重庆文体娱乐高清,http://dp.sxtv.top:88/live/cqyx.php?id=cqwtylHD
+重庆文体娱乐高清,http://php.jdshipin.com:8880/cqyx.php?id=cqwtylHD
 
-重庆新农村高清,http://dp.sxtv.top:88/live/cqyx.php?id=cqggncHD
+重庆新农村高清,http://php.jdshipin.com:8880/cqyx.php?id=cqggncHD
 
-重庆少儿高清,http://dp.sxtv.top:88/live/cqyx.php?id=cqseHD
+重庆少儿高清,http://php.jdshipin.com:8880/cqyx.php?id=cqseHD
 
-重庆科教高清,http://dp.sxtv.top:88/live/cqyx.php?id=CQTVkejiaoHD
+重庆科教高清,http://php.jdshipin.com:8880/cqyx.php?id=CQTVkejiaoHD
 
-爱看导视高清,http://dp.sxtv.top:88/live/cqyx.php?id=aikanHD
+爱看导视高清,http://php.jdshipin.com:8880/cqyx.php?id=aikanHD
 
-重庆汽摩高清,http://dp.sxtv.top:88/live/cqyx.php?id=cqcarSD
+重庆汽摩高清,http://php.jdshipin.com:8880/cqyx.php?id=cqcarSD
 
-重庆移动高清,http://dp.sxtv.top:88/live/cqyx.php?id=mryyHD
+重庆移动高清,http://php.jdshipin.com:8880/cqyx.php?id=mryyHD
 
-重广融媒,http://dp.sxtv.top:88/live/cqyx.php?id=cqrongmei
+重广融媒,http://php.jdshipin.com:8880/cqyx.php?id=cqrongmei
 
-优购物,http://dp.sxtv.top:88/live/cqyx.php?id=yougouwu
+优购物,http://php.jdshipin.com:8880/cqyx.php?id=yougouwu
 
-家家购物,http://dp.sxtv.top:88/live/cqyx.php?id=jjgw
+家家购物,http://php.jdshipin.com:8880/cqyx.php?id=jjgw
 
-风尚购物,http://dp.sxtv.top:88/live/cqyx.php?id=fsgw
+风尚购物,http://php.jdshipin.com:8880/cqyx.php?id=fsgw
 
-聚鲨环球精选,http://dp.sxtv.top:88/live/cqyx.php?id=jusha
+聚鲨环球精选,http://php.jdshipin.com:8880/cqyx.php?id=jusha
 
-中视购物,http://dp.sxtv.top:88/live/cqyx.php?id=ysgw
+中视购物,http://php.jdshipin.com:8880/cqyx.php?id=ysgw
 
-家有购物,http://dp.sxtv.top:88/live/cqyx.php?id=jygw
+家有购物,http://php.jdshipin.com:8880/cqyx.php?id=jygw
 
-央广购物,http://dp.sxtv.top:88/live/cqyx.php?id=yggw
+央广购物,http://php.jdshipin.com:8880/cqyx.php?id=yggw
 
-东方财经高清,http://dp.sxtv.top:88/live/cqyx.php?id=dfcj
+东方财经高清,http://php.jdshipin.com:8880/cqyx.php?id=dfcj
 
-证券服务,http://dp.sxtv.top:88/live/cqyx.php?id=jiazheng
+证券服务,http://php.jdshipin.com:8880/cqyx.php?id=jiazheng
 
-书画,http://dp.sxtv.top:88/live/cqyx.php?id=shuhua
+书画,http://php.jdshipin.com:8880/cqyx.php?id=shuhua
 
-新动漫,http://dp.sxtv.top:88/live/cqyx.php?id=dongman
+新动漫,http://php.jdshipin.com:8880/cqyx.php?id=dongman
 
-国学频道,http://dp.sxtv.top:88/live/cqyx.php?id=guoxue
+国学频道,http://php.jdshipin.com:8880/cqyx.php?id=guoxue
 
-优优宝贝,http://dp.sxtv.top:88/live/cqyx.php?id=youxi
+优优宝贝,http://php.jdshipin.com:8880/cqyx.php?id=youxi
 
-中华特产,http://dp.sxtv.top:88/live/cqyx.php?id=techan
+中华特产,http://php.jdshipin.com:8880/cqyx.php?id=techan
 
-环球奇观,http://dp.sxtv.top:88/live/cqyx.php?id=car
+环球奇观,http://php.jdshipin.com:8880/cqyx.php?id=car
 
-生态环境,http://dp.sxtv.top:88/live/cqyx.php?id=shengtai
+生态环境,http://php.jdshipin.com:8880/cqyx.php?id=shengtai
 
-四海钓鱼,http://dp.sxtv.top:88/live/cqyx.php?id=diaoyu
+四海钓鱼,http://php.jdshipin.com:8880/cqyx.php?id=diaoyu
 
-发现之旅,http://dp.sxtv.top:88/live/cqyx.php?id=faxian
+发现之旅,http://php.jdshipin.com:8880/cqyx.php?id=faxian
 
-车迷,http://dp.sxtv.top:88/live/cqyx.php?id=doxtv
+车迷,http://php.jdshipin.com:8880/cqyx.php?id=doxtv
 
-法治天地,http://dp.sxtv.top:88/live/cqyx.php?id=fazhi
+法治天地,http://php.jdshipin.com:8880/cqyx.php?id=fazhi
 
-金色学堂,http://dp.sxtv.top:88/live/cqyx.php?id=jinse
+金色学堂,http://php.jdshipin.com:8880/cqyx.php?id=jinse
 
-收藏天下,http://dp.sxtv.top:88/live/cqyx.php?id=soucang
+收藏天下,http://php.jdshipin.com:8880/cqyx.php?id=soucang
 
-财富天下,http://dp.sxtv.top:88/live/cqyx.php?id=caifu
+财富天下,http://php.jdshipin.com:8880/cqyx.php?id=caifu
 
-女性时尚,http://dp.sxtv.top:88/live/cqyx.php?id=nvxing
+女性时尚,http://php.jdshipin.com:8880/cqyx.php?id=nvxing
 
-中学生,http://dp.sxtv.top:88/live/cqyx.php?id=qicai
+中学生,http://php.jdshipin.com:8880/cqyx.php?id=qicai
 
-天元围棋,http://dp.sxtv.top:88/live/cqyx.php?id=weiqi
+天元围棋,http://php.jdshipin.com:8880/cqyx.php?id=weiqi
 
-先锋乒羽,http://dp.sxtv.top:88/live/cqyx.php?id=xianfeng
+先锋乒羽,http://php.jdshipin.com:8880/cqyx.php?id=xianfeng
 
-环球旅游,http://dp.sxtv.top:88/live/cqyx.php?id=huanqiulvyou
+环球旅游,http://php.jdshipin.com:8880/cqyx.php?id=huanqiulvyou
 
-老故事,http://dp.sxtv.top:88/live/cqyx.php?id=gushi
+老故事,http://php.jdshipin.com:8880/cqyx.php?id=gushi
 
-摄影频道,http://dp.sxtv.top:88/live/cqyx.php?id=sheying
+摄影频道,http://php.jdshipin.com:8880/cqyx.php?id=sheying
 
-靓妆,http://dp.sxtv.top:88/live/cqyx.php?id=liang
-
+靓妆,http://php.jdshipin.com:8880/cqyx.php?id=liang
 百视通8M,#genre#
 CCTV16-4K,http://lzoq.9l.lv/daili/?id=cctv16hd4k/15000000
 
