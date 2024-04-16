@@ -71,9 +71,9 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (大街)纬来育乐,rtmp://220.130.201.73/sat/tv701
 (大街)纬来日本,rtmp://220.130.201.73/sat/tv771
 (大街)东森超视,rtmp://220.130.201.73/sat/tv331
-(大街)凤凰中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-(大街)凤凰资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-(大街)香港凤凰,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+(大街)凤凰中文,http://mtw.so/6wk5PS
+(大街)凤凰资讯,http://mtw.so/5NXoZ0
+(大街)凤凰香港,http://mtw.so/6hhFIg
 (大街)星河,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 (大街)功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 (大街)娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
