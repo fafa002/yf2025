@@ -20,7 +20,7 @@
     "sites": [
         {
             "key": "drpy_js_豆瓣",
-            "name": "【易发出品】",
+            "name": "【易发天下】",
             "type": 3,
             "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
             "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
