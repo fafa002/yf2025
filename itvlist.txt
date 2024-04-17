@@ -3461,6 +3461,10 @@ W쇼핑,http://112.157.229.162:9981/stream/channelid/2060162956?profile=pass
 kt알파쇼핑,http://112.157.229.162:9981/stream/channelid/1776727867?profile=pass
 NS샵플러스,http://112.157.229.162:9981/stream/channelid/1467694691?profile=pass
 CJ온스타일+,http://112.157.229.162:9981/stream/channelid/519227742?profile=pass
+韩国美女,#genre#
+1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cnc97v3c77u3oe2kujo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000coa1743c77ubcoohqnu0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cics5f7og65l7400ilo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 
 音乐电台,#genre#
 广东,https://lhttp.qingting.fm/live/1257/64k.mp3
