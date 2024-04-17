@@ -3414,6 +3414,47 @@ MBC,http://mtw.so/6wgNRA
 SBS,http://mtw.so/5y77g1
 KBS2,http://mtw.so/6oNeK3
 KBS11,http://mtw.so/5FDkkI
+KBS JOY,http://112.157.229.162:9981/stream/channelid/693039828?profile=pass
+tvN,http://112.157.229.162:9981/stream/channelid/1326932339?profile=pass
+SBS,http://112.157.229.162:9981/stream/channelid/1600798351?profile=pass
+KBS2,http://112.157.229.162:9981/stream/channelid/1840309320?profile=pass
+KBS1,http://112.157.229.162:9981/stream/channelid/1286861762?profile=pass
+MBC,http://112.157.229.162:9981/stream/channelid/865795619?profile=pass
+JTBC,http://112.157.229.162:9981/stream/channelid/1423279254?profile=pass
+ENA플레이,http://112.157.229.162:9981/stream/channelid/1715420222?profile=pass
+JTBCG&S,http://112.157.229.162:9981/stream/channelid/1638753231?profile=pass
+맥스포츠,http://112.157.229.162:9981/stream/channelid/739570267?profile=pass
+실버아이TV,http://112.157.229.162:9981/stream/channelid/200005016?profile=pass
+채널A,http://112.157.229.162:9981/stream/channelid/943646943?profile=pass
+MBN,http://112.157.229.162:9981/stream/channelid/1903956646?profile=pass
+Dramax,http://112.157.229.162:9981/stream/channelid/204530369?profile=pass
+TV조선,http://112.157.229.162:9981/stream/channelid/1068456989?profile=pass
+티브이조선2,http://112.157.229.162:9981/stream/channelid/165481420?profile=pass
+채널A플러스,http://112.157.229.162:9981/stream/channelid/338825350?profile=pass
+MBN플러스,http://112.157.229.162:9981/stream/channelid/225363886?profile=pass
+GMTV,http://112.157.229.162:9981/stream/channelid/1729285724?profile=pass
+KTV,http://112.157.229.162:9981/stream/channelid/630198188?profile=pass
+국회방송,http://112.157.229.162:9981/stream/channelid/1951012577?profile=pass
+OUN,http://112.157.229.162:9981/stream/channelid/1856430432?profile=pass
+지역채널,http://112.157.229.162:9981/stream/channelid/2112048965?profile=pass
+EBS플러스1,http://112.157.229.162:9981/stream/channelid/1585817402?profile=pass
+EBS Digital,http://112.157.229.162:9981/stream/channelid/816256588?profile=pass
+EBS Digital,http://112.157.229.162:9981/stream/channelid/664316059?profile=pass
+GS SHOP,http://112.157.229.162:9981/stream/channelid/2125410431?profile=pass
+공영쇼핑,http://112.157.229.162:9981/stream/channelid/582438989?profile=pass
+현대홈플러스샵,http://112.157.229.162:9981/stream/channelid/1444911683?profile=pass
+홈&쇼핑,http://112.157.229.162:9981/stream/channelid/192524644?profile=pass
+NS홈쇼핑,http://112.157.229.162:9981/stream/channelid/825723775?profile=pass
+CJ온스타일,http://112.157.229.162:9981/stream/channelid/1494437493?profile=pass
+현대홈쇼핑,http://112.157.229.162:9981/stream/channelid/1960878000?profile=pass
+롯데홈쇼핑,http://112.157.229.162:9981/stream/channelid/706210415?profile=pass
+신세계쇼핑,http://112.157.229.162:9981/stream/channelid/1492569308?profile=pass
+GS MY S,http://112.157.229.162:9981/stream/channelid/627095594?profile=pass
+W쇼핑,http://112.157.229.162:9981/stream/channelid/2060162956?profile=pass
+롯데OneTV,http://112.157.229.162:9981/stream/channelid/1501795880?profile=pass
+kt알파쇼핑,http://112.157.229.162:9981/stream/channelid/1776727867?profile=pass
+NS샵플러스,http://112.157.229.162:9981/stream/channelid/1467694691?profile=pass
+CJ온스타일+,http://112.157.229.162:9981/stream/channelid/519227742?profile=pass
 音乐电台,#genre#
 广东,https://lhttp.qingting.fm/live/1257/64k.mp3
 广东音乐,https://lhttp.qingting.fm/live/1260/64k.mp3
