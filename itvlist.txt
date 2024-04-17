@@ -1,9 +1,11 @@
 易发天下,#genre#
+交流群,
+645316932 ,
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
-MV,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cl3o8kbc77u6hohtkteg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
-交流群 645316932 
+春娇与志明,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cl3o8kbc77u6hohtkteg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+
 
 临时频道,#genre#
 (临时)重温经典1,http://mtw.so/5Gns7P
