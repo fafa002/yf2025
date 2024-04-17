@@ -89,7 +89,7 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (大街)八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 (大街)动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-
+YouTube新闻,#genre#
 (ytb)TVBSHD,http://mtw.so/6wgNqO
 (ytb)TVBS新闻,http://mtw.so/5FDjU6
 (ytb)中天新闻,http://mtw.so/5FDwQQ
@@ -185,7 +185,7 @@ J2台,http://mtw.so/5FGwXy
 無綫財經 資訊台,http://mtw.so/69LQar
 ViuTVsix,http://mtw.so/6hi2Z0
 
-湾湾断流台,#genre#
+湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
 八大戏剧 HD,http://startv365.com:80/live/9794783213/6955630461/5564.m3u8
