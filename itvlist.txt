@@ -3410,6 +3410,8 @@ YTV经济科技,http://sunny2017.forver.one:31115/stream/channelid/700294107?pro
 李连杰,http://mtw.so/69HNaP
 
 韩国,#genre#
+韩国电影,rtmp://211.195.208.119/live/12
+sbsonair,rtmp://210.216.76.120/live/sbsonair
 KBS11,http://mtw.so/6henIc
 MBC,http://mtw.so/6wgNRA
 SBS,http://mtw.so/5y77g1
