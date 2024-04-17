@@ -3466,6 +3466,9 @@ CJ온스타일+,http://112.157.229.162:9981/stream/channelid/519227742?profile=p
 2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000coa1743c77ubcoohqnu0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cics5f7og65l7400ilo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 4,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnht58rc77ufao07bvf0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+5,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000coakrkbc77u6denm3a40&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+6,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnht58rc77ufao07bvf0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+7,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cf4up43c77uaf3l9q61g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 
 音乐电台,#genre#
 广东,https://lhttp.qingting.fm/live/1257/64k.mp3
