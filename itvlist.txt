@@ -92,34 +92,18 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (大街)动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 YouTube新闻,#genre#
-(ytb)TVBSHD,http://mtw.so/6wgNqO
-(ytb)TVBS新闻,http://mtw.so/5FDjU6
-(ytb)中天新闻,http://mtw.so/5FDwQQ
-(ytb)寰宇新聞,http://mtw.so/62RXtS
-(ytb)万秀猪王,http://mtw.so/6oKACT
-(ytb)猪哥会社,http://mtw.so/5GnWqd
-(ytb)現代嘉慶君,http://mtw.so/5NPXkK
-(ytb)藍色水玲瓏,http://mtw.so/5GnWr1
-(ytb)东森新闻,http://mtw.so/62RXu2
-(ytb)民視新聞,http://mtw.so/62RXjo
-(ytb)TVBS新聞,http://mtw.so/6wgNyI
-(ytb)寰宇新闻,http://mtw.so/6wgNyS
-(ytb)寰宇新聞台灣台,http://mtw.so/5FDk2a
-(ytb)東森財經,http://mtw.so/5NPXts
-(ytb)華視新聞,http://mtw.so/5GnWxX
-(ytb)台視新聞,http://mtw.so/5NPXtM
-(ytb)台視新聞,http://mtw.so/5VmagT
-(ytb)中視新聞,http://mtw.so/5GnWwZ
-(ytb)公視新聞,http://mtw.so/6oKAvD
-(ytb)鏡新聞mnews,http://mtw.so/69Iao1
-(ytb)TaiwanPlus,http://mtw.so/6hensS
-(ytb)大愛一臺,http://mtw.so/69Iaol
-(ytb)三立新聞,http://mtw.so/6hentQ
-(ytb)三立+,http://mtw.so/6oKAyx
-(ytb)公視,http://mtw.so/6wgNDe
-(ytb)中天亞洲,http://mtw.so/5y771F
-(ytb)三立新聞,http://mtw.so/5GnWk5
-(ytb)三立+,http://mtw.so/5NPXfK
+(ytb)中天新闻,http://mtw.so/69MATx
+(ytb)东森新闻,http://mtw.so/6hiNYe
+(ytb)东森新闻,http://mtw.so/6oP11j
+(ytb)中视新闻,http://mtw.so/5yb7tx
+(ytb)台视新闻,http://mtw.so/5GrUch
+(ytb)TVBS新闻,http://mtw.so/5Vq8cD
+(ytb)三立新闻,http://mtw.so/62gnP0
+(ytb)三立新闻,http://mtw.so/69MATH
+(ytb)东森新闻,http://mtw.so/6hiNWM
+(ytb)TVBS新闻,http://mtw.so/6oP11t
+(ytb)台视新闻,http://mtw.so/6wle6a
+
 
 HK DTMB,#genre#
 港台電視 31,http://mtw.so/5Gr9sR
