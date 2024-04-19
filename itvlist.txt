@@ -9,8 +9,6 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 临时频道,#genre#
 (临时)重温经典1,http://mtw.so/5Gns7P
 (临时)重温经典2,http://mtw.so/5NPX0U
-(临时)重温经典3,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-(临时)重温经典4,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 (IPv6)翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 (IPv6)明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 (IPv6)澳門澳視,https://iptv.hiper25.com/TDM/video.m3u8
