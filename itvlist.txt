@@ -106,20 +106,7 @@ YouTube新闻,#genre#
 (ytb)TVBS新闻,http://mtw.so/6oP11t
 (ytb)台视新闻,http://mtw.so/6wle6a
 
-
 HK DTMB,#genre#
-港台電視 31,http://mtw.so/5Gr9sR
-港台電視 32,http://mtw.so/5NXmxy
-港台電視 34,http://mtw.so/5VtzCf
-RTHK TV,http://mtw.so/62fD5A
-*香港開電視,http://mtw.so/6oNQ2D
-*78台,http://mtw.so/6wk37k
-翡翠台,http://mtw.so/5yamu9
-J2台,http://mtw.so/5FGwXy
-無綫新聞台,http://mtw.so/5NXmxI
-明珠台,http://mtw.so/62fD5K
-無綫財經 資訊台,http://mtw.so/69LQar
-ViuTVsix,http://mtw.so/6hi2Z0
 
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
@@ -3520,6 +3507,84 @@ CETV1,http://36.99.221.123:9981/stream/channelid/1550888309?profile=pass
 金色频道HD,http://36.99.221.123:9981/stream/channelid/2021937042?profile=pass
 开封综合HD,http://36.99.221.123:9981/stream/channelid/2089882348?profile=pass
 天津卫视HD,http://36.99.221.123:9981/stream/channelid/2130102938?profile=pass
+
+湖北有线,#genre#
+CCTV1,http://rqd.mytvh.top:10235/stream/channelid/1633815247?ticket=df886b0b102fd3990d0fce84f176585a222f4787&profile=pass
+CCTV2HD,http://rqd.mytvh.top:10235/stream/channelid/300216689?ticket=1a96df835ba1d5a1000be90ce0e362949fed444e&profile=pass
+CCTV3HD,http://rqd.mytvh.top:10235/stream/channelid/472447908?ticket=0f188a805aa7ca03f93b5ddd75841274226edbd2&profile=pass
+CCTV4HD,http://rqd.mytvh.top:10235/stream/channelid/1784868815?ticket=8c11403a37030ccc0de01b10a9e43cd1e484850c&profile=pass
+CCTV5HD,http://rqd.mytvh.top:10235/stream/channelid/1212454590?ticket=e4fb452e972956bd41c8927324e1feea210795ae&profile=pass
+CCTV6HD,http://rqd.mytvh.top:10235/stream/channelid/2079280281?ticket=327e2ace10d5137e61f7723e38fb70114f435527&profile=pass
+CCTV7HD,http://rqd.mytvh.top:10235/stream/channelid/152090693?ticket=c992c2d8f54039db6665b600db8f48aa9b03b5ed&profile=pass
+CCTV8HD,http://rqd.mytvh.top:10235/stream/channelid/1033577567?ticket=582ab74819eaa8c905eb7ec623fc84b7c08c0cf8&profile=pass
+CCTV9HD,http://rqd.mytvh.top:10235/stream/channelid/243914931?ticket=afcab8440ae84dad718ecaa3cd5f9739b7dfb62b&profile=pass
+CCTV10HD,http://rqd.mytvh.top:10235/stream/channelid/2066460530?ticket=1cf04b0194951a502633e55e4b565bff6a8e6706&profile=pass
+CCTV11HD,http://rqd.mytvh.top:10235/stream/channelid/2059531757?ticket=9421cdb026366c5484da9df93983fc83868611fb&profile=pass
+CCTV12HD,http://rqd.mytvh.top:10235/stream/channelid/2079582509?ticket=c34c0dd005e5da9dd381771d905186bba8b236e3&profile=pass
+CCTV13HD,http://rqd.mytvh.top:10235/stream/channelid/1597633244?ticket=c1a1c3c216c460dd365ee06b61fd507f4e2d0d45&profile=pass
+CCTV14HD,http://rqd.mytvh.top:10235/stream/channelid/197539960?ticket=bde01e56ed52d0cd500d7b7191eb62d94d8bb856&profile=pass
+CCTV15HD,http://rqd.mytvh.top:10235/stream/channelid/1204425589?ticket=b6d1dd46b8de8c09826e9a3243c38c23c08d78e7&profile=pass
+CCTV17HD,http://rqd.mytvh.top:10235/stream/channelid/791738263?ticket=96a3b1ce71c1a67024f67087f3d16addfb0949d7&profile=pass
+湖北经视HD,http://rqd.mytvh.top:10235/stream/channelid/1413057347?ticket=bf2a459e867ae29d72d84439be28535a4c381919&profile=pass
+湖北综合HD,http://rqd.mytvh.top:10235/stream/channelid/11209956?ticket=87a43651c12e5e4431a0432d673dc797f16a8e8c&profile=pass
+湖北垄上HD,http://rqd.mytvh.top:10235/stream/channelid/672342616?ticket=dbf64a8a20c42b7e3bb9b57057db7f9f11bc1ba6&profile=pass
+湖北公共HD,http://rqd.mytvh.top:10235/stream/channelid/1250925666?ticket=10fde8eb3b039975a2fab4c117a6d07fd968afbb&profile=pass
+湖北影视HD,http://rqd.mytvh.top:10235/stream/channelid/1981463182?ticket=5c9ff37e4053f45eb8e74740a2c3214867423759&profile=pass
+湖北教育HD,http://rqd.mytvh.top:10235/stream/channelid/1558828897?ticket=402cb4b953fdec3a3bd51fa3bdb1a404d43118ed&profile=pass
+湖北生活HD,http://rqd.mytvh.top:10235/stream/channelid/402186139?ticket=535aab01b8e82bb3b2df1ca41347fe5918ec61c0&profile=pass
+天津卫视HD,http://rqd.mytvh.top:10235/stream/channelid/209210341?ticket=a7a1064028c83d551bea3ec113aef2e48cec3129&profile=pass
+山东卫视HD,http://rqd.mytvh.top:10235/stream/channelid/899667347?ticket=73386208db177c38695b78f184d43813f0276d7a&profile=pass
+安徽卫视HD,http://rqd.mytvh.top:10235/stream/channelid/1254870635?ticket=2733174f7eb940306f8a0f0405d9fdf9ae80d5ad&profile=pass
+辽宁卫视HD,http://rqd.mytvh.top:10235/stream/channelid/1082782025?ticket=f789761fcd6470f563bbb2fa539fe3a0d40a4a85&profile=pass
+东南卫视HD,http://rqd.mytvh.top:10235/stream/channelid/1608208799?ticket=94c1200aec1ab533f52dc921c2fcb5378a467aa2&profile=pass
+江西卫视HD,http://rqd.mytvh.top:10235/stream/channelid/823987429?ticket=5442c57c2497af8e99c96503208e5b56a9ff86a1&profile=pass
+重庆卫视HD,http://rqd.mytvh.top:10235/stream/channelid/263878772?ticket=fbbff3282d4aa98d06edd1d99894724f9790ef4e&profile=pass
+贵州卫视HD,http://rqd.mytvh.top:10235/stream/channelid/1862741047?ticket=0765252a179848e8cf163dd59af857762f82053d&profile=pass
+河南卫视HD,http://rqd.mytvh.top:10235/stream/channelid/2064761495?ticket=bebe0fa8e992f113fbe2aa2af4e261cbdeaeb8ba&profile=pass
+四川卫视HD,http://rqd.mytvh.top:10235/stream/channelid/1579151383?ticket=68da675c6ad021d5b8377cad79e908e0c0328614&profile=pass
+河北卫视HD,http://rqd.mytvh.top:10235/stream/channelid/249536421?ticket=86619db6ee904f6c197cfb265d14b75e5f951f0d&profile=pass
+海南卫视HD,http://rqd.mytvh.top:10235/stream/channelid/1099105726?ticket=b219fe73cb9aaf20bdbad84ac3c25d214a23e18b&profile=pass
+金鹰纪实HD,http://rqd.mytvh.top:10235/stream/channelid/1761392069?ticket=064381d5f20d45ce92e684a1b9f124bf5a3f6452&profile=pass
+中国教育1HD,http://rqd.mytvh.top:10235/stream/channelid/476549386?ticket=5694f183ccbb3bab499e34863d51b22947d3ee63&profile=pass
+爱上4K,http://rqd.mytvh.top:10235/stream/channelid/1862239236?ticket=580db295aea63daebb4f9e7e6f9bb9158db8bd70&profile=pass
+CCTV17,http://rqd.mytvh.top:10235/stream/channelid/1287104449?ticket=f01c138441e291a1ad88c8b755acb213b183e1ea&profile=pass
+三沙卫视,http://rqd.mytvh.top:10235/stream/channelid/1118594222?ticket=83447bc53eb2edda341c6c8efbf3e41b4ab82d47&profile=pass
+湖南卫视,http://rqd.mytvh.top:10235/stream/channelid/2007616078?ticket=90a4f07b719f7a3549105abc99fc361812988a3f&profile=pass
+江苏卫视,http://rqd.mytvh.top:10235/stream/channelid/1428535732?ticket=49afeefb8cf1c6cdf23b4a3149673d12be67d257&profile=pass
+东方卫视,http://rqd.mytvh.top:10235/stream/channelid/1765459558?ticket=527985f4fff1e845cbd8d88629585a34be689fe1&profile=pass
+广东卫视,http://rqd.mytvh.top:10235/stream/channelid/711692469?ticket=9b93a6d32f1f85a41be6aa49fb05229d10d98125&profile=pass
+深圳卫视,http://rqd.mytvh.top:10235/stream/channelid/768847026?ticket=2973f0d6c2d57a3738f51d6a3cff3a87c4e0be35&profile=pass
+黑龙江卫视,http://rqd.mytvh.top:10235/stream/channelid/837263485?ticket=089555a778ec73368f22064c2a463bab8aa08530&profile=pass
+宁夏卫视,http://rqd.mytvh.top:10235/stream/channelid/1094602350?ticket=60766c0c463a15f4f0f0c5d3bce082368f33ed3c&profile=pass
+中国教育2,http://rqd.mytvh.top:10235/stream/channelid/1823204185?ticket=42cc04df6d0f302d93a161d60f03b5c17c326dfc&profile=pass
+中国教育4,http://rqd.mytvh.top:10235/stream/channelid/1128361470?ticket=9326ef81cc830e5d266f84f4fa58e3a6a9dad4dc&profile=pass
+熊猫频道,http://rqd.mytvh.top:10235/stream/channelid/2124405359?ticket=dcf02d51e4ef8df192beba451fdbf747b09cd991&profile=pass
+怀旧剧场,http://rqd.mytvh.top:10235/stream/channelid/741780320?ticket=fe8fd486e4376efc0a6b81a4041f20df0025bcb5&profile=pass
+风云音乐,http://rqd.mytvh.top:10235/stream/channelid/169855424?ticket=8d97a91e7ac271ce450382ba00d600a7b373a169&profile=pass
+快乐垂钓HD,http://rqd.mytvh.top:10235/stream/channelid/1918963854?ticket=55f1d12aca61f4b9bbf8c6a33d26c62ebf1cee3f&profile=pass
+先锋乒羽,http://rqd.mytvh.top:10235/stream/channelid/135186041?ticket=707f03a5a984fe9f604f95b4cdd3ce855b113370&profile=pass
+风云足球HD,http://rqd.mytvh.top:10235/stream/channelid/1645451769?ticket=d3ca786283ede668a13da860407a9cb69a119be4&profile=pass
+汽摩,http://rqd.mytvh.top:10235/stream/channelid/890445933?ticket=00fe2248e7a6e1e309d061d7fbc69ca72eb97a67&profile=pass
+老故事,http://rqd.mytvh.top:10235/stream/channelid/1628356852?ticket=34f20ebf5ed1a8fd429bb6f9ed0776a688849721&profile=pass
+兵器科技HD,http://rqd.mytvh.top:10235/stream/channelid/973505260?ticket=4be88a35247434fee346e1668810ea655760d7fc&profile=pass
+茶HD,http://rqd.mytvh.top:10235/stream/channelid/366517565?ticket=a996f9b1ee5a6b8eda927302d27d2827ada85602&profile=pass
+世界地理HD,http://rqd.mytvh.top:10235/stream/channelid/1559588906?ticket=f99009ee6fa1c1dbb8922f61e93c5e0cfd9fec1b&profile=pass
+高尔夫网球HD,http://rqd.mytvh.top:10235/stream/channelid/558320790?ticket=f2ff615cbace9008d96356f8bd945e089b3f8ab5&profile=pass
+第一剧场HD,http://rqd.mytvh.top:10235/stream/channelid/1652520765?ticket=072246d835407595b7a1e13bd8d8f2f9116295f2&profile=pass
+央视台球HD,http://rqd.mytvh.top:10235/stream/channelid/189166289?ticket=7cefe8c203cc16e0acb24f5d8259a5874316a33c&profile=pass
+新动漫,http://rqd.mytvh.top:10235/stream/channelid/905751915?ticket=47ce42d8ddc02077b3e08db6aa75c4de6d564118&profile=pass
+女性时尚,http://rqd.mytvh.top:10235/stream/channelid/1852447543?ticket=840f669409bfec21dcfc2a036257ec2eaafc1a0c&profile=pass
+书画,http://rqd.mytvh.top:10235/stream/channelid/877629756?ticket=ec938a93444af85c27283d07d7214811cbdcb914&profile=pass
+爱生活,http://rqd.mytvh.top:10235/stream/channelid/1245623055?ticket=3354c72bbfd00b93e21f221ba7970739f37b8295&profile=pass
+芒果1,http://rqd.mytvh.top:10235/stream/channelid/2029377822?ticket=e2c9bd77c927e331f4d8ccbc375eae03dbdcba4b&profile=pass
+芒果2,http://rqd.mytvh.top:10235/stream/channelid/1374331152?ticket=c41118205079b17974adb128fff56effaad6fdb8&profile=pass
+房县新闻综合,http://rqd.mytvh.top:10235/stream/channelid/2017864513?ticket=682dda16082770c4aae383066a05cbbfd61e2d6f&profile=pass
+罗田综合,http://rqd.mytvh.top:10235/stream/channelid/669757108?ticket=e39d5311455da34535d11db078542ed0c1858595&profile=pass
+重温经典,http://rqd.mytvh.top:10235/stream/channelid/1925388386?ticket=05f09f978a3cf2d27b56e49b7c097fff213d4096&profile=pass
+chc动作电影,http://rqd.mytvh.top:10235/stream/channelid/1295608770?ticket=b8894ce1617075723615a2613ffb12a62ab3ee92&profile=pass
+chc高清电影,http://rqd.mytvh.top:10235/stream/channelid/421908529?ticket=6aab13fb059dbb461dd51c200873d80be977a196&profile=pass
+chc家庭影院,http://rqd.mytvh.top:10235/stream/channelid/2068880792?ticket=ff9e9c22691d77bfa1e8e06829e476558c9bda52&profile=pass
+广东CCTV6,http://rqd.mytvh.top:10235/stream/channelid/1970405313?ticket=90d3e10ac62518cde844b373273ab4d9b141f6c1&profile=pass
 
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
