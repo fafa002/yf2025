@@ -3468,14 +3468,6 @@ chc家庭影院,http://rqd.mytvh.top:10235/stream/channelid/2068880792?ticket=ff
 广东CCTV6,http://rqd.mytvh.top:10235/stream/channelid/1970405313?ticket=90d3e10ac62518cde844b373273ab4d9b141f6c1&profile=pass
 
 浙江有线,#genre#
-CCTV10科教,http://125.105.1.8:9981/stream/channelid/1973641907?profile=pass
-CCTV11戏曲,http://125.105.1.8:9981/stream/channelid/847528624?profile=pass
-CCTV12社会与法,http://125.105.1.8:9981/stream/channelid/1270392184?profile=pass
-CCTV13新闻,http://125.105.1.8:9981/stream/channelid/139932892?profile=pass
-CCTV14少儿,http://125.105.1.8:9981/stream/channelid/315053190?profile=pass
-CCTV15音乐,http://125.105.1.8:9981/stream/channelid/2025223721?profile=pass
-CCTV16奥林匹克,http://125.105.1.8:9981/stream/channelid/916164683?profile=pass
-CCTV17农业农村,http://125.105.1.8:9981/stream/channelid/1544178873?profile=pass
 CCTV1综合,http://125.105.1.8:9981/stream/channelid/1333793712?profile=pass
 CCTV2财经,http://125.105.1.8:9981/stream/channelid/701912683?profile=pass
 CCTV3综艺,http://125.105.1.8:9981/stream/channelid/219163379?profile=pass
@@ -3486,6 +3478,14 @@ CCTV6电影,http://125.105.1.8:9981/stream/channelid/1641565906?profile=pass
 CCTV7国防军事,http://125.105.1.8:9981/stream/channelid/1975280018?profile=pass
 CCTV8电视剧,http://125.105.1.8:9981/stream/channelid/1708419702?profile=pass
 CCTV9纪录,http://125.105.1.8:9981/stream/channelid/255059634?profile=pass
+CCTV10科教,http://125.105.1.8:9981/stream/channelid/1973641907?profile=pass
+CCTV11戏曲,http://125.105.1.8:9981/stream/channelid/847528624?profile=pass
+CCTV12社会与法,http://125.105.1.8:9981/stream/channelid/1270392184?profile=pass
+CCTV13新闻,http://125.105.1.8:9981/stream/channelid/139932892?profile=pass
+CCTV14少儿,http://125.105.1.8:9981/stream/channelid/315053190?profile=pass
+CCTV15音乐,http://125.105.1.8:9981/stream/channelid/2025223721?profile=pass
+CCTV16奥林匹克,http://125.105.1.8:9981/stream/channelid/916164683?profile=pass
+CCTV17农业农村,http://125.105.1.8:9981/stream/channelid/1544178873?profile=pass
 CCTV4K超高清,http://125.105.1.8:9981/stream/channelid/2034826048?profile=pass
 drama,http://125.105.1.8:9981/stream/channelid/937961110?profile=pass
 movie,http://125.105.1.8:9981/stream/channelid/652255059?profile=pass
