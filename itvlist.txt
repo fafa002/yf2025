@@ -114,8 +114,6 @@ HK DTMB,#genre#
 (2线)ViuTVsix,http://mtw.so/6hopg0
 (2线)ViuTV,http://mtw.so/5NZZ4k
 
-(3线)港台電視 31,http://mtw.so/5UQcxD
-(3线)港台電視 32,http://mtw.so/5GtMtj
 (3线)HOY 76,http://mtw.so/5GtMvT
 (3线)HOY 77,http://mtw.so/6hoq66
 (3线)HOY 78,http://mtw.so/69Sd31
