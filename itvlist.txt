@@ -125,7 +125,7 @@ HK DTMB,#genre#
 (2线)無綫新聞,http://mtw.so/5ycWzD
 (2线)明珠台,http://mtw.so/5ycWAB
 (2线)J5,http://mtw.so/5NZZ0M
-(2线)ViuTVsix,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/2134513294?profile=htsp
+(2线)ViuTVsix,http://mtw.so/6hopg0
 (2线)ViuTV,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1336932033?profile=htsp
 
 湾湾断流,#genre#
