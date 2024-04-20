@@ -114,6 +114,19 @@ HK DTMB,#genre#
 (2线)ViuTVsix,http://mtw.so/6hopg0
 (2线)ViuTV,http://mtw.so/5NZZ4k
 
+(3线)港台電視 31,http://mtw.so/5UQcxD
+(3线)港台電視 32,http://ha.hahomes.net:9982/stream/channelid/1872476918?ticket=a6f80d60178c465d94954b00b7f1bb9d9b7120c9&profile=pass
+(3线)HOY 76,http://ha.hahomes.net:9982/stream/channelid/1542822897?ticket=2adcfbf8c0fb24e1b61b579908cf3a73e344cd04&profile=pass
+(3线)HOY 77,http://ha.hahomes.net:9982/stream/channelid/167940807?ticket=54a32065052a426e3d5dd5d7a0d1caac22d4e14d&profile=pass
+(3线)HOY 78,http://ha.hahomes.net:9982/stream/channelid/784243381?ticket=de667bf834fec694fa3de40290d021b0ebe04879&profile=pass
+(3线)翡翠台,http://ha.hahomes.net:9982/stream/channelid/531453017?ticket=f5f6a3b4b5016c92fc8a9e581fe43d03a8ad4657&profile=pass
+(3线)J2台,http://ha.hahomes.net:9982/stream/channelid/2095215043?ticket=e32f2b97be272ab47f59dc0ca06127b65ffe61cc&profile=pass
+(3线)無綫新聞,http://ha.hahomes.net:9982/stream/channelid/166643091?ticket=2603fc2965832a1bb8bc05755274d9002d48007b&profile=pass
+(3线)明珠台,http://ha.hahomes.net:9982/stream/channelid/308211399?ticket=e48fb2c8329761565078547726e8b456560e53a8&profile=pass
+(3线)無綫財經,http://ha.hahomes.net:9982/stream/channelid/372029763?ticket=28d58a67659e62fdcd8c2d9b55f6838e9b6a4e4e&profile=pass
+(3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channelid/240018592?ticket=8e7c2a2f6d782d9eb009e92e7e10a7cf2af5c4fb&profile=pass
+(3线)ViuTV,http://ha.hahomes.net:9982/stream/channelid/1153374433?ticket=e069d68a24a0156fe61b4ef36fe8b412d4defe67&profile=pass
+
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
