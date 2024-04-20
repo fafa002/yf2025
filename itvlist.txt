@@ -124,7 +124,7 @@ HK DTMB,#genre#
 (3线)無綫新聞,http://mtw.so/6hopUE
 (3线)明珠台,http://mtw.so/6wmDUc
 (3线)無綫財經,http://mtw.so/6hopWg
-(3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channelid/240018592?ticket=8e7c2a2f6d782d9eb009e92e7e10a7cf2af5c4fb&profile=pass
+(3线)ViuTVsix,http://mtw.so/5UQcYp
 (3线)ViuTV,http://ha.hahomes.net:9982/stream/channelid/1153374433?ticket=e069d68a24a0156fe61b4ef36fe8b412d4defe67&profile=pass
 
 湾湾断流,#genre#
