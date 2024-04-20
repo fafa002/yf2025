@@ -107,16 +107,26 @@ YouTube新闻,#genre#
 (ytb)台视新闻,http://mtw.so/6wle6a
 
 HK DTMB,#genre#
-HOY76,http://mtw.so/5GtHyt
-HOY77,http://mtw.so/5NZS1S
-HOY78,http://mtw.so/5UQ7Ef
-Jade,http://mtw.so/62mkIW
-J2,http://mtw.so/69SxND
-无线新闻,http://mtw.so/6hoKSk
-明珠,http://mtw.so/6wmyRM
-J5,http://mtw.so/5FJ53a
-ViuTVsix,http://mtw.so/5GtHyD
-ViuTV,http://mtw.so/5NZS22
+(1线)HOY76,http://mtw.so/5GtHyt
+(1线)HOY77,http://mtw.so/5NZS1S
+(1线)HOY78,http://mtw.so/5UQ7Ef
+(1线)Jade,http://mtw.so/62mkIW
+(1线)J2,http://mtw.so/69SxND
+(1线)无线新闻,http://mtw.so/6hoKSk
+(1线)明珠,http://mtw.so/6wmyRM
+(1线)J5,http://mtw.so/5FJ53a
+(1线)ViuTVsix,http://mtw.so/5GtHyD
+(1线)ViuTV,http://mtw.so/5NZS22
+
+(2线)港台電視 31,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/512708317?profile=htsp
+(2线)港台電視 32,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1947359012?profile=htsp
+(2线)翡翠台,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1425740866?profile=htsp
+(2线)J2台,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/2082072924?profile=htsp
+(2线)無綫新聞,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/2051586642?profile=htsp
+(2线)明珠台,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1803382046?profile=htsp
+(2线)J5,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1781676223?profile=htsp
+(2线)ViuTVsix,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/2134513294?profile=htsp
+(2线)ViuTV,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1336932033?profile=htsp
 
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
