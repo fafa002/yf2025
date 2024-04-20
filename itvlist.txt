@@ -107,8 +107,8 @@ YouTube新闻,#genre#
 (ytb)台视新闻,http://mtw.so/6wle6a
 
 HK DTMB,#genre#
-HOY77,http://mtw.so/5GtHyt
-HOY76,http://mtw.so/5NZS1S
+HOY76,http://mtw.so/5GtHyt
+HOY77,http://mtw.so/5NZS1S
 HOY78,http://mtw.so/5UQ7Ef
 Jade,http://mtw.so/62mkIW
 J2,http://mtw.so/69SxND
