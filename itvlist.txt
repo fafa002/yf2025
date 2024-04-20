@@ -107,16 +107,16 @@ YouTube新闻,#genre#
 (ytb)台视新闻,http://mtw.so/6wle6a
 
 HK DTMB,#genre#
-HOY77,http://61.238.219.237:9981/stream/channelid/1684905492?profile=pass
-HOY76,http://61.238.219.237:9981/stream/channelid/90935769?profile=pass
-HOY78,http://61.238.219.237:9981/stream/channelid/803978895?profile=pass
-Jade,http://61.238.219.237:9981/stream/channelid/1118093781?profile=pass
-J2,http://61.238.219.237:9981/stream/channelid/2027671586?profile=pass
-无线新闻,http://61.238.219.237:9981/stream/channelid/1659835930?profile=pass
-明珠,http://61.238.219.237:9981/stream/channelid/229180239?profile=pass
-J5,http://61.238.219.237:9981/stream/channelid/1082471556?profile=pass
-ViuTVsix,http://61.238.219.237:9981/stream/channelid/1282445265?profile=pass
-ViuTV,http://61.238.219.237:9981/stream/channelid/467914264?profile=pass
+HOY77,http://mtw.so/5GtHyt
+HOY76,http://mtw.so/5NZS1S
+HOY78,http://mtw.so/5UQ7Ef
+Jade,http://mtw.so/62mkIW
+J2,http://mtw.so/69SxND
+无线新闻,http://mtw.so/6hoKSk
+明珠,http://mtw.so/6wmyRM
+J5,http://mtw.so/5FJ53a
+ViuTVsix,http://mtw.so/5GtHyD
+ViuTV,http://mtw.so/5NZS22
 
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
