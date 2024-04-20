@@ -121,7 +121,7 @@ HK DTMB,#genre#
 (2线)港台電視 31,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/512708317?profile=htsp
 (2线)港台電視 32,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1947359012?profile=htsp
 (2线)翡翠台,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1425740866?profile=htsp
-(2线)J2台,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/2082072924?profile=htsp
+(2线)J2台,http://mtw.so/6wmD8W
 (2线)無綫新聞,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/2051586642?profile=htsp
 (2线)明珠台,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1803382046?profile=htsp
 (2线)J5,http://1-65-195-085.static.netvigator.com:9981/stream/channelid/1781676223?profile=htsp
