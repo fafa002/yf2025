@@ -82,18 +82,21 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (大街)八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 (大街)动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+
 YouTube新闻,#genre#
-(ytb)中天新闻,http://mtw.so/69MATx
-(ytb)东森新闻,http://mtw.so/6hiNYe
-(ytb)东森新闻,http://mtw.so/6oP11j
-(ytb)中视新闻,http://mtw.so/5yb7tx
-(ytb)台视新闻,http://mtw.so/5GrUch
-(ytb)TVBS新闻,http://mtw.so/5Vq8cD
-(ytb)三立新闻,http://mtw.so/62gnP0
-(ytb)三立新闻,http://mtw.so/69MATH
-(ytb)东森新闻,http://mtw.so/6hiNWM
-(ytb)TVBS新闻,http://mtw.so/6oP11t
-(ytb)台视新闻,http://mtw.so/6wle6a
+(ytb)中視新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=2
+(ytb)三立新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=3
+(ytb)寰宇新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=4
+(ytb)大愛一臺,http://csscc.onflashdrive.app:2095/live.m3u8?c=5
+(ytb)東森新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=6
+(ytb)中天新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=7
+(ytb)民視新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=8
+(ytb)大愛二臺,http://csscc.onflashdrive.app:2095/live.m3u8?c=9
+(ytb)中天新聞2,http://csscc.onflashdrive.app:2095/live.m3u8?c=10
+(ytb)TVBS新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=11
+(ytb)ABC新闻,http://csscc.onflashdrive.app:2095/live.m3u8?c=12
+(ytb)公視新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=13
+(ytb)民視戲劇,http://csscc.onflashdrive.app:2095/live.m3u8?c=14
 
 HK DTMB,#genre#
 (1线)HOY76,http://mtw.so/5GtHyt
