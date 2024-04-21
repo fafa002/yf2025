@@ -121,7 +121,7 @@ HK DTMB,#genre#
 (3线)HOY 77,http://ha.hahomes.net:9982/stream/channel/c792028ab392cc0f8643a5b9af6e9c82?profile=pass
 (3线)HOY 78,http://ha.hahomes.net:9982/stream/channel/b59abe2e5aa04f95a83923f05132c183?profile=pass
 (3线)翡翠台,http://ha.hahomes.net:9982/stream/channel/5954ad9fd4240f4a1c1b64ca44963160?profile=pass
-(3线)J2台,http://mtw.so/5UQcWD
+(3线)J2台,http://ha.hahomes.net:9982/stream/channel/c371e27ca75a04beddc661e77a5bdb71?profile=pass
 (3线)無綫新聞,http://mtw.so/6hopUE
 (3线)明珠台,http://mtw.so/6wmDUc
 (3线)無綫財經,http://mtw.so/6hopWg
