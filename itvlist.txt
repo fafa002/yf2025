@@ -14,6 +14,7 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (IPv6)澳門澳視,https://iptv.hiper25.com/TDM/video.m3u8
 (临时)无线财经,http://mtw.so/5Vma8v
 (临时2)amc电影,http://mtw.so/5VmkBn
+(临时2)j2,http://mtw.so/6oR1rb
 (临时2)now体育,http://mtw.so/62SxG4
 (临时2)东森电影,http://mtw.so/69INir
 (临时2)东森超视,http://mtw.so/6oLaAp
