@@ -24,8 +24,8 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (3线)NOW体育,http://60.30.198.43:5080/HK/nowty/hls.m3u8
 (3线)NOW体育2,http://60.30.198.43:5080/HK/nowty2/hls.m3u8
 (3线)NOW新闻,http://60.30.198.43:5080/HK/nowxw/hls.m3u8
-(失效)NOW星影,http://60.30.198.43:5080/HK/xy/hls.m3u8
-(失效)NOW爆谷,http://60.30.198.43:5080/HK/bg/hls.m3u8
+(3线)NOW星影,http://60.30.198.43:5080/HK/xy/hls.m3u8
+(3线)NOW爆谷,http://60.30.198.43:5080/HK/bg/hls.m3u8
 (3线)广电翡翠2,http://60.30.198.43:5080/HK/gdfc/hls.m3u8
 (3线)翡翠,http://60.30.198.43:5080/HK/tvb/hls.m3u8
 (3线)无线新闻,http://60.30.198.43:5080/HK/wxxw/hls.m3u8
