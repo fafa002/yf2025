@@ -123,7 +123,7 @@ HK DTMB,#genre#
 (3线)翡翠台,http://ha.hahomes.net:9982/stream/channel/5954ad9fd4240f4a1c1b64ca44963160?profile=pass
 (3线)J2台,http://ha.hahomes.net:9982/stream/channel/c371e27ca75a04beddc661e77a5bdb71?profile=pass
 (3线)無綫新聞,http://ha.hahomes.net:9982/stream/channel/93c5ee89394c8a3e0c0a6d9ee2afcecf?profile=pass
-(3线)明珠台,http://mtw.so/6wmDUc
+(3线)明珠台,http://ha.hahomes.net:9982/stream/channel/c7ee5e92cd50ed745ccc7ea108035400?profile=pass
 (3线)無綫財經,http://mtw.so/6hopWg
 (3线)ViuTVsix,http://mtw.so/5UQcYp
 (3线)ViuTV,http://mtw.so/5FJapA
