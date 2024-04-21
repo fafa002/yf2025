@@ -126,7 +126,7 @@ HK DTMB,#genre#
 (3线)明珠台,http://ha.hahomes.net:9982/stream/channel/c7ee5e92cd50ed745ccc7ea108035400?profile=pass
 (3线)無綫財經,http://ha.hahomes.net:9982/stream/channel/43b92c96a2f7853f35d59e55dcc251c1?profile=pass
 (3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
-(3线)ViuTV,http://mtw.so/5FJapA
+(3线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
 
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
