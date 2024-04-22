@@ -139,7 +139,7 @@ HK DTMB,#genre#
 (4线)ViuTVsix,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1462940738?profile=pass
 (4线)ViuTV,http://babyboysnowy.mynas1996.top:9981/stream/channelid/54624333?profile=pass
 
-(5线)翡翠台,http://183.45.76.28:8889/bysid/1
+(5线)翡翠台,http://u6v.cn/5yefLP
 (5线)ViuTVsix,http://183.45.76.28:8889/bysid/96
 (5线)ViuTV,http://183.45.76.28:8889/bysid/99
 (5线)明珠台,http://183.45.76.28:8890/bysid/2
