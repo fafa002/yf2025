@@ -103,18 +103,18 @@ HK DTMB,#genre#
 (1线)HOY77,http://mtw.so/5NZS1S
 (1线)HOY78,http://mtw.so/5UQ7Ef
 (1线)Jade,http://mtw.so/62mkIW
-(1线)J2,http://mtw.so/69SxND
+(1线)TVB+,http://mtw.so/69SxND
 (1线)无线新闻,http://mtw.so/6hoKSk
 (1线)明珠,http://mtw.so/6wmyRM
-(1线)J5,http://mtw.so/5FJ53a
+(1线)凤凰香港,http://mtw.so/5FJ53a
 (1线)ViuTVsix,http://mtw.so/5GtHyD
 (1线)ViuTV,http://mtw.so/5NZS22
 
 (2线)翡翠台,http://mtw.so/5NZZkW
-(2线)J2台,http://mtw.so/6wmD8W
+(2线)TVB+,http://mtw.so/6wmD8W
 (2线)無綫新聞,http://mtw.so/5ycWzD
 (2线)明珠台,http://mtw.so/5ycWAB
-(2线)J5,http://mtw.so/5NZZ0M
+(2线)凤凰香港,http://mtw.so/5NZZ0M
 (2线)ViuTVsix,http://mtw.so/6hopg0
 (2线)ViuTV,http://mtw.so/5NZZ4k
 
@@ -124,10 +124,10 @@ HK DTMB,#genre#
 (3线)HOY 77,http://ha.hahomes.net:9982/stream/channel/c792028ab392cc0f8643a5b9af6e9c82?profile=pass
 (3线)HOY 78,http://ha.hahomes.net:9982/stream/channel/b59abe2e5aa04f95a83923f05132c183?profile=pass
 (3线)翡翠台,http://ha.hahomes.net:9982/stream/channel/5954ad9fd4240f4a1c1b64ca44963160?profile=pass
-(3线)J2台,http://ha.hahomes.net:9982/stream/channel/c371e27ca75a04beddc661e77a5bdb71?profile=pass
+(3线)TVB+,http://ha.hahomes.net:9982/stream/channel/c371e27ca75a04beddc661e77a5bdb71?profile=pass
 (3线)無綫新聞,http://ha.hahomes.net:9982/stream/channel/93c5ee89394c8a3e0c0a6d9ee2afcecf?profile=pass
 (3线)明珠台,http://ha.hahomes.net:9982/stream/channel/c7ee5e92cd50ed745ccc7ea108035400?profile=pass
-(3线)無綫財經,http://ha.hahomes.net:9982/stream/channel/43b92c96a2f7853f35d59e55dcc251c1?profile=pass
+(3线)凤凰香港,http://ha.hahomes.net:9982/stream/channel/43b92c96a2f7853f35d59e55dcc251c1?profile=pass
 (3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
 (3线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
 
