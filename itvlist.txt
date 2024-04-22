@@ -12,9 +12,9 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (IPv6)翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 (IPv6)明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 (IPv6)澳門澳視,https://iptv.hiper25.com/TDM/video.m3u8
-(临时)无线财经,http://mtw.so/5Vma8v
+(临时)TVB+,http://mtw.so/5Vma8v
 (临时2)amc电影,http://mtw.so/5VmkBn
-(临时2)J2,http://mtw.so/6oR1rb
+(临时2)失效J2,http://mtw.so/6oR1rb
 (临时2)now体育,http://mtw.so/62SxG4
 (临时2)东森电影,http://mtw.so/69INir
 (临时2)东森超视,http://mtw.so/6oLaAp
@@ -43,8 +43,8 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (1线)无线新闻,http://119.23.61.191:8088/HK/wxxw/hls.m3u8
 (1线)j2,http://119.23.61.191:8088/HK/j2.live.flv
 
-(2线)无线财经,http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
-(2线)无线新闻,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
+(2线)无线新闻,http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
+(2线)无线新闻2,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
 (2线)三立新闻,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
 (2线)三立新闻+,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
 (2线)民视新闻,http://154.yfvodcdn.com:8080/live/tymsxw1/hls.m3u8
