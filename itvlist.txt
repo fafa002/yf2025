@@ -41,7 +41,7 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (1线)hoy78,http://119.23.61.191:8088/HK/hoy78/hls.m3u8
 (1线)无线财经,http://119.23.61.191:8088/HK/wxcj/hls.m3u8
 (1线)无线新闻,http://119.23.61.191:8088/HK/wxxw/hls.m3u8
-(1线)j2,http://119.23.61.191:8088/HK/j2.live.flv
+(1线)失效j2,http://119.23.61.191:8088/HK/j2.live.flv
 
 (2线)无线新闻,http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
 (2线)无线新闻2,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
