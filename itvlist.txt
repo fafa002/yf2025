@@ -3604,7 +3604,7 @@ movie,http://125.105.1.8:9981/stream/channelid/652255059?profile=pass
 黑龙江卫视,http://125.105.1.8:9981/stream/channelid/1171564184?profile=pass
 都市剧场,http://125.105.1.8:9981/stream/channelid/1625150992?profile=pass
 
-重庆有线,#genre#
+(失效)重庆有线2,#genre#
 CCTV1综合高清,http://rqd.mytvh.top:10240/stream/channelid/410524481?ticket=5d1076e7e13716177f3e1b023588c29542b710f8&profile=pass
 CCTV2财经高清,http://rqd.mytvh.top:10240/stream/channelid/547851629?ticket=c3fcc08adb09b38fa5b0bfdc8172c5f93e89783a&profile=pass
 CCTV3综艺高清,http://rqd.mytvh.top:10240/stream/channelid/1635313141?ticket=6995a90c46b33e0a1680251abda4f7713bf7b505&profile=pass
