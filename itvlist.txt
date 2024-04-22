@@ -132,10 +132,10 @@ HK DTMB,#genre#
 (3线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
 
 (4线)翡翠台,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1399972793?profile=pass
-(4线)j2,http://babyboysnowy.mynas1996.top:9981/stream/channelid/474949961?profile=pass
+(4线)TVB+,http://babyboysnowy.mynas1996.top:9981/stream/channelid/474949961?profile=pass
 (4线)无线新闻台,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1071969942?profile=pass
 (4线)明珠台,http://babyboysnowy.mynas1996.top:9981/stream/channelid/828460104?profile=pass
-(4线)无线财经资讯台,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1296538685?profile=pass
+(4线)凤凰香港,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1296538685?profile=pass
 (4线)ViuTVsix,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1462940738?profile=pass
 (4线)ViuTV,http://babyboysnowy.mynas1996.top:9981/stream/channelid/54624333?profile=pass
 
