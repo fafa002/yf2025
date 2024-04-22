@@ -139,6 +139,19 @@ HK DTMB,#genre#
 (4线)ViuTVsix,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1462940738?profile=pass
 (4线)ViuTV,http://babyboysnowy.mynas1996.top:9981/stream/channelid/54624333?profile=pass
 
+(5线)翡翠台,http://183.45.76.28:8889/bysid/1
+(5线)ViuTVsix,http://183.45.76.28:8889/bysid/96
+(5线)ViuTV,http://183.45.76.28:8889/bysid/99
+(5线)明珠台,http://183.45.76.28:8890/bysid/2
+(5线)失效J2台,http://183.45.76.28:8890/bysid/82
+(5线)無綫新聞台,http://183.45.76.28:8890/bysid/83
+(5线)失效無綫財經,http://183.45.76.28:8890/bysid/85
+(5线)HOY 國際財經台,http://183.45.76.28:8891/bysid/76
+(5线)HOY TV,http://183.45.76.28:8891/bysid/77
+(5线)HOY 資訊台,http://183.45.76.28:8891/bysid/78
+(5线)港台電視 31,http://183.45.76.28:8892/bysid/31
+(5线)港台電視 32,http://183.45.76.28:8892/bysid/32
+
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
