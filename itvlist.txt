@@ -3537,6 +3537,19 @@ CCTV14高清,http://222.223.250.251:9241/stream/channelid/1669375497?ticket=c67b
 辽宁高清,http://222.223.250.251:9241/stream/channelid/1474784689?ticket=b9e3fced2078da5322794346e118218f72272fe7&profile=pass
 黑龙江高清,http://222.223.250.251:9241/stream/channelid/251609532?ticket=132077950fe8fb9247159a30d8229b333ac8dd9b&profile=pass
 四川高清,http://222.223.250.251:9241/stream/channelid/2061866500?ticket=f6277eb5707c71f79b51c513cbda9d8471b48195&profile=pass
+CCTV11,http://222.223.250.251:9242/stream/channelid/1587704203?ticket=950ee9a30fc144860aa6d47c9858d4c5a4b608de&profile=pass
+CCTV1高清,http://222.223.250.251:9242/stream/channelid/766662026?ticket=28a69056fbb963d3d3e1885f0ce19a21bccb9a39&profile=pass
+CCTV2高清,http://222.223.250.251:9242/stream/channelid/1393509021?ticket=7f9937b9f8bac6f1d6b239e97a2e262d29440106&profile=pass
+CCTV5+高清,http://222.223.250.251:9242/stream/channelid/1843660246?ticket=c69658da8be6c6f8d92dc7eb635d680b3a09b718&profile=pass
+CCTV7高清,http://222.223.250.251:9242/stream/channelid/718370297?ticket=2376d5b79cc9fbd97cc1197eca8eecdcc55edff0&profile=pass
+CCTV9高清,http://222.223.250.251:9242/stream/channelid/909628099?ticket=019067cb571d0067908855205605d8367817fbf5&profile=pass
+CCTV音乐,http://222.223.250.251:9242/stream/channelid/1264522600?ticket=16b46c72b6c398c81d7aa649474f2101a7533b9c&profile=pass
+CCTV新闻高清,http://222.223.250.251:9242/stream/channelid/1862685389?ticket=7c7642d48d2a514e68509a81ae83967336af75b8&profile=pass
+东南高清,http://222.223.250.251:9242/stream/channelid/1134404577?ticket=107b5de00f5cecb8b0a3649bd7c1beaa1e273333&profile=pass
+北京高清,http://222.223.250.251:9242/stream/channelid/1473530331?ticket=df11ed0da5e0dbb63c4208cbb4a98b20d6db197a&profile=pass
+吉林高清,http://222.223.250.251:9242/stream/channelid/45561511?ticket=8caf0eeac319542cc5fbec42076a4540ad611aa5&profile=pass
+金鹰卡通高清,http://222.223.250.251:9242/stream/channelid/1861782270?ticket=310c45520815d5856ec533b2b366e0486b28c807&profile=pass
+风云足球高清,http://222.223.250.251:9242/stream/channelid/540935069?ticket=e590a1c8fd34b64d0241fb114c1bbb6ee5b6024e&profile=pass
 
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
