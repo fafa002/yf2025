@@ -3550,6 +3550,22 @@ CCTV新闻高清,http://222.223.250.251:9242/stream/channelid/1862685389?ticket=
 吉林高清,http://222.223.250.251:9242/stream/channelid/45561511?ticket=8caf0eeac319542cc5fbec42076a4540ad611aa5&profile=pass
 金鹰卡通高清,http://222.223.250.251:9242/stream/channelid/1861782270?ticket=310c45520815d5856ec533b2b366e0486b28c807&profile=pass
 风云足球高清,http://222.223.250.251:9242/stream/channelid/540935069?ticket=e590a1c8fd34b64d0241fb114c1bbb6ee5b6024e&profile=pass
+云南卫视,http://222.223.250.251:9243/stream/channelid/1205710131?ticket=8e455e5db7693aadfa56c8b241d695a597bb6da7&profile=pass
+兵团卫视,http://222.223.250.251:9243/stream/channelid/1304564418?ticket=fb1515815320612283586834ced872c4466d0ecd&profile=pass
+内蒙古卫视,http://222.223.250.251:9243/stream/channelid/1905266050?ticket=c2b57c6b9577687599988477502901a3e94b4686&profile=pass
+卡酷动画,http://222.223.250.251:9243/stream/channelid/343952418?ticket=1aec2ac183f49afd37f9230d3cdd1d687348608e&profile=pass
+宁夏卫视,http://222.223.250.251:9243/stream/channelid/1718622703?ticket=6818e83ef3c8121098eb52e0e7e4aea300e46473&profile=pass
+山西卫视,http://222.223.250.251:9243/stream/channelid/1449481835?ticket=3e3a36d23f816ac5fcad65c06251d2ee7427452f&profile=pass
+广西卫视,http://222.223.250.251:9243/stream/channelid/1730009805?ticket=ba18d63522d7e00fd995843c0e1891df307201b5&profile=pass
+新疆卫视,http://222.223.250.251:9243/stream/channelid/1194158973?ticket=8a5acb713526ef764a681f8c8ebe8cdf21a02833&profile=pass
+江西卫视,http://222.223.250.251:9243/stream/channelid/805042617?ticket=3af5fe519ccc2a16a1e4ec84f8d654794008f7f2&profile=pass
+河北杂技,http://222.223.250.251:9243/stream/channelid/1222481303?ticket=6861c25a8b3c78ed8f74a7c52661996a0575ffbd&profile=pass
+河南卫视,http://222.223.250.251:9243/stream/channelid/1892360727?ticket=ad8d9c379292c78060bc58c57152eae13e73cd48&profile=pass
+环球旅游,http://222.223.250.251:9243/stream/channelid/61359538?ticket=39bf32c20aa4d073cc079b055dd47267814e5730&profile=pass
+甘肃卫视,http://222.223.250.251:9243/stream/channelid/2031949229?ticket=9e6569768fa36cf78b5615a2df7da58ba2201e64&profile=pass
+西藏卫视,http://222.223.250.251:9243/stream/channelid/1284090521?ticket=5a66403a99b7e191f477955d2df3cb2f38917e70&profile=pass
+陕西卫视,http://222.223.250.251:9243/stream/channelid/1174292670?ticket=034c74014d367c2248b2f2061d969a76ee1c45ca&profile=pass
+青海卫视,http://222.223.250.251:9243/stream/channelid/1031609566?ticket=404dd641faf34e4f9c482d13ed9c08ec506b999b&profile=pass
 
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
