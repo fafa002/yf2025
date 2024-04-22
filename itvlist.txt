@@ -85,7 +85,7 @@ CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 
 YouTube新闻,#genre#
 (ytb)中視新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=2
-(ytb)三立新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=3
+(ytb)三立新闻,http://csscc.onflashdrive.app:2095/live.m3u8?c=3
 (ytb)寰宇新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=4
 (ytb)大愛一臺,http://csscc.onflashdrive.app:2095/live.m3u8?c=5
 (ytb)東森新聞,http://csscc.onflashdrive.app:2095/live.m3u8?c=6
