@@ -3523,7 +3523,6 @@ chc家庭影院,http://rqd.mytvh.top:10235/stream/channelid/2068880792?ticket=ff
 广东CCTV6,http://rqd.mytvh.top:10235/stream/channelid/1970405313?ticket=90d3e10ac62518cde844b373273ab4d9b141f6c1&profile=pass
 
 河北有线,#genre#
-
 CCTV1高清,http://222.223.250.251:9242/stream/channelid/766662026?ticket=28a69056fbb963d3d3e1885f0ce19a21bccb9a39&profile=pass
 CCTV2高清,http://222.223.250.251:9242/stream/channelid/1393509021?ticket=7f9937b9f8bac6f1d6b239e97a2e262d29440106&profile=pass
 CCTV3高清,http://222.223.250.251:9241/stream/channelid/1457146696?ticket=01a87e9fc2b508f7de35d8ba65680c593b402b57&profile=pass
