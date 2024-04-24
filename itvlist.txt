@@ -138,22 +138,6 @@ HK DTMB,#genre#
 (3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
 (3线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
 
-(4线)翡翠台,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1399972793?profile=pass
-(4线)TVB+,http://babyboysnowy.mynas1996.top:9981/stream/channelid/474949961?profile=pass
-(4线)无线新闻台,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1071969942?profile=pass
-(4线)明珠台,http://babyboysnowy.mynas1996.top:9981/stream/channelid/828460104?profile=pass
-(4线)凤凰香港,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1296538685?profile=pass
-(4线)ViuTVsix,http://babyboysnowy.mynas1996.top:9981/stream/channelid/1462940738?profile=pass
-(4线)ViuTV,http://babyboysnowy.mynas1996.top:9981/stream/channelid/54624333?profile=pass
-
-(5线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
-(5线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
-(5线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
-(5线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
-(5线)TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82
-(5线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
-(5线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
-
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
