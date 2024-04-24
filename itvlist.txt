@@ -3558,6 +3558,23 @@ JLHD,http://rqd.mytvh.top:10063/stream/channelid/1316978085?ticket=5040ec285f10f
 高尔夫网球,http://rqd.mytvh.top:10063/stream/channelid/1046605433?ticket=407af3f654fbb444900a2b3e9efab585d92cca69&profile=pass
 黑龙江卫视,http://rqd.mytvh.top:10063/stream/channelid/978143511?ticket=ab5db96dc6a3d1b91142e29c4a342341965624ba&profile=pass
 
+西藏有线,#genre#
+CCTV1(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/841850985?ticket=8124919f4954a2a98a834a68f2ef2f38bbd57b7d&profile=pass
+CCTV10(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/163759861?ticket=6d49f1d3ad79f4e8ee59fb7bd4103a10ea010e93&profile=pass
+CCTV12(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/492629957?ticket=410c10d43bfa46fba328324ed1c47536413b3cb7&profile=pass
+CCTV13(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/350596508?ticket=7ffd24b428137ca1cd48840fc7ecfaee011c6950&profile=pass
+CCTV14(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/1100660097?ticket=b1df669e741631390ffbed9f4d3559838153e219&profile=pass
+CCTV2(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/1581237034?ticket=68df3d90982f15596cf180916ced8a98be5940e5&profile=pass
+CCTV3(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/520682590?ticket=8ae5531664f10a8c0e857a712cf45d589c2d8b2d&profile=pass
+CCTV4(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/1151435223?ticket=1f3c33bb15b23e712abccd005e34211efd5f17b2&profile=pass
+CCTV5(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/368491239?ticket=1c0dd365992ea219c345fc691967982eb86a5337&profile=pass
+CCTV5+(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/1662871571?ticket=21407cb8f92517ab0399106a66c2db142c847b9f&profile=pass
+CCTV6(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/827150431?ticket=3f3c446acc8649446343eb2343c5584d6776bb53&profile=pass
+CCTV7(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/239985831?ticket=e5aacacc4c3a158f2289ff191ac75b59bafe0ef1&profile=pass
+CCTV8(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/542007753?ticket=9494a84c0f7f5711a8a952f82e22b36499a96d84&profile=pass
+CCTV9(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/1612317171?ticket=93a4bddf1b97b5f346e8fee9dde445d11d743181&profile=pass
+辽宁卫视(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/1733717890?ticket=d3ed10f4771419847b558f55e28d888c202e5531&profile=pass
+
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
 星爷,http://mtw.so/6oKdhX
