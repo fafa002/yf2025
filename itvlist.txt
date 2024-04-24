@@ -154,6 +154,19 @@ HK DTMB,#genre#
 (4线)ViuTVsix,http://jolung.synology.me:30261/stream/channelid/995464347?ticket=1c0180c800c944f82d210e6d9f9bc0d422dda4bb&profile=pass
 (4线)ViuTV,http://jolung.synology.me:30261/stream/channelid/100614745?ticket=359dc2fbd4dc815418f68391cbf7dcd11f85ef2b&profile=pass
 
+(5线)港台電視 31,http://jolung.synology.me:17513/stream/channelid/2021954321?ticket=eff4bfd0c8c7192ccff7bc903313ca55546e81fd&profile=pass
+(5线)港台電視 32,http://jolung.synology.me:17513/stream/channelid/803815572?ticket=2ec8bee1448e3e5917c19d1fa43b746f79d5997a&profile=pass
+(5线)HOY 76,http://jolung.synology.me:17513/stream/channelid/924321624?ticket=1245158ae4be5f672457ee1890cdf89d3b428a42&profile=pass
+(5线)HOY 77,http://jolung.synology.me:17513/stream/channelid/1023191826?ticket=f68fb8618c12fce50212ba5995dbad7525432990&profile=pass
+(5线)HOY 78,http://jolung.synology.me:17513/stream/channelid/1584827350?ticket=66c733f75ff0afd3278ac526093a296ab3380f2f&profile=pass
+(5线)翡翠台,http://jolung.synology.me:17513/stream/channelid/1693545038?ticket=0852381e1bd8ecf70b0dff945e1fa38f083e8548&profile=pass
+(5线)TVB Plus,http://jolung.synology.me:17513/stream/channelid/727985876?ticket=f865db94667fc6d0f1ca69d4442831593a845d70&profile=pass
+(5线)無綫新聞台,http://jolung.synology.me:17513/stream/channelid/1069881670?ticket=6172512241942d8e35a3d92a134d17fbdef99d34&profile=pass
+(5线)明珠台,http://jolung.synology.me:17513/stream/channelid/2091736294?ticket=ac1df6b21f593c5b465336452947f77ae1222114&profile=pass
+(5线)鳳凰衛視香港台,http://jolung.synology.me:17513/stream/channelid/1515896649?ticket=6582daa81ce4f1cf647912d18eaaa531c82e9ed9&profile=pass
+(5线)ViuTVsix,http://jolung.synology.me:17513/stream/channelid/663879360?ticket=ffd80f1bd4da87f1d4f871fe1fd3f442cad38783&profile=pass
+(5线)ViuTV,http://jolung.synology.me:17513/stream/channelid/490424535?ticket=20f8b447330c4bec6aae6c2fc03e0d74d9cbd518&profile=pass
+
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
