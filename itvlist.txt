@@ -138,6 +138,15 @@ HK DTMB,#genre#
 (3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
 (3线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
 
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
+ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
+ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
+明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
+TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82
+無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
+凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
+
+
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
