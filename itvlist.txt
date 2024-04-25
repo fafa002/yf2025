@@ -1,4 +1,4 @@
-粤语歌曲,#genre#
+国/粤语歌曲,#genre#
 街道办GDC/欧阳耀莹-春娇与志明,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cl3o8kbc77u6hohtkteg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 卫兰-甘四味,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000civ6kfjc77u44eavju2g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 謝安琪-喜帖街,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c6sbbhjc77u04i6r4crg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
@@ -7,6 +7,7 @@
 许靖韵-高山低谷,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cht0jd3c77uablri1ih0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 周柏豪-我的宣言,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7sm6u3c77uace3houd0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 CAllStar-天梯,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cisenvvog65r87k65dr0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+雨中的恋人们,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjli7rfog65o4vh2p4ug&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 易发天下交流群,
 739303079,
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
