@@ -138,35 +138,6 @@ HK DTMB,#genre#
 (3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
 (3线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
 
-(4线)港台電視 31,http://jolung.synology.me:30261/stream/channelid/1055953789?ticket=cfeeb1ec37737c132c382a1973c97033343d581d&profile=pass
-(4线)港台電視 32,http://jolung.synology.me:30261/stream/channelid/1378775615?ticket=32d45798d2a61e329a61554f1f556d0c2398760e&profile=pass
-(4线)HOY 76,http://jolung.synology.me:30261/stream/channelid/153374972?ticket=f4f1dfb9e1a687983cf47c70566cb16b6dc7d9aa&profile=pass
-(4线)HOY 76,http://jolung.synology.me:30261/stream/channelid/537195735?ticket=628cc2c33a66c3f1f62b4ec9ba14ddeac614343a&profile=pass
-(4线)HOY 77,http://jolung.synology.me:30261/stream/channelid/459949264?ticket=7a9a3872ffc0e37e0c1e39d67a0edd2feb251c59&profile=pass
-(4线)HOY 77,http://jolung.synology.me:30261/stream/channelid/1478933474?ticket=eb1588578335a03d9f3a5b7fc8c0ac08e0add8ca&profile=pass
-(4线)HOY 78,http://jolung.synology.me:30261/stream/channelid/1328960581?ticket=3401fea31ada1e214e600f5b2a758fda10cdc5c7&profile=pass
-(4线)HOY 78,http://jolung.synology.me:30261/stream/channelid/1207995756?ticket=f796238d822d94a0e64a715195811198791adaad&profile=pass
-(4线)翡翠台,http://jolung.synology.me:30261/stream/channelid/1548166379?ticket=37438e88a355486b98c8ea0cbc51134a29ba12c6&profile=pass
-(4线)TVB Plus,http://jolung.synology.me:30261/stream/channelid/112716350?ticket=a6e8c59ad30e07c1791cb97d063bff6868f831c1&profile=pass
-(4线)無綫新聞台,http://jolung.synology.me:30261/stream/channelid/467444975?ticket=6d7a11417a2a450b0c1f731c1f8dfa3eef3e5a3d&profile=pass
-(4线)明珠台,http://jolung.synology.me:30261/stream/channelid/1310877729?ticket=e670e060af90c968f6a3fff58b0ac0941b4f724a&profile=pass
-(4线)鳳凰衛視香港台,http://jolung.synology.me:30261/stream/channelid/943406964?ticket=342fb1ff8c4bdc2f741b57648225d0f0f7efe7b4&profile=pass
-(4线)ViuTVsix,http://jolung.synology.me:30261/stream/channelid/995464347?ticket=1c0180c800c944f82d210e6d9f9bc0d422dda4bb&profile=pass
-(4线)ViuTV,http://jolung.synology.me:30261/stream/channelid/100614745?ticket=359dc2fbd4dc815418f68391cbf7dcd11f85ef2b&profile=pass
-
-(5线)港台電視 31,http://jolung.synology.me:17513/stream/channelid/2021954321?ticket=eff4bfd0c8c7192ccff7bc903313ca55546e81fd&profile=pass
-(5线)港台電視 32,http://jolung.synology.me:17513/stream/channelid/803815572?ticket=2ec8bee1448e3e5917c19d1fa43b746f79d5997a&profile=pass
-(5线)HOY 76,http://jolung.synology.me:17513/stream/channelid/924321624?ticket=1245158ae4be5f672457ee1890cdf89d3b428a42&profile=pass
-(5线)HOY 77,http://jolung.synology.me:17513/stream/channelid/1023191826?ticket=f68fb8618c12fce50212ba5995dbad7525432990&profile=pass
-(5线)HOY 78,http://jolung.synology.me:17513/stream/channelid/1584827350?ticket=66c733f75ff0afd3278ac526093a296ab3380f2f&profile=pass
-(5线)翡翠台,http://jolung.synology.me:17513/stream/channelid/1693545038?ticket=0852381e1bd8ecf70b0dff945e1fa38f083e8548&profile=pass
-(5线)TVB Plus,http://jolung.synology.me:17513/stream/channelid/727985876?ticket=f865db94667fc6d0f1ca69d4442831593a845d70&profile=pass
-(5线)無綫新聞台,http://jolung.synology.me:17513/stream/channelid/1069881670?ticket=6172512241942d8e35a3d92a134d17fbdef99d34&profile=pass
-(5线)明珠台,http://jolung.synology.me:17513/stream/channelid/2091736294?ticket=ac1df6b21f593c5b465336452947f77ae1222114&profile=pass
-(5线)鳳凰衛視香港台,http://jolung.synology.me:17513/stream/channelid/1515896649?ticket=6582daa81ce4f1cf647912d18eaaa531c82e9ed9&profile=pass
-(5线)ViuTVsix,http://jolung.synology.me:17513/stream/channelid/663879360?ticket=ffd80f1bd4da87f1d4f871fe1fd3f442cad38783&profile=pass
-(5线)ViuTV,http://jolung.synology.me:17513/stream/channelid/490424535?ticket=20f8b447330c4bec6aae6c2fc03e0d74d9cbd518&profile=pass
-
 湾湾断流,#genre#
 亚洲美食台 HD,http://startv365.com:80/live/9794783213/6955630461/5566.m3u8
 亚洲旅游台 HD,http://startv365.com:80/live/9794783213/6955630461/5565.m3u8
