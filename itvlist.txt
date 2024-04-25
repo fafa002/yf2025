@@ -2739,7 +2739,7 @@ CCTV-4 中文国际,http://51dtv.net:30294/bysid/124
 厦门卫视,http://51dtv.net:30296/bysid/193
 
 金鹰卡通,http://51dtv.net:30296/bysid/211
-山东有线,#genre#
+失效山东有线,#genre#
 BRTV纪实科教,http://sunny2017.forver.one:31115/stream/channelid/394869652?profile=pass
 BRTV纪实科教高清,http://sunny2017.forver.one:31115/stream/channelid/1291797567?profile=pass
 CCTV1综合,http://sunny2017.forver.one:31115/stream/channelid/1114463448?profile=pass
@@ -3008,7 +3008,7 @@ YTV经济科技,http://sunny2017.forver.one:31115/stream/channelid/700294107?pro
 黑龙江卫视,http://sunny2017.forver.one:31115/stream/channelid/1860230751?profile=pass
 黑龙江卫视高清,http://sunny2017.forver.one:31115/stream/channelid/1865431630?profile=pass
 
-河南有线,#genre#
+失效河南有线,#genre#
 CCTV1HD,http://36.99.221.123:9981/stream/channelid/36460232?profile=pass
 CCTV1HD,http://36.99.221.123:9981/stream/channelid/1577773654?profile=pass
 CCTV2HD,http://36.99.221.123:9981/stream/channelid/1207246706?profile=pass
@@ -3183,7 +3183,7 @@ CETV1,http://36.99.221.123:9981/stream/channelid/1550888309?profile=pass
 开封综合HD,http://36.99.221.123:9981/stream/channelid/2089882348?profile=pass
 天津卫视HD,http://36.99.221.123:9981/stream/channelid/2130102938?profile=pass
 
-湖北有线,#genre#
+失效有线,#genre#
 CCTV1,http://rqd.mytvh.top:10235/stream/channelid/1633815247?ticket=df886b0b102fd3990d0fce84f176585a222f4787&profile=pass
 CCTV2HD,http://rqd.mytvh.top:10235/stream/channelid/300216689?ticket=1a96df835ba1d5a1000be90ce0e362949fed444e&profile=pass
 CCTV3HD,http://rqd.mytvh.top:10235/stream/channelid/472447908?ticket=0f188a805aa7ca03f93b5ddd75841274226edbd2&profile=pass
