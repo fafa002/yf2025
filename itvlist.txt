@@ -2788,21 +2788,18 @@ p2p测试,http://diyp.112114.xyz/douyu/949007
 如鹿归林,http://diyp.112114.xyz/douyu/7009686
 
 YY电影,#genre#
-西游记,http://43.138.170.29:35455/douyu/8953746
-西游记续集,http://43.138.170.29:35455/douyu/3113309
+
 西游记后传,https://live.metshop.top/yy/1353392400
 神雕侠侣,https://live.metshop.top/yy/1351762426
 仙剑奇侠传,http://43.138.170.29:35455/yy/1382749903
 宝莲灯前传,http://43.138.170.29:35455/yy/1354931631
 魔幻手机,http://43.138.170.29:35455/yy/1382735544
 神医喜来乐,http://43.138.170.29:35455/yy/1382714119
-康熙微服私访记,http://zby.xjqxz.top/kxwfxhj/live.m3u8
-新三国超清,http://43.138.170.29:35455/douyu/2838296
-新水浒传,http://43.138.170.29:35455/douyu/3758762
+
 狂飙高清,http://43.138.170.29:35455/yy/1382764587
 隋唐英雄传,http://43.138.170.29:35455/yy/1352475619
 天龙八部超清,http://43.138.170.29:35455/yy/1382736855
-甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
+
 宫心计超清,http://43.138.170.29:35455/yy/1354933540
 济公游记,http://43.138.170.29:35455/yy/1355265814
 新白娘子传奇高清,http://43.138.170.29:35455/yy/1354930969
@@ -2823,6 +2820,8 @@ YY电影,#genre#
 电视剧频道13,http://zby.xjqxz.top/dzzypd/live.m3u8
 电视剧频道14,http://zby.xjqxz.top/dzzypd2/live.m3u8
 电视剧频道15,http://zby.xjqxz.top/dzzypd3/live.m3u8
+康熙微服私访记,http://zby.xjqxz.top/kxwfxhj/live.m3u8
+甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
 
 韩国,#genre#
 韩国电影,rtmp://211.195.208.119/live/12
