@@ -2808,6 +2808,23 @@ YY电影,#genre#
 济公游记,http://43.138.170.29:35455/yy/1355265814
 新白娘子传奇高清,http://43.138.170.29:35455/yy/1354930969
 
+电视剧,#genre#
+电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+电视剧频道2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+电视剧频道3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+电视剧频道4,http://zby.xjqxz.top/gzwxj/live.m3u8
+电视剧频道5,http://zby.xjqxz.top/gzgdj/live.m3u8
+电视剧频道6,http://zby.xjqxz.top/gzdsj1/live.m3u8
+电视剧频道7,http://zby.xjqxz.top/gzdsj2/live.m3u8
+电视剧频道8,http://zby.xjqxz.top/gzdsj3/live.m3u8
+电视剧频道9,http://zby.xjqxz.top/gzdsj4/live.m3u8
+电视剧频道10,http://zby.xjqxz.top/gzdsj5/live.m3u8
+电视剧频道11,http://zby.xjqxz.top/kzzypd2/live.m3u8
+电视剧频道12,http://zby.xjqxz.top/kzzypd/live.m3u8
+电视剧频道13,http://zby.xjqxz.top/dzzypd/live.m3u8
+电视剧频道14,http://zby.xjqxz.top/dzzypd2/live.m3u8
+电视剧频道15,http://zby.xjqxz.top/dzzypd3/live.m3u8
+
 韩国,#genre#
 韩国电影,rtmp://211.195.208.119/live/12
 sbsonair,rtmp://210.216.76.120/live/sbsonair
