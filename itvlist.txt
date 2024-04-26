@@ -2823,6 +2823,7 @@ YY电影,#genre#
 5,http://zby.xjqxz.top/live5/live.m3u8
 11,http://zby.xjqxz.top/live11/live.m3u8
 12,http://zby.xjqxz.top/live12/live.m3u8
+18,http://zby.xjqxz.top/live18/live.m3u8
 
 韩国,#genre#
 韩国电影,rtmp://211.195.208.119/live/12
