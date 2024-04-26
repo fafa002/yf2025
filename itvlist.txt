@@ -2821,8 +2821,6 @@ YY电影,#genre#
 康熙微服私访记,http://zby.xjqxz.top/kxwfxhj/live.m3u8
 甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
 5,http://zby.xjqxz.top/live5/live.m3u8
-6,http://zby.xjqxz.top/live6/live.m3u8
-7,http://zby.xjqxz.top/live7/live.m3u8
 11,http://zby.xjqxz.top/live11/live.m3u8
 12,http://zby.xjqxz.top/live12/live.m3u8
 
