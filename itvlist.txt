@@ -1,6 +1,7 @@
 国/粤语歌曲,#genre#
 街道办GDC/欧阳耀莹-春娇与志明,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cl3o8kbc77u6hohtkteg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 卫兰-甘四味,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000civ6kfjc77u44eavju2g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+卫兰-大哥,
 謝安琪-喜帖街,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c6sbbhjc77u04i6r4crg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 郑欣宜-上心,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmvk5cnog65judt62tcg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 阿细-细界,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ck02v0rc77u87sj16lcg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
@@ -30,6 +31,7 @@ CAllStar-天梯,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000
 陈慧娴-千千阙歌,
 陈慧娴-夜半小夜曲,
 陈慧娴-人生何处不相逢,
+陈慧娴-情意结,
 张国荣-沉默是金,
 钟镇涛-让一切随风,
 刘德华-暗里着迷,
@@ -66,14 +68,13 @@ Twins-下一站天后,
 侧田-命硬,
 钟嘉欣-大爱,
 陈柏宇-你瞒我瞒,
-卫兰-大哥，
-吴哥窿,
-缠绵游戏,
-爱在记忆中找你,
-情意结,
-必杀技,
-爱与诚,
-明知做戏,
+吴雨霏-吴哥窿,
+吴雨霏-明知做戏,
+梁汉文-缠绵游戏,
+泳儿/林峯-爱在记忆中找你,
+古巨基-必杀技,
+古巨基-爱与诚,
+
 一人有一个的梦想,
 
 
