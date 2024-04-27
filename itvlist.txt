@@ -101,9 +101,6 @@ CCTV4k,http://159.75.85.63:5679/cctv4k.php
 
 临时频道,#genre#
 (临时)重温经典,http://mtw.so/5NPX0U
-(IPv6)翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
-(IPv6)明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
-(IPv6)澳門澳視,https://iptv.hiper25.com/TDM/video.m3u8
 (临时)TVB+,http://mtw.so/5Vma8v
 (临时2)amc电影,http://mtw.so/5VmkBn
 (临时2)now体育,http://mtw.so/62SxG4
