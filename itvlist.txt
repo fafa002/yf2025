@@ -279,7 +279,16 @@ TVN,http://193.24.209.91/Smart.php?id=TVN
 WWE,http://193.24.209.91/Smart.php?id=Wwe
 TVBS新闻台,http://193.24.209.91/Smart.php?id=tvbs_n
 TVBS欢乐台,http://193.24.209.91/Smart.php?id=tvbshuanle_twn
-
+EYE戏剧,http://193.24.209.91/Smart.php?id=eyetvxiju_twn
+EYE旅游,http://193.24.209.91/Smart.php?id=eyetvtravel_twn
+ELTA综合,http://193.24.209.91/Smart.php?id=eltazonghe
+ELTA影剧,http://193.24.209.91/Smart.php?id=eltadrama_twn
+ELTA体育1台,http://193.24.209.91/Smart.php?id=eltasport1_twn
+ELTA体育2台,http://193.24.209.91/Smart.php?id=eltasport2_twn
+ELTA体育3台,http://193.24.209.91/Smart.php?id=eltasport3_twn
+ELTA体育4台,http://193.24.209.91/Smart.php?id=natgeowild_twn
+astro欢喜台,http://193.24.209.91/Smart.php?id=Huahee
+astroQJ,http://193.24.209.91/Smart.php?id=Quanjia
 
 HK DTMB,#genre#
 (1线)翡翠台,http://beishan008.asuscomm.com:8889/bysid/1
