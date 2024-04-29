@@ -116,7 +116,8 @@ CCTV4k,http://159.75.85.63:5679/cctv4k.php
 (临时2)东森亚洲卫视,http://mtw.so/6oLaAp
 (临时2)天映频道2,http://mtw.so/6whnF6
 (临时2)香港C+,http://mtw.so/5GjUs9
-岗奥抬频道,#genre#
+
+港澳台频道,#genre#
 (3线)NOW体育,http://60.30.198.43:5080/HK/nowty/hls.m3u8
 (3线)NOW体育2,http://60.30.198.43:5080/HK/nowty2/hls.m3u8
 (3线)NOW新闻,http://60.30.198.43:5080/HK/nowxw/hls.m3u8
