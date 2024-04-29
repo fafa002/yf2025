@@ -98,9 +98,7 @@ Twins-朋友仔,
 陈文缓-时光中飞舞,
 忘川-陈僖仪,
 
-
-易发天下交流群,
-739303079,
+易发天下,#genre#
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
