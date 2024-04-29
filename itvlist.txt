@@ -2132,8 +2132,8 @@ CCTV-4 中文国际,http://51dtv.net:30294/bysid/124
 新疆卫视,http://51dtv.net:30296/bysid/170
 厦门卫视,http://51dtv.net:30296/bysid/193
 金鹰卡通,http://51dtv.net:30296/bysid/211
-CCTV5+体育赛事,http://47.94.35.70:30843/bysid/617
-CCTV5体育高清,http://47.94.35.70:30843/bysid/605
+CCTV5+体育赛事,http://51dtv.net:30843/bysid/617
+CCTV5体育高清,http://51dtv.net:30843/bysid/605
 
 河北有线,#genre#
 CCTV1高清,http://222.223.250.251:9242/stream/channelid/766662026?ticket=28a69056fbb963d3d3e1885f0ce19a21bccb9a39&profile=pass
