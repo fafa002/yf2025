@@ -28,7 +28,7 @@ CAllStar-天梯,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000
 林俊杰-当你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cm6f933c77u0inl4a58g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 关淑怡-难得有情人,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cockvfrc77uecmqmqq40&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 刘小慧-初恋情人,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cc9cli3c77u4vdavpd70&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
-李克勤-红日,
+李克勤-红日,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co87rbjc77ueeb2bpbbg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 李克勤-护花使者,
 徐小凤-风的季节,
 罗文-几许风雨,
