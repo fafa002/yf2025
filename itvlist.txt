@@ -104,6 +104,7 @@ for ya-蒋小呢,
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1HD,http://125126.xyz:9080/hls/CCTV1.m3u8
 CCTV1HD,http://18161816.xyz:9080/hls/CCTV1.m3u8
+CCTV1HD,http://jchl.x3322.net:9080/hls/CCTV1.m3u8
 CCTV2HD,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
