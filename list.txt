@@ -30,7 +30,7 @@ CAllStar-天梯,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000
 刘小慧-初恋情人,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cc9cli3c77u4vdavpd70&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 李克勤-红日,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co87rbjc77ueeb2bpbbg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 李克勤-护花使者,'https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cit40pbc77uae67r96cg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
-徐小凤-风的季节,
+徐小凤-风的季节,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f3b0000c1nfsqej8902v720umvg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 罗文-几许风雨,
 周慧敏-最爱,
 陈百强-偏偏喜欢你,
