@@ -3271,6 +3271,22 @@ YY电影,#genre#
 12,http://zby.xjqxz.top/live12/live.m3u8
 18,http://zby.xjqxz.top/live18/live.m3u8
 
+日本,#genre#
+ABC (544p),http://211.37.26.102:9981/stream/channelid/57731658?ticket=48F421FE0A159FAC968F5A6D6EECCB1B05FFF637&profile=pass
+BS TBS (544p),http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
+BS TV Tokyo (544p),http://211.37.26.102:9981/stream/channelid/2138566532?ticket=E2487372539D4DDC95B8A16A1BA02F4ECA86D76D&profile=pass
+CGNTV Japan (1080p),http://211.37.26.102:9981/stream/channelid/1048789599?ticket=049206AF98AD5BBCEF3CC00BF512EE108C0F0F29&profile=pass
+Disney Junior (544p),http://211.37.26.102:9981/stream/channelid/1094251361?ticket=1F03B93E68C5B349D9B7B1AF59E4483D36612B53&profile=pass
+Fuji TV NEXT (544p),http://211.37.26.102:9981/stream/channelid/2131033872?ticket=DB1AF678B335DD279A5DA9D34BA8186664F7A9A0&profile=pass
+Golf Network (720p),http://211.37.26.102:9981/stream/channelid/393018412?ticket=FFAD020598470442D953BF92BDD97BF568806BD7&profile=pass
+NHK G (Tokyo) (720p),http://211.37.26.102:9981/stream/channelid/1651991013?ticket=7574206A6631C2D3D46FCC21979266A4FD173BBE&profile=pass
+Star 1 (544p),http://211.37.26.102:9981/stream/channelid/1351353857?ticket=66475F0A108152BCA5800B5FC3FB62A68BCA13F2&profile=pass
+Tabi Channel (544p),http://211.37.26.102:9981/stream/channelid/941519802?ticket=EE27088DBB8E23BA9903F67D367C056EC9DEB9BA&profile=pass
+TBS (720p),http://211.37.26.102:9981/stream/channelid/1210262947?ticket=52E496F2B6F70B62B86D80EC4431074B9698955C&profile=pass
+TV Asahi (720p),http://211.37.26.102:9981/stream/channelid/1778789755?ticket=954EF37B02F14AE862535DD2712791EE0263BD03&profile=pass
+TV Tokyo (720p),http://211.37.26.102:9981/stream/channelid/249340799?ticket=46A35DFF100F6F4C3B7A9E41325C84B969B77CCE&profile=pass
+BabyFirst,http://211.37.26.102:9981/stream/channelid/513533713?ticket=423F4F6B3433967D458CB6928D0EDD522174A8A8&profile=pass
+
 韩国,#genre#
 韩国电影,rtmp://211.195.208.119/live/12
 sbsonair,rtmp://210.216.76.120/live/sbsonair
@@ -3279,7 +3295,6 @@ MBC,http://mtw.so/6wgNRA
 SBS,http://mtw.so/5y77g1
 KBS2,http://mtw.so/6oNeK3
 KBS11,http://mtw.so/5FDkkI
-
 KBS JOY,http://112.157.229.162:9981/stream/channelid/693039828?profile=pass
 tvN,http://112.157.229.162:9981/stream/channelid/1326932339?profile=pass
 SBS,http://112.157.229.162:9981/stream/channelid/1600798351?profile=pass
@@ -3321,6 +3336,7 @@ W쇼핑,http://112.157.229.162:9981/stream/channelid/2060162956?profile=pass
 kt알파쇼핑,http://112.157.229.162:9981/stream/channelid/1776727867?profile=pass
 NS샵플러스,http://112.157.229.162:9981/stream/channelid/1467694691?profile=pass
 CJ온스타일+,http://112.157.229.162:9981/stream/channelid/519227742?profile=pass
+
 韩国美女,#genre#
 设置,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cics5f7og65l7400ilo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 画面,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cf4up43c77uaf3l9q61g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
@@ -3350,6 +3366,7 @@ CJ온스타일+,http://112.157.229.162:9981/stream/channelid/519227742?profile=p
 26,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdfl5vrc77u84a2ndsog&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 鸟叔dadey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqraijc77u7k67gk2n0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 鸟叔江南style,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqqvubc77u1shdk2990&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+
 音乐电台,#genre#
 广东,https://lhttp.qingting.fm/live/1257/64k.mp3
 广东音乐,https://lhttp.qingting.fm/live/1260/64k.mp3
