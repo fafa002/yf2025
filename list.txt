@@ -2094,16 +2094,6 @@ CCTV17 8M,http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
 海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 
 北京阿里云,#genre#
-吉林卫视,http://51dtv.net:30724/bysid/164
-河南卫视,http://51dtv.net:30724/bysid/166
-山东卫视,http://51dtv.net:30724/bysid/169
-湖北卫视,http://51dtv.net:30724/bysid/179
-广东卫视,http://51dtv.net:30724/bysid/186
-安徽卫视,http://51dtv.net:30724/bysid/189
-三沙卫视,http://51dtv.net:30724/bysid/196
-深圳卫视,http://51dtv.net:30724/bysid/210
-广西卫视,http://51dtv.net:30724/bysid/187
-陕西卫视,http://51dtv.net:30724/bysid/168
 中国教育电视台-1,http://51dtv.net:30726/bysid/151
 中国教育电视台-3,http://51dtv.net:30726/bysid/153
 山东教育卫视,http://51dtv.net:30726/bysid/154
