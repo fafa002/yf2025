@@ -240,7 +240,7 @@ HK DTMB,#genre#
 (1线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
 (1线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
 (1线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
-(1线)TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82
+(1线)TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82
 (1线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
 (1线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
 
