@@ -111,6 +111,17 @@ CCTV4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4k,http://159.75.85.63:5679/cctv4k.php
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV16HD,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+CCTV1HD,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2HD,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV5HD,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5pHD,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6HD,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV8HD,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV9HD,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+湖南卫视,https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
+辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
 
 临时频道,#genre#
 (临时)重温经典,http://mtw.so/5NPX0U
