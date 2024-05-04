@@ -178,19 +178,6 @@ ydws9,http://170.yfvodcdn.com:8080/live/ydws9/hls.m3u8
 (1线)hoy77,http://122.112.192.218:80/HK/hoy77/hls.m3u8
 (1线)hoy78,http://122.112.192.218:80/HK/hoy78/hls.m3u8
 
-(2线)无线新闻,http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
-(2线)无线新闻2,http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
-(2线)三立新闻,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
-(2线)三立新闻+,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
-(2线)民视新闻,http://154.yfvodcdn.com:8080/live/tymsxw1/hls.m3u8
-(2线)tvbs新闻,http://154.yfvodcdn.com:8080/live/tytvbs1/hls.m3u8
-(2线)台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
-(2线)中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-(2线)中天新闻2,http://154.yfvodcdn.com:8080/live/ztylt02/hls.m3u8
-(2线)台视,http://154.yfvodcdn.com:8080/live/ztylt05/hls.m3u8
-(2线)中视,http://154.yfvodcdn.com:8080/live/ztylt06/hls.m3u8
-(2线)华视,http://154.yfvodcdn.com:8080/live/ztylt13/hls.m3u8
-
 (大街)中视,rtmp://220.130.201.73/sat/tv091
 (大街)华视,rtmp://220.130.201.73/sat/tv111
 (大街)台视,rtmp://220.130.201.73/sat/tv071
