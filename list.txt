@@ -236,14 +236,6 @@ TAIWAN+,http://80story.us.to:9000/live.m3u8?c=21
 中视大陆寻奇,http://80story.us.to:9000/live.m3u8?c=37
 
 HK DTMB,#genre#
-(1线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
-(1线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
-(1线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
-(1线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
-(1线)TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82
-(1线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
-(1线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
-
 (2线)翡翠台,http://303y19i737.vicp.fun:9000/stream/channelid/1859980805?profile=pass
 (2线)TVB Plus,http://303y19i737.vicp.fun:9000/stream/channelid/711545444?profile=pass
 (2线)無綫新聞台,http://303y19i737.vicp.fun:9000/stream/channelid/2122560811?profile=pass
@@ -251,6 +243,14 @@ HK DTMB,#genre#
 (2线)鳳凰衛視香港台,http://303y19i737.vicp.fun:9000/stream/channelid/1738180601?profile=pass
 (2线)ViuTVsix,http://303y19i737.vicp.fun:9000/stream/channelid/508141463?profile=pass
 (2线)ViuTV,http://303y19i737.vicp.fun:9000/stream/channelid/1914169349?profile=pass
+
+(1线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
+(1线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
+(1线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
+(1线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
+(1线)TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82
+(1线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
+(1线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
 
 (3线)翡翠台,http://mtw.so/5NZZkW
 (3线)TVB+,http://mtw.so/6wmD8W
