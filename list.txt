@@ -257,13 +257,13 @@ HK DTMB,#genre#
 (1线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
 (1线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
 
-(2线)明珠台,http://113.83.152.28:1935/bysid/2
-(2线)TVB Plus,http://113.83.152.28:1935/bysid/82
-(2线)無綫新聞台,http://113.83.152.28:1935/bysid/83
-(2线)鳳凰衛視香港台,http://113.83.152.28:1935/bysid/85
-(2线)翡翠台,http://113.83.152.28:1936/bysid/1
-(2线)ViuTVsix,http://113.83.152.28:1936/bysid/96
-(2线)ViuTV,http://113.83.152.28:1936/bysid/99
+(2线)明珠台,http://303y19i737.vicp.fun:9000/stream/channelid/1288191202?profile=pass
+(2线)翡翠台,http://303y19i737.vicp.fun:9000/stream/channelid/679336371?profile=pass
+(2线)TVB Plus,http://303y19i737.vicp.fun:9000/stream/channelid/1386267872?profile=pass
+(2线)無綫新聞台,http://303y19i737.vicp.fun:9000/stream/channelid/1579690249?profile=pass
+(2线)鳳凰衛視香港台,http://303y19i737.vicp.fun:9000/stream/channelid/299599564?profile=pass
+(2线)ViuTVsix,http://303y19i737.vicp.fun:9000/stream/channelid/2103184804?profile=pass
+(2线)ViuTV,http://303y19i737.vicp.fun:9000/stream/channelid/1612663065?profile=pass
 
 (3线)翡翠台,http://mtw.so/5NZZkW
 (3线)TVB+,http://mtw.so/6wmD8W
