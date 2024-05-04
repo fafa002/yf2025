@@ -207,34 +207,42 @@ TAIWAN+,http://80story.us.to:9000/live.m3u8?c=21
 中视大陆寻奇,http://80story.us.to:9000/live.m3u8?c=37
 
 HK DTMB,#genre#
-(4线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
-(4线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
-(4线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
-(4线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
-(4线)TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82
-(4线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
-(4线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
+(1线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
+(1线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
+(1线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
+(1线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
+(1线)TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82
+(1线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
+(1线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
 
-(2线)翡翠台,http://mtw.so/5NZZkW
-(2线)TVB+,http://mtw.so/6wmD8W
-(2线)無綫新聞,http://mtw.so/5ycWzD
-(2线)明珠台,http://mtw.so/5ycWAB
-(2线)凤凰香港,http://mtw.so/5NZZ0M
-(2线)ViuTVsix,http://mtw.so/6hopg0
-(2线)ViuTV,http://mtw.so/5NZZ4k
+(2线)明珠台,http://113.83.152.28:1935/bysid/2
+(2线)TVB Plus,http://113.83.152.28:1935/bysid/82
+(2线)無綫新聞台,http://113.83.152.28:1935/bysid/83
+(2线)鳳凰衛視香港台,http://113.83.152.28:1935/bysid/85
+(2线)翡翠台,http://113.83.152.28:1936/bysid/1
+(2线)ViuTVsix,http://113.83.152.28:1936/bysid/96
+(2线)ViuTV,http://113.83.152.28:1936/bysid/99
 
-(3线)港台電視 31,http://mtw.so/6oR1FR
-(3线)港台電視 32,http://ha.hahomes.net:9982/stream/channel/f6ba9b6fadce2697156c46ed5bb8410d?profile=pass
-(3线)HOY 76,http://ha.hahomes.net:9982/stream/channel/f19bf5db0b1e05b024674e61d64fb834?profile=pass
-(3线)HOY 77,http://ha.hahomes.net:9982/stream/channel/c792028ab392cc0f8643a5b9af6e9c82?profile=pass
-(3线)HOY 78,http://ha.hahomes.net:9982/stream/channel/b59abe2e5aa04f95a83923f05132c183?profile=pass
-(3线)翡翠台,http://ha.hahomes.net:9982/stream/channel/5954ad9fd4240f4a1c1b64ca44963160?profile=pass
-(3线)TVB+,http://ha.hahomes.net:9982/stream/channel/c371e27ca75a04beddc661e77a5bdb71?profile=pass
-(3线)無綫新聞,http://ha.hahomes.net:9982/stream/channel/93c5ee89394c8a3e0c0a6d9ee2afcecf?profile=pass
-(3线)明珠台,http://ha.hahomes.net:9982/stream/channel/c7ee5e92cd50ed745ccc7ea108035400?profile=pass
-(3线)凤凰香港,http://ha.hahomes.net:9982/stream/channel/43b92c96a2f7853f35d59e55dcc251c1?profile=pass
-(3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
-(3线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
+(3线)翡翠台,http://mtw.so/5NZZkW
+(3线)TVB+,http://mtw.so/6wmD8W
+(3线)無綫新聞,http://mtw.so/5ycWzD
+(3线)明珠台,http://mtw.so/5ycWAB
+(3线)凤凰香港,http://mtw.so/5NZZ0M
+(3线)ViuTVsix,http://mtw.so/6hopg0
+(3线)ViuTV,http://mtw.so/5NZZ4k
+
+(4线)港台電視 31,http://mtw.so/6oR1FR
+(4线)港台電視 32,http://ha.hahomes.net:9982/stream/channel/f6ba9b6fadce2697156c46ed5bb8410d?profile=pass
+(4线)HOY 76,http://ha.hahomes.net:9982/stream/channel/f19bf5db0b1e05b024674e61d64fb834?profile=pass
+(4线)HOY 77,http://ha.hahomes.net:9982/stream/channel/c792028ab392cc0f8643a5b9af6e9c82?profile=pass
+(4线)HOY 78,http://ha.hahomes.net:9982/stream/channel/b59abe2e5aa04f95a83923f05132c183?profile=pass
+(4线)翡翠台,http://ha.hahomes.net:9982/stream/channel/5954ad9fd4240f4a1c1b64ca44963160?profile=pass
+(4线)TVB+,http://ha.hahomes.net:9982/stream/channel/c371e27ca75a04beddc661e77a5bdb71?profile=pass
+(4线)無綫新聞,http://ha.hahomes.net:9982/stream/channel/93c5ee89394c8a3e0c0a6d9ee2afcecf?profile=pass
+(4线)明珠台,http://ha.hahomes.net:9982/stream/channel/c7ee5e92cd50ed745ccc7ea108035400?profile=pass
+(4线)凤凰香港,http://ha.hahomes.net:9982/stream/channel/43b92c96a2f7853f35d59e55dcc251c1?profile=pass
+(4线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
+(4线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
 
 广东本地,#genre#
 广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
