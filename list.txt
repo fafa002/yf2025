@@ -206,34 +206,21 @@ ydws9,http://170.yfvodcdn.com:8080/live/ydws9/hls.m3u8
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 湾湾新闻,#genre#
-TVBS HD,http://80story.us.to:9000/live.m3u8?c=1
-TVBS NEWS,http://80story.us.to:9000/live.m3u8?c=2
-TVBS新闻台HD,http://80story.us.to:9000/live.m3u8?c=3
-中天新闻,http://80story.us.to:9000/live.m3u8?c=4
-中天新闻2,http://80story.us.to:9000/live.m3u8?c=5
-中天亚洲台,http://80story.us.to:9000/live.m3u8?c=6
-中视新闻,http://80story.us.to:9000/live.m3u8?c=7
-东森新闻,http://80story.us.to:9000/live.m3u8?c=8
-东森财经新闻HD,http://80story.us.to:9000/live.m3u8?c=9
-寰宇新闻台,http://80story.us.to:9000/live.m3u8?c=10
-台视新闻HD,http://80story.us.to:9000/live.m3u8?c=11
-民视新闻台HD,http://80story.us.to:9000/live.m3u8?c=12
-镜新闻mnews,http://80story.us.to:9000/live.m3u8?c=13
-LIVE三立,http://80story.us.to:9000/live.m3u8?c=14
-三立iNEWS,http://80story.us.to:9000/live.m3u8?c=15
-大爱一台,http://80story.us.to:9000/live.m3u8?c=16
-大爱二台,http://80story.us.to:9000/live.m3u8?c=17
-华视新闻资讯,http://80story.us.to:9000/live.m3u8?c=18
-凤凰资讯HD,http://80story.us.to:9000/live.m3u8?c=19
-新西兰电视台,http://80story.us.to:9000/live.m3u8?c=20
-TAIWAN+,http://80story.us.to:9000/live.m3u8?c=21
-三立NEWS+,http://80story.us.to:9000/live.m3u8?c=22
-寰宇新闻台湾台,http://80story.us.to:9000/live.m3u8?c=26
-寰宇财经台,http://80story.us.to:9000/live.m3u8?c=27
-中视经典综艺,http://80story.us.to:9000/live.m3u8?c=28
-中视台湾志,http://80story.us.to:9000/live.m3u8?c=29
-华视天才冲冲冲,http://80story.us.to:9000/live.m3u8?c=30
-中视大陆寻奇,http://80story.us.to:9000/live.m3u8?c=37
+中視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=2
+三立新聞,http://ytb.csscc.cc:2086/live.m3u8?c=3
+寰宇新聞,http://ytb.csscc.cc:2086/live.m3u8?c=4
+大愛一臺,http://ytb.csscc.cc:2086/live.m3u8?c=5
+東森新聞,http://ytb.csscc.cc:2086/live.m3u8?c=6
+中天新聞,http://ytb.csscc.cc:2086/live.m3u8?c=7
+中天新聞2,http://ytb.csscc.cc:2086/live.m3u8?c=10
+民視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=8
+大愛二臺,http://ytb.csscc.cc:2086/live.m3u8?c=9
+TVBS新聞,http://ytb.csscc.cc:2086/live.m3u8?c=11
+ABC新闻,http://ytb.csscc.cc:2086/live.m3u8?c=12
+公視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=13
+民視戲劇,http://ytb.csscc.cc:2086/live.m3u8?c=14
+國會頻道１,http://ytb.csscc.cc:2086/live.m3u8?c=15
+國會頻道２,http://ytb.csscc.cc:2086/live.m3u8?c=16
 
 HK DTMB,#genre#
 (2线)翡翠台,http://303y19i737.vicp.fun:9000/stream/channelid/1859980805?profile=pass
