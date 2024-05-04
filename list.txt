@@ -207,18 +207,13 @@ TAIWAN+,http://80story.us.to:9000/live.m3u8?c=21
 中视大陆寻奇,http://80story.us.to:9000/live.m3u8?c=37
 
 HK DTMB,#genre#
-(1线)翡翠台,http://beishan008.asuscomm.com:8889/bysid/1
-(1线)ViuTVsix,http://beishan008.asuscomm.com:8889/bysid/96
-(1线)ViuTV,http://beishan008.asuscomm.com:8889/bysid/99
-(1线)明珠台,http://beishan008.asuscomm.com:8890/bysid/2
-(1线)TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82
-(1线)無綫新聞台,http://beishan008.asuscomm.com:8890/bysid/83
-(1线)鳳凰衛視香港台,http://beishan008.asuscomm.com:8890/bysid/85
-(1线)HOY 國際財經台,http://beishan008.asuscomm.com:8891/bysid/76
-(1线)HOY TV,http://beishan008.asuscomm.com:8891/bysid/77
-(1线)HOY 資訊台,http://beishan008.asuscomm.com:8891/bysid/78
-(1线)港台電視 31,http://beishan008.asuscomm.com:8892/bysid/31
-(1线)港台電視 32,http://beishan008.asuscomm.com:8892/bysid/32
+(4线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
+(4线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
+(4线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
+(4线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
+(4线)TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82
+(4线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
+(4线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
 
 (2线)翡翠台,http://mtw.so/5NZZkW
 (2线)TVB+,http://mtw.so/6wmD8W
@@ -240,14 +235,6 @@ HK DTMB,#genre#
 (3线)凤凰香港,http://ha.hahomes.net:9982/stream/channel/43b92c96a2f7853f35d59e55dcc251c1?profile=pass
 (3线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
 (3线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
-
-(4线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
-(4线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
-(4线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
-(4线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
-(4线)TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82
-(4线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
-(4线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
 
 广东本地,#genre#
 广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
