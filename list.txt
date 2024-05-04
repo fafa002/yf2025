@@ -133,11 +133,6 @@ CCTV4k,http://159.75.85.63:5679/cctv4k.php
 (3线)TVB翡翠,http://60.30.198.43:5080/HK/tvb/hls.m3u8
 (3线)TVBJ1,http://mtw.so/5NmqrU
 
-(4线)NOW体育,http://58.87.99.251:8090/HK1/nowbaogu/hls.m3u8
-(4线)NOW新闻,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
-(4线)广电翡翠2,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
-(4线)TVB翡翠,http://58.87.99.251:8090/HK/tvb/hls.m3u8
-
 (1线)NOW体育,http://119.23.61.191:8088/HK/nowbg/hls.m3u8
 (1线)NOW新闻,http://119.23.61.191:8088/HK/nowxy/hls.m3u8
 (1线)hoy77,http://119.23.61.191:8088/HK/hoy77/hls.m3u8
