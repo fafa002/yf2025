@@ -239,13 +239,17 @@ HK DTMB,#genre#
 (1线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
 (1线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
 
-(3线)翡翠台,http://mtw.so/5NZZkW
-(3线)TVB+,http://mtw.so/6wmD8W
-(3线)無綫新聞,http://mtw.so/5ycWzD
-(3线)明珠台,http://mtw.so/5ycWAB
-(3线)凤凰香港,http://mtw.so/5NZZ0M
-(3线)ViuTVsix,http://mtw.so/6hopg0
-(3线)ViuTV,http://mtw.so/5NZZ4k
+(3线)翡翠台,http://nz189l149.bb27109.ctm.net:8889/bysid/1
+(3线)ViuTVsix,http://nz189l149.bb27109.ctm.net:8889/bysid/96
+(3线)ViuTV,http://nz189l149.bb27109.ctm.net:8889/bysid/99
+(3线)澳视澳门,http://nz189l149.bb27109.ctm.net:8891/bysid/91
+(3线)澳视葡语,http://nz189l149.bb27109.ctm.net:8891/bysid/92
+(3线)澳门资讯,http://nz189l149.bb27109.ctm.net:8891/bysid/94
+(3线)澳门macau,http://nz189l149.bb27109.ctm.net:8891/bysid/96
+(3线)明珠台,http://nz189l149.bb27109.ctm.net:8892/bysid/2
+(3线)TVB Plus,http://nz189l149.bb27109.ctm.net:8892/bysid/82
+(3线)無綫新聞台,http://nz189l149.bb27109.ctm.net:8892/bysid/83
+(3线)鳳凰衛視香港台,http://nz189l149.bb27109.ctm.net:8892/bysid/85
 
 (4线)港台電視 31,http://mtw.so/6oR1FR
 (4线)港台電視 32,http://ha.hahomes.net:9982/stream/channel/f6ba9b6fadce2697156c46ed5bb8410d?profile=pass
