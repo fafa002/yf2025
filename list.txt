@@ -223,13 +223,13 @@ ABC新闻,http://ytb.csscc.cc:2086/live.m3u8?c=12
 國會頻道２,http://ytb.csscc.cc:2086/live.m3u8?c=16
 
 HK DTMB,#genre#
-(2线)翡翠台,http://303y19i737.vicp.fun:9000/stream/channelid/1859980805?profile=pass
-(2线)TVB Plus,http://303y19i737.vicp.fun:9000/stream/channelid/711545444?profile=pass
-(2线)無綫新聞台,http://303y19i737.vicp.fun:9000/stream/channelid/2122560811?profile=pass
-(2线)明珠台,http://303y19i737.vicp.fun:9000/stream/channelid/1969668841?profile=pass
-(2线)鳳凰衛視香港台,http://303y19i737.vicp.fun:9000/stream/channelid/1738180601?profile=pass
-(2线)ViuTVsix,http://303y19i737.vicp.fun:9000/stream/channelid/508141463?profile=pass
-(2线)ViuTV,http://303y19i737.vicp.fun:9000/stream/channelid/1914169349?profile=pass
+(2线)明珠台,http://113.83.152.28:1935/bysid/2
+(2线)TVB Plus,http://113.83.152.28:1935/bysid/82
+(2线)無綫新聞台,http://113.83.152.28:1935/bysid/83
+(2线)鳳凰衛視香港台,http://113.83.152.28:1935/bysid/85
+(2线)翡翠台,http://113.83.152.28:1936/bysid/1
+(2线)ViuTVsix,http://113.83.152.28:1936/bysid/96
+(2线)ViuTV,http://113.83.152.28:1936/bysid/99
 
 (1线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
 (1线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
