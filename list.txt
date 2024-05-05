@@ -199,7 +199,7 @@ ABC新闻,http://ytb.csscc.cc:2086/live.m3u8?c=12
 國會頻道１,http://ytb.csscc.cc:2086/live.m3u8?c=15
 國會頻道２,http://ytb.csscc.cc:2086/live.m3u8?c=16
 
-香港地面波,#genre#
+HK 地面波,#genre#
 (2线)明珠台,http://113.83.152.28:1935/bysid/2
 (2线)TVB Plus,http://113.83.152.28:1935/bysid/82
 (2线)無綫新聞台,http://113.83.152.28:1935/bysid/83
