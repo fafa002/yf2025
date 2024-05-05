@@ -130,7 +130,7 @@ NBATV3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 中天新闻,http://121.40.63.193:81/xiangjiao/ztxw.live.flv
 重温经典,http://mtw.so/5NPX0U
 TVB Plus,http://mtw.so/5Vma8v
-無綫新聞台,http://137.175.30.127:9080/hls/inews.m3u8
+無綫新聞台,http://mtw.so/5G16eP
 無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
 AMC电影,http://mtw.so/5VmkBn
 NOW体育,http://mtw.so/62SxG4
