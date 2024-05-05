@@ -100,8 +100,7 @@ Twins-朋友仔,
 for ya-蒋小呢,
 夏天-李玖哲,
 
-易发天下-香蕉出品,#genre#
-中天新闻,http://121.40.63.193:81/xiangjiao/ztxw.live.flv
+易发TV香蕉出品,#genre#
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1HD,http://125126.xyz:9080/hls/CCTV1.m3u8
 CCTV1HD,http://18161816.xyz:9080/hls/CCTV1.m3u8
@@ -128,6 +127,7 @@ NBATV3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 凤凰中文,http://170.yfvodcdn.com:8080/live/xsjgat2/hls.m3u8
 
 临时频道,#genre#
+中天新闻,http://121.40.63.193:81/xiangjiao/ztxw.live.flv
 重温经典,http://mtw.so/5NPX0U
 TVB Plus,http://mtw.so/5Vma8v
 無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
