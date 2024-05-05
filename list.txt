@@ -101,6 +101,7 @@ for ya-蒋小呢,
 夏天-李玖哲,
 
 易发天下-香蕉出品,#genre#
+中天新闻,http://121.40.63.193:81/xiangjiao/ztxw.live.flv
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1HD,http://125126.xyz:9080/hls/CCTV1.m3u8
 CCTV1HD,http://18161816.xyz:9080/hls/CCTV1.m3u8
