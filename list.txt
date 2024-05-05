@@ -136,6 +136,7 @@ NOW体育,http://mtw.so/62SxG4
 东森亚洲卫视,http://mtw.so/6oLaAp
 天映频道2,http://mtw.so/6whnF6
 香港C+,http://mtw.so/5GjUs9
+8TV,http://mtw.so/6wzCN6
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
