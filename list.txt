@@ -128,7 +128,8 @@ nbaTV3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 
 临时频道,#genre#
 重温经典,http://mtw.so/5NPX0U
-TVB+,http://mtw.so/5Vma8v
+TVB Plus,http://mtw.so/5Vma8v
+無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
 AMC电影,http://mtw.so/5VmkBn
 NOW体育,http://mtw.so/62SxG4
 东森超视,http://mtw.so/69INir
@@ -151,8 +152,8 @@ NOW体育,http://mtw.so/62SxG4
 (3线)TVB翡翠,http://60.30.198.43:5080/HK/tvb/hls.m3u8
 (3线)TVBJ1,http://mtw.so/5NmqrU
 
-(1线)hoy77,http://122.112.192.218:80/HK/hoy77/hls.m3u8
-(1线)hoy78,http://122.112.192.218:80/HK/hoy78/hls.m3u8
+(1线)HOY77,http://122.112.192.218:80/HK/hoy77/hls.m3u8
+(1线)HOY78,http://122.112.192.218:80/HK/hoy78/hls.m3u8
 
 (大街)中视,rtmp://220.130.201.73/sat/tv091
 (大街)华视,rtmp://220.130.201.73/sat/tv111
