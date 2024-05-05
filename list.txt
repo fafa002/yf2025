@@ -100,7 +100,7 @@ Twins-朋友仔,
 for ya-蒋小呢,
 夏天-李玖哲,
 
-易发天下,#genre#
+易发天下-香蕉出品,#genre#
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1HD,http://125126.xyz:9080/hls/CCTV1.m3u8
 CCTV1HD,http://18161816.xyz:9080/hls/CCTV1.m3u8
