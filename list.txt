@@ -3312,106 +3312,100 @@ kt알파쇼핑,http://112.157.229.162:9981/stream/channelid/1776727867?profile=p
 NS샵플러스,http://112.157.229.162:9981/stream/channelid/1467694691?profile=pass
 CJ온스타일+,http://112.157.229.162:9981/stream/channelid/519227742?profile=pass
 
-AXN,http://123.143.230.150:9981/stream/channelid/32?ticket=EBC7F3E72240AC3AEA323B1E80118540D74E5ACE
-BTN불교TV,http://123.143.230.150:9981/stream/channelid/69?ticket=CDCFEA4F02E1B456EE209FD1FF159EB64299FF5E
-CBS,http://123.143.230.150:9981/stream/channelid/73?ticket=636BC9252A50C7C49E602A5FF40CCE7142AB6405
-CJ온스타일,http://123.143.230.150:9981/stream/channelid/27?ticket=B2AB8BE3C34EBC5C14D12C449DE7FBD5BEB57B5A
-CJ온스타일+,http://123.143.230.150:9981/stream/channelid/89?ticket=5620552F2DB9A3206794BA2B65BDBAE83E2D21D0
-CMC TV,http://123.143.230.150:9981/stream/channelid/96?ticket=C3CED923FFD4ADD206C38A81D258BB81099B90EA
-CNTV,http://123.143.230.150:9981/stream/channelid/94?ticket=10C6E613C8A105417C0BB5589726F2633DCAAE1D
-CTS,http://123.143.230.150:9981/stream/channelid/72?ticket=7A0E2612E9BA0A128D6B3A01EABEDBF00FCEA261
-EBS Digital,http://123.143.230.150:9981/stream/channelid/18?ticket=10BC97D28DCB71F9ED4B065B18EFBE0F2C1A269F
-EBS Digital,http://123.143.230.150:9981/stream/channelid/19?ticket=10E0EEE455E78C85EE7C8FD6B12E20BDB63D1B16
-EBS플러스1,http://123.143.230.150:9981/stream/channelid/87?ticket=49C4A15A44F5B25830E195D763E842208A185785
-EBS플러스2,http://123.143.230.150:9981/stream/channelid/88?ticket=C32176B24144591DBEB90DE0E25AE237C5686A66
-EDGE TV,http://123.143.230.150:9981/stream/channelid/67?ticket=BFF4B7DC1A783D92F6825F97A330892B2EBCC2E4
-ETN연예,http://123.143.230.150:9981/stream/channelid/100?ticket=72E68AAA1BB61CC460C13AE64E9C5CEC7DC2FD64
-E채널,http://123.143.230.150:9981/stream/channelid/43?ticket=C58077A54C6EC772368466EAF2126345C0C41963
-FOX채널,http://123.143.230.150:9981/stream/channelid/55?ticket=8AE6D63C6F1F824EC3AC479AC3AD61D7E529BFDF
-FSTV,http://123.143.230.150:9981/stream/channelid/12?ticket=07A0BA6BF496B6A6ECD1265194B3607A8C1048B6
-FTV,http://123.143.230.150:9981/stream/channelid/58?ticket=88B90E27B678E423AF5E1A89F6E0F4184C3396C6
-FUN TV,http://123.143.230.150:9981/stream/channelid/76?ticket=953A8791171C81CE026AB2950868CAEDE6769202
-GS Shop,http://123.143.230.150:9981/stream/channelid/30?ticket=1C2A8245BEF212DE20258FFA214F97C2AE58519A
-GS마이샵,http://123.143.230.150:9981/stream/channelid/68?ticket=8E8BB216F4A48B971F49537CEC2807B8CECD58EF
-JTBC,http://123.143.230.150:9981/stream/channelid/25?ticket=19E23BC67FA53E6A87CBD2FB06F44C23FEDCBEB4
-JTBC2,http://123.143.230.150:9981/stream/channelid/77?ticket=F424C07E987D56CBAB8137CBB90FC2CF86173648
-JTBC3,http://123.143.230.150:9981/stream/channelid/50?ticket=001640C5A112F8ED67BCE656C2514F00CD09E8E4
-JTBC4,http://123.143.230.150:9981/stream/channelid/51?ticket=92D644CA2A0A98E16A4B9362BC8A168292AE082A
-KBS JOY,http://123.143.230.150:9981/stream/channelid/64?ticket=059B15EFE06F6C076D37C1EE0B8C260E5BC6F064
-KBSN스포츠,http://123.143.230.150:9981/stream/channelid/90?ticket=A7C1679B7BA0799CD03E5B0606A8780BB06432AD
-KBS드라마,http://123.143.230.150:9981/stream/channelid/78?ticket=07868AF76C25E08EB8FB1DAE4382E3E1A7153E96
-KOREA NEW NETWORK,http://123.143.230.150:9981/stream/channelid/20?ticket=7B899DF5A9F8813E2D047002B4AE83C054D47FE6
-KTV,http://123.143.230.150:9981/stream/channelid/84?ticket=9B24DACC1DEB5B4D842027397C4FB3583F17CEEE
-K쇼핑,http://123.143.230.150:9981/stream/channelid/31?ticket=53A2A1001B56ACDB9FB018134E86B03D700D7C15
-Mnet,http://123.143.230.150:9981/stream/channelid/47?ticket=F74712F75E7EE5CE2E70F7D736CBAFD2961553D4
-MBC DTV,http://123.143.230.150:9981/stream/channelid/23?ticket=75360FA2F74F2957FA47E648675D6CAC985E66AE
-MBC Eve,http://123.143.230.150:9981/stream/channelid/91?ticket=7589D2A5541C6F1D66B508C708392927B2C1AEFE
-MBC드라마넷,http://123.143.230.150:9981/stream/channelid/24?ticket=794D4A72724C1371D5C28F4A1E2B7D1EB789BB8B
-MBC스포츠+,http://123.143.230.150:9981/stream/channelid/57?ticket=3B35599C767FFE20E564A19C8FA321AB37F4A1EB
-MBN,http://123.143.230.150:9981/stream/channelid/34?ticket=1C8C1DC8198447A139F7AA33C592C334F29E37D7
-Mplex,http://123.143.230.150:9981/stream/channelid/52?ticket=45363C3F48A07E3CC9D4AA8147912739802D346A
-NHK프리미엄,http://123.143.230.150:9981/stream/channelid/61?ticket=79435282B79873AC79547382155EC4437471A992
-NQQ,http://123.143.230.150:9981/stream/channelid/56?ticket=AA88F795D229A226C9F8E4F5DCF987FE90CA4271
-NS샵플러스,http://123.143.230.150:9981/stream/channelid/71?ticket=B09A84D87F971CDC230765588B10CC7E9B278F2C
-NS홈쇼핑,http://123.143.230.150:9981/stream/channelid/5?ticket=5FD9DB26296E7239E6210F7690979A780BCC55E1
-OCN,http://123.143.230.150:9981/stream/channelid/38?ticket=97C7147029BB70CE1F3D6EA8E1AF3441E4A55FC8
-OCN무비즈,http://123.143.230.150:9981/stream/channelid/39?ticket=12DB3F0E1339FF44AE13D213DF8D3E783FE4BC97
-OCN스릴즈,http://123.143.230.150:9981/stream/channelid/49?ticket=98EC218C38273B688511352685038993710DC28F
-ONCE,http://123.143.230.150:9981/stream/channelid/10?ticket=13814C31E5EFA18AF8A036580A275ACE220E3D5F
-ONT,http://123.143.230.150:9981/stream/channelid/14?ticket=C9C4EC7D30280FEC83E415C4C78DED75A7D44878
-OUN,http://123.143.230.150:9981/stream/channelid/3?ticket=1FAEDC3DA1E6D2822C2C99A04D372D6AA6C52753
-OtvN,http://123.143.230.150:9981/stream/channelid/9?ticket=DF921ED130CFD56168AF6F51CBFF33CF94868A8E
-SBS Biz,http://123.143.230.150:9981/stream/channelid/65?ticket=E6844DBDF152BFF1CD902463FD6465C99C167422
-SBS스포츠,http://123.143.230.150:9981/stream/channelid/46?ticket=187BF711BE991A037D826888EBACC413283C5B48
-SBS플러스,http://123.143.230.150:9981/stream/channelid/63?ticket=BAC5DD91CF0192D70FC4CFCEE16CD271B65379AE
-SK스토아,http://123.143.230.150:9981/stream/channelid/15?ticket=ECC1B010F449E134AE48B2F101DC96BA453F45D0
-SPOTV,http://123.143.230.150:9981/stream/channelid/16?ticket=870DAEAFADD1E4E38E20CD16E4BF45AD03E43C54
-SPOTV2,http://123.143.230.150:9981/stream/channelid/17?ticket=1FA9323AB0C8A60EE6E53C382FFB3F7A83FD4A28
-TV조선,http://123.143.230.150:9981/stream/channelid/36?ticket=690CC6653AE822CE5C50E5173C45391C01FA9E82
-W쇼핑,http://123.143.230.150:9981/stream/channelid/33?ticket=B08089BB1314A8560D2BC66C2BDE8DADB503F58A
-XTM,http://123.143.230.150:9981/stream/channelid/53?ticket=FDDF0FFB9CE7439259768D160536902D8B709A25
-YTN,http://123.143.230.150:9981/stream/channelid/44?ticket=70C39AE2E95F67C5574CE40B5B23F86BC331BDE7
-tvN,http://123.143.230.150:9981/stream/channelid/35?ticket=6D3EAF69F5C00277A9E1925779E07E758DADAF07
-경남방송,http://123.143.230.150:9981/stream/channelid/45?ticket=4A2209384D4EA25B6939DF984F38077B769D6023
-공영쇼핑,http://123.143.230.150:9981/stream/channelid/4?ticket=3975F21AEB7AA8181E8FEBB9E8D852F6CE6AB8C0
-국회TV,http://123.143.230.150:9981/stream/channelid/41?ticket=23384E3A58D8079B79C8653514ACA092D2FC3C11
-다큐원,http://123.143.230.150:9981/stream/channelid/99?ticket=631D5146687E063D3F4BA8652FF9787D969FF9A9
-더드라마,http://123.143.230.150:9981/stream/channelid/8?ticket=EF96AF05D89E3B3B697762CD867B162CECAA745C
-더라이프,http://123.143.230.150:9981/stream/channelid/59?ticket=D73FE4A7F0FED4F1A06A5419637E5182C4819336
-드라마큐브,http://123.143.230.150:9981/stream/channelid/82?ticket=95F2E998049624E7E3BA1D75EE5B1B0C1ADABFB3
-드라맥스,http://123.143.230.150:9981/stream/channelid/1?ticket=0A5DA0FBB0D86F5ECD867C7D6A5A3C8D455BAB42
-디스커버리,http://123.143.230.150:9981/stream/channelid/60?ticket=5DF734DC6501250CA1E49BCBD8270E4983447EC8
-롯데ONE T,http://123.143.230.150:9981/stream/channelid/86?ticket=ECF76155680534B060ED4DF35D23E2C3E6670257
-롯데홈쇼핑,http://123.143.230.150:9981/stream/channelid/26?ticket=39AAE7DEF24C28EC57C6F88132CE23A35E483C7B
-복지TV,http://123.143.230.150:9981/stream/channelid/80?ticket=0236EB525C3953FB814261B2727F2D5BE690496C
-뷰,http://123.143.230.150:9981/stream/channelid/66?ticket=6683EB33627ADB638AA3CB63C6D3030C03E4EC3E
-사이언스TV,http://123.143.230.150:9981/stream/channelid/95?ticket=4371AA9CF8EC0CD2DB9160BD17292884E94F0517
-상생TV,http://123.143.230.150:9981/stream/channelid/13?ticket=857253802E3B8C5F809BCBE189B4E816689ACF6D
-소상공인방송,http://123.143.230.150:9981/stream/channelid/92?ticket=850E992B03F3A272EEA8DE18D356F948D9BCE145
-쇼핑엔T,http://123.143.230.150:9981/stream/channelid/28?ticket=5F5FD21A227A1A6D2DDDCDEA97E63A1392D1906A
-스카이드라마,http://123.143.230.150:9981/stream/channelid/98?ticket=E8B672E79D59DD8CC1A791F506BFAACB1BFD90E4
-스카이스포츠,http://123.143.230.150:9981/stream/channelid/93?ticket=73380785F6015D741DB889F13EAA222B39ACD414
-스크린,http://123.143.230.150:9981/stream/channelid/54?ticket=681E1459EDFE0209D80DB3390C19CFA14ED09E31
-신세계쇼핑,http://123.143.230.150:9981/stream/channelid/74?ticket=EF04031047A53C496626ADCE18DF3AF26DA9A855
-아이넷,http://123.143.230.150:9981/stream/channelid/62?ticket=61963B87210024834C57DED1D6A999815DD48340
-연합뉴스TV,http://123.143.230.150:9981/stream/channelid/40?ticket=F725924AF873A87D00CA35DEB94297050AE065FE
-온스타일,http://123.143.230.150:9981/stream/channelid/7?ticket=A1112160726C699F6999FA0EF15DEAC29D8C0D43
-올리브,http://123.143.230.150:9981/stream/channelid/42?ticket=FE7CE73C86FE003754F4CB76A5F77CC030EB34C4
-이벤트TV,http://123.143.230.150:9981/stream/channelid/11?ticket=B88FAEBA5FC05230CAE8A7DD67F9BACE8FC0F693
-재능방송,http://123.143.230.150:9981/stream/channelid/75?ticket=FC7C8B2D2D7B0CC030BA72ECEEBFDB6E4274AEB1
-창원 KBS1,http://123.143.230.150:9981/stream/channelid/22?ticket=6FD1416187A3560E58A7A2671E22D76972BED2A8
-창원 KBS2,http://123.143.230.150:9981/stream/channelid/21?ticket=2B9D03698D63C27B4EB4A18D5E9874D6A61051CD
-채널 A,http://123.143.230.150:9981/stream/channelid/37?ticket=02FEEEF34E25AECFB38098F58CC5BE37823C92BA
-채널차이나,http://123.143.230.150:9981/stream/channelid/79?ticket=37F32673C320ABB8A3A87E70C090AE2564C54D6F
-채널칭,http://123.143.230.150:9981/stream/channelid/81?ticket=2CC0A54149D61A9E97BF40712888A08FDCE76AA5
-챔프,http://123.143.230.150:9981/stream/channelid/48?ticket=8484D7E1F49FA1DA586E440446ADC9FF3BAA96D9
-코미디TV,http://123.143.230.150:9981/stream/channelid/2?ticket=4B0A0939D2BA3D22E49E8255DD64009972FEDCA2
-평화방송,http://123.143.230.150:9981/stream/channelid/70?ticket=0C39C9A99DC8FEEEBA597B25E543C030F3344053
-하이라이트TV,http://123.143.230.150:9981/stream/channelid/97?ticket=427B134D58451D9FFDDD737C37B0BB6420BDBB01
-한국경제TV,http://123.143.230.150:9981/stream/channelid/85?ticket=AAAF8340C9C9376DDBE6DEFAF851B361332ECAC4
-현대홈쇼핑,http://123.143.230.150:9981/stream/channelid/6?ticket=7E4F854387751C33058BCBD130CC745DE3532AA5
-현대홈쇼핑+샵,http://123.143.230.150:9981/stream/channelid/83?ticket=1C8776C4F7AE6282F88A4410F8161E7D97DAC52A
-홈앤쇼핑,http://123.143.230.150:9981/stream/channelid/29?ticket=DDB53F7394DA3B71D1EC8FA2A11C3A196732ED3E
+TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KBC 광주방송,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+JTBC3,http://106.246.92.3:9981/stream/channelid/50
+JTBC4,http://106.246.92.3:9981/stream/channelid/51
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+애니원,http://210.97.86.161:9981/stream/channelid/377618692?ticket=
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+JUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+job plus,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
+CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+KBS News D,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+韩·KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩·NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+MBC综合频道[1280*720],http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国新聞,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+TJB(SBS大田),http://1.245.74.5:1935/live/tv/.m3u8
+EBS第频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+ABNHD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+CJOnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+GSShop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+CJOnStyle+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+GugakTV國樂放送,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+NB Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
+AXN,http://106.246.92.3:9981/stream/channelid/32
+연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476?
+BBSTV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS한국농업방송1,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+SAND BOX,http://58.142.60.62:9981/stream/channelid/167222103?profile=pass
+JUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+jtbc2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
+K STAR,http://121.136.153.200:9981/stream/channelid/41
 
 韩国美女,#genre#
 设置,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cics5f7og65l7400ilo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
