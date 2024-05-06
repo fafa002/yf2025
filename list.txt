@@ -3603,11 +3603,18 @@ SUN TV,P2p://generationnexxxt.com:19806/4bb094b241874180af9f61a56370ce35
 Astro小太阳,P2p://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
 Astro AEC(备),P2p://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
 天映频道,P2p://generationnexxxt.com:19806/f7581adcfa1e4eaa88b4d1206f3abe61
+天映经典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
 Astro欢喜台,P2p://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
 翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
 Astro AOD HD 311,P2p://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
+Astro Ceria,P2p://generationnexxxt.com:19806/65a60c7700089e76e0e3d6806c8b1e66
+Astro Arena,P2p://generationnexxxt.com:19806/65b216e7000a7ed40fec9c7d4f4b3c78
+Astro SuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
+Astro SuperSport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+Astro AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 中天亚洲台,P2p://generationnexxxt.com:19806/7c932e1429374b358b547a75ebba7ca8
-天映经典,P2p://generationnexxxt.com:19806/3ac31fa9f30145b68f8469b00d91b200
 KBS World,P2p://generationnexxxt.com:19806/61432c16625e41d3b52570bb136f5054
 TVS,P2p://generationnexxxt.com:19806/18061f7a3a814916bebc76d2363b31e9
 tvN Movies HD,P2p://generationnexxxt.com:19806/c6e40b3dec3344909fc0ca9378a7f4c7
@@ -3616,15 +3623,9 @@ CGTN,P2p://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
 BBC World News,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
 CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 Bloomberg TV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-Astro Ceria,P2p://generationnexxxt.com:19806/65a60c7700089e76e0e3d6806c8b1e66
 Boomerang,P2p://generationnexxxt.com:19806/65619d3500003c6967236ef726ef1633
 KIX,P2p://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 HITS,P2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
-Astro Arena,P2p://generationnexxxt.com:19806/65b216e7000a7ed40fec9c7d4f4b3c78
-Astro SuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
 beIN Sports 3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
 WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
 Sky News,P2p://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
@@ -3632,7 +3633,6 @@ Sky News,P2p://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
 tvN,P2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
 SPOTV,P2p://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
-Astro AEC,P2p://generationnexxxt.com:19806/77dec61f37164fb4b2d9813821f040b8
 Awesome TV,P2p://generationnexxxt.com:19806/3653aa8c401947d4882212e59c54bfba
 BOO,P2p://generationnexxxt.com:19806/72791d5b2d0847bdbd28aaee41af5537
 千禧经典台,P2p://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
