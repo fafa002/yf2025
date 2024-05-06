@@ -127,7 +127,7 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 凤凰中文,http://170.yfvodcdn.com:8080/live/xsjgat2/hls.m3u8
 
 临时频道,#genre#
-中天新闻,http://121.40.63.193:81/xiangjiao/ztxw.live.flv
+中天新闻,http://120.46.49.16:9093/TW/ztxw/hls.m3u8
 重温经典,http://mtw.so/5NPX0U
 重温经典2,http://mtw.so/5FgUAm
 TVB Plus,http://mtw.so/5Vma8v
