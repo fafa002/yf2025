@@ -163,7 +163,7 @@ NOW体育,http://mtw.so/62SxG4
 (大街)华视,rtmp://220.130.201.73/sat/tv111
 (大街)台视,rtmp://220.130.201.73/sat/tv071
 (大街)民视,rtmp://220.130.201.73/sat/tv051
-(大街)纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+(大街)纬来体育,http://mtw.so/5yqGDH
 (大街)纬来体育,rtmp://220.130.201.73/sat/tv721
 (大街)纬来育乐,rtmp://220.130.201.73/sat/tv701
 (大街)纬来日本,rtmp://220.130.201.73/sat/tv771
