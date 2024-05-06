@@ -188,21 +188,31 @@ NOW体育,http://mtw.so/62SxG4
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 湾湾新闻,#genre#
-中視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=2
-三立新聞,http://ytb.csscc.cc:2086/live.m3u8?c=3
-寰宇新聞,http://ytb.csscc.cc:2086/live.m3u8?c=4
-大愛一臺,http://ytb.csscc.cc:2086/live.m3u8?c=5
-東森新聞,http://ytb.csscc.cc:2086/live.m3u8?c=6
-中天新聞,http://ytb.csscc.cc:2086/live.m3u8?c=7
-中天新聞2,http://ytb.csscc.cc:2086/live.m3u8?c=10
-民視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=8
-大愛二臺,http://ytb.csscc.cc:2086/live.m3u8?c=9
-TVBS新聞,http://ytb.csscc.cc:2086/live.m3u8?c=11
-ABC新闻,http://ytb.csscc.cc:2086/live.m3u8?c=12
-公視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=13
-民視戲劇,http://ytb.csscc.cc:2086/live.m3u8?c=14
-國會頻道１,http://ytb.csscc.cc:2086/live.m3u8?c=15
-國會頻道２,http://ytb.csscc.cc:2086/live.m3u8?c=16
+(1线)镜新闻,http://146.196.81.217:8500/live.m3u8?c=2
+(1线)中视新闻,http://146.196.81.217:8500/live.m3u8?c=4
+(1线)TVBS新闻,http://146.196.81.217:8500/live.m3u8?c=5
+(1线)TVBS News,http://146.196.81.217:8500/live.m3u8?c=6
+(1线)TVBS,http://146.196.81.217:8500/live.m3u8?c=7
+(1线)TVBS新闻,http://146.196.81.217:8500/live.m3u8?c=8
+(1线)中天新闻,http://146.196.81.217:8500/live.m3u8?c=9
+(1线)中天亚洲,http://146.196.81.217:8500/live.m3u8?c=10
+(1线)中视万秀猪王,http://146.196.81.217:8500/live.m3u8?c=11
+
+(2线)中視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=2
+(2线)三立新聞,http://ytb.csscc.cc:2086/live.m3u8?c=3
+(2线)寰宇新聞,http://ytb.csscc.cc:2086/live.m3u8?c=4
+(2线)大愛一臺,http://ytb.csscc.cc:2086/live.m3u8?c=5
+(2线)東森新聞,http://ytb.csscc.cc:2086/live.m3u8?c=6
+(2线)中天新聞,http://ytb.csscc.cc:2086/live.m3u8?c=7
+(2线)中天新聞2,http://ytb.csscc.cc:2086/live.m3u8?c=10
+(2线)民視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=8
+(2线)大愛二臺,http://ytb.csscc.cc:2086/live.m3u8?c=9
+(2线)TVBS新聞,http://ytb.csscc.cc:2086/live.m3u8?c=11
+(2线)ABC新闻,http://ytb.csscc.cc:2086/live.m3u8?c=12
+(2线)公視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=13
+(2线)民視戲劇,http://ytb.csscc.cc:2086/live.m3u8?c=14
+(2线)國會頻道１,http://ytb.csscc.cc:2086/live.m3u8?c=15
+(2线)國會頻道２,http://ytb.csscc.cc:2086/live.m3u8?c=16
 
 HK 地面波,#genre#
 (2线)明珠台,http://113.83.152.28:1935/bysid/2
