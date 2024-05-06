@@ -198,21 +198,21 @@ NOW体育,http://mtw.so/62SxG4
 (1线)中天亚洲,http://mtw.so/5G1Iur
 (1线)中视万秀猪王,http://mtw.so/5G1Iwn
 
-(2线)中視新聞,http://mtw.so/6p4jVT
-(2线)三立新聞,http://ytb.csscc.cc:2086/live.m3u8?c=3
-(2线)寰宇新聞,http://ytb.csscc.cc:2086/live.m3u8?c=4
-(2线)大愛一臺,http://ytb.csscc.cc:2086/live.m3u8?c=5
-(2线)東森新聞,http://ytb.csscc.cc:2086/live.m3u8?c=6
-(2线)中天新聞,http://ytb.csscc.cc:2086/live.m3u8?c=7
-(2线)中天新聞2,http://ytb.csscc.cc:2086/live.m3u8?c=10
-(2线)民視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=8
-(2线)大愛二臺,http://ytb.csscc.cc:2086/live.m3u8?c=9
-(2线)TVBS新聞,http://ytb.csscc.cc:2086/live.m3u8?c=11
-(2线)ABC新闻,http://ytb.csscc.cc:2086/live.m3u8?c=12
-(2线)公視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=13
-(2线)民視戲劇,http://ytb.csscc.cc:2086/live.m3u8?c=14
-(2线)國會頻道１,http://ytb.csscc.cc:2086/live.m3u8?c=15
-(2线)國會頻道２,http://ytb.csscc.cc:2086/live.m3u8?c=16
+(2线)中視新聞,https://cuts.top/FG29
+(2线)三立新聞,https://cuts.top/FG15
+(2线)寰宇新聞,https://cuts.top/DJE-
+(2线)大愛一臺,https://cuts.top/FG2m
+(2线)東森新聞,https://cuts.top/FG2u
+(2线)中天新聞,https://cuts.top/FG2z
+(2线)中天新聞2,https://cuts.top/DJFC
+(2线)民視新聞,https://cuts.top/FG2G
+(2线)大愛二臺,https://cuts.top/FG2J
+(2线)TVBS新聞,https://cuts.top/FG2Q
+(2线)ABC新闻,https://cuts.top/FG3e
+(2线)公視新聞,https://cuts.top/DJGd
+(2线)民視戲劇,https://cuts.top/DJGe
+(2线)國會頻道1,https://cuts.top/FG3o
+(2线)國會頻道2,https://cuts.top/DJGn
 
 HK 地面波,#genre#
 (2线)明珠台,http://113.83.152.28:1935/bysid/2
