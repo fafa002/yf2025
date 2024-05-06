@@ -155,6 +155,7 @@ NOW体育,http://mtw.so/62SxG4
 (3线)TVB翡翠,http://60.30.198.43:5080/HK/tvb/hls.m3u8
 (3线)TVBJ1,http://mtw.so/5NmqrU
 
+(1线)中天新聞http://111.230.195.119:80/TW/ztxw/hls.m3u8
 (1线)TVB翡翠,http://111.230.195.119:80/HK/tvb/hls.m3u8
 (1线)HOY77,http://111.230.195.119:80/HK/hoy77/hls.m3u8
 (1线)HOY78,http://111.230.195.119:80/HK/hoy78/hls.m3u8
