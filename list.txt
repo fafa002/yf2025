@@ -243,6 +243,21 @@ HK 地面波,#genre#
 (3线)無綫新聞台,http://nz189l149.bb27109.ctm.net:8892/bysid/83
 (3线)鳳凰衛視香港台,http://nz189l149.bb27109.ctm.net:8892/bysid/85
 
+(4线)翡翠台,http://119.136.123.52:8000/bysid/1
+(4线)ViuTVsix,http://119.136.123.52:8000/bysid/96
+(4线)ViuTV,http://119.136.123.52:8000/bysid/99
+(4线)明珠台,http://119.136.123.52:8001/bysid/2
+(4线)TVB Plus,http://119.136.123.52:8001/bysid/82
+(4线)無綫新聞台,http://119.136.123.52:8001/bysid/83
+(4线)鳳凰衛視香港台,http://119.136.123.52:8001/bysid/85
+(4线)港台電視 31,http://119.136.123.52:8002/bysid/31
+(4线)港台電視 32,http://119.136.123.52:8002/bysid/32
+(4线)中央電視台綜合頻道（CCTV-1綜合),http://119.136.123.52:8002/bysid/33
+(4线)中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://119.136.123.52:8002/bysid/34
+(4线)HOY 國際財經台,http://119.136.123.52:8003/bysid/76
+(4线)HOY TV,http://119.136.123.52:8003/bysid/77
+(4线)HOY 資訊台,http://119.136.123.52:8003/bysid/78
+
 广东本地,#genre#
 广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
