@@ -254,9 +254,6 @@ HK 地面波,#genre#
 (4线)港台電視 32,http://119.136.123.52:8002/bysid/32
 (4线)中央電視台綜合頻道（CCTV-1綜合),http://119.136.123.52:8002/bysid/33
 (4线)中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://119.136.123.52:8002/bysid/34
-(4线)HOY 國際財經台,http://119.136.123.52:8003/bysid/76
-(4线)HOY TV,http://119.136.123.52:8003/bysid/77
-(4线)HOY 資訊台,http://119.136.123.52:8003/bysid/78
 
 广东本地,#genre#
 广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
