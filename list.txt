@@ -3227,10 +3227,6 @@ BabyFirst,http://211.37.26.102:9981/stream/channelid/513533713?ticket=423F4F6B34
 韩国电影,rtmp://211.195.208.119/live/12
 sbsonair,rtmp://210.216.76.120/live/sbsonair
 KBS11,http://mtw.so/6henIc
-MBC,http://mtw.so/6wgNRA
-SBS,http://mtw.so/5y77g1
-KBS2,http://mtw.so/6oNeK3
-KBS11,http://mtw.so/5FDkkI
 
 KBS1,http://175.193.226.144:9981/stream/channelid/1802270304?ticket=7B1A8D60C5E59FF7AEC1B564459DC946D27BD637&profile=pass
 MBC,http://175.193.226.144:9981/stream/channelid/1256535871?ticket=5D192A07B4ACC2875B1A7F77F91D2460C07FFA70&profile=pass
