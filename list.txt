@@ -243,19 +243,6 @@ HK 地面波,#genre#
 (3线)無綫新聞台,http://nz189l149.bb27109.ctm.net:8892/bysid/83
 (3线)鳳凰衛視香港台,http://nz189l149.bb27109.ctm.net:8892/bysid/85
 
-(4线)港台電視 31,http://mtw.so/6oR1FR
-(4线)港台電視 32,http://ha.hahomes.net:9982/stream/channel/f6ba9b6fadce2697156c46ed5bb8410d?profile=pass
-(4线)HOY 76,http://ha.hahomes.net:9982/stream/channel/f19bf5db0b1e05b024674e61d64fb834?profile=pass
-(4线)HOY 77,http://ha.hahomes.net:9982/stream/channel/c792028ab392cc0f8643a5b9af6e9c82?profile=pass
-(4线)HOY 78,http://ha.hahomes.net:9982/stream/channel/b59abe2e5aa04f95a83923f05132c183?profile=pass
-(4线)翡翠台,http://ha.hahomes.net:9982/stream/channel/5954ad9fd4240f4a1c1b64ca44963160?profile=pass
-(4线)TVB+,http://ha.hahomes.net:9982/stream/channel/c371e27ca75a04beddc661e77a5bdb71?profile=pass
-(4线)無綫新聞,http://ha.hahomes.net:9982/stream/channel/93c5ee89394c8a3e0c0a6d9ee2afcecf?profile=pass
-(4线)明珠台,http://ha.hahomes.net:9982/stream/channel/c7ee5e92cd50ed745ccc7ea108035400?profile=pass
-(4线)凤凰香港,http://ha.hahomes.net:9982/stream/channel/43b92c96a2f7853f35d59e55dcc251c1?profile=pass
-(4线)ViuTVsix,http://ha.hahomes.net:9982/stream/channel/a0644e0e693f7c08b60efd87bf3e1b31?profile=pass
-(4线)ViuTV,http://ha.hahomes.net:9982/stream/channel/e118bf44425cedbb0fd442f2fcb07721?profile=pass
-
 广东本地,#genre#
 广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
