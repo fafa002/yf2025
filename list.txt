@@ -101,6 +101,7 @@ for ya-蒋小呢,
 夏天-李玖哲,
 
 易发TV香蕉出品,#genre#
+地址,rtsp://42.200.81.3:8086/0
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1HD,http://125126.xyz:9080/hls/CCTV1.m3u8
 CCTV1HD,http://18161816.xyz:9080/hls/CCTV1.m3u8
