@@ -3469,6 +3469,16 @@ tvk (Not Stable),http://pipe.ra1n.lol/tvk/index.m3u8
 BS11 HD (Not Stable),http://pipe.ra1n.lol/bs11/index.m3u8
 AT-X HD (Not Stable),http://pipe.ra1n.lol/at-x/index.m3u8
 
+日本 Tokyo MX1,https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+日本 Tokyo MX2,https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+日本 Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+日本 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本 声优广播,https://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+日本QVC Japan,https://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本购物2,https://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本购物3,https://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本购物4,https://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+
 韩国,#genre#
 韩国电影,rtmp://211.195.208.119/live/12
 sbsonair,rtmp://210.216.76.120/live/sbsonair
@@ -3628,6 +3638,18 @@ jtbc2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
 26,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdfl5vrc77u84a2ndsog&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 鸟叔dadey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqraijc77u7k67gk2n0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 鸟叔江南style,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqqvubc77u1shdk2990&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+
+泰国,#genre#
+泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
+泰国PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+泰国-公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+越南,#genre#
+Gia Lai TV,http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+-CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+ktv,http://210.245.20.94/hls/ktv1.m3u8
 
 音乐电台,#genre#
 广东,https://lhttp.qingting.fm/live/1257/64k.mp3
