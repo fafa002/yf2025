@@ -3575,6 +3575,30 @@ JUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 jtbc2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
 
+韩国-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国EBS儿童频道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国EBS加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国KBC SBS综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
+韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国Korea arirang 1,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+韩国Korea arirang 3,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+韩国Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
+韩国MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+韩国NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国TJB SBS综艺,http://1.245.74.5:1935/live/tv/.m3u8
+韩国阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+
 韩国美女,#genre#
 设置,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cics5f7og65l7400ilo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 画面,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cf4up43c77uaf3l9q61g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
