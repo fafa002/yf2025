@@ -1183,12 +1183,12 @@ CCTV电视指南HD,http://120.237.204.54:7000/udp/239.21.0.81:3664
 茶频道HD,http://120.237.204.54:7000/udp/239.21.0.120:3824
 
 广东电信组播,#genre#
-广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.1.236:5146
-广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.1.237:5146
 广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.0.244:5146
-广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.0.246:5146
 广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.0.245:5146
 广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.0.252:5146
+广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.1.236:5146
+广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.1.237:5146
+广东综艺4K,http://www.kitcc.cn:8887/udp/239.77.0.246:5146
 广东卫视,http://www.kitcc.cn:8887/udp/239.77.1.19:5146
 广东卫视,http://www.kitcc.cn:8887/udp/239.77.1.152:5146
 广东卫视,http://www.kitcc.cn:8887/udp/239.77.0.84:5146
@@ -1208,6 +1208,16 @@ CCTV电视指南HD,http://120.237.204.54:7000/udp/239.21.0.81:3664
 嘉佳卡通,http://www.kitcc.cn:8887/udp/239.77.0.179:5146
 南方购物,http://www.kitcc.cn:8887/udp/239.77.0.19:5146
 南方购物,http://www.kitcc.cn:8887/udp/239.77.0.22:5146
+广州综合,http://www.kitcc.cn:8887/udp/239.253.43.66:5146
+广州综合,http://www.kitcc.cn:8887/udp/239.253.43.71:5146
+广州新闻,http://www.kitcc.cn:8887/udp/239.253.43.67:5146
+广州新闻,http://www.kitcc.cn:8887/udp/239.253.43.72:5146
+广州影视,http://www.kitcc.cn:8887/udp/239.253.43.68:5146
+广州影视,http://www.kitcc.cn:8887/udp/239.253.43.73:5146
+广州法治,http://www.kitcc.cn:8887/udp/239.253.43.69:5146
+广州法治,http://www.kitcc.cn:8887/udp/239.253.43.74:5146
+广州竞赛,http://www.kitcc.cn:8887/udp/239.253.43.70:5146
+广州竞赛,http://www.kitcc.cn:8887/udp/239.253.43.75:5146
 广州综合,http://www.kitcc.cn:8887/udp/239.77.43.71:5146
 广州新闻,http://www.kitcc.cn:8887/udp/239.77.43.72:5146
 广州影视,http://www.kitcc.cn:8887/udp/239.77.43.73:5146
