@@ -3898,7 +3898,7 @@ Hands Up,P2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 香港国际财经台,P2p://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
 黄金翡翠台,P2p://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 
-晴天马来,#genre#
+晴天马来西亚,#genre#
 beIN Sports,P2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
 TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
 TV2,P2p://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17
