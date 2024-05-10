@@ -258,10 +258,15 @@ HK 地面波,#genre#
 (1线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
 (1线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
 (1线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
+(1线)NOW Jelli,http://grandprix2023.asuscomm.com:8890/bysid/16
+(1线)澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91
+(1线)澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92
+(1线)澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94
+(1线)澳门macau,http://grandprix2023.asuscomm.com:8891/bysid/96
 (1线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
 (1线)TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82
 (1线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
-(1线)凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85
+(1线)鳳凰衛視香港台,http://grandprix2023.asuscomm.com:8892/bysid/85
 
 (3线)翡翠台,http://nz189l149.bb27109.ctm.net:8889/bysid/1
 (3线)ViuTVsix,http://nz189l149.bb27109.ctm.net:8889/bysid/96
