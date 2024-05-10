@@ -271,6 +271,7 @@ HK 地面波,#genre#
 (3线)翡翠台,http://nz189l149.bb27109.ctm.net:8889/bysid/1
 (3线)ViuTVsix,http://nz189l149.bb27109.ctm.net:8889/bysid/96
 (3线)ViuTV,http://nz189l149.bb27109.ctm.net:8889/bysid/99
+(3线)NOW Jelli,http://nz189l149.bb27109.ctm.net:8890/bysid/16
 (3线)澳视澳门,http://nz189l149.bb27109.ctm.net:8891/bysid/91
 (3线)澳视葡语,http://nz189l149.bb27109.ctm.net:8891/bysid/92
 (3线)澳门资讯,http://nz189l149.bb27109.ctm.net:8891/bysid/94
