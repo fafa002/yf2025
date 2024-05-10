@@ -216,6 +216,36 @@ NOW体育,http://mtw.so/62SxG4
 (2线)國會頻道1,https://cuts.top/FG3o
 (2线)國會頻道2,https://cuts.top/DJGn
 
+(3线)TVBS HD,https://cuts.top/FTKJ
+(3线)TVBS NEWS,https://cuts.top/FTKR
+(3线)TVBS新闻台HD,https://cuts.top/FTKT
+(3线)中天新闻,https://cuts.top/FTKY
+(3线)中天新闻2,https://cuts.top/FTL3
+(3线)中天亚洲台,https://cuts.top/FTL5
+(3线)中视新闻,https://cuts.top/DWXD
+(3线)东森新闻,https://cuts.top/FTLd
+(3线)东森财经新闻HD,https://cuts.top/FTLh
+(3线)寰宇新闻台,https://cuts.top/DWXM
+(3线)台视新闻HD,https://cuts.top/FTLm
+(3线)民视新闻台HD,https://cuts.top/FTLr
+(3线)镜新闻mnews,https://cuts.top/FTLz
+(3线)LIVE三立,https://cuts.top/FTLI
+(3线)三立iNEWS,https://cuts.top/DWYg
+(3线)大爱一台,https://cuts.top/DWYj
+(3线)大爱二台,https://cuts.top/DWYk
+(3线)华视新闻资讯,https://cuts.top/DWYp
+(3线)凤凰资讯HD,https://cuts.top/DWYq
+(3线)TAIWAN+,https://cuts.top/FTM1
+(3线)三立NEWS+,https://cuts.top/DWYz
+(3线)国会频道1,https://cuts.top/DWYF
+(3线)国会频道2,https://cuts.top/FTMe
+(3线)寰宇新闻台湾台,https://cuts.top/DWYK
+(3线)寰宇财经台,https://cuts.top/FTMl
+(3线)中视经典综艺,https://cuts.top/DWYR
+(3线)中视台湾志,https://cuts.top/FTMs
+(3线)华视天才冲冲冲,https://cuts.top/FTMv
+(3线)中视大陆寻奇,https://cuts.top/DWZ0
+
 HK 地面波,#genre#
 (2线)明珠台,http://113.83.152.28:1935/bysid/2
 (2线)TVB Plus,http://113.83.152.28:1935/bysid/82
