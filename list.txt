@@ -2251,6 +2251,7 @@ CETV-4,http://php.jdshipin.com:8880/cqyx.php?id=cetv-4SD
 老故事,http://php.jdshipin.com:8880/cqyx.php?id=gushi
 摄影频道,http://php.jdshipin.com:8880/cqyx.php?id=sheying
 靓妆,http://php.jdshipin.com:8880/cqyx.php?id=liang
+重温经典,http://php.jdshipin.com:8880/cqyx.php?id=cwjdHD
 
 百视通8M,#genre#
 CCTV16-4K,http://lzoq.9l.lv/daili/?id=cctv16hd4k/15000000
