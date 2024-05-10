@@ -190,15 +190,15 @@ NOW体育,http://mtw.so/62SxG4
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 湾湾新闻,#genre#
-(1线)镜新闻,http://mtw.so/62zT36
-(1线)TVBS新闻,http://mtw.so/6a1TZT
-(1线)TVBS News,http://mtw.so/5G1IsP
-(1线)TVBS,http://mtw.so/5NxSYa
-(1线)TVBS新闻,http://mtw.so/5Fh5ZM
-(1线)中视新闻,http://mtw.so/6hy6O8
-(1线)中天新闻,http://mtw.so/6wAwZs
-(1线)中天亚洲,http://mtw.so/5G1Iur
-(1线)中视万秀猪王,http://mtw.so/5G1Iwn
+(失效)镜新闻,http://mtw.so/62zT36
+(失效)TVBS新闻,http://mtw.so/6a1TZT
+(失效)TVBS News,http://mtw.so/5G1IsP
+(失效)TVBS,http://mtw.so/5NxSYa
+(失效)TVBS新闻,http://mtw.so/5Fh5ZM
+(失效)中视新闻,http://mtw.so/6hy6O8
+(失效)中天新闻,http://mtw.so/6wAwZs
+(失效)中天亚洲,http://mtw.so/5G1Iur
+(失效)中视万秀猪王,http://mtw.so/5G1Iwn
 
 (2线)三立新聞,https://cuts.top/FG15
 (2线)寰宇新聞,https://cuts.top/DJE-
