@@ -156,6 +156,12 @@ NOW体育,http://mtw.so/62SxG4
 (3线)TVB翡翠,http://60.30.198.43:5080/xiangjiaoge/tvb/hls.m3u8
 (3线)TVBJ1,http://mtw.so/5NmqrU
 
+(2线)NOW星影,http://111.160.76.101:80/xiangjiaoge/xy.live.flv
+(2线)NOW爆谷,http://111.160.76.101:80/xiangjiaoge/bg.live.flv
+(2线)NOW新闻,http://111.160.76.101:80/xiangjiaoge/nowxw.live.flv
+(2线)NOW体育1,http://111.160.76.101:80/xiangjiaoge/nowty.live.flv
+(2线)TVB翡翠,http://111.160.76.101:80/xiangjiaoge/tvb.live.flv
+
 (1线)TVB翡翠,http://111.230.195.119:80/HK/tvb/hls.m3u8
 (1线)HOY77,http://111.230.195.119:80/HK/hoy77/hls.m3u8
 (1线)HOY78,http://111.230.195.119:80/HK/hoy78/hls.m3u8
