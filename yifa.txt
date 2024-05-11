@@ -166,6 +166,8 @@ NOW体育,http://mtw.so/62SxG4
 (1线)HOY77,http://111.230.195.119:80/HK/hoy77/hls.m3u8
 (1线)HOY78,http://111.230.195.119:80/HK/hoy78/hls.m3u8
 (1线)TVB翡翠,http://111.230.195.119:80/HK/tvb/hls.m3u8
+(1线)tvn,http://111.230.195.119:80/HG/tvn/hls.m3u8 
+(1线)jtbc,http://111.230.195.119:80/HG/jtbc/hls.m3u8
 
 (大街)中视,rtmp://220.130.201.73/sat/tv091
 (大街)华视,rtmp://220.130.201.73/sat/tv111
