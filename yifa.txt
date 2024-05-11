@@ -34,8 +34,8 @@ CAllStar-天梯,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000
 罗文-几许风雨,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000co6fijvog65rloj3i5n0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 周慧敏-最爱,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cihdb9rc77uaaibdjvl0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 陈百强-偏偏喜欢你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c4sd0hjc77uadn62vdpg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
-陈百强-一生何求,
-陈慧娴-千千阙歌,
+陈百强-一生何求,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c62hppbc77u6phu370hg&ratio=720p&line=0
+陈慧娴-千千阙歌,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cobq6e3c77udq71olmb0&ratio=720p&line=0
 陈慧娴-夜半小夜曲,
 陈慧娴-人生何处不相逢,
 陈慧娴-情意结,
