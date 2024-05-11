@@ -132,9 +132,10 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 (2线)重温经典,https://cuts.top/FKtq
 (3线)重温经典,http://mtw.so/5FgUAm
 (4线)重温经典,https://cuts.top/FKC6
-TVB Plus,http://mtw.so/5Vma8v
-無綫新聞台,http://mtw.so/5G16eP
-無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
+(1线)TVB Plus,http://mtw.so/5Vma8v
+(2线)TVB Plus,https://cuts.top/FYWl
+(1线)無綫新聞台,http://mtw.so/5G16eP
+(2线)無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
 AMC电影,http://mtw.so/5VmkBn
 NOW体育,http://mtw.so/62SxG4
 香港C+,http://mtw.so/5GjUs9
