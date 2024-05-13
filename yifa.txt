@@ -292,7 +292,6 @@ HK 地面波,#genre#
 (3线)港台電視 32,http://113.88.66.196:8002/bysid/32
 
 斯玛特,#genre#
-
 华丽翡翠,http://wanjiatv.net/Smartv.php?id=Wlt
 翡翠台,http://wanjiatv.net/Smartv.php?id=jade_twn
 J2,http://wanjiatv.net/Smartv.php?id=j2_twn
