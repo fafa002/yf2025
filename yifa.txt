@@ -141,10 +141,10 @@ AMC电影,http://mtw.so/5VmkBn
 NOW体育,http://mtw.so/62SxG4
 香港C+,http://mtw.so/5GjUs9
 8TV,http://mtw.so/6wzCN6
-香港32台,https://antiphishing.biz/Check_Shortest.Link/DJHg
-香港33台,https://antiphishing.biz/Check_Shortest.Link/DJHl
-香港34台,https://antiphishing.biz/Check_Shortest.Link/FG4q
-香港35台,https://antiphishing.biz/Check_Shortest.Link/DJHq
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
 港澳台频道,#genre#
 (3线)NOW体育,http://60.30.198.43:5080/xiangjiaoge/nowty/hls.m3u8
