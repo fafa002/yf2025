@@ -268,6 +268,16 @@ HK 地面波,#genre#
 (4线)HOY 國際財經台,http://183.45.76.143:8891/bysid/76
 (4线)HOY TV,http://183.45.76.143:8891/bysid/77
 
+(1线)翡翠台,http://113.88.66.196:8000/bysid/1
+(1线)ViuTVsix,http://113.88.66.196:8000/bysid/96
+(1线)ViuTV,http://113.88.66.196:8000/bysid/99
+(1线)明珠台,http://113.88.66.196:8001/bysid/2
+(1线)TVB Plus,http://113.88.66.196:8001/bysid/82
+(1线)無綫新聞台,http://113.88.66.196:8001/bysid/83
+(1线)鳳凰衛視香港台,http://113.88.66.196:8001/bysid/85
+(1线)港台電視 31,http://113.88.66.196:8002/bysid/31
+(1线)港台電視 32,http://113.88.66.196:8002/bysid/32
+
 斯玛特,#genre#
 华丽翡翠,http://test.jdshipin.com:8880/Smartv.php?id=Wlt
 翡翠台,http://test.jdshipin.com:8880/Smartv.php?id=jade_twn
