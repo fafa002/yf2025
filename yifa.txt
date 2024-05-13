@@ -2706,27 +2706,6 @@ CETV4,http://dg8006.runqidasoftware.top:10099/stream/channelid/1692354135?ticket
 河北卫视,http://dg8006.runqidasoftware.top:10099/stream/channelid/754561523?ticket=ca335763407c375d9bbcb5da5988f3d2939f684e&profile=pass
 
 湖北有线,#genre#
-CCTV11高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/323874453?profile=pass
-CCTV13新闻高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1077636073?profile=pass
-CCTV15音乐高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1005398755?profile=pass
-CCTV7高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/541975586?profile=pass
-CHC动作电影高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/942617192?profile=pass
-CHC高清电影高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/433156162?profile=pass
-中华美食高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/2022079291?profile=pass
-中学生,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/981153708?profile=pass
-中视购物,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/193895882?profile=pass
-优漫卡通,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/245016341?profile=pass
-嘉佳卡通,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1448718540?profile=pass
-家家购物,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/469872840?profile=pass
-新动漫,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1496827624?profile=pass
-时尚购物,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/641163586?profile=pass
-梨园高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/987510815?profile=pass
-海南卫视,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1520358566?profile=pass
-海南卫视高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1126796921?profile=pass
-精彩影视高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/629740687?profile=pass
-聚鲨环球精选,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1722169622?profile=pass
-秭归综合高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1681471549?profile=pass
-电视指南高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/525893612?profile=pass
 CCTV1,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/384156987?profile=pass
 CCTV2,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/997435547?profile=pass
 CCTV3,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1352895128?profile=pass
