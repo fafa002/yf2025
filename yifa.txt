@@ -142,8 +142,8 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 (2线)凤凰中文,http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
 (3线)鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
 (3线)凤凰卫视,http://64.140.167.170:8080/live/xsjgat2/hls.m3u8
-(4线)凤凰中文高清,http://home.aner.fun:6001/udp/233.50.200.191:5140
-(4线)凤凰资讯高清,http://home.aner.fun:6001/udp/233.50.200.192:5140
+(4线)凤凰中文高清,http://122.224.232.226:8888/udp/233.50.200.191:5140
+(4线)凤凰资讯高清,http://122.224.232.226:8888/udp/233.50.200.192:5140
 AMC电影,http://mtw.so/5VmkBn
 NOW体育,http://mtw.so/62SxG4
 香港C+,http://mtw.so/5GjUs9
