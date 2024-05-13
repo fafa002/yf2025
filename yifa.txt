@@ -130,21 +130,21 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 
 临时频道,#genre#
 (1线)重温经典,http://mtw.so/5NPX0U
-(2线)重温经典,https://cuts.top/FKtq
+(2线)重温经典,https://antiphishing.biz/Check_Shortest.Link/FKtq
 (3线)重温经典,http://mtw.so/5FgUAm
-(4线)重温经典,https://cuts.top/FKC6
+(4线)重温经典,https://antiphishing.biz/Check_Shortest.Link/FKC6
 (1线)TVB Plus,http://mtw.so/5Vma8v
-(2线)TVB Plus,https://cuts.top/FYWl
+(2线)TVB Plus,https://antiphishing.biz/Check_Shortest.Link/FYWl
 (1线)無綫新聞台,http://mtw.so/5G16eP
 (2线)無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
 AMC电影,http://mtw.so/5VmkBn
 NOW体育,http://mtw.so/62SxG4
 香港C+,http://mtw.so/5GjUs9
 8TV,http://mtw.so/6wzCN6
-香港32台,https://cuts.top/DJHg
-香港33台,https://cuts.top/DJHl
-香港34台,https://cuts.top/FG4q
-香港35台,https://cuts.top/DJHq
+香港32台,https://antiphishing.biz/Check_Shortest.Link/DJHg
+香港33台,https://antiphishing.biz/Check_Shortest.Link/DJHl
+香港34台,https://antiphishing.biz/Check_Shortest.Link/FG4q
+香港35台,https://antiphishing.biz/Check_Shortest.Link/DJHq
 
 港澳台频道,#genre#
 (3线)NOW体育,http://60.30.198.43:5080/xiangjiaoge/nowty/hls.m3u8
@@ -198,51 +198,51 @@ NOW体育,http://mtw.so/62SxG4
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 湾湾新闻,#genre#
-(2线)三立新聞,https://cuts.top/FG15
-(2线)寰宇新聞,https://cuts.top/DJE-
-(2线)大愛一臺,https://cuts.top/FG2m
-(2线)大愛二臺,https://cuts.top/FG2J
-(2线)東森新聞,https://cuts.top/FG2u
-(2线)中天新聞,https://cuts.top/FG2z
-(2线)中天新聞2,https://cuts.top/DJFC
-(2线)中視新聞,https://cuts.top/FG29
-(2线)民視新聞,https://cuts.top/FG2G
-(2线)TVBS新聞,https://cuts.top/FG2Q
-(2线)ABC新闻,https://cuts.top/FG3e
-(2线)公視新聞,https://cuts.top/DJGd
-(2线)民視戲劇,https://cuts.top/DJGe
-(2线)國會頻道1,https://cuts.top/FG3o
-(2线)國會頻道2,https://cuts.top/DJGn
+(2线)三立新聞,https://antiphishing.biz/Check_Shortest.Link/FG15
+(2线)寰宇新聞,https://antiphishing.biz/Check_Shortest.Link/DJE-
+(2线)大愛一臺,https://antiphishing.biz/Check_Shortest.Link/FG2m
+(2线)大愛二臺,https://antiphishing.biz/Check_Shortest.Link/FG2J
+(2线)東森新聞,https://antiphishing.biz/Check_Shortest.Link/FG2u
+(2线)中天新聞,https://antiphishing.biz/Check_Shortest.Link/FG2z
+(2线)中天新聞2,https://antiphishing.biz/Check_Shortest.Link/DJFC
+(2线)中視新聞,https://antiphishing.biz/Check_Shortest.Link/FG29
+(2线)民視新聞,https://antiphishing.biz/Check_Shortest.Link/FG2G
+(2线)TVBS新聞,https://antiphishing.biz/Check_Shortest.Link/FG2Q
+(2线)ABC新闻,https://antiphishing.biz/Check_Shortest.Link/FG3e
+(2线)公視新聞,https://antiphishing.biz/Check_Shortest.Link/DJGd
+(2线)民視戲劇,https://antiphishing.biz/Check_Shortest.Link/DJGe
+(2线)國會頻道1,https://antiphishing.biz/Check_Shortest.Link/FG3o
+(2线)國會頻道2,https://antiphishing.biz/Check_Shortest.Link/DJGn
 
-(3线)TVBS HD,https://cuts.top/FTKJ
-(3线)TVBS NEWS,https://cuts.top/FTKR
-(3线)TVBS新闻台HD,https://cuts.top/FTKT
-(3线)中天新闻,https://cuts.top/FTKY
-(3线)中天新闻2,https://cuts.top/FTL3
-(3线)中天亚洲台,https://cuts.top/FTL5
-(3线)中视新闻,https://cuts.top/DWXD
-(3线)东森新闻,https://cuts.top/FTLd
-(3线)东森财经新闻HD,https://cuts.top/FTLh
-(3线)寰宇新闻台,https://cuts.top/DWXM
-(3线)台视新闻HD,https://cuts.top/FTLm
-(3线)民视新闻台HD,https://cuts.top/FTLr
-(3线)镜新闻mnews,https://cuts.top/FTLz
-(3线)LIVE三立,https://cuts.top/FTLI
-(3线)三立iNEWS,https://cuts.top/DWYg
-(3线)大爱一台,https://cuts.top/DWYj
-(3线)大爱二台,https://cuts.top/DWYk
-(3线)华视新闻资讯,https://cuts.top/DWYp
-(3线)凤凰资讯HD,https://cuts.top/DWYq
-(3线)TAIWAN+,https://cuts.top/FTM1
-(3线)三立NEWS+,https://cuts.top/DWYz
-(3线)国会频道1,https://cuts.top/DWYF
-(3线)国会频道2,https://cuts.top/FTMe
-(3线)寰宇新闻台湾台,https://cuts.top/DWYK
-(3线)寰宇财经台,https://cuts.top/FTMl
-(3线)中视经典综艺,https://cuts.top/DWYR
-(3线)中视台湾志,https://cuts.top/FTMs
-(3线)华视天才冲冲冲,https://cuts.top/FTMv
-(3线)中视大陆寻奇,https://cuts.top/DWZ0
+(3线)TVBS HD,https://antiphishing.biz/Check_Shortest.Link/FTKJ
+(3线)TVBS NEWS,https://antiphishing.biz/Check_Shortest.Link/FTKR
+(3线)TVBS新闻台HD,https://antiphishing.biz/Check_Shortest.Link/FTKT
+(3线)中天新闻,https://antiphishing.biz/Check_Shortest.Link/FTKY
+(3线)中天新闻2,https://antiphishing.biz/Check_Shortest.Link/FTL3
+(3线)中天亚洲台,https://antiphishing.biz/Check_Shortest.Link/FTL5
+(3线)中视新闻,https://antiphishing.biz/Check_Shortest.Link/DWXD
+(3线)东森新闻,https://antiphishing.biz/Check_Shortest.Link/FTLd
+(3线)东森财经新闻HD,https://antiphishing.biz/Check_Shortest.Link/FTLh
+(3线)寰宇新闻台,https://antiphishing.biz/Check_Shortest.Link/DWXM
+(3线)台视新闻HD,https://antiphishing.biz/Check_Shortest.Link/FTLm
+(3线)民视新闻台HD,https://antiphishing.biz/Check_Shortest.Link/FTLr
+(3线)镜新闻mnews,https://antiphishing.biz/Check_Shortest.Link/FTLz
+(3线)LIVE三立,https://antiphishing.biz/Check_Shortest.Link/FTLI
+(3线)三立iNEWS,https://antiphishing.biz/Check_Shortest.Link/DWYg
+(3线)大爱一台,https://antiphishing.biz/Check_Shortest.Link/DWYj
+(3线)大爱二台,https://antiphishing.biz/Check_Shortest.Link/DWYk
+(3线)华视新闻资讯,https://antiphishing.biz/Check_Shortest.Link/DWYp
+(3线)凤凰资讯HD,https://antiphishing.biz/Check_Shortest.Link/DWYq
+(3线)TAIWAN+,https://antiphishing.biz/Check_Shortest.Link/FTM1
+(3线)三立NEWS+,https://antiphishing.biz/Check_Shortest.Link/DWYz
+(3线)国会频道1,https://antiphishing.biz/Check_Shortest.Link/DWYF
+(3线)国会频道2,https://antiphishing.biz/Check_Shortest.Link/FTMe
+(3线)寰宇新闻台湾台,https://antiphishing.biz/Check_Shortest.Link/DWYK
+(3线)寰宇财经台,https://antiphishing.biz/Check_Shortest.Link/FTMl
+(3线)中视经典综艺,https://antiphishing.biz/Check_Shortest.Link/DWYR
+(3线)中视台湾志,https://antiphishing.biz/Check_Shortest.Link/FTMs
+(3线)华视天才冲冲冲,https://antiphishing.biz/Check_Shortest.Link/FTMv
+(3线)中视大陆寻奇,https://antiphishing.biz/Check_Shortest.Link/DWZ0
 
 HK 地面波,#genre#
 (2线)明珠台,http://113.83.152.28:1935/bysid/2
