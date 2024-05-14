@@ -162,11 +162,11 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 (2线)NOW爆谷,http://111.160.76.101:80/xiangjiao/bg.live.flv
 (2线)TVB翡翠,http://111.160.76.101:80/xiangjiao/tvb.live.flv
 
-(1线)HOY77,http://111.230.195.119:80/HK/hoy77/hls.m3u8
-(1线)HOY78,http://111.230.195.119:80/HK/hoy78/hls.m3u8
-(1线)TVB翡翠,http://111.230.195.119:80/HK/tvb/hls.m3u8
-(1线)tvn,http://111.230.195.119:80/HG/tvn/hls.m3u8 
-(1线)jtbc,http://111.230.195.119:80/GN/jtbc/hls.m3u8
+(1线)HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
+(1线)HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
+(1线)TVB翡翠,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
+(1线)tvn,http://111.230.195.119:80/香蕉哥/tvn/hls.m3u8 
+(1线)jtbc,http://111.230.195.119:80/香蕉哥/jtbc/hls.m3u8
 
 (大街)中视,rtmp://220.130.201.73/sat/tv091
 (大街)华视,rtmp://220.130.201.73/sat/tv111
