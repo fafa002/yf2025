@@ -254,9 +254,9 @@ NOW体育,http://mtw.so/62SxG4
 (3线)新唐人亚太台,http://william8073.eu.org:9000/live.m3u8?c=38
 
 HK 地面波,#genre#
-(1线)翡翠台,http://183.33.192.19:8000/bysid/1
-(1线)ViuTVsix,http://183.33.192.19:8000/bysid/96
-(1线)ViuTV,http://183.33.192.19:8000/bysid/99
+(1线)翡翠台,http://mtw.so/6ipxPy
+(1线)ViuTVsix,http://mtw.so/6pVIiX
+(1线)ViuTV,http://mtw.so/6wHLKG
 
 (4线)翡翠台,http://mtw.so/6pVG5R
 (4线)ViuTVsix,http://mtw.so/5GOSdN
