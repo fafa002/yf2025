@@ -274,6 +274,19 @@ HK 地面波,#genre#
 (2线)HOY TV,http://113.83.152.28:1936/bysid/77
 (2线)HOY 資訊台,http://113.83.152.28:1936/bysid/78
 
+(6线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1
+(6线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96
+(6线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99
+(6线)Jelli,http://grandprix2023.asuscomm.com:8890/bysid/16
+(6线)澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91
+(6线)澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92
+(6线)澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94
+(6线)澳门macau,http://grandprix2023.asuscomm.com:8891/bysid/96
+(6线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2
+(6线)TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82
+(6线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83
+(6线)鳳凰衛視香港台,http://grandprix2023.asuscomm.com:8892/bysid/85
+
 (5线)明珠台,http://123.202.245.120:8008/bysid/2
 (5线)TVB Plus,http://123.202.245.120:8008/bysid/82
 (5线)無綫新聞台,http://123.202.245.120:8008/bysid/83
