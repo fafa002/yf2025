@@ -251,17 +251,17 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 (3线)新唐人亚太台,http://william8073.eu.org:9000/live.m3u8?c=38
 
 HK 地面波,#genre#
-(1线)翡翠台,http://mtw.so/6ipxPy
-(1线)ViuTVsix,http://mtw.so/6pVIiX
-(1线)ViuTV,http://mtw.so/6wHLKG
+(1线)翡翠台,http://m.glx008.com:8000/bysid/1
+(1线)ViuTVsix,http://m.glx008.com:8000/bysid/96
+(1线)ViuTV,http://m.glx008.com:8000/bysid/99
 
-(4线)翡翠台,http://mtw.so/6pVG5R
-(4线)ViuTVsix,http://mtw.so/5GOSdN
-(4线)ViuTV,http://mtw.so/63n5ty
-(4线)明珠台,http://mtw.so/5OkFku
-(4线)TVB Plus,http://mtw.so/5GOSfp
-(4线)無綫新聞台,http://mtw.so/6ipt0Q
-(4线)鳳凰衛視香港台,http://mtw.so/6pVGnB
+(4线)翡翠台,http://zsntlqj.xicp.net:8895/bysid/1
+(4线)ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96
+(4线)ViuTV,http://zsntlqj.xicp.net:8895/bysid/99
+(4线)明珠台,http://zsntlqj.xicp.net:8896/bysid/2
+(4线)TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82
+(4线)無綫新聞台,http://zsntlqj.xicp.net:8896/bysid/83
+(4线)鳳凰衛視香港台,http://zsntlqj.xicp.net:8896/bysid/85
 
 (2线)明珠台,http://113.83.152.28:1935/bysid/2
 (2线)TVB Plus,http://113.83.152.28:1935/bysid/82
