@@ -130,12 +130,11 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 凤凰中文,http://170.yfvodcdn.com:8080/live/xsjgat2/hls.m3u8
 
 临时频道,#genre#
-(1线)重温经典,http://mtw.so/5NPX0U
+(1线)重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 (2线)重温经典,http://mtw.so/5V5OIT
 (3线)重温经典,http://mtw.so/5FgUAm
 (1线)TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
 (2线)TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-(1线)無綫新聞台,http://mtw.so/5G16eP
 (2线)無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
 (1线)凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 (1线)凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
@@ -145,9 +144,7 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 (3线)凤凰卫视,http://64.140.167.170:8080/live/xsjgat2/hls.m3u8
 (4线)凤凰中文高清,http://122.224.232.226:8888/udp/233.50.200.191:5140
 (4线)凤凰资讯高清,http://122.224.232.226:8888/udp/233.50.200.192:5140
-AMC电影,http://mtw.so/5VmkBn
-NOW体育,http://mtw.so/62SxG4
-香港C+,http://mtw.so/5GjUs9
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 8TV,http://mtw.so/6wzCN6
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
