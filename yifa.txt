@@ -3012,6 +3012,164 @@ CCTV15,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/528398229?pro
 北京IPTV淘娱乐,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/765575551?profile=pass
 CCTV13,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1506736605?profile=pass
 
+江苏有线,#genre#
+CCTV1 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/46597427?ticket=62db6adbf401fa8985aaebb22ba62f9aec6e1ee7&profile=pass
+CCTV2 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/489668031?ticket=6eb17e194d2d22560db1db3bb486a1a70eed6250&profile=pass
+CCTV3 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/940399656?ticket=a64772369dba8ba485fcc27b37ba66653f392612&profile=pass
+CCTV4 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1021791618?ticket=e939968c28d76df5f7e1cbd8681b5be65b9ed3d6&profile=pass
+CCTV5 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/85791873?ticket=4e8a696bfaffe68727e054ab6fb2ea313dac538a&profile=pass
+CCTV5+ HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1878660052?ticket=9ebf69b9f0c732342dfdd38b258caf258b5f7579&profile=pass
+CCTV6 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/607868351?ticket=5b6fdf3f83030e11e11373fec493f747503775fd&profile=pass
+CCTV7 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/487025677?ticket=e58be270bf36f5831dec959db403db11a6e92a81&profile=pass
+CCTV8 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1999852833?ticket=4cf397301c42c7167854da8ba71e27f83351d002&profile=pass
+CCTV9 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/259372444?ticket=308d905a3af24ffae0eb8a68d96c677960326386&profile=pass
+CCTV10 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/789739522?ticket=ffdbdbe9b44ebf35441265a639928ef2b2123f6e&profile=pass
+CCTV11 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/420526109?ticket=2c1d23737f4d06411aefcece965c8448fc51dfe6&profile=pass
+CCTV12 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/380667107?ticket=9a557cc13085ca75f1805012e0bdd271ba887c85&profile=pass
+CCTV13 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1975800423?ticket=bebf1c96cbd2bbb9be31536ed91e60c4bb68f37f&profile=pass
+CCTV14 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1049897665?ticket=59b27a0dd55a0aed495ee8305e89ec92ac6c7bab&profile=pass
+CCTV15 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1383038288?ticket=5db0b3121bfb6d6427d29495e48c11d5579341aa&profile=pass
+CCTV16 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1398526316?ticket=ca36c3e5098ce95e21da58f983b66a0e48565f87&profile=pass
+CCTV164K（HDR）,http://dg8006.runqidasoftware.top:10178/stream/channelid/2064842647?ticket=53a3bba3e4b5ebb5aeed63fe1ff366cc57fabe32&profile=pass
+CCTV164K（SDR）,http://dg8006.runqidasoftware.top:10178/stream/channelid/806741495?ticket=d8abbe0f5db3c3039b4fe2c77b818e84e52921ab&profile=pass
+CCTV17 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/468433173?ticket=bf344e5643da4b5e8b2f9704576522a10190c0a0&profile=pass
+欢笑剧场 4K,http://dg8006.runqidasoftware.top:10178/stream/channelid/1945710547?ticket=08484949ee4fa0d8e04d3b7f58553fb4e70a9243&profile=pass
+欢笑剧场 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1793902296?ticket=72f857471602664b7b50098a3f493915a3905adc&profile=pass
+百事通4K,http://dg8006.runqidasoftware.top:10178/stream/channelid/171336563?ticket=f5c11195324709ed71f1082e3e03348bdd69eb95&profile=pass
+江苏卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1502095383?ticket=151e2dc293d04e98b7063c39c8b2f94a9f2af637&profile=pass
+浙江卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/840719253?ticket=cede5bf50922f2e6c3102f8761968b92131e5bf6&profile=pass
+江苏国际,http://dg8006.runqidasoftware.top:10178/stream/channelid/1264065576?ticket=a3de9618101a53c0ddca779066007facd7c3aa23&profile=pass
+江苏城市 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/2053744586?ticket=f41a753c865fc21f59e6285a0c2dc0a97b8d20fe&profile=pass
+江苏影视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1271011721?ticket=838639159a60561920b8cacb588e96a39bacb094&profile=pass
+江苏体育 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/677035772?ticket=b729f193035d3a506da73c39ed9b966cfd666cf9&profile=pass
+江苏教育 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/611089367?ticket=f7fa061a349eedf817ebd6002ebc5f3256aece52&profile=pass
+江苏新闻 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1342632248?ticket=ffa953b8594b9900f4fafc84f156ca75fc658364&profile=pass
+江苏综艺 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/45081830?ticket=5d7c34d372487695309466caaf73dc2312f9cdb0&profile=pass
+湖南卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1168623596?ticket=60bde05f97e219bfeed4fa96ba1bb20ffc705ba4&profile=pass
+东方卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/114121377?ticket=f3e22cbe77aac23edb68de5c8bc7570a33549d8b&profile=pass
+北京卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1376746660?ticket=533e05a425409c5bd7f93b85c955d71780e4f7d8&profile=pass
+四川卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/344250486?ticket=a92c38920710b179409142849d5b93526f1890db&profile=pass
+大湾区卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/2234055?ticket=4ebfa350274b1b0f7d20862298a378832fd40b0c&profile=pass
+天津卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/2026447643?ticket=8bbafdb9acdc88b459010731520b45d6742138e8&profile=pass
+山东卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/273071412?ticket=fa562f46602a579f580b9407b18ca0ddf96c8166&profile=pass
+山东教育,http://dg8006.runqidasoftware.top:10178/stream/channelid/1088433897?ticket=85e67500cd79a490b4e9421fa23357cc015e369f&profile=pass
+安徽卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/953112456?ticket=dacf28ba3e122d78b80de6823aacb9c025054d9c&profile=pass
+湖北卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/982673992?ticket=0b52cb7770ae102b642c55cb64d236f30b83c098&profile=pass
+重庆卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1002745348?ticket=b8b3997fff250e8d43b432f52e3dff5e5f28ace4&profile=pass
+深圳卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1069024028?ticket=36fa0990b2e2269110a4bdf317060169380a61ce&profile=pass
+广东卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1181581953?ticket=9be81fcea3380ef10411e251ef642c2293aebf7e&profile=pass
+河南卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1535412523?ticket=654c1c1f4883c9691c802e7de1036c54c92f1605&profile=pass
+吉林卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1816228443?ticket=67a2c2f3ad1edcf101b3c8cf944ecee54786514e&profile=pass
+贵州卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1832260960?ticket=9678a8ca7e1efb053bb5755dc643bdcc7cd8b34d&profile=pass
+三沙卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1866595541?ticket=7184c9bfca7ec10568a859f95f3dff57a976e177&profile=pass
+江西卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/100915893?ticket=95bebbcd05cb945aa49cd2e7130ca1532e007810&profile=pass
+山西卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/130588315?ticket=c85583f30b6475e54b92076174c5d87bee1cdd34&profile=pass
+新疆卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/280848434?ticket=e0e13250403ba1f0977d1357773c187707343574&profile=pass
+广西卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/297928811?ticket=5626aa0d35f6988caa2af2416cf426dd69747d4d&profile=pass
+辽宁卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/389635164?ticket=9d2fe31687d4d16e4da66ab0ebbbb872860da47e&profile=pass
+东南卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/469696811?ticket=f853eb0ff2d01ef9c5ec0833f148bc566ec3d95a&profile=pass
+海南卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/510264619?ticket=d17a10bdd747f853d961c7f9626e853dcb879a41&profile=pass
+河北卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/586857391?ticket=562c87d9edb833f7c48e5cdf1e80da60e5fb3652&profile=pass
+陕西卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/1364918189?ticket=d0d5ab1d5636fe5ae3ac194e2a380b8588754dbb&profile=pass
+甘肃卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/1395478052?ticket=9d026d5b12ec0963c31f7ac2282add26354314ff&profile=pass
+内蒙古卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/1512803814?ticket=6057a737ad819f9473210e8d00b9f57b13dfea85&profile=pass
+黑龙江卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/710334101?ticket=993de943d96280d223a77f1d5764fb330facf2b1&profile=pass
+云南卫视 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/857956708?ticket=54109149b4e5f96999afa0e3c49235c183f01727&profile=pass
+宁夏卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/870186871?ticket=b96ef8c122cb58792291cdc6e7be7ba910e80a44&profile=pass
+西藏卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/1132741829?ticket=9fbce4812ffe006e826acf6714b1fd9b5ae1fc07&profile=pass
+青海卫视,http://dg8006.runqidasoftware.top:10178/stream/channelid/90972020?ticket=01064eb0a08805a618eeb51db73b476e40c71bb5&profile=pass
+BesTV电影1,http://dg8006.runqidasoftware.top:10178/stream/channelid/1454575963?ticket=75882dbc10379a1eeafd4c07aa140e09382ec3f5&profile=pass
+BesTV电影2,http://dg8006.runqidasoftware.top:10178/stream/channelid/1103722530?ticket=d08ba03ae2c2154081ef488f4106e9b295beedb4&profile=pass
+BesTV经典港剧,http://dg8006.runqidasoftware.top:10178/stream/channelid/911710678?ticket=7bd3b326173ba454678840f448fe6f34267357c1&profile=pass
+优漫卡通 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1738271743?ticket=9a053fa7e7cebb24e812e9a4bdd78f7e7192ec33&profile=pass
+动漫秀场 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1867309887?ticket=e91e85c3efc350487d9d5222e5cd4cf36f99a1fb&profile=pass
+游戏风云 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1933452187?ticket=59686f489e04c3ef5305c31a255f4f8d59ea1155&profile=pass
+武术世界 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1544978796?ticket=5dccf593224f3f398fe70a78c42c262f05f72046&profile=pass
+文化精品 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1970445818?ticket=4d8dc2804cbf8d0693f2229fcc640fb789d33bbc&profile=pass
+世界地理 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/2022782352?ticket=3f9f8d9c27048e09cf1b502bae38c66802e71873&profile=pass
+央视台球 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/2123661743?ticket=d2d4da721ff0226b93e6cea8dbdddc42fa1a8575&profile=pass
+怀旧剧场 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/8859596?ticket=52b0e78f52f5acf946fe0601d3e9dce3581b4e4b&profile=pass
+文物宝库 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/220472364?ticket=be2064af39cdea5b0bdd6d8925fb45ead0a605db&profile=pass
+乐游 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/321145679?ticket=79f3617cb0eda11acad4ff96f52f2cd193897c4a&profile=pass
+金鹰纪实 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/399477087?ticket=9cbbacaa6361a7eba98617889216ccbd9d02bd1d&profile=pass
+生活时尚 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/781306497?ticket=d1672e5b8aa7b64094b52cfdc646cd4ae9616118&profile=pass
+快乐垂钓 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/795286743?ticket=8e62cffb6e0a5da31f8ef213ad6d8871ee6181f1&profile=pass
+第一财经 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1176572069?ticket=0a39a41a8ea66c959fabe1d594dd638908d196d7&profile=pass
+风云音乐 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1266865620?ticket=4652bb26dea97f0ce499d0fc2d213c1f7df24bb6&profile=pass
+CETV4 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1357212431?ticket=f2d8ea7fbc3f6f8d6fc7d2693252e98a477a3780&profile=pass
+高尔夫网球 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1375862848?ticket=52870f243b9ffbc287ad53378d2685ee497a8139&profile=pass
+第一剧场 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1399897345?ticket=25b8b5aebb960750e5061c2615274a5a141c9f92&profile=pass
+梨园戏曲 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/906888527?ticket=edc97e8e219b29394423a312ec402afbbf02654c&profile=pass
+兵器科技 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/579236409?ticket=477c6e3a7549e286c2d423ae8f727aaa6dcb9a5a&profile=pass
+风云剧场 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/516049748?ticket=fba0a1a763e3c09d6325dfaeec391763eb8467f7&profile=pass
+风云足球 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1279506266?ticket=6d915dc7f087e7fd38cdb20c5251f883c8838dec&profile=pass
+金色频道,http://dg8006.runqidasoftware.top:10178/stream/channelid/1608721809?ticket=01a2b7701fb532d471e5a3e0fa5d24215348bd5a&profile=pass
+CETV1 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1121482706?ticket=90bcaa7fc054d43a4f2e133cf297baaddcfe9559&profile=pass
+CGTN英语,http://dg8006.runqidasoftware.top:10178/stream/channelid/604843561?ticket=5ac1b5a55fde75491daf91032def5f4bec2d4626&profile=pass
+CETV2,http://dg8006.runqidasoftware.top:10178/stream/channelid/228218206?ticket=d1b0dc2c3896a19bb3519859951eea8567ef2d75&profile=pass
+南京新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/148068784?ticket=03c601e91a8c7def7fa598ec25dd073e47d03ab5&profile=pass
+南京生活,http://dg8006.runqidasoftware.top:10178/stream/channelid/1041740499?ticket=524b373868609b534f8803d0d58053d9ddffefb4&profile=pass
+南京科教,http://dg8006.runqidasoftware.top:10178/stream/channelid/61259452?ticket=b20b94a48238461ff613a5cd9c1960a1760f1831&profile=pass
+书画频道,http://dg8006.runqidasoftware.top:10178/stream/channelid/1051614375?ticket=2dd7617590a9ba38bde624c4a49bfeb0d6d54386&profile=pass
+都市剧场 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/870748824?ticket=22f489941b0d6ed5256cc89fc0d0dbb5055ff796&profile=pass
+茶频道 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/587626310?ticket=ef7b8e9a5c0ebe6d50033ad9e4d2d628a786bd5f&profile=pass
+苏州生活,http://dg8006.runqidasoftware.top:10178/stream/channelid/796722579?ticket=9741515088b9ff6a60db10003a5dedd1408a4c06&profile=pass
+财富天下,http://dg8006.runqidasoftware.top:10178/stream/channelid/1471515389?ticket=dd1443f4f1922b94e73aadfac577b5a3ad8b3239&profile=pass
+连云港公共 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/769121506?ticket=fa71c45634dbba71894d5d89c9a87e466036ac41&profile=pass
+连云港新闻 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/2065023881?ticket=26e4bb7bada213febae2522ee67c4146d95fe8b0&profile=pass
+金鹰卡通 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/851638833?ticket=2f83d105cc50552ab7546894335b38f5dfee4cb8&profile=pass
+常州公共,http://dg8006.runqidasoftware.top:10178/stream/channelid/1460135390?ticket=3b778ad142ca2291107b18605c4992a41cc73f62&profile=pass
+常州新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/922556105?ticket=db6493da3284b7698f7e30d1efc5b5261837e429&profile=pass
+常州生活,http://dg8006.runqidasoftware.top:10178/stream/channelid/632810014?ticket=1db433d14f13ffa33645b68ccd2741ae1a5e2bc4&profile=pass
+常州都市,http://dg8006.runqidasoftware.top:10178/stream/channelid/842960788?ticket=1c3fa7543400a141fb1dd697a8cea6c766d5bc78&profile=pass
+徐州1,http://dg8006.runqidasoftware.top:10178/stream/channelid/1565897443?ticket=c9ac291808cc2a0af1a69c378dc9fb9ff060c958&profile=pass
+徐州2,http://dg8006.runqidasoftware.top:10178/stream/channelid/243003010?ticket=a87a2b438fe1e354aabaa7af74c3c201128e5614&profile=pass
+徐州3,http://dg8006.runqidasoftware.top:10178/stream/channelid/1449714345?ticket=08f089e7020173f388b9fa1e01daff0312f2fab6&profile=pass
+徐州4,http://dg8006.runqidasoftware.top:10178/stream/channelid/627656323?ticket=5db5aa33806ff475316e2793bbc039e68b71c0cc&profile=pass
+气象频道,http://dg8006.runqidasoftware.top:10178/stream/channelid/25555523?ticket=c61339ca55471b2a6d70c89af330160d5b1bb626&profile=pass
+泰州1,http://dg8006.runqidasoftware.top:10178/stream/channelid/1489133791?ticket=e88234f5d008853245e5fea9a72f7d2f6576b842&profile=pass
+泰州2,http://dg8006.runqidasoftware.top:10178/stream/channelid/642620511?ticket=bf6fda63b682b1260942dd0615380d84d5f7a8aa&profile=pass
+泰州3,http://dg8006.runqidasoftware.top:10178/stream/channelid/527783302?ticket=0a35b2f0042288e9b3669d5d5be3e04d057025b6&profile=pass
+洪泽综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/926989053?ticket=8446596a89cb78ddda61591c039db9963c4d2b38&profile=pass
+淮安公共,http://dg8006.runqidasoftware.top:10178/stream/channelid/168147342?ticket=667e958057705243900ce7aba8b7583b2fef53fe&profile=pass
+淮安影视,http://dg8006.runqidasoftware.top:10178/stream/channelid/478102168?ticket=7de3aea8577b4d86b9be72fc53f339179a49ac21&profile=pass
+淮安综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/1166215248?ticket=a955b733a2b1813f9e7849e29e2e5fced264459b&profile=pass
+淮阴综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/1562823921?ticket=3726c4bdf86e988a6e0ecae98743acf7f59d7bf6&profile=pass
+盐城1 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/7788455?ticket=395ac5048fcb9002f577fd15ddd94a66976d5abe&profile=pass
+盱眙新闻 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/168674448?ticket=6baf6eb7756f9d760c079683f8dcfcbeb009d089&profile=pass
+先锋乒羽,http://dg8006.runqidasoftware.top:10178/stream/channelid/1405783260?ticket=ea00c2aa74e5c7b2d9e83034c39267fced9eb7ec&profile=pass
+兴化新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/1266490908?ticket=eec7385fbc7f57908406845cbfee3a9cf24cd907&profile=pass
+十八频道,http://dg8006.runqidasoftware.top:10178/stream/channelid/525982196?ticket=e091cf2d53a6e17dfea6eeb359f92a0873720638&profile=pass
+南通2,http://dg8006.runqidasoftware.top:10178/stream/channelid/1607578171?ticket=dd77a6890510dc81785c124a4b6d7123ecec7c58&profile=pass
+南通3,http://dg8006.runqidasoftware.top:10178/stream/channelid/1562529471?ticket=12c770440e9eaae76670d52fb435e6b1a605d6ef&profile=pass
+响水综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/166760274?ticket=533aa7d369afb94331f656aee0e8d2707d5dafbb&profile=pass
+女性时尚 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/2044577021?ticket=ba4a07520cc7ef8960dfaa42f67a80bb0c7abb94&profile=pass
+宿豫综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/186031169?ticket=c78ed578fe3c83c8f8323d5b089054eff0864e76&profile=pass
+宿迁公共 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/39899660?ticket=9481a6801ab29281cc3c4ea1426f2c7d7461c6f6&profile=pass
+宿迁综合 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1371798372?ticket=bceca7a0bb1face01f467b7f957089dcd52c8cf9&profile=pass
+射阳新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/1845964805?ticket=668d31d3fe66770cb4ca607953e6a155a2947a27&profile=pass
+新沂1,http://dg8006.runqidasoftware.top:10178/stream/channelid/386084728?ticket=7393c3b198f625bffc865dc65e71f3c171988701&profile=pass
+法治天地,http://dg8006.runqidasoftware.top:10178/stream/channelid/1943185323?ticket=458d3c4aeccaf7d93a1a7a59f77623ca6b40de3c&profile=pass
+泗洪综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/216528068?ticket=5c79218aa3581947156d4c4b95fa9cf5670da360&profile=pass
+泗阳综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/1453959642?ticket=7f3315d81b58931903630d7942de934ceb6dfbc7&profile=pass
+贾汪新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/985161482?ticket=be5adb50d0b41013a73db2ff76a193c0d1285e13&profile=pass
+赣榆电视台,http://dg8006.runqidasoftware.top:10178/stream/channelid/1472892670?ticket=2e1dd12ead2773fb27a932e6ced9ea1cd671b879&profile=pass
+邳州综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/1609258042?ticket=4882ce980bf00cd7294507487548411f545dbf90&profile=pass
+铜山1,http://dg8006.runqidasoftware.top:10178/stream/channelid/199370190?ticket=fe111246062dbc7008ab82c2253ed1f4af3fa0d9&profile=pass
+镇江新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/967659451?ticket=2b5afabbbdea1aac3777e3367b49f6c7c7736461&profile=pass
+高淳新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/1646776867?ticket=767dc0e39c09b603d29d89cd15de822582247065&profile=pass
+高港综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/206433695?ticket=08190bf6b46e9183ba87f58a5d12ac91523f6611&profile=pass
+睢宁综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/1936496563?ticket=1fd71e645c75b46567c327a5e629fcbae86b15ab&profile=pass
+直播室1高清,http://dg8006.runqidasoftware.top:10178/stream/channelid/1576790645?ticket=c613e82e24018c99716bfd955bc5a6e04067b311&profile=pass
+直播室4高清,http://dg8006.runqidasoftware.top:10178/stream/channelid/872376181?ticket=b3e5b109b708e7642a49d9bb17dd03f1006c0ac9&profile=pass
+直播室5高清,http://dg8006.runqidasoftware.top:10178/stream/channelid/450184746?ticket=388ebdd899ad1d700054afe6145985292f49cd00&profile=pass
+直播室7高清,http://dg8006.runqidasoftware.top:10178/stream/channelid/1538621372?ticket=b932f1c65630d91bf413021afe31735bb6d5a643&profile=pass
+直播室9高清,http://dg8006.runqidasoftware.top:10178/stream/channelid/1977615763?ticket=a30b9ba8de36d7e1aee823061f016f51a49da3d3&profile=pass
+直播室11高清,http://dg8006.runqidasoftware.top:10178/stream/channelid/1190939394?ticket=6f28a72e3a24ee9ee83f484aa49373d2dd129226&profile=pass
+沭阳综合,http://dg8006.runqidasoftware.top:10178/stream/channelid/300567166?ticket=5fa95e6e42dc364a4426e16fc7848da32a2ead15&profile=pass
+沛县新闻 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1487239046?ticket=5e428a22265f48032b4b313838a6d3ce22faa521&profile=pass
+东海新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/573550328?ticket=1f131d9bda0937d2105a291d71ccc0d03cc8c620&profile=pass
+
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
 星爷,http://mtw.so/6oKdhX
