@@ -132,7 +132,7 @@ NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 临时频道,#genre#
 (1线)重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 (2线)重温经典,http://mtw.so/5V5OIT
-(3线)重温经典,http://mtw.so/5FgUAm
+(3线)重温经典,http://36.108.172.237:10005/stream/channelid/14506760
 (1线)TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
 (2线)TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 (2线)無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
