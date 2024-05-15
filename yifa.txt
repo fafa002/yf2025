@@ -2782,7 +2782,7 @@ CCTV-4 中文国际,http://51dtv.net:30294/bysid/124
 CCTV5+体育赛事,http://51dtv.net:30843/bysid/617
 CCTV5体育高清,http://51dtv.net:30843/bysid/605
 
-(失效)吉林有线,#genre#
+吉林有线,#genre#
 CCTV1,http://rqd.mytvh.top:10063/stream/channelid/1382830493?ticket=f70ffdc9a5d64e3d1777db685b6417c87359375b&profile=pass
 CCTV1,http://rqd.mytvh.top:10063/stream/channelid/845784496?ticket=8f73a7a7865344999d6356912292e6686d22776d&profile=pass
 CCTV1,http://rqd.mytvh.top:10063/stream/channelid/1246631424?ticket=a5bfbba5d974a44ab224b5b7a930d755ce80c273&profile=pass
