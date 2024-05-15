@@ -2907,14 +2907,14 @@ JLHD,http://rqd.mytvh.top:10063/stream/channelid/1316978085?ticket=5040ec285f10f
 吉林生活AVS+,http://rqd.mytvh.top:10063/stream/channelid/939570204?ticket=c81c5fa6fe9e64b8d38b235f6659d7bf28bd9e8a&profile=pass
 吉林篮球,http://rqd.mytvh.top:10063/stream/channelid/175571102?ticket=4c6465f8844fee617038ce0554ca0e6a0cf49f1e&profile=pass
 吉林篮球,http://rqd.mytvh.top:10063/stream/channelid/1467826340?ticket=5bcda55d9a167e1b3d5a060c558eafb8ffd3a1c5&profile=pass
-吉林都市AVS+,http://rqd.mytvh.top:10063/stream/channelid/1371700933?ticket=57e4d65bc3a11f45ca49b28a976ca2f50a6b2b02&profile=pass
+吉林都市AVS+,http://rqd.mytvh.top:10063/stream/service/bf75fbb9fb715411e896673f051d6550
 吉视东北戏曲,http://rqd.mytvh.top:10063/stream/channelid/2064447336?ticket=904cd7963ebdbda1cb6af3ff918bbc760b7d89a1&profile=pass
 吉视乡村,http://rqd.mytvh.top:10063/stream/channelid/1759262091?ticket=6f6a9ff3d9e581697abd53a4fd7209f9c89af0a9&profile=pass
 吉视公共新闻,http://rqd.mytvh.top:10063/stream/channelid/8016932?ticket=e7b395ac5339935f6fe9d0d97597c4ec1b18d94c&profile=pass
 吉视影视,http://rqd.mytvh.top:10063/stream/channelid/717212023?ticket=e6e44ba6b2e912c173bb59bf58de680205d70276&profile=pass
 吉视生活,http://rqd.mytvh.top:10063/stream/channelid/1490629664?ticket=eac31d7654ab1a73f63309bc108a1f3d79858fe5&profile=pass
 吉视综艺文化,http://rqd.mytvh.top:10063/stream/channelid/36714816?ticket=c8a4029cf3f8c42c539910db63f5617e3600bb76&profile=pass
-吉视都市,http://rqd.mytvh.top:10063/stream/channelid/1896838588?ticket=64dc6af3d47d54d316b260836ebcb08f4477878c&profile=pass
+吉视都市,http://rqd.mytvh.top:10063/stream/service/bf75fbb9fb715411e896673f051d6550
 咪咕体育,http://rqd.mytvh.top:10063/stream/channelid/12949646?ticket=9d9be6dc9a1dca8f45900f053825505200ce7aa2&profile=pass
 咪咕体育,http://rqd.mytvh.top:10063/stream/channelid/1072830064?ticket=6942f66be538a0de249304d257053fe6d5d66093&profile=pass
 嘉佳卡通,http://rqd.mytvh.top:10063/stream/channelid/789655185?ticket=d663aebd59d94808793b05c4ac717654ee299589&profile=pass
