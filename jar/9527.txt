@@ -1,5 +1,6 @@
-https://raw.gitmirror.com/flycuiqh/live-TV/main/fl.txt
-https://hub.gitmirror.com/https://raw.githubusercontent.com/flycuiqh/live-TV/main/fl.m3u
-http://oy.oyxx-1.eu.org/p3p.php?rrw=1
-http://oy.oyxx-1.eu.org/p3p.php?r18=1
-https://pastebin.com/raw/4dEUfffj
+小电影,https://raw.gitmirror.com/flycuiqh/live-TV/main/fl.txt
+小电影2,https://hub.gitmirror.com/https://raw.githubusercontent.com/flycuiqh/live-TV/main/fl.m3u
+欧华,http://oy.oyxx-1.eu.org/p3p.php?rrw=1
+18+,http://oy.oyxx-1.eu.org/p3p.php?r18=1
+安博,https://pastebin.com/raw/4dEUfffj
+自动酒店,https://gitee.com/flying-snow-wu/tv/raw/main/itvlist.txt
