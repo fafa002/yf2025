@@ -145,6 +145,9 @@ CCTV9HD,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 (3线)凤凰卫视,http://64.140.167.170:8080/live/xsjgat2/hls.m3u8
 (4线)凤凰中文高清,http://122.224.232.226:8888/udp/233.50.200.191:5140
 (4线)凤凰资讯高清,http://122.224.232.226:8888/udp/233.50.200.192:5140
+(5线)凤凰香港台,http://154.204.178.8:345/2.php?id=phtv-hk
+(5线)凤凰中文台,http://154.204.178.8:345/2.php?id=phtv-cn
+(5线)凤凰资讯台,http://154.204.178.8:345/2.php?id=phtv-info
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 8TV台,http://frhk.x3322.net:9099/stream/channelid/2074244890
 popctv,http://2.59.182.201:9080/hls/popctv.m3u8
