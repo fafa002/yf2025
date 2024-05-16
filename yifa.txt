@@ -135,8 +135,8 @@ CCTV9HD,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 港澳台,#genre#
 (1线)TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
 (2线)TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-(2线)無綫新聞台,http://137.175.30.127:9080/hls/inews.m3u8
-(2线)無綫新聞台2,http://live.cooltv.top/tv/tvb.php?id=2
+(1线)無綫新聞台,http://137.175.30.127:9080/hls/inews.m3u8
+(2线)無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
 (1线)凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 (1线)凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 (2线)凤凰卫视,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
