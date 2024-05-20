@@ -137,17 +137,16 @@ CCTV9HD,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 (2线)TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 (1线)無綫新聞台,http://137.175.30.127:9080/hls/inews.m3u8
 (2线)無綫新聞台1,http://live.cooltv.top/tv/tvb.php?id=2
-(1线)凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-(1线)凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-(2线)凤凰卫视,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
-(2线)凤凰中文,http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
-(3线)鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
-(3线)凤凰卫视,http://64.140.167.170:8080/live/xsjgat2/hls.m3u8
-(4线)凤凰中文高清,http://122.224.232.226:8888/udp/233.50.200.191:5140
-(4线)凤凰资讯高清,http://122.224.232.226:8888/udp/233.50.200.192:5140
-(5线)凤凰香港台,http://154.204.178.8:345/2.php?id=phtv-hk
-(5线)凤凰中文台,http://154.204.178.8:345/2.php?id=phtv-cn
-(5线)凤凰资讯台,http://154.204.178.8:345/2.php?id=phtv-info
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰资讯,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
+凤凰中文,http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
+凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
+凤凰香港,http://154.204.178.8:345/132.php?id=phtv-hk
+凤凰中文,http://154.204.178.8:345/132.php?id=phtv-cn
+凤凰资讯,http://154.204.178.8:345/132.php?id=phtv-info
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 8TV台,http://frhk.x3322.net:9099/stream/channelid/2074244890
 popctv,http://2.59.182.201:9080/hls/popctv.m3u8
