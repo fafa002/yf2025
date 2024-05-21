@@ -1419,25 +1419,6 @@ CCTV15HD,http://mtw.so/69Ic2B
 浙江卫视HD,http://mtw.so/5GnVmf
 湖南卫视HD,http://mtw.so/6oKBYh
 
-电信央视,#genre#
-CCTV1高清,http://mtw.so/69P3JP
-CCTV2高清,http://mtw.so/6hh4Fu
-CCTV3高清,http://mtw.so/6oNhKb
-CCTV4高清,http://mtw.so/6wjuOS
-CCTV5+高清,http://mtw.so/5y9Odj
-CCTV5高清,http://mtw.so/5FFBh6
-CCTV6高清,http://mtw.so/5GqdMz
-CCTV7高清,http://mtw.so/5NWofY
-CCTV8高清,http://mtw.so/5VsBj3
-CCTV9高清,http://mtw.so/62iQFi
-CCTV10高清,http://mtw.so/69P3JZ
-CCTV11高清,http://mtw.so/6hh4FE
-CCTV12高清,http://mtw.so/6oNhKl
-CCTV13高清,http://mtw.so/6wjuP2
-CCTV14高清,http://mtw.so/5y9Odt
-CCTV15高清,http://mtw.so/5FFBhg
-重庆卫视高清,http://mtw.so/5GqdMJ
-
 (失效)央视频,#genre#
 CCTV1,http://36.248.223.25/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576802.m3u8
 CCTV2,http://36.248.223.25/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576702.m3u8
