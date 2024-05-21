@@ -1,9 +1,9 @@
 小电影,https://raw.gitmirror.com/flycuiqh/live-TV/main/fl.txt
 小电影2,https://hub.gitmirror.com/https://raw.githubusercontent.com/flycuiqh/live-TV/main/fl.m3u
-欧华,http://oy.oyxx-1.eu.org/p3p.php?rrw=1
-18+,http://oy.oyxx-1.eu.org/p3p.php?r18=1
+https://8756.kstore.space/tvboxZY/本地骚零影视/api.json
 安博,https://pastebin.com/raw/4dEUfffj
 自动酒店,https://gitee.com/flying-snow-wu/tv/raw/main/itvlist.txt
+http://www.52sw.top:678/play/oj/159169.php?get=txt
 
 【安卓哥】https://安卓哥.com/
 【TVBOX盒子】https://hezi.tvboxhz.top/TVBOX盒子
