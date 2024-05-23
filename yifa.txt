@@ -478,7 +478,7 @@ AEC,http://zuozhus.site/live/Smartv.php?id=AEC
 ABCNews,http://zuozhus.site/live/Smartv.php?id=abcnews_glo
 新加坡CNA,http://zuozhus.site/live/Smartv.php?id=cna
 
-(失效)星视界,#genre#
+星视界,#genre#
 TVB 翡翠台,http://154.204.178.8:345/132.php?id=feicui
 TVB 无线新闻台,http://154.204.178.8:345/132.php?id=tvb-news
 TVB PLUS,http://154.204.178.8:345/132.php?id=tvb-plus
