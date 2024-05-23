@@ -254,9 +254,21 @@ HK 地面波,#genre#
 (5线)HOY TV,http://123.202.245.120:8009/bysid/77.m3u8
 (5线)HOY 資訊台,http://123.202.245.120:8009/bysid/78.m3u8
 
-(1线)翡翠台,http://183.33.192.159:8000/bysid/1.m3u8
-(1线)ViuTVsix,http://183.33.192.159:8000/bysid/96.m3u8
-(1线)ViuTV,http://183.33.192.159:8000/bysid/99.m3u8
+(1线)港台電視 31,http://61.238.177.254:30261/stream/channelid/1055953789?ticket=ef95a8983e45ce6545edec170875e75226fb188f&profile=pass
+(1线)港台電視 32,http://61.238.177.254:30261/stream/channelid/1378775615?ticket=f57a429acdead353d91f41f362c14bf5138f7cf2&profile=pass
+(1线)HOY 國際財經台,http://61.238.177.254:30261/stream/channelid/153374972?ticket=9faf45215f97119ed7a62d2bf6c84ab9bbd27696&profile=pass
+(1线)HOY 國際財經台,http://61.238.177.254:30261/stream/channelid/537195735?ticket=486cd0a80578f1a99fd0e26c7953a8b0d6a9e28e&profile=pass
+(1线)HOY TV,http://61.238.177.254:30261/stream/channelid/459949264?ticket=78e72b98e8cb61d3fae76dd6e0ef11c280442eca&profile=pass
+(1线)HOY TV,http://61.238.177.254:30261/stream/channelid/1478933474?ticket=b6f626ff58ea829b12945e4a1cc0805ddc7ad6e6&profile=pass
+(1线)HOY 資訊台,http://61.238.177.254:30261/stream/channelid/1328960581?ticket=6080acd1492f9999a27c966b18149417c6ea5ce6&profile=pass
+(1线)HOY 資訊台,http://61.238.177.254:30261/stream/channelid/1207995756?ticket=08ad46924ff5f8abd9333da96418dd09b5af03c2&profile=pass
+(1线)翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379?ticket=643f08fa10323046097bba599a62f104763bb1c3&profile=pass
+(1线)TVB Plus,http://61.238.177.254:30261/stream/channelid/112716350?ticket=2643f0a4fbd19b95b8c1402fc9d4374dd90d3aad&profile=pass
+(1线)無綫新聞台,http://61.238.177.254:30261/stream/channelid/467444975?ticket=8bfff1e6a4cb9dac7ffc1091ed360b93b415a367&profile=pass
+(1线)明珠台,http://61.238.177.254:30261/stream/channelid/1310877729?ticket=6e00f8885670173f7e961a6f8cc4ca53cee46b15&profile=pass
+(1线)鳳凰衛視香港台,http://61.238.177.254:30261/stream/channelid/943406964?ticket=738acd214e558b2f54d25e63b9c62f1148b97bc7&profile=pass
+(1线)ViuTVsix,http://61.238.177.254:30261/stream/channelid/995464347?ticket=93296ed9f8696e04ffb508051932657bd452a29b&profile=pass
+(1线)ViuTV,http://61.238.177.254:30261/stream/channelid/100614745?ticket=e3b0af51470de60acb3e52877dbbd4a7c25c77bf&profile=pass
 
 台湾新闻,#genre#
 (2线)鳳凰資訊,http://ytb.csscc.cc:2086/live.m3u8?c=1
