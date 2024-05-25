@@ -1,3 +1,4 @@
+晴天,#genre#
 CCTV1,P2p://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV-1,P2p://generationnexxxt.com:19806/1a50835e80564ba8ae28fce9bb7f228f
 CCTV2,P2p://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
