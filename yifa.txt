@@ -153,25 +153,6 @@ popctv,http://2.59.182.201:9080/hls/popctv.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
-翡翠台,http://61.158.166.45:1331/msclient.php?id=1
-TVB无线新闻台,http://61.158.166.45:1331/msclient.php?id=2
-TVB华丽翡翠台,http://61.158.166.45:1331/msclient.php?id=3
-TVBplus,http://61.158.166.45:1331/msclient.php?id=4
-TVB千禧经典,http://61.158.166.45:1331/msclient.php?id=5
-天映频道,http://61.158.166.45:1331/msclient.php?id=6
-天映经典,http://61.158.166.45:1331/msclient.php?id=7
-凤凰中文台,http://61.158.166.45:1331/msclient.php?id=12
-凤凰资讯台,http://61.158.166.45:1331/msclient.php?id=13
-TVB18台,http://61.158.166.45:1331/msclient.php?id=15
-TVB娱乐新闻,http://61.158.166.45:1331/msclient.php?id=16
-TVB亚洲武侠,http://61.158.166.45:1331/msclient.php?id=17
-TVB星河台,http://61.158.166.45:1331/msclient.php?id=18
-TVB明珠台,http://61.158.166.45:1331/msclient.php?id=19
-RHK31,http://61.158.166.45:1331/msclient.php?id=20
-VIUTV1,http://61.158.166.45:1331/msclient.php?id=22
-VIUTV6,http://61.158.166.45:1331/msclient.php?id=23
-Astroqj,http://61.158.166.45:1331/msclient.php?id=24
-
 港-澳-台2,#genre#
 (不稳定)星影1,p3p://108.181.20.159:30652/65423b7b00047dbb1bebd20b45f374d2
 (不稳定)爆谷2,p3p://108.181.20.159:30652/65423beb00082fd01bed887e0ae23bbf
@@ -271,23 +252,6 @@ HK 地面波,#genre#
 (1线)ViuTV,http://61.238.177.254:30261/stream/channelid/100614745?ticket=e3b0af51470de60acb3e52877dbbd4a7c25c77bf&profile=pass
 
 台湾新闻,#genre#
-(2线)鳳凰資訊,http://ytb.csscc.cc:2086/live.m3u8?c=1
-(2线)中視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=2
-(2线)三立新聞,http://ytb.csscc.cc:2086/live.m3u8?c=3
-(2线)寰宇新聞,http://ytb.csscc.cc:2086/live.m3u8?c=4
-(2线)大愛一臺,http://ytb.csscc.cc:2086/live.m3u8?c=5
-(2线)東森新聞,http://ytb.csscc.cc:2086/live.m3u8?c=6
-(2线)中天新聞,http://ytb.csscc.cc:2086/live.m3u8?c=7
-(2线)民視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=8
-(2线)大愛二臺,http://ytb.csscc.cc:2086/live.m3u8?c=9
-(2线)中天新聞2,http://ytb.csscc.cc:2086/live.m3u8?c=10
-(2线)TVBS新聞,http://ytb.csscc.cc:2086/live.m3u8?c=11
-(2线)ABC新闻,http://ytb.csscc.cc:2086/live.m3u8?c=12
-(2线)公視新聞,http://ytb.csscc.cc:2086/live.m3u8?c=13
-(2线)民視戲劇,http://ytb.csscc.cc:2086/live.m3u8?c=14
-(2线)國會頻道１,http://ytb.csscc.cc:2086/live.m3u8?c=15
-(2线)國會頻道２,http://ytb.csscc.cc:2086/live.m3u8?c=16
-
 (3线)TVBS HD,http://william8073.eu.org:9000/live.m3u8?c=1
 (3线)TVBS NEWS,http://william8073.eu.org:9000/live.m3u8?c=2
 (3线)TVBS新闻台HD,http://william8073.eu.org:9000/live.m3u8?c=3
@@ -318,6 +282,19 @@ HK 地面波,#genre#
 (3线)华视天才冲冲冲,http://william8073.eu.org:9000/live.m3u8?c=30
 (3线)中视大陆寻奇,http://william8073.eu.org:9000/live.m3u8?c=37
 (3线)新唐人亚太台,http://william8073.eu.org:9000/live.m3u8?c=38
+
+(2线)中天亚洲台,http://194.87.101.118/live.m3u8?c=3
+(2线)台视新闻,http://194.87.101.118/live.m3u8?c=4
+(2线)TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+(2线)中视新闻,http://194.87.101.118/live.m3u8?c=6
+(2线)中天新闻,http://194.87.101.118/live.m3u8?c=7
+(2线)公视新闻,http://194.87.101.118/live.m3u8?c=8
+(2线)东森新闻,http://194.87.101.118/live.m3u8?c=9
+(2线)镜新闻,http://194.87.101.118/live.m3u8?c=10
+(2线)民视新闻,http://194.87.101.118/live.m3u8?c=11
+(2线)三立新闻,http://194.87.101.118/live.m3u8?c=12
+(2线)华视新闻,http://194.87.101.118/live.m3u8?c=13
+(2线)东森财经新闻,http://194.87.101.118/live.m3u8?c=14
 
 斯玛特,#genre#
 华丽翡翠,http://zuozhus.site/live/Smartv.php?id=Wlt
@@ -969,98 +946,6 @@ SBS,http://154.204.178.8:345/132.php?id=sbs
 SBS Plus,http://154.204.178.8:345/132.php?id=sbs-plus
 SBS funE,http://154.204.178.8:345/132.php?id=sbs-fune
 SBS M,http://154.204.178.8:345/132.php?id=sbs-m
-
-四季TV台湾,#genre#
-TVBS HD,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv073
-TVBS新闻台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv072
-中天新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv009
-中天亚洲台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv109
-台视新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv051
-华视新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv052
-台视财经,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv056
-中视新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv074
-非凡新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv010
-镜新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv075
-东森新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv152
-东森财经新闻,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv153
-半岛新闻,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv10
-民视新闻台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv13
-民视台湾台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv001
-寰宇新闻台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn14
-寰宇新闻台湾台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn15
-台视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv066
-民视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv002
-民视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv155
-中视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv040
-华视,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv041
-民视台湾台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv156
-影迷數位電影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv011
-AMC电影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv017
-CATCHPLAY电影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv076
-靖天电影台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv061
-龙华电影,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn03
-采昌影剧,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv049
-民视影剧,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv09
-龙华经典,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn21
-中视经典,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv080
-台湾戏剧台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn22
-靖洋戏剧台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv045
-靖天戏剧台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv058
-公视戏剧,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv042
-龙华戏剧,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn18
-智林体育台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv101
-时尚运动X,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv014
-靖天育乐台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv062
-博斯魅力,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn04
-博斯高球1,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn05
-博斯高球2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn06
-博斯运动1,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn07
-博斯运动2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn08
-博斯网球,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn09
-博斯无限,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn10
-博斯无限2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn13
-TRACE SPORTS STARS,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv077
-視納華仁紀實頻道,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv013
-中视菁采,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv064
-八大精彩台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv034
-八大综艺台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv039
-TVBS精采台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv067
-TVBS欢乐台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv068
-靖天欢乐台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv054
-靖天综合台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv046
-靖天资讯台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv065
-靖天卡通台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv044
-靖天日本台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv047
-靖洋卡通台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv057
-靖天国际台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv063
-靖天映画,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv055
-爱尔达娱乐,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv070
-龙华卡通,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn01
-龙华日韩,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn11
-龙华偶像,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn12
-民视综艺,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv004
-民视第一台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv003
-民视旅游,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv07
-亚洲旅游台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn17
-客家电视台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv043
-爱放动漫,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv15
-古典音乐台,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv059
-猪哥亮歌厅秀,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv006
-Smart知识台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn19
-达文西频道,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv018
-阿里郎,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv079
-生活英语台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn20
-国际财经,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv104
-美国之音,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv03
-好消息,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv16
-好消息2台,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv17
-非凡商业,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv048
-国会频道1,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv084
-国会频道2,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv085
-TRACE URBAN,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv082
-MEZZO LIVE,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv083
-GLOBETROTTER,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv016
-GinxTV,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv053
 
 广东本地,#genre#
 广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
