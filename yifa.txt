@@ -108,12 +108,10 @@ for ya-蒋小呢,
 NBA-2,http://170.yfvodcdn.com:8080/live/nbaTV2/hls.m3u8
 NBA-3,http://170.yfvodcdn.com:8080/live/nbaTV3/hls.m3u8
 凤凰中文,http://170.yfvodcdn.com:8080/live/xsjgat2/hls.m3u8
-CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1HD,http://125126.xyz:9080/hls/CCTV1.m3u8
 CCTV1HD,http://18161816.xyz:9080/hls/CCTV1.m3u8
 CCTV1HD,http://jchl.x3322.net:9080/hls/CCTV1.m3u8
 CCTV2HD,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV13,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 (1线)CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 (2线)CCTV4K,http://159.75.85.63:5679/cctv4k.php
 (3线)CCTV4K,https://tv.cry33.com/ys4k.php?id=4k
@@ -154,10 +152,6 @@ popctv,http://2.59.182.201:9080/hls/popctv.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
 港-澳-台2,#genre#
-(不稳定)星影1,p3p://108.181.20.159:30652/65423b7b00047dbb1bebd20b45f374d2
-(不稳定)爆谷2,p3p://108.181.20.159:30652/65423beb00082fd01bed887e0ae23bbf
-(不稳定)爆谷3,p3p://108.181.32.169:19845/641af90c000328bac2b691f11db2274a
-(不稳定)星影4,p3p://108.181.32.169:19845/641af926000cc2b9c2b6f9f75c8d2b97
 (3线)NOW星影,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
 (3线)NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
 (3线)TVB华语剧,http://60.30.198.43:5080/香蕉哥/华语剧/hls.m3u8
