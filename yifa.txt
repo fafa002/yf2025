@@ -203,16 +203,16 @@ popctv,http://2.59.182.201:9080/hls/popctv.m3u8
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 HK 地面波,#genre#
-(2线)明珠台,http://113.83.152.28:1935/bysid/2.m3u8
-(2线)TVB Plus,http://113.83.152.28:1935/bysid/82.m3u8
-(2线)無綫新聞台,http://113.83.152.28:1935/bysid/83.m3u8
-(2线)鳳凰衛視香港台,http://113.83.152.28:1935/bysid/85.m3u8
-(2线)翡翠台,http://113.83.152.28:1936/bysid/1.m3u8
-(2线)ViuTVsix,http://113.83.152.28:1936/bysid/96.m3u8
-(2线)ViuTV,http://113.83.152.28:1936/bysid/99.m3u8
-(2线)HOY 國際財經台,http://113.83.152.28:1936/bysid/76.m3u8
-(2线)HOY TV,http://113.83.152.28:1936/bysid/77.m3u8
-(2线)HOY 資訊台,http://113.83.152.28:1936/bysid/78.m3u8
+(2线)明珠台,http://113.83.152.64:1935/bysid/2.m3u8
+(2线)TVB Plus,http://113.83.152.64:1935/bysid/82.m3u8
+(2线)無綫新聞台,http://113.83.152.64:1935/bysid/83.m3u8
+(2线)鳳凰衛視香港台,http://113.83.152.64:1935/bysid/85.m3u8
+(2线)翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
+(2线)ViuTVsix,http://113.83.152.64:1936/bysid/96.m3u8
+(2线)ViuTV,http://113.83.152.64:1936/bysid/99.m3u8
+(2线)HOY 國際財經台,http://113.83.152.64:1936/bysid/76.m3u8
+(2线)HOY TV,http://113.83.152.64:1936/bysid/77.m3u8
+(2线)HOY 資訊台,http://113.83.152.64:1936/bysid/78.m3u8
 
 (6线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 (6线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
