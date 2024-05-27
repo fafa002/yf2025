@@ -286,16 +286,14 @@ ViuTV,http://61.238.177.254:30261/stream/channelid/100614745
 (2线)华视新闻,http://194.87.101.118/live.m3u8?c=13
 (2线)东森财经新闻,http://194.87.101.118/live.m3u8?c=14
 
-(1线)寰宇新聞,http://lv.taoiptv.com/live.m3u8?c=1
-(1线)三立新聞,http://lv.taoiptv.com/live.m3u8?c=2
-(1线)中視新聞,http://lv.taoiptv.com/live.m3u8?c=26
-(1线)中天新聞1,http://lv.taoiptv.com/live.m3u8?c=4
-(1线)中天新聞2,http://lv.taoiptv.com/live.m3u8?c=5
-(1线)東森新聞,http://lv.taoiptv.com/live.m3u8?c=6
-(1线)公視新聞,http://lv.taoiptv.com/live.m3u8?c=7
-(1线)台視新聞,http://lv.taoiptv.com/live.m3u8?c=8
-(1线)TVB新聞,http://lv.taoiptv.com/live.m3u8?c=9
-(1线)華視新聞,http://lv.taoiptv.com/live.m3u8?c=10
+(1线)中天新闻,http://news.666.hz.cz:2086/live.m3u8?c=1
+(1线)东森新闻,http://news.666.hz.cz:2086/live.m3u8?c=2
+(1线)台视新闻,http://news.666.hz.cz:2086/live.m3u8?c=4
+(1线)TVBS,http://news.666.hz.cz:2086/live.m3u8?c=5
+(1线)三立新闻,http://news.666.hz.cz:2086/live.m3u8?c=6
+(1线)寰宇新闻,http://news.666.hz.cz:2086/live.m3u8?c=7
+(1线)中视新闻,http://news.666.hz.cz:2086/live.m3u8?c=9
+(1线)镜新闻,http://news.666.hz.cz:2086/live.m3u8?c=10
 
 (3线)TVBS HD,http://william8073.eu.org:9000/live.m3u8?c=1
 (3线)TVBS NEWS,http://william8073.eu.org:9000/live.m3u8?c=2
