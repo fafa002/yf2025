@@ -152,24 +152,24 @@ popctv,http://2.59.182.201:9080/hls/popctv.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
 港-澳-台2,#genre#
-(3线)NOW星影,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
-(3线)NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
-(3线)TVB华语剧,http://60.30.198.43:5080/香蕉哥/华语剧/hls.m3u8
-(3线)TVB亚洲剧,http://60.30.198.43:5080/香蕉哥/亚洲剧/hls.m3u8
-(3线)广电翡翠1,http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8
-(3线)广电翡翠2,http://60.30.198.43:5080/香蕉哥/广电翡翠1/hls.m3u8
-(3线)TVB翡翠,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
-(3线)TVB翡翠2,http://60.30.198.43:5080/香蕉哥/tvb翡翠2/hls.m3u8
+NOW星影,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
+NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
+TVB华语剧,http://60.30.198.43:5080/香蕉哥/华语剧/hls.m3u8
+TVB亚洲剧,http://60.30.198.43:5080/香蕉哥/亚洲剧/hls.m3u8
+广电翡翠1,http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8
+广电翡翠2,http://60.30.198.43:5080/香蕉哥/广电翡翠1/hls.m3u8
+TVB翡翠,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
+TVB翡翠2,http://60.30.198.43:5080/香蕉哥/tvb翡翠2/hls.m3u8
 
-(2线)NOW星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
-(2线)NOW爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
-(2线)TVB翡翠,http://111.160.76.101:80/香蕉哥/tvb翡翠.live.flv
+NOW星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
+NOW爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
+TVB翡翠,http://111.160.76.101:80/香蕉哥/tvb翡翠.live.flv
 
-(1线)HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
-(1线)HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
-(1线)TVB翡翠,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
-(1线)TVN,http://111.230.195.119:80/香蕉哥/tvn/hls.m3u8 
-(1线)JTBC,http://111.230.195.119:80/香蕉哥/jtbc/hls.m3u8
+HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
+HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
+TVB翡翠,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
+TVN,http://111.230.195.119:80/香蕉哥/tvn/hls.m3u8 
+JTBC,http://111.230.195.119:80/香蕉哥/jtbc/hls.m3u8
 
 (大街)TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 (大街)中视,rtmp://220.130.201.73/sat/tv091
@@ -197,53 +197,80 @@ popctv,http://2.59.182.201:9080/hls/popctv.m3u8
 (大街)八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
 HK 地面波,#genre#
-(2线)明珠台,http://113.83.152.64:1935/bysid/2.m3u8
-(2线)TVB Plus,http://113.83.152.64:1935/bysid/82.m3u8
-(2线)無綫新聞台,http://113.83.152.64:1935/bysid/83.m3u8
-(2线)鳳凰衛視香港台,http://113.83.152.64:1935/bysid/85.m3u8
-(2线)翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
-(2线)ViuTVsix,http://113.83.152.64:1936/bysid/96.m3u8
-(2线)ViuTV,http://113.83.152.64:1936/bysid/99.m3u8
-(2线)HOY 國際財經台,http://113.83.152.64:1936/bysid/76.m3u8
-(2线)HOY TV,http://113.83.152.64:1936/bysid/77.m3u8
-(2线)HOY 資訊台,http://113.83.152.64:1936/bysid/78.m3u8
+翡翠台,http://m.glx008.com:8000/bysid/1.m3u8
+ViuTVsix,http://m.glx008.com:8000/bysid/96.m3u8
+ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 
-(6线)翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-(6线)ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
-(6线)ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
-(6线)Jelli,http://grandprix2023.asuscomm.com:8890/bysid/16.m3u8
-(6线)澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-(6线)澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-(6线)澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-(6线)澳门macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-(6线)明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-(6线)TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
-(6线)無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-(6线)鳳凰衛視香港台,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
+翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
+ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
+明珠台,http://zsntlqj.xicp.net:8896/bysid/2.m3u8
+TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
+無綫新聞台,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
+鳳凰衛視香港台,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
 
-(5线)明珠台,http://123.202.245.120:8008/bysid/2.m3u8
-(5线)TVB Plus,http://123.202.245.120:8008/bysid/82.m3u8
-(5线)無綫新聞台,http://123.202.245.120:8008/bysid/83.m3u8
-(5线)鳳凰衛視香港台,http://123.202.245.120:8008/bysid/85.m3u8
-(5线)HOY 國際財經台,http://123.202.245.120:8009/bysid/76.m3u8
-(5线)HOY TV,http://123.202.245.120:8009/bysid/77.m3u8
-(5线)HOY 資訊台,http://123.202.245.120:8009/bysid/78.m3u8
+翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+ViuTVsix,http://beishan008.asuscomm.com:8889/bysid/96.m3u8
+ViuTV,http://beishan008.asuscomm.com:8889/bysid/99.m3u8
+明珠台,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
+TVB Plus,http://beishan008.asuscomm.com:8890/bysid/82.m3u8
+無綫新聞台,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+鳳凰衛視香港台,http://beishan008.asuscomm.com:8890/bysid/85.m3u8
+HOY 國際財經台,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
+HOY TV,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
+HOY 資訊台,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
+港台電視 31,http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+港台電視 32,http://beishan008.asuscomm.com:8892/bysid/32.m3u8
+中央電視台綜合頻道（CCTV-1綜合),http://beishan008.asuscomm.com:8892/bysid/33.m3u8
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 
-(1线)港台電視 31,http://61.238.177.254:30261/stream/channelid/1055953789
-(1线)港台電視 32,http://61.238.177.254:30261/stream/channelid/1378775615
-(1线)HOY 國際財經台,http://61.238.177.254:30261/stream/channelid/153374972
-(1线)HOY 國際財經台,http://61.238.177.254:30261/stream/channelid/537195735
-(1线)HOY TV,http://61.238.177.254:30261/stream/channelid/459949264
-(1线)HOY TV,http://61.238.177.254:30261/stream/channelid/1478933474
-(1线)HOY 資訊台,http://61.238.177.254:30261/stream/channelid/1328960581
-(1线)HOY 資訊台,http://61.238.177.254:30261/stream/channelid/1207995756
-(1线)翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
-(1线)TVB Plus,http://61.238.177.254:30261/stream/channelid/112716350
-(1线)無綫新聞台,http://61.238.177.254:30261/stream/channelid/467444975
-(1线)明珠台,http://61.238.177.254:30261/stream/channelid/1310877729
-(1线)鳳凰衛視香港台,http://61.238.177.254:30261/stream/channelid/943406964
-(1线)ViuTVsix,http://61.238.177.254:30261/stream/channelid/995464347
-(1线)ViuTV,http://61.238.177.254:30261/stream/channelid/100614745
+明珠台,http://113.83.152.64:1935/bysid/2.m3u8
+TVB Plus,http://113.83.152.64:1935/bysid/82.m3u8
+無綫新聞台,http://113.83.152.64:1935/bysid/83.m3u8
+鳳凰衛視香港台,http://113.83.152.64:1935/bysid/85.m3u8
+翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
+ViuTVsix,http://113.83.152.64:1936/bysid/96.m3u8
+ViuTV,http://113.83.152.64:1936/bysid/99.m3u8
+HOY 國際財經台,http://113.83.152.64:1936/bysid/76.m3u8
+HOY TV,http://113.83.152.64:1936/bysid/77.m3u8
+HOY 資訊台,http://113.83.152.64:1936/bysid/78.m3u8
+
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
+ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
+Jelli,http://grandprix2023.asuscomm.com:8890/bysid/16.m3u8
+澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳视葡语,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳门资讯,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
+澳门macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
+無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
+鳳凰衛視香港台,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
+
+明珠台,http://123.202.245.120:8008/bysid/2.m3u8
+TVB Plus,http://123.202.245.120:8008/bysid/82.m3u8
+無綫新聞台,http://123.202.245.120:8008/bysid/83.m3u8
+鳳凰衛視香港台,http://123.202.245.120:8008/bysid/85.m3u8
+HOY 國際財經台,http://123.202.245.120:8009/bysid/76.m3u8
+HOY TV,http://123.202.245.120:8009/bysid/77.m3u8
+HOY 資訊台,http://123.202.245.120:8009/bysid/78.m3u8
+
+港台電視 31,http://61.238.177.254:30261/stream/channelid/1055953789
+港台電視 32,http://61.238.177.254:30261/stream/channelid/1378775615
+HOY 國際財經台,http://61.238.177.254:30261/stream/channelid/153374972
+HOY 國際財經台,http://61.238.177.254:30261/stream/channelid/537195735
+HOY TV,http://61.238.177.254:30261/stream/channelid/459949264
+HOY TV,http://61.238.177.254:30261/stream/channelid/1478933474
+HOY 資訊台,http://61.238.177.254:30261/stream/channelid/1328960581
+HOY 資訊台,http://61.238.177.254:30261/stream/channelid/1207995756
+翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
+TVB Plus,http://61.238.177.254:30261/stream/channelid/112716350
+無綫新聞台,http://61.238.177.254:30261/stream/channelid/467444975
+明珠台,http://61.238.177.254:30261/stream/channelid/1310877729
+鳳凰衛視香港台,http://61.238.177.254:30261/stream/channelid/943406964
+ViuTVsix,http://61.238.177.254:30261/stream/channelid/995464347
+ViuTV,http://61.238.177.254:30261/stream/channelid/100614745
 
 台湾新闻,#genre#
 (2线)中天亚洲台,http://194.87.101.118/live.m3u8?c=3
