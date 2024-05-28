@@ -5290,11 +5290,11 @@ CCTV17,P2p://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 港台电视32,P2p://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,P2p://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 HOY资讯台,P2p://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-翡翠台(备),P2p://147.135.39.171:9906/65a4e8350007683646f034780a032936
-翡翠台,P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+翡翠台(B),P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 J2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 无线新闻台(备),P2p://147.135.39.171:9906/65af205400009f3c6edb7a235cfa4c88
-无线新闻台,P2p://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b
+无线新闻台(B),P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 TVB娱乐新闻台,P2p://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB娱乐新闻台,P2p://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 无线财经体育资讯台,P2p://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
