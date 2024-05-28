@@ -5290,6 +5290,8 @@ CCTV17,P2p://generationnexxxt.com:19806/65a614e00004fec6e104afbe58b32445
 港台电视32,P2p://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,P2p://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 HOY资讯台,P2p://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
+翡翠台,P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+翡翠台(备),P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275
 翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
 翡翠台(B),P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 J2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
