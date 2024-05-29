@@ -272,6 +272,17 @@ TVB Plus,http://61.238.177.254:30261/stream/channelid/112716350
 ViuTVsix,http://61.238.177.254:30261/stream/channelid/995464347
 ViuTV,http://61.238.177.254:30261/stream/channelid/100614745
 
+HOY 國際財經台,http://timmy789.x3322.net:9081/stream/channelid/401058379?profile=pass
+HOY TV,http://timmy789.x3322.net:9081/stream/channelid/1316620486?profile=pass
+HOY 資訊台,http://timmy789.x3322.net:9081/stream/channelid/1243239921?profile=pass
+翡翠台,http://timmy789.x3322.net:9081/stream/channelid/668554311?profile=pass
+TVB Plus,http://timmy789.x3322.net:9081/stream/channelid/1790978445?profile=pass
+無綫新聞台,http://timmy789.x3322.net:9081/stream/channelid/190606861?profile=pass
+明珠台,http://timmy789.x3322.net:9081/stream/channelid/204591672?profile=pass
+鳳凰衛視香港台,http://timmy789.x3322.net:9081/stream/channelid/1440576277?profile=pass
+ViuTVsix,http://timmy789.x3322.net:9081/stream/channelid/247585885?profile=pass
+ViuTV,http://timmy789.x3322.net:9081/stream/channelid/1594197045?profile=pass
+
 TW 新闻,#genre#
 中天亚洲,http://194.87.101.118/live.m3u8?c=3
 台视新闻,http://194.87.101.118/live.m3u8?c=4
