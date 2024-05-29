@@ -131,7 +131,7 @@ CCTV9HD,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
 
 港-澳-台,#genre#
-(1线)TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
+(失效)TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
 (2线)TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 (1线)無綫新聞台,http://137.175.30.127:9080/hls/inews.m3u8
 (2线)無綫新聞台1,http://live.cooltv.top/tv/tvb.php?id=2
@@ -157,7 +157,7 @@ NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
 TVB华语剧,http://60.30.198.43:5080/香蕉哥/华语剧/hls.m3u8
 TVB亚洲剧,http://60.30.198.43:5080/香蕉哥/亚洲剧/hls.m3u8
 广电翡翠1,http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8
-广电翡翠2,http://60.30.198.43:5080/香蕉哥/广电翡翠1/hls.m3u8
+(失效)广电翡翠2,http://60.30.198.43:5080/香蕉哥/广电翡翠1/hls.m3u8
 TVB翡翠,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
 TVB翡翠2,http://60.30.198.43:5080/香蕉哥/tvb翡翠2/hls.m3u8
 
