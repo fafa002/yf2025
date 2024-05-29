@@ -276,9 +276,9 @@ ViuTV,http://61.238.177.254:30261/stream/channelid/100614745
 港台電視 32,http://kr.shadowzen.xyz:9978/stream/channelid/1872476918
 中央電視台綜合頻道（CCTV1綜合),http://kr.shadowzen.xyz:9978/stream/channelid/1640342855
 中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://kr.shadowzen.xyz:9978/stream/channelid/1075626481
-*HOY 國際財經台,http://kr.shadowzen.xyz:9978/stream/channelid/1542822897
-*HOY TV,http://kr.shadowzen.xyz:9978/stream/channelid/167940807
-*HOY 資訊台,http://kr.shadowzen.xyz:9978/stream/channelid/784243381
+HOY 國際財經台,http://kr.shadowzen.xyz:9978/stream/channelid/1542822897
+HOY TV,http://kr.shadowzen.xyz:9978/stream/channelid/167940807
+HOY 資訊台,http://kr.shadowzen.xyz:9978/stream/channelid/784243381
 翡翠台,http://kr.shadowzen.xyz:9978/stream/channelid/531453017
 TVB Plus,http://kr.shadowzen.xyz:9978/stream/channelid/2095215043
 無綫新聞台,http://kr.shadowzen.xyz:9978/stream/channelid/166643091
