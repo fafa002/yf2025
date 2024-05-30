@@ -5032,6 +5032,31 @@ ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 -CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
 ktv,http://210.245.20.94/hls/ktv1.m3u8
 
+俄罗斯,#genre#
+Amedia Premium,http://stream01.vnet.am/AmediaPremium/mono.m3u8
+ATV Kinoman HD,http://stream02.vnet.am/Kinoman/mono.m3u8
+FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
+Fox,https://stream01.vnet.am/Fox/mono.m3u8
+Hollywood,http://stream01.vnet.am/ParamountChannel/mono.m3u8
+National Geographic Wild,http://stream02.vnet.am/NatGeoWild/mono.m3u8
+Nicktoons,https://stream01.vnet.am/Boomerang/mono.m3u8
+Бокс ТВ,http://stream01.vnet.am/BoksTv/mono.m3u8
+Детский мир,http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+Дом Кино,https://stream01.vnet.am/DomKino/mono.m3u8
+Индия,https://stream01.vnet.am/ZeeTV/mono.m3u8
+Карусель Int,http://stream02.vnet.am/Karusel/mono.m3u8
+Кинопремьера HD,http://stream02.vnet.am/Kinopremera/mono.m3u8
+Кухня ТВ HD,http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+Муз ТВ,http://stream01.vnet.am/MuzTv/mono.m3u8
+Мульт,http://stream01.vnet.am/Mult/mono.m3u8
+Наука 2.0,http://stream01.vnet.am/Nauka/mono.m3u8
+НТВ Мир,http://stream02.vnet.am/HTB/mono.m3u8
+Первый космический,http://stream01.vnet.am/Evrika/mono.m3u8
+Перец,http://stream01.vnet.am/Perec/mono.m3u8
+Пятница International,https://stream01.vnet.am/Pyatnica/mono.m3u8
+СТС Kids,http://stream02.vnet.am/DisneyChannel/mono.m3u8
+Телекафе,http://stream01.vnet.am/Telekafe/mono.m3u8
+
 音乐电台,#genre#
 广东,https://lhttp.qingting.fm/live/1257/64k.mp3
 广东音乐,https://lhttp.qingting.fm/live/1260/64k.mp3
