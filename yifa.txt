@@ -144,8 +144,7 @@ CCTV9HD,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 凤凰中文,http://154.204.178.8:345/132.php?id=phtv-cn
 凤凰资讯,http://154.204.178.8:345/132.php?id=phtv-info
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
-8TV台,http://frhk.x3322.net:9099/stream/channelid/2074244890
-popctv,http://2.59.182.201:9080/hls/popctv.m3u8
+(失效)popctv,http://2.59.182.201:9080/hls/popctv.m3u8
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
@@ -5141,6 +5140,40 @@ Nicktoons,https://stream01.vnet.am/Boomerang/mono.m3u8
 Пятница International,https://stream01.vnet.am/Pyatnica/mono.m3u8
 СТС Kids,http://stream02.vnet.am/DisneyChannel/mono.m3u8
 Телекафе,http://stream01.vnet.am/Telekafe/mono.m3u8
+
+马来西亚,#genre#
+TV1,http://frhk.x3322.net:9099/stream/channelid/52190677?profile=pass
+TV2,http://frhk.x3322.net:9099/stream/channelid/1641822363?profile=pass
+TV3 HD,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
+NTV7,http://frhk.x3322.net:9099/stream/channelid/382645602?profile=pass
+8TV,http://frhk.x3322.net:9099/stream/channelid/1246093957?profile=pass
+TV9,http://frhk.x3322.net:9099/stream/channelid/1058933595?profile=pass
+TV Okey,http://frhk.x3322.net:9099/stream/channelid/1714794986?profile=pass
+Sukan RTM,http://frhk.x3322.net:9099/stream/channelid/450406418?profile=pass
+Awesome TV HD,http://frhk.x3322.net:9099/stream/channelid/1498562668?profile=pass
+TV6,http://frhk.x3322.net:9099/stream/channelid/455573121?profile=pass
+TVAH,http://frhk.x3322.net:9099/stream/channelid/672629049?profile=pass
+SukeTV,http://frhk.x3322.net:9099/stream/channelid/1013010683?profile=pass
+BERNAMA,http://frhk.x3322.net:9099/stream/channelid/2008303642?profile=pass
+TVS,http://frhk.x3322.net:9099/stream/channelid/1188355964?profile=pass
+BES,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
+NASIONALfm,http://frhk.x3322.net:9099/stream/channelid/168679981?profile=pass
+TRAXXfm,http://frhk.x3322.net:9099/stream/channelid/487718201?profile=pass
+MINNALfm,http://frhk.x3322.net:9099/stream/channelid/1343343?profile=pass
+AIfm,http://frhk.x3322.net:9099/stream/channelid/1499294622?profile=pass
+Radio KLASIK,http://frhk.x3322.net:9099/stream/channelid/1749471506?profile=pass
+ASYIKfm,http://frhk.x3322.net:9099/stream/channelid/1133992574?profile=pass
+SABAHfm,http://frhk.x3322.net:9099/stream/channelid/1569250195?profile=pass
+SABAH Vfm,http://frhk.x3322.net:9099/stream/channelid/174281718?profile=pass
+SARAWAKfm,http://frhk.x3322.net:9099/stream/channelid/519557023?profile=pass
+WAIfm,http://frhk.x3322.net:9099/stream/channelid/2032587794?profile=pass
+BERNAMA RADIO,http://frhk.x3322.net:9099/stream/channelid/438444781?profile=pass
+Hot FM,http://frhk.x3322.net:9099/stream/channelid/1323150126?profile=pass
+Fly FM,http://frhk.x3322.net:9099/stream/channelid/1884562643?profile=pass
+Molek FM,http://frhk.x3322.net:9099/stream/channelid/1162951937?profile=pass
+Eight FM,http://frhk.x3322.net:9099/stream/channelid/1444412454?profile=pass
+Kool101,http://frhk.x3322.net:9099/stream/channelid/34022700?profile=pass
+MANIS FM,http://frhk.x3322.net:9099/stream/channelid/759009953?profile=pass
 
 音乐电台,#genre#
 广东,https://lhttp.qingting.fm/live/1257/64k.mp3
