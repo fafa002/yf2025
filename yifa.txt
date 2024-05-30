@@ -283,6 +283,21 @@ TVB Plus,http://timmy789.x3322.net:9081/stream/channelid/1790978445?profile=pass
 ViuTVsix,http://timmy789.x3322.net:9081/stream/channelid/247585885?profile=pass
 ViuTV,http://timmy789.x3322.net:9081/stream/channelid/1594197045?profile=pass
 
+翡翠台,http://119.136.122.61:8000/bysid/1.m3u8
+ViuTVsix,http://119.136.122.61:8000/bysid/96.m3u8
+ViuTV,http://119.136.122.61:8000/bysid/99.m3u8
+明珠台,http://119.136.122.61:8001/bysid/2.m3u8
+TVB Plus,http://119.136.122.61:8001/bysid/82.m3u8
+無綫新聞台,http://119.136.122.61:8001/bysid/83.m3u8
+鳳凰衛視香港台,http://119.136.122.61:8001/bysid/85.m3u8
+港台電視 31,http://119.136.122.61:8002/bysid/31.m3u8
+港台電視 32,http://119.136.122.61:8002/bysid/32.m3u8
+中央電視台綜合頻道（CCTV-1綜合),http://119.136.122.61:8002/bysid/33.m3u8
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://119.136.122.61:8002/bysid/34.m3u8
+HOY 國際財經台,http://119.136.122.61:8003/bysid/76.m3u8
+HOY TV,http://119.136.122.61:8003/bysid/77.m3u8
+HOY 資訊台,http://119.136.122.61:8003/bysid/78.m3u8
+
 TW 新闻,#genre#
 中天亚洲,http://194.87.101.118/live.m3u8?c=3
 台视新闻,http://194.87.101.118/live.m3u8?c=4
