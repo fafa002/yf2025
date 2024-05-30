@@ -134,6 +134,10 @@ for ya-蒋小呢,
 30,https://vod.lyhuicheng.com/20240530/iD9h2jdR/index.m3u8
 31,https://vod.lyhuicheng.com/20240530/ZcH1tdeu/index.m3u8
 32,https://vod.lyhuicheng.com/20240530/bnFzp4Ub/index.m3u8
+33,https://v.cdnlz12.com/20240530/14732_6ad1cd2a/index.m3u8
+34,https://s3.bfengbf.com/video/qingyuniandierji/%E7%AC%AC34%E9%9B%86/index.m3u8
+35,https://v3.yzzy21-play.com/20240530/35653_2a72eb32/index.m3u8
+36,https://v3.yzzy23-play.com/20240530/13801_c61b3c6e/index.m3u8
 
 易发TV-香蕉出品,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
