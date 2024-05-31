@@ -139,7 +139,7 @@ for ya-蒋小呢,
 35,https://v3.yzzy21-play.com/20240530/35653_2a72eb32/index.m3u8
 36,https://v3.yzzy23-play.com/20240530/13801_c61b3c6e/index.m3u8
 
-香蕉-出品,#genre#
+易发-出品,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
 重温经典,http://36.108.172.237:10005/stream/channelid/14506760
