@@ -4273,7 +4273,7 @@ Q新闻综合HD,http://luwenchu.oicp.net:9981/stream/channelid/1038419527?profil
 河南国际HD,http://luwenchu.oicp.net:9981/stream/channelid/2077510574?profile=pass
 河南导视,http://luwenchu.oicp.net:9981/stream/channelid/2140300372?profile=pass
 
-玉林有线,#genre#
+(失效)玉林有线,#genre#
 CCTV-1-高清,http://117.141.194.182:39581/stream/channelid/359991350?profile=pass
 CCTV-1-高清,http://117.141.194.182:39581/stream/channelid/1023457017?profile=pass
 CCTV-2-高清,http://117.141.194.182:39581/stream/channelid/836745968?profile=pass
