@@ -3716,7 +3716,7 @@ CCTV17 8M,http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
 福建新闻,http://php.jdshipin.com:8880/bst.php?id=fjxwhd4m/4000000
 海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 
-西藏有线,#genre#
+(失效)西藏有线,#genre#
 CCTV1(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/841850985?ticket=8124919f4954a2a98a834a68f2ef2f38bbd57b7d&profile=pass
 CCTV2(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/1581237034?ticket=68df3d90982f15596cf180916ced8a98be5940e5&profile=pass
 CCTV3(高清),http://dg8006.runqidasoftware.top:10056/stream/channelid/520682590?ticket=8ae5531664f10a8c0e857a712cf45d589c2d8b2d&profile=pass
@@ -3932,7 +3932,7 @@ V,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/417116980?profile=
 熊猫影院高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1553429032?profile=pass
 睛彩广场舞,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1051665556?profile=pass
 
-湖北有线2,#genre#
+(失效)湖北有线2,#genre#
 CCTV1HD,http://ddns.372101.best:9981/stream/channelid/1538490984?profile=pass
 CCTV1,http://ddns.372101.best:9981/stream/channelid/535495059?profile=pass
 CCTV2HD,http://ddns.372101.best:9981/stream/channelid/1360485869?profile=pass
@@ -4219,7 +4219,7 @@ CETV2,http://dg8006.runqidasoftware.top:10178/stream/channelid/228218206?ticket=
 沛县新闻 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/1487239046?ticket=5e428a22265f48032b4b313838a6d3ce22faa521&profile=pass
 东海新闻,http://dg8006.runqidasoftware.top:10178/stream/channelid/573550328?ticket=1f131d9bda0937d2105a291d71ccc0d03cc8c620&profile=pass
 
-河南有线,#genre#
+(失效)河南有线,#genre#
 CCTV1HD,http://luwenchu.oicp.net:9981/stream/channelid/1638231707?profile=pass
 CCTV1HD,http://luwenchu.oicp.net:9981/stream/channelid/261319562?profile=pass
 CCTV2HD,http://luwenchu.oicp.net:9981/stream/channelid/637869517?profile=pass
