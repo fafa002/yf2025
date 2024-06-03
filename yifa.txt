@@ -1353,7 +1353,7 @@ cgtn俄语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnr
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 海南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hinws
 
-中华电信组播,#genre#
+中华MOD组播,#genre#
 amc電影台,http://220.134.74.149:6868/udp/224.1.4.43:11111
 amc電影台,http://220.134.74.149:6868/udp/230.1.2.157:11111
 Animax,http://220.134.74.149:6868/udp/224.1.4.237:11111
