@@ -289,41 +289,6 @@ TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 鳳凰衛視香港台,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
 
-明珠台,http://123.202.245.120:8008/bysid/2.m3u8
-TVB Plus,http://123.202.245.120:8008/bysid/82.m3u8
-無綫新聞台,http://123.202.245.120:8008/bysid/83.m3u8
-鳳凰衛視香港台,http://123.202.245.120:8008/bysid/85.m3u8
-HOY 國際財經台,http://123.202.245.120:8009/bysid/76.m3u8
-HOY TV,http://123.202.245.120:8009/bysid/77.m3u8
-HOY 資訊台,http://123.202.245.120:8009/bysid/78.m3u8
-
-港台電視 31,http://61.238.177.254:30261/stream/channelid/1055953789
-港台電視 32,http://61.238.177.254:30261/stream/channelid/1378775615
-HOY 國際財經台,http://61.238.177.254:30261/stream/channelid/153374972
-HOY 國際財經台,http://61.238.177.254:30261/stream/channelid/537195735
-HOY TV,http://61.238.177.254:30261/stream/channelid/459949264
-HOY TV,http://61.238.177.254:30261/stream/channelid/1478933474
-HOY 資訊台,http://61.238.177.254:30261/stream/channelid/1328960581
-HOY 資訊台,http://61.238.177.254:30261/stream/channelid/1207995756
-翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
-TVB Plus,http://61.238.177.254:30261/stream/channelid/112716350
-無綫新聞台,http://61.238.177.254:30261/stream/channelid/467444975
-明珠台,http://61.238.177.254:30261/stream/channelid/1310877729
-鳳凰衛視香港台,http://61.238.177.254:30261/stream/channelid/943406964
-ViuTVsix,http://61.238.177.254:30261/stream/channelid/995464347
-ViuTV,http://61.238.177.254:30261/stream/channelid/100614745
-
-HOY 國際財經台,http://timmy789.x3322.net:9081/stream/channelid/401058379?profile=pass
-HOY TV,http://timmy789.x3322.net:9081/stream/channelid/1316620486?profile=pass
-HOY 資訊台,http://timmy789.x3322.net:9081/stream/channelid/1243239921?profile=pass
-翡翠台,http://timmy789.x3322.net:9081/stream/channelid/668554311?profile=pass
-TVB Plus,http://timmy789.x3322.net:9081/stream/channelid/1790978445?profile=pass
-無綫新聞台,http://timmy789.x3322.net:9081/stream/channelid/190606861?profile=pass
-明珠台,http://timmy789.x3322.net:9081/stream/channelid/204591672?profile=pass
-鳳凰衛視香港台,http://timmy789.x3322.net:9081/stream/channelid/1440576277?profile=pass
-ViuTVsix,http://timmy789.x3322.net:9081/stream/channelid/247585885?profile=pass
-ViuTV,http://timmy789.x3322.net:9081/stream/channelid/1594197045?profile=pass
-
 翡翠台,http://113.88.66.40:8000/bysid/1
 ViuTVsix,http://113.88.66.40:8000/bysid/96
 ViuTV,http://113.88.66.40:8000/bysid/99
@@ -1077,57 +1042,6 @@ CCTV15音乐,http://183.66.13.82:60033/tsfile/live/0015_1.m3u8?key=txiptv
 经典电影,http://183.66.13.82:60033/tsfile/live/0111_2.m3u8?key=txiptv
 喜剧影院,http://183.66.13.82:60033/tsfile/live/0109_2.m3u8?key=txiptv
 动作影院,http://183.66.13.82:60033/tsfile/live/0110_2.m3u8?key=txiptv
-
-(失效)上海酒店,#genre#
-CCTV1综合,http://116.237.248.80:9901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2财经,http://116.237.248.80:9901/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3综艺,http://116.237.248.80:9901/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4国际,http://116.237.248.80:9901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5体育,http://116.237.248.80:9901/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6电影,http://116.237.248.80:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7军农,http://116.237.248.80:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8电视剧,http://116.237.248.80:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV10科教,http://116.237.248.80:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV9纪录,http://116.237.248.80:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12社会与法,http://116.237.248.80:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13新闻,http://116.237.248.80:9901/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14少儿,http://116.237.248.80:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15音乐,http://116.237.248.80:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV17,http://116.237.248.80:9901/tsfile/live/0019_1.m3u8?key=txiptv
-上海卫视,http://116.237.248.80:9901/tsfile/live/0107_1.m3u8?key=txiptv
-都市剧场,http://116.237.248.80:9901/tsfile/live/1004_1.m3u8?key=txiptv
-上海纪实,http://116.237.248.80:9901/tsfile/live/1005_1.m3u8?key=txiptv
-法制天地,http://116.237.248.80:9901/tsfile/live/1006_1.m3u8?key=txiptv
-上海教育,http://116.237.248.80:9901/tsfile/live/1007_1.m3u8?key=txiptv
-崇明综合,http://116.237.248.80:9901/tsfile/live/1009_1.m3u8?key=txiptv
-五星体育,http://116.237.248.80:9901/tsfile/live/1010_1.m3u8?key=txiptv
-上海电视剧,http://116.237.248.80:9901/tsfile/live/1013_1.m3u8?key=txiptv
-新闻综合,http://116.237.248.80:9901/tsfile/live/1000_1.m3u8?key=txiptv
-都市频道,http://116.237.248.80:9901/tsfile/live/1001_1.m3u8?key=txiptv
-甘肃卫视,http://116.237.248.80:9901/tsfile/live/0113_1.m3u8?key=txiptv
-吉林卫视,http://116.237.248.80:9901/tsfile/live/0116_1.m3u8?key=txiptv
-河北卫视,http://116.237.248.80:9901/tsfile/live/0117_1.m3u8?key=txiptv
-广西卫视,http://116.237.248.80:9901/tsfile/live/0118_1.m3u8?key=txiptv
-云南卫视,http://116.237.248.80:9901/tsfile/live/0119_1.m3u8?key=txiptv
-贵州卫视,http://116.237.248.80:9901/tsfile/live/0120_1.m3u8?key=txiptv
-辽宁卫视,http://116.237.248.80:9901/tsfile/live/0121_1.m3u8?key=txiptv
-北京卫视,http://116.237.248.80:9901/tsfile/live/0122_1.m3u8?key=txiptv
-四川卫视,http://116.237.248.80:9901/tsfile/live/0123_1.m3u8?key=txiptv
-浙江卫视,http://116.237.248.80:9901/tsfile/live/0124_1.m3u8?key=txiptv
-广东卫视,http://116.237.248.80:9901/tsfile/live/0125_1.m3u8?key=txiptv
-深圳卫视,http://116.237.248.80:9901/tsfile/live/0126_1.m3u8?key=txiptv
-江苏卫视,http://116.237.248.80:9901/tsfile/live/0127_1.m3u8?key=txiptv
-湖南卫视,http://116.237.248.80:9901/tsfile/live/0128_1.m3u8?key=txiptv
-安徽卫视,http://116.237.248.80:9901/tsfile/live/0130_1.m3u8?key=txiptv
-山东卫视,http://116.237.248.80:9901/tsfile/live/0131_1.m3u8?key=txiptv
-湖北卫视,http://116.237.248.80:9901/tsfile/live/0132_1.m3u8?key=txiptv
-天津卫视,http://116.237.248.80:9901/tsfile/live/0135_1.m3u8?key=txiptv
-陕西卫视,http://116.237.248.80:9901/tsfile/live/0136_1.m3u8?key=txiptv
-东南卫视,http://116.237.248.80:9901/tsfile/live/0137_1.m3u8?key=txiptv
-江西卫视,http://116.237.248.80:9901/tsfile/live/0138_1.m3u8?key=txiptv
-河南卫视,http://116.237.248.80:9901/tsfile/live/0139_1.m3u8?key=txiptv
-重庆卫视,http://116.237.248.80:9901/tsfile/live/0142_1.m3u8?key=txiptv
-东方财经HD,http://116.237.248.80:9901/tsfile/live/1002_1.m3u8?key=txiptv
 
 吉林酒店,#genre#
 CCTV1综合,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8?key=txiptv
