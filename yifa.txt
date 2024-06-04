@@ -172,6 +172,7 @@ CCTV9HD,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
 
 港-澳-台,#genre#
+TVB Plus,http://tvbox.mhfs.eu.org/tv/tvbplus.m3u8
 TVB Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 TVB Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
