@@ -1163,7 +1163,7 @@ CCTV4 中文国际,http://51dtv.net:30294/bysid/124
 厦门卫视,http://51dtv.net:30296/bysid/193
 金鹰卡通,http://51dtv.net:30296/bysid/211
 
-咪咕频道,#genre#
+(失效)咪咕频道,#genre#
 CCTV1综合,http://dp.sxtv.top:88/2b/migu.php?id=cctv1
 CCTV2财经,http://dp.sxtv.top:88/2b/migu.php?id=cctv2
 CCTV3综艺,http://dp.sxtv.top:88/2b/migu.php?id=cctv3
@@ -3780,7 +3780,7 @@ CGTN SD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3
 纪实人文,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010067/1.m3u8
 北京纪实科教,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010042/1.m3u8
 
-重庆有线,#genre#
+(失效)重庆有线,#genre#
 欢笑剧场4K,http://dp.sxtv.top:88/2b/cqyx.php?id=hxjc_4K
 CCTV-4K,http://dp.sxtv.top:88/2b/cqyx.php?id=CCTV4K
 CCTV16-4K,http://dp.sxtv.top:88/2b/cqyx.php?id=CCTV16_4K
@@ -3904,7 +3904,7 @@ CETV-4,http://dp.sxtv.top:88/2b/cqyx.php?id=cetv-4SD
 靓妆,http://dp.sxtv.top:88/2b/cqyx.php?id=liang
 重温经典,http://dp.sxtv.top:88/2b/cqyx.php?id=cwjdHD
 
-贵港有线,#genre#
+(失效)贵港有线,#genre#
 CCTV1综合高清,http://125.73.41.82:9981/stream/channelid/694477437?ticket=ba4dc596c8f7f013a49569daf2d490d352e3f067&profile=pass
 CCTV1,http://125.73.41.82:9981/stream/channelid/893743300?ticket=225099646aeea44fea642c055edc792513fe5c84&profile=pass
 CCTV1,http://125.73.41.82:9981/stream/channelid/1598836413?ticket=b7e89c6504cf4c4a0460929c1c7a38d84f54eb10&profile=pass
@@ -4202,7 +4202,7 @@ CGTN,http://125.73.41.82:9981/stream/channelid/305237838?ticket=2a1a496f83593cd5
 央广购物,http://125.73.41.82:9981/stream/channelid/566665102?ticket=22ae2e1a19b74f0b6020d1cadd3cea71c1f952a2&profile=pass
 央广购物,http://125.73.41.82:9981/stream/channelid/1823886804?ticket=c34b0214ca73604a1a43867c868421ee95f9e607&profile=pass
 
-重庆有线2,#genre#
+(失效)重庆有线2,#genre#
 CCTV1HD,http://rqd.mytvh.top:10287/stream/channelid/515040593?ticket=f3cb6d39cf5c8ba8079312db197b1779f5b00cfb&profile=pass
 CCTV2HD,http://rqd.mytvh.top:10287/stream/channelid/982024716?ticket=3414f8e8e21570f9cd454e40bf202134e11f54df&profile=pass
 CCTV3HD,http://rqd.mytvh.top:10287/stream/channelid/1651179936?ticket=7b49edddd4da9e73727e4af3d3851b979bddf51d&profile=pass
@@ -4579,7 +4579,7 @@ V,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/417116980?profile=
 熊猫影院高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1553429032?profile=pass
 睛彩广场舞,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1051665556?profile=pass
 
-江苏有线,#genre#
+(失效)江苏有线,#genre#
 CCTV1 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/46597427?ticket=62db6adbf401fa8985aaebb22ba62f9aec6e1ee7&profile=pass
 CCTV2 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/489668031?ticket=6eb17e194d2d22560db1db3bb486a1a70eed6250&profile=pass
 CCTV3 HD,http://dg8006.runqidasoftware.top:10178/stream/channelid/940399656?ticket=a64772369dba8ba485fcc27b37ba66653f392612&profile=pass
