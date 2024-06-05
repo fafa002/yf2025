@@ -5941,6 +5941,7 @@ MOMO亲子,P2p://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
 新闻台,mitv://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 财经体育资讯台,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
 财经体育资讯台,mitv://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
+翡翠台,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
 翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
 翡翠台,mitv://147.135.39.171:9906/661411cd000976fff92b536266ba32757
 翡翠台,mitv://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
