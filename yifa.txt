@@ -299,27 +299,20 @@ TVB Plus,http://113.88.66.40:8001/bysid/82
 中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://113.88.66.40:8002/bysid/34
 
 TW 新闻,#genre#
-寰宇 新闻,http://gigs1.micar.me:8900/live.m3u8?c=6
-中天 新闻,http://gigs1.micar.me:8900/live.m3u8?c=7
-TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8
-三立 新闻,http://gigs1.micar.me:8900/live.m3u8?c=9
-台视 新闻,http://gigs1.micar.me:8900/live.m3u8?c=10
-民視 新聞,http://gigs1.micar.me:8900/live.m3u8?c=11
-东森 新闻,http://gigs1.micar.me:8900/live.m3u8?c=12
-公视 新闻,http://gigs1.micar.me:8900/live.m3u8?c=13
-中视 新闻,http://gigs1.micar.me:8900/live.m3u8?c=14
-寰宇 国际,http://gigs1.micar.me:8900/live.m3u8?c=15
-镜 新闻,http://gigs1.micar.me:8900/live.m3u8?c=16
-
-中天 新闻,http://news.666.hz.cz:2086/live.m3u8?c=1
-东森 新闻,http://news.666.hz.cz:2086/live.m3u8?c=2
-台视 新闻,http://news.666.hz.cz:2086/live.m3u8?c=4
-TVBS,http://news.666.hz.cz:2086/live.m3u8?c=5
-三立 新闻,http://news.666.hz.cz:2086/live.m3u8?c=6
-寰宇 新闻,http://news.666.hz.cz:2086/live.m3u8?c=7
-凤凰 资讯,http://news.666.hz.cz:2086/live.m3u8?c=8
-中视 新闻,http://news.666.hz.cz:2086/live.m3u8?c=9
-镜 新闻,http://news.666.hz.cz:2086/live.m3u8?c=10
+凤凰卫视资讯台,http://194.87.101.118/live.m3u8?c=2
+中天亚洲台,http://194.87.101.118/live.m3u8?c=3
+台视新闻,http://194.87.101.118/live.m3u8?c=4
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+中视新闻,http://194.87.101.118/live.m3u8?c=6
+中天新闻,http://194.87.101.118/live.m3u8?c=7
+公视新闻,http://194.87.101.118/live.m3u8?c=8
+东森新闻,http://194.87.101.118/live.m3u8?c=9
+镜新闻,http://194.87.101.118/live.m3u8?c=10
+民视新闻,http://194.87.101.118/live.m3u8?c=11
+三立新闻,http://194.87.101.118/live.m3u8?c=12
+华视新闻,http://194.87.101.118/live.m3u8?c=13
+东森财经新闻,http://194.87.101.118/live.m3u8?c=14
+CGTN Europe,http://194.87.101.118/live.m3u8?c=15
 
 斯玛特,#genre#
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
