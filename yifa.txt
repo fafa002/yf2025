@@ -395,7 +395,7 @@ AXW,http://8.137.59.151:99/fhtv/fenghuang.php?id=47
 爱尔达体育4,http://8.137.59.151:99/fhtv/fenghuang.php?id=75
 爱尔达影剧,http://8.137.59.151:99/fhtv/fenghuang.php?id=126
 
-四季台湾,#genre#
+(失效)四季台湾,#genre#
 民視第一台,http://104.233.187.235/9999.php?id=1/4gtv-4gtv003
 民視台灣台,http://104.233.187.235/9999.php?id=2/4gtv-4gtv001
 民視,http://104.233.187.235/9999.php?id=3/4gtv-4gtv002
@@ -520,7 +520,7 @@ TVBS台劇台,http://104.233.187.235/9999.php?id=285/4gtv-live088
 超人力霸王整套看,http://104.233.187.235/9999.php?id=278/4gtv-live015
 經典劇場ali﻿,http://104.233.187.235/9999.php?id=279/4gtv-live016
 
-星视界,#genre#
+(失效)星视界,#genre#
 翡翠台,http://www.238311.cn:538/xy.php?id=feicui
 无线新闻台,http://www.238311.cn:538/xy.php?id=tvb-news
 TVB plus,http://www.238311.cn:538/xy.php?id=tvb-plus
