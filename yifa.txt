@@ -316,6 +316,181 @@ TVBS 新聞,http://194.87.101.118/live.m3u8?c=5
 東森 財經新聞,http://194.87.101.118/live.m3u8?c=14
 CGTN Europe,http://194.87.101.118/live.m3u8?c=15
 
+油管反代,#genre#
+小猪佩奇,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=k9ZKGRJPXOw&type=mpd
+民視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立財經,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+EBC東森財經,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+華視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+鏡新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+东森财经股市,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
+东京新宿,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DjdUEyjx8GM
+鳳凰衛視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
+中天新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+鏡新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+中天新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新聞,https://yt.caixina.link/live?url=https://www.youtube.com/live/oIgbl7t0S_w?feature=share
+中天新聞2,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+三立live,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立inews,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立NEWS+,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+TVBS NEWS LIVE,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+民視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+華視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+EBC東森財經,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+三立財經,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+NHK WORLD,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
+Euronews English,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=pykpO5kQJ98
+ANN News,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=coYw-eVU0Ks
+NBC NEW,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=0IUbD_4ytuo
+东森财经股市,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
+东京新宿,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DjdUEyjx8GM
+台灣地震監視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Owke6Quk7T0
+橙Yuzumi Channel,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wP_xJKrEvog
+TXO Liang,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=sYtEMRRMbVk
+Uki Violeta 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=-EOCnCM6Ga4
+Enna Alouette【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=-zxbmUR2xzY
+雲玩家 H ch.,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=v4mM7tLtnEE
+Polka Ch. 尾丸ポルカ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xCPRckfWeWk
+Nye,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=HBFzKU4RANM
+玩什麼鬼啦,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=KkH3Vgw5ABM
+Vantacrow Bringer 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DZANdNV5T-o
+心疼,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xA7fzO2h8po
+Crimzon Ruze Ch. HOLOSTARS-EN,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=uurvYlJmS14
+CC希希,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=_ZUCPmYW4cA
+猫汰つな / Nekota Tsuna,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IAS_mp_xfZ0
+AKA王以太,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=rhFHkWrQhxY
+Mori Calliope Ch. hololive-EN,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=kfSmviBESQM
+期末專題,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5TA7Tljvgpg
+瑪琋霓·索蕾 Marcinee Soleil,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=48mrIGP0JrE
+卡妮娜 Kanína Ch.,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=2FJ8G1_PZNo
+PFY玩給你看,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ghBUgNCagrs
+Claude Clawmark 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CeveQIus_pA
+Lucien Lunaris【FIRST STAGE PRODUCTION EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Ql1KMTCgFC8
+胡桃沢りりか,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=rP_b_PUGeFA
+Vezalius Bandage 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=l3qYRbTKafU
+Koneko Ch. 蒼神こねこ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=9NHROK-5-DI
+Lio Ch.獅堂リオ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5_tEtXrpdRs
+Finana Ryugu 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=stGI420hHm8
+Ande 安爹 Ch.,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=GhIiGYfau7s
+ベルモンド・バンデラス,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=dzL8ifB8qRY
+桜鳥ミーナ / Audrey Mina,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=U3TT_fHO-RA
+NairoMK,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=0LV6lr1gBQ0
+Meimi Majokko Ch. 魔女っ子めいみ【kawaii】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ez2wiBOsQFk
+Mion Akuma 【AuroraLiveVR】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wPZjpcmUyTk
+NG Slot,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=_L64ZgcIQzE
+Rahdian,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=penFUa_GT2c
+Q Wang,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=6vsLvXYts0A
+내가수영TV,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=RMjTIWEwYn8
+Abyss,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=dw0rPratObw
+이회장,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xJ7pQ5bseGg
+瀬乃ここは -Seno Kokoha Ch.-,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=htlGyf5hXIo
+ぶんぶん,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=SjkTMn622F8
+しゅぁっち,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=K8jvyHknCug
+灰流まりも,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=L9sOOvED8fc
+ゆるりめぐ-Yururi Megu-,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=teu6g71fdhM
+公視體育,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=NI1B_fwlz5Y
+三立LIVE新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+Lofi Girl,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=jfKfPfyJRdk
+中天電視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+Kaela Kovalskia Ch. hololive-ID,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Bbd9ZotOWok
+台視新聞 TTV NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+民視新聞網 Formosa TV News network,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+Relaxed Mind,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=vpCdR_L8kKk
+TVBS NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+中天深喉嚨,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+三立iNEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+On Rainy Days,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Gn5VjWlu8vs
+中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+Sleepy Cat ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=YLMhjMUx__M
+The Good Life Radio x Sensual Musique,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=36YnV9STBqc
+大愛電視 Tzu Chi DaAiVideo,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=MIqUplvSRWA
+57東森財經新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+Tim Janis,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=dXIyMS61B68
+華視新聞 CH52,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+Open Heart Music - Helios 4K,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TAhHaHsDTkk
+57東森財經新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
+鏡新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+Relaxing Jazz BGM,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=prIbo7VQmH0
+martin oei,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DUNzB2euyqg
+公視新聞網,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=quwqlazU-c8
+中視經典綜藝,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ADDSmXoPDY8
+台視新聞 TTV NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+大愛電視 Tzu Chi DaAiVideo,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DTNkEm6jaqQ
+中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞 CH52,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+大愛電視 Tzu Chi DaAiVideo,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=MIqUplvSRWA
+鏡新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+57東森財經新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
+三立iNEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
+中天深喉嚨,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+民視新聞網 Formosa TV News network,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+新唐人亞太電視台NTDAPTV,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WIhgU_mc05A
+57東森財經新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+中天電視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=4HysYHJ6GkY
+三立LIVE新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+TVBS NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+公視新聞網,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=quwqlazU-c8
+寰宇新聞 頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=6IquAgfvYmc
+CTIASIA 中天亞洲台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=s2waUruqze4
+國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Lj8OWF6nzcg
+國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IvAXtzx5cUI
+國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Af0TFVbxvAQ
+國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Qo9QwuCpV3s
+國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=yUx5lB4mhZk
+國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=tDg3bJFYLzI
+寰宇新聞 頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=w87VGpgd90U
+Taipei Travel Live Cam  台北觀光即時影像 ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=z_fY1pj1VBw
+阿里山國家風景區管理處,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=dY2cRNr5Buw
+Amazing Taitung 台東就醬玩,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=UCG1aXVO8H8
+高雄旅遊網,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=C03Itx8iSC0
+KawazuLiveCam,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Xn7YQxxC5R0
+歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DjdUEyjx8GM
+樂遊金門,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=uh_yNAE01w8
+新北旅客 New Taipei Tour,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xwAWSh35uuw
+東部海岸國家風景管理處,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wTHhv7M0vCI
+阿里山國家風景區管理處,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=j2L_559nCjc
+Önkormányzat EGER,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IELAhyaUKVk
+歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=gFRtAAmiFbE
+neoguru,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=czV_hXEMk8M
+桃園智慧旅遊雲 Taoyuan Travel,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=tD_a03trUvE
+Amazing Taitung 台東就醬玩,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=q3KJt-SZc2s
+宗教法人 浅草寺 公式チャンネル (Sensoji Temple),https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=nOk4cd0kkp8
+JAPAN 4K,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=cH7VBI4QQzA
+Japan Walk,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=gC4dJGHWwDU
+STV札幌テレビ放送 公式,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=bQMP7-GzdIQ
+Cal Falcons,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=7nvCVS2TRRk
+Melbourne Luxury Accommodation,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=l_8DrACHpwY
+TeNY新潟一番ニュース,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IQms8zArI7w
+Taipei Travel Live Cam  台北觀光即時影像 ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Ndo_8RuefH4
+Our Planet 4K,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=h-mRJ7XwOKQ
+Taipei Travel Live Cam  台北觀光即時影像 ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=fP4ecxfsJos
+Taipei Travel Live Cam  台北觀光即時影像 ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=uvwfYzwY8tg
+大玩台中-臺中觀光旅遊局,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=lhXXhDyjFtI
+澳門特別行政區政府市政署IAM,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ctYalRx7kY4
+NASASpaceflight,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Jm8wRjD3xVA
+JDQ-地震情報,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=HXGANE2pRrA
+momo購物一台 CH48,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+momo購物二台 CH35,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xbNWkUyxQGM
+Live東森購物台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+Live東森購物台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Z50JFuNgvB0
+Live東森購物台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=u0NYyH3ZesE
+Live東森購物台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=_Vlzn9qAHD4
+中視經典綜藝,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ADDSmXoPDY8
+台灣地震監視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Owke6Quk7T0
+Kitten Academy,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=R7vrbiDi0Tc
+12K Scenic Relaxation,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=vQP8AwAFzI8
+飢餓遊戲Hunger Games,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=A98LJq71BZg
+華視綜藝頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IsFtLpSuf_g
+Eight FM,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=o1ipHJUfFTM
+大陸尋奇,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=fl1iFkAWcVU
+中視經典戲劇,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=jkF7cseHZ5s
+
 斯玛特,#genre#
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -522,7 +697,7 @@ TVBS台劇台,http://104.233.187.235/9999.php?id=285/4gtv-live088
 超人力霸王整套看,http://104.233.187.235/9999.php?id=278/4gtv-live015
 經典劇場ali﻿,http://104.233.187.235/9999.php?id=279/4gtv-live016
 
-(失效)星视界,#genre#
+星视界,#genre#
 翡翠台,http://www.238311.cn:538/xy.php?id=feicui
 无线新闻台,http://www.238311.cn:538/xy.php?id=tvb-news
 TVB plus,http://www.238311.cn:538/xy.php?id=tvb-plus
