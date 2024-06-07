@@ -263,16 +263,16 @@ HOY 資訊台,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
 中央電視台綜合頻道（CCTV-1綜合),http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 
-明珠台,http://113.83.152.64:1935/bysid/2.m3u8
-TVB Plus,http://113.83.152.64:1935/bysid/82.m3u8
-無綫新聞台,http://113.83.152.64:1935/bysid/83.m3u8
-鳳凰衛視香港台,http://113.83.152.64:1935/bysid/85.m3u8
-翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
-ViuTVsix,http://113.83.152.64:1936/bysid/96.m3u8
-ViuTV,http://113.83.152.64:1936/bysid/99.m3u8
-HOY 國際財經台,http://113.83.152.64:1936/bysid/76.m3u8
-HOY TV,http://113.83.152.64:1936/bysid/77.m3u8
-HOY 資訊台,http://113.83.152.64:1936/bysid/78.m3u8
+明珠台,http://113.83.152.61:1935/bysid/2.m3u8
+TVB Plus,http://113.83.152.61:1935/bysid/82.m3u8
+無綫新聞台,http://113.83.152.61:1935/bysid/83.m3u8
+鳳凰衛視香港台,http://113.83.152.61:1935/bysid/85.m3u8
+翡翠台,http://113.83.152.61:1936/bysid/1.m3u8
+ViuTVsix,http://113.83.152.61:1936/bysid/96.m3u8
+ViuTV,http://113.83.152.61:1936/bysid/99.m3u8
+HOY 國際財經台,http://113.83.152.61:1935/bysid/76.m3u8
+HOY TV,http://113.83.152.61:1935/bysid/77.m3u8
+HOY 資訊台,http://113.83.152.61:1935/bysid/78.m3u8
 
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
@@ -287,17 +287,19 @@ TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 無綫新聞台,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 鳳凰衛視香港台,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
 
-翡翠台,http://113.88.66.40:8000/bysid/1
-ViuTVsix,http://113.88.66.40:8000/bysid/96
-ViuTV,http://113.88.66.40:8000/bysid/99
-明珠台,http://113.88.66.40:8001/bysid/2
-TVB Plus,http://113.88.66.40:8001/bysid/82
-無綫新聞台,http://113.88.66.40:8001/bysid/83
-鳳凰衛視香港台,http://113.88.66.40:8001/bysid/85
-港台電視 31,http://113.88.66.40:8002/bysid/31
-港台電視 32,http://113.88.66.40:8002/bysid/32
-中央電視台綜合頻道（CCTV1綜合),http://113.88.66.40:8002/bysid/33
-中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://113.88.66.40:8002/bysid/34
+翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
+ViuTV,http://nz171l122.bb60246.ctm.net:8889/bysid/99.m3u8
+Jelli,http://nz171l122.bb60246.ctm.net:8890/bysid/16.m3u8
+澳视澳门,http://nz171l122.bb60246.ctm.net:8891/bysid/91.m3u8
+澳视葡语,http://nz171l122.bb60246.ctm.net:8891/bysid/92.m3u8
+澳门资讯,http://nz171l122.bb60246.ctm.net:8891/bysid/94.m3u8
+澳门macau,http://nz171l122.bb60246.ctm.net:8891/bysid/96.m3u8
+明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
+TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
+無綫新聞台,http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
+鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
+
 
 TW 新闻,#genre#
 中天 新聞,http://23.94.14.225:8848/live.m3u8?c=14
