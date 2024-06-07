@@ -300,7 +300,6 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 無綫新聞台,http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
-
 TW 新闻,#genre#
 中天 新聞,http://23.94.14.225:8848/live.m3u8?c=14
 TVBS 新聞,http://23.94.14.225:8848/live.m3u8?c=1
