@@ -181,7 +181,6 @@ TVB星河,http://117.114.153.25:8180/TV00000000000000000073@HHZT
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
-港-澳-台2,#genre#
 NOW星影,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
 NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
 NOW体育3,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
@@ -220,7 +219,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
-HK 地面波,#genre#
+HK DTMB,#genre#
 翡翠台,http://m.glx008.com:8000/bysid/1.m3u8
 ViuTVsix,http://m.glx008.com:8000/bysid/96.m3u8
 ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
@@ -1299,7 +1298,7 @@ CCTV4K,http://jxtv3.gdsz.eu.org:8081/hls/144/index.m3u8
 CCTV4K,http://jxtv3.gdsz.eu.org:8081/hls/145/index.m3u8
 华数3,http://jxtv3.gdsz.eu.org:8081/hls/154/index.m3u8
 
-(卡顿)广州酒店,#genre#
+广州酒店,#genre#
 广东珠江,http://183.236.32.24:9901/hls/1036/index.m3u8
 广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
 广东公共,http://183.236.32.24:9901/hls/1038/index.m3u8
@@ -1470,7 +1469,7 @@ CCTV5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv
 中国教育电视台,http://61.138.128.226:19901/tsfile/live/1021_1.m3u8?key=txiptv
 浙江卫视高清,http://61.138.128.226:19901/tsfile/live/1044_1.m3u8?key=txiptv
 
-苏州阿里云,#genre#
+苏州里云,#genre#
 CCTV5+体育赛事,http://51dtv.net:30843/bysid/617
 CCTV5体育高清,http://51dtv.net:30843/bysid/605
 吉林卫视,http://51dtv.net:31419/bysid/164
@@ -1711,7 +1710,7 @@ cgtn俄语,http://cdn.jdshipin.com:8880/ysp.php?id=cgtnr
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 海南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hinws
 
-中华MOD组播,#genre#
+中华MOD,#genre#
 amc電影台,http://61.224.96.189:9478/udp/224.1.4.43:11111
 amc電影台,http://61.224.96.189:9478/udp/230.1.2.157:11111
 Animax,http://61.224.96.189:9478/udp/224.1.4.237:11111
@@ -2112,7 +2111,7 @@ K頻道,http://61.224.96.189:9478/udp/224.1.4.65:11111
 驚豔成人電影台,http://61.224.96.189:9478/udp/224.1.4.204:11111
 驚豔成人電影台,http://61.224.96.189:9478/udp/230.1.2.27:11111
 
-四川移动组播,#genre#
+四川移动,#genre#
 CCTV1,http://117.176.241.206:4022/rtp/239.11.0.65:5140
 CCTV2,http://117.176.241.206:4022/rtp/239.11.0.108:5140
 CCTV3,http://117.176.241.206:4022/rtp/239.11.0.101:5140
@@ -2310,7 +2309,7 @@ IPTV经典电影,http://117.176.241.206:4022/rtp/239.10.0.122:5140
 星空购物,http://117.176.241.206:4022/rtp/239.11.0.125:5140
 央广购物,http://117.176.241.206:4022/rtp/239.10.0.200:5140
 
-四川联通单播,#genre#
+四川联通,#genre#
 CCTV-1高清,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227479/index.m3u8
 CCTV-2高清,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227477/index.m3u8
 CCTV-3高清,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227435/index.m3u8
@@ -2389,7 +2388,7 @@ CETV-4,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227337/index.m3u8
 延边卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227961/index.m3u8
 麻辣体育,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227811/index.m3u8
 
-广东移动1组播,#genre#
+广东移动1,#genre#
 广东卫视FHD,http://udmark.cn:8081/udp/239.20.0.99:3004
 广东卫视HD,http://udmark.cn:8081/udp/239.20.0.101:2000
 广东珠江FHD,http://udmark.cn:8081/udp/239.20.0.63:3148
@@ -2511,7 +2510,7 @@ CCTV电视指南HD,http://udmark.cn:8081/udp/239.21.0.81:3664
 快乐垂钓HD,http://udmark.cn:8081/udp/239.21.0.121:3828
 茶频道HD,http://udmark.cn:8081/udp/239.21.0.120:3824
 
-广东移动2组播,#genre#
+广东移动2,#genre#
 广东卫视FHD,http://120.234.49.38:7000/udp/239.20.0.99:3004
 广东卫视HD,http://120.234.49.38:7000/udp/239.20.0.101:2000
 广东珠江FHD,http://120.234.49.38:7000/udp/239.20.0.63:3148
@@ -2633,7 +2632,7 @@ CCTV电视指南HD,http://120.234.49.38:7000/udp/239.21.0.81:3664
 快乐垂钓HD,http://120.234.49.38:7000/udp/239.21.0.121:3828
 茶频道HD,http://120.234.49.38:7000/udp/239.21.0.120:3824
 
-广东移动3组播,#genre#
+广东移动3,#genre#
 大湾区卫视HD,http://203.88.42.189:55555/udp/239.11.0.78:1025
 广东科教FHD,http://203.88.42.189:55555/udp/239.10.0.46:1025
 广东科教HD,http://203.88.42.189:55555/udp/239.10.0.112:1025
@@ -2809,7 +2808,7 @@ CBN幸福娱乐HD,http://203.88.42.189:55555/udp/239.11.0.166:1025
 百视通HD直播室106,http://203.88.42.189:55555/udp/239.10.0.95:1025
 百视通HD直播室107,http://203.88.42.189:55555/udp/239.10.0.96:1025
 
-广东电信组播,#genre#
+广东电信,#genre#
 广东综艺4K,http://syjd.9966.org:9001/udp/239.77.1.236:5146
 广东综艺4K,http://syjd.9966.org:9001/udp/239.77.1.237:5146
 广东综艺4K,http://syjd.9966.org:9001/udp/239.77.0.244:5146
@@ -3196,7 +3195,7 @@ IPTV经典电影,http://syjd.9966.org:9001/udp/239.77.1.89:5146
 IPTV热播剧场,http://syjd.9966.org:9001/udp/239.77.1.90:5146
 IPTV少儿动画,http://syjd.9966.org:9001/udp/239.77.1.91:5146
 
-广西电信组播,#genre#
+广西电信,#genre#
 钦州新闻综合高清,http://qx.kover.eu.org:60008/rtp/239.81.0.164:4056
 广西卫视高清,http://qx.kover.eu.org:60008/rtp/239.81.0.107:4056
 广西新闻高清,http://qx.kover.eu.org:60008/rtp/239.81.0.248:4056
@@ -3335,7 +3334,7 @@ IPTV足球,http://qx.kover.eu.org:60008/rtp/239.81.0.97:4056
 河池新闻综合,http://qx.kover.eu.org:60008/rtp/239.81.0.168:4056
 河池新闻综合,http://qx.kover.eu.org:60008/rtp/239.81.0.167:4056
 
-北京联通组播,#genre#
+北京联通,#genre#
 CCTV-1,http://www.weec.top:2222/udp/239.3.1.129:8008
 CCTV-2,http://www.weec.top:2222/udp/239.3.1.60:8084
 CCTV-3,http://www.weec.top:2222/udp/239.3.1.172:8001
@@ -3480,7 +3479,7 @@ BesTV,http://www.weec.top:2222/udp/239.3.1.166:8001
 财富天下,http://www.weec.top:2222/udp/239.3.1.53:9136
 嘉佳卡通,http://www.weec.top:2222/udp/239.3.1.147:9268
 
-福建电信组播,#genre#
+福建电信,#genre#
 凤凰资讯,http://e3.woc.iiiya.cn:8888/udp/239.61.2.183:9086
 凤凰中文,http://e3.woc.iiiya.cn:8888/udp/239.61.5.48:1025
 凤凰中文,http://e3.woc.iiiya.cn:8888/udp/239.61.2.184:9092
