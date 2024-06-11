@@ -164,6 +164,8 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 
 港-澳-台,#genre#
+NOW爆谷,http://8.134.254.104:9999/channel/n7142cd1f/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
+NOW星影,http://8.134.254.104:9999/channel/n7174e740/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
 NOW星影,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
 NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
 NOW体育3,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
