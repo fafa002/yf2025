@@ -164,18 +164,18 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 
 港-澳-台,#genre#
-NOW爆谷,http://8.134.254.104:9999/channel/n7142cd1f/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
-NOW星影,http://8.134.254.104:9999/channel/n7174e740/index.m3u8?q=a36a8d63618de318ea1bcb9fdb6ed6d0
-(失效)NOW体育3,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
+NOW星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
+NOW爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
+TVB翡翠,http://111.160.76.101:80/香蕉哥/tvb翡翠.live.flv
+NOW体育3,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
 (失效)广电翡翠1,http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8
-TVB翡翠,http://www.balala.top:9200/channel/n379c44d0/index.m3u8?q=1717838720512
-
-(失效)NOW星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
-(失效)NOW爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
-(失效)TVB翡翠,http://111.160.76.101:80/香蕉哥/tvb翡翠.live.flv
+TVB翡翠,http://www.balala.top:9200/channel/n379c44d0/index.m3u8
+TVB翡翠,http://www.balala.top:9200/channel/23eda97a/index.m3u8
 
 TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+TVB-Plus,http://www.balala.top:9200/channel/na1d3e57/index.m3u8
+TVB-Plus,http://www.balala.top:9200/channel/119ce21f/index.m3u8
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
 TVB星河,http://117.114.153.1:8180/TV00000000000000000073@HHZT
 無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=2
@@ -311,181 +311,6 @@ TVBS 新聞,http://194.87.101.118/live.m3u8?c=5
 東森 財經新聞,http://194.87.101.118/live.m3u8?c=14
 CGTN Europe,http://194.87.101.118/live.m3u8?c=15
 
-油管反代,#genre#
-小猪佩奇,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=k9ZKGRJPXOw&type=mpd
-民視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
-三立財經,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
-EBC東森財經,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
-華視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
-鏡新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
-东森财经股市,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
-东京新宿,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DjdUEyjx8GM
-鳳凰衛視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=HFib76ySpbU&pp=ygUM6bOz5Yew6KGb6KaW
-中天新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
-鏡新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
-中天新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新聞,https://yt.caixina.link/live?url=https://www.youtube.com/live/oIgbl7t0S_w?feature=share
-中天新聞2,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WPfPjbOLNfE
-三立live,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=FoBfXvlOR6I
-三立inews,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
-三立NEWS+,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY
-TVBS NEWS LIVE,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc
-民視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
-華視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
-中視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
-台視新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
-EBC東森財經,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
-三立財經,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
-NHK WORLD,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=f0lYkdA-Gtw
-Euronews English,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=pykpO5kQJ98
-ANN News,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=coYw-eVU0Ks
-NBC NEW,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=0IUbD_4ytuo
-东森财经股市,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
-东京新宿,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DjdUEyjx8GM
-台灣地震監視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Owke6Quk7T0
-橙Yuzumi Channel,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wP_xJKrEvog
-TXO Liang,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=sYtEMRRMbVk
-Uki Violeta 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=-EOCnCM6Ga4
-Enna Alouette【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=-zxbmUR2xzY
-雲玩家 H ch.,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=v4mM7tLtnEE
-Polka Ch. 尾丸ポルカ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xCPRckfWeWk
-Nye,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=HBFzKU4RANM
-玩什麼鬼啦,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=KkH3Vgw5ABM
-Vantacrow Bringer 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DZANdNV5T-o
-心疼,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xA7fzO2h8po
-Crimzon Ruze Ch. HOLOSTARS-EN,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=uurvYlJmS14
-CC希希,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=_ZUCPmYW4cA
-猫汰つな / Nekota Tsuna,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IAS_mp_xfZ0
-AKA王以太,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=rhFHkWrQhxY
-Mori Calliope Ch. hololive-EN,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=kfSmviBESQM
-期末專題,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5TA7Tljvgpg
-瑪琋霓·索蕾 Marcinee Soleil,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=48mrIGP0JrE
-卡妮娜 Kanína Ch.,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=2FJ8G1_PZNo
-PFY玩給你看,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ghBUgNCagrs
-Claude Clawmark 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CeveQIus_pA
-Lucien Lunaris【FIRST STAGE PRODUCTION EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Ql1KMTCgFC8
-胡桃沢りりか,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=rP_b_PUGeFA
-Vezalius Bandage 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=l3qYRbTKafU
-Koneko Ch. 蒼神こねこ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=9NHROK-5-DI
-Lio Ch.獅堂リオ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5_tEtXrpdRs
-Finana Ryugu 【NIJISANJI EN】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=stGI420hHm8
-Ande 安爹 Ch.,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=GhIiGYfau7s
-ベルモンド・バンデラス,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=dzL8ifB8qRY
-桜鳥ミーナ / Audrey Mina,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=U3TT_fHO-RA
-NairoMK,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=0LV6lr1gBQ0
-Meimi Majokko Ch. 魔女っ子めいみ【kawaii】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ez2wiBOsQFk
-Mion Akuma 【AuroraLiveVR】,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wPZjpcmUyTk
-NG Slot,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=_L64ZgcIQzE
-Rahdian,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=penFUa_GT2c
-Q Wang,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=6vsLvXYts0A
-내가수영TV,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=RMjTIWEwYn8
-Abyss,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=dw0rPratObw
-이회장,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xJ7pQ5bseGg
-瀬乃ここは -Seno Kokoha Ch.-,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=htlGyf5hXIo
-ぶんぶん,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=SjkTMn622F8
-しゅぁっち,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=K8jvyHknCug
-灰流まりも,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=L9sOOvED8fc
-ゆるりめぐ-Yururi Megu-,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=teu6g71fdhM
-公視體育,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=NI1B_fwlz5Y
-三立LIVE新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY
-Lofi Girl,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=jfKfPfyJRdk
-中天電視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
-Kaela Kovalskia Ch. hololive-ID,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Bbd9ZotOWok
-台視新聞 TTV NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
-民視新聞網 Formosa TV News network,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
-Relaxed Mind,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=vpCdR_L8kKk
-TVBS NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc
-中天深喉嚨,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WPfPjbOLNfE
-三立iNEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
-On Rainy Days,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Gn5VjWlu8vs
-中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
-Sleepy Cat ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=YLMhjMUx__M
-The Good Life Radio x Sensual Musique,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=36YnV9STBqc
-大愛電視 Tzu Chi DaAiVideo,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=MIqUplvSRWA
-57東森財經新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
-Tim Janis,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=dXIyMS61B68
-華視新聞 CH52,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
-Open Heart Music - Helios 4K,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TAhHaHsDTkk
-57東森財經新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
-鏡新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
-Relaxing Jazz BGM,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=prIbo7VQmH0
-martin oei,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DUNzB2euyqg
-公視新聞網,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=quwqlazU-c8
-中視經典綜藝,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ADDSmXoPDY8
-台視新聞 TTV NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
-大愛電視 Tzu Chi DaAiVideo,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DTNkEm6jaqQ
-中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
-華視新聞 CH52,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
-大愛電視 Tzu Chi DaAiVideo,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=MIqUplvSRWA
-鏡新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
-57東森財經新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=LbS-xQ67fos
-三立iNEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=CKjSm5ZeehE
-中天深喉嚨,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WPfPjbOLNfE
-民視新聞網 Formosa TV News network,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
-新唐人亞太電視台NTDAPTV,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WIhgU_mc05A
-57東森財經新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
-中天電視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
-國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=4HysYHJ6GkY
-三立LIVE新聞,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY
-TVBS NEWS,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc
-公視新聞網,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=quwqlazU-c8
-寰宇新聞 頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=6IquAgfvYmc
-CTIASIA 中天亞洲台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=s2waUruqze4
-國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Lj8OWF6nzcg
-國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IvAXtzx5cUI
-國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Af0TFVbxvAQ
-國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Qo9QwuCpV3s
-國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=yUx5lB4mhZk
-國會頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=tDg3bJFYLzI
-寰宇新聞 頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=w87VGpgd90U
-Taipei Travel Live Cam  台北觀光即時影像 ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=z_fY1pj1VBw
-阿里山國家風景區管理處,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=dY2cRNr5Buw
-Amazing Taitung 台東就醬玩,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=UCG1aXVO8H8
-高雄旅遊網,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=C03Itx8iSC0
-KawazuLiveCam,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Xn7YQxxC5R0
-歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=DjdUEyjx8GM
-樂遊金門,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=uh_yNAE01w8
-新北旅客 New Taipei Tour,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xwAWSh35uuw
-東部海岸國家風景管理處,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=wTHhv7M0vCI
-阿里山國家風景區管理處,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=j2L_559nCjc
-Önkormányzat EGER,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IELAhyaUKVk
-歌舞伎町 ライブ ちゃんねる 2『 Kabukicho Live Channel II 』,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=gFRtAAmiFbE
-neoguru,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=czV_hXEMk8M
-桃園智慧旅遊雲 Taoyuan Travel,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=tD_a03trUvE
-Amazing Taitung 台東就醬玩,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=q3KJt-SZc2s
-宗教法人 浅草寺 公式チャンネル (Sensoji Temple),https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=nOk4cd0kkp8
-JAPAN 4K,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=cH7VBI4QQzA
-Japan Walk,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=gC4dJGHWwDU
-STV札幌テレビ放送 公式,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=bQMP7-GzdIQ
-Cal Falcons,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=7nvCVS2TRRk
-Melbourne Luxury Accommodation,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=l_8DrACHpwY
-TeNY新潟一番ニュース,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IQms8zArI7w
-Taipei Travel Live Cam  台北觀光即時影像 ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Ndo_8RuefH4
-Our Planet 4K,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=h-mRJ7XwOKQ
-Taipei Travel Live Cam  台北觀光即時影像 ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=fP4ecxfsJos
-Taipei Travel Live Cam  台北觀光即時影像 ,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=uvwfYzwY8tg
-大玩台中-臺中觀光旅遊局,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=lhXXhDyjFtI
-澳門特別行政區政府市政署IAM,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ctYalRx7kY4
-NASASpaceflight,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Jm8wRjD3xVA
-JDQ-地震情報,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=HXGANE2pRrA
-momo購物一台 CH48,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=_pZQ1Lk0xMA
-momo購物二台 CH35,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=xbNWkUyxQGM
-Live東森購物台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-Live東森購物台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Z50JFuNgvB0
-Live東森購物台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=u0NYyH3ZesE
-Live東森購物台,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=_Vlzn9qAHD4
-中視經典綜藝,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=ADDSmXoPDY8
-台灣地震監視,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=Owke6Quk7T0
-Kitten Academy,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=R7vrbiDi0Tc
-12K Scenic Relaxation,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=vQP8AwAFzI8
-飢餓遊戲Hunger Games,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=A98LJq71BZg
-華視綜藝頻道,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=IsFtLpSuf_g
-Eight FM,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=o1ipHJUfFTM
-大陸尋奇,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=fl1iFkAWcVU
-中視經典戲劇,https://yt.caixina.link/live?url=https://www.youtube.com/watch?v=jkF7cseHZ5s
-
 斯玛特,#genre#
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -567,7 +392,7 @@ AXW,http://8.137.59.151:99/fhtv/fenghuang.php?id=47
 爱尔达体育4,http://8.137.59.151:99/fhtv/fenghuang.php?id=75
 爱尔达影剧,http://8.137.59.151:99/fhtv/fenghuang.php?id=126
 
-四季台湾,#genre#
+(失效)四季台湾,#genre#
 民視台灣台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
 民視第一台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
 TVBS HD,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv073
@@ -662,484 +487,484 @@ GLOBETROTTER,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95
 GinxTV,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv053
 
 星视界,#genre#
-翡翠台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=feicui
-无线新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-news
-TVB plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-plus
-TVB plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=j2
-黄金翡翠台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=golden-jade
-黄金华剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=golden-chinese-drama
-千禧经典台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-classic
-粤语片台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-yueyu
-星河台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-xinghe
-亚洲剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-asia-drama
-娱乐新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ylxw
-明珠台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pearl
-华语剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-drama
-凤凰资讯,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=phtv-info
-凤凰中文,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=phtv-cn
-凤凰香港,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=phtv-hk
-HOY 资讯台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hoy-info
-HOY TV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hoytv
-HOY国际财经,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hoy-ibc
-ViuTV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=viutv
-ViuTV6,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=viutv6
-天映频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=celestial
-天映经典,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cccm
-Thrill,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=thrill
-星空卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=star-xing-kong
-香港卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hks
-澳亚卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mastv
-澳门卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mstv
-澳门莲花卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lotustv
-澳门资讯,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tdm-information
-澳视澳门,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tdm
-HKC 18台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hkc18
-港台电视 31,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=rthk31
-港台电视 32,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=rthk32
+翡翠台,http://histar-proxy.isus.cc/feicui
+无线新闻台,http://histar-proxy.isus.cc/tvb-news
+TVB plus,http://histar-proxy.isus.cc/tvb-plus
+TVB plus,http://histar-proxy.isus.cc/j2
+黄金翡翠台,http://histar-proxy.isus.cc/golden-jade
+黄金华剧台,http://histar-proxy.isus.cc/golden-chinese-drama
+千禧经典台,http://histar-proxy.isus.cc/tvb-classic
+粤语片台,http://histar-proxy.isus.cc/tvb-yueyu
+星河台,http://histar-proxy.isus.cc/tvb-xinghe
+亚洲剧台,http://histar-proxy.isus.cc/tvb-asia-drama
+娱乐新闻台,http://histar-proxy.isus.cc/ylxw
+明珠台,http://histar-proxy.isus.cc/pearl
+华语剧台,http://histar-proxy.isus.cc/tvb-drama
+凤凰资讯,http://histar-proxy.isus.cc/phtv-info
+凤凰中文,http://histar-proxy.isus.cc/phtv-cn
+凤凰香港,http://histar-proxy.isus.cc/phtv-hk
+HOY 资讯台,http://histar-proxy.isus.cc/hoy-info
+HOY TV,http://histar-proxy.isus.cc/hoytv
+HOY国际财经,http://histar-proxy.isus.cc/hoy-ibc
+ViuTV,http://histar-proxy.isus.cc/viutv
+ViuTV6,http://histar-proxy.isus.cc/viutv6
+天映频道,http://histar-proxy.isus.cc/celestial
+天映经典,http://histar-proxy.isus.cc/cccm
+Thrill,http://histar-proxy.isus.cc/thrill
+星空卫视,http://histar-proxy.isus.cc/star-xing-kong
+香港卫视,http://histar-proxy.isus.cc/hks
+澳亚卫视,http://histar-proxy.isus.cc/mastv
+澳门卫视,http://histar-proxy.isus.cc/mstv
+澳门莲花卫视,http://histar-proxy.isus.cc/lotustv
+澳门资讯,http://histar-proxy.isus.cc/tdm-information
+澳视澳门,http://histar-proxy.isus.cc/tdm
+HKC 18台,http://histar-proxy.isus.cc/hkc18
+港台电视 31,http://histar-proxy.isus.cc/rthk31
+港台电视 32,http://histar-proxy.isus.cc/rthk32
 
-Now 财经台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-finance
-Now 爆谷台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=baogu-movies
-Now 星影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-baogu-superstars
-Now 新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-news
-Now 直播台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-direct
-Now报价台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-data
-Now jelli紫金国际台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-jelli
-Now华剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-chinese-drama
-HBO Now115,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=Now-HBO
-Now HBO Hits,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-hbo-hits
-Now HBO Family,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-hbof-amily
-Now HBO Signature,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-hbo-signature
-MovieMovie,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=moviemovie
-NowViu剧集台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-viu-drama
-Now Sports 641,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports641
-Now NBA,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-nba
-Now Sports精选,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-prime
-Now Sports 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-1
-Now Sports 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-2
-Now Sports 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-3
-Now Sports 4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-4
-Now Sports 5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-5
-Now Sports 6,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-6
-Now Sports 7,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-7
-Now Sports Plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-plus
-Now Sports 英超1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league1
-Now Sports 英超2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league2
-Now Sports 英超3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league3
-Now Sports 英超4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league4
-Now Sports 英超5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league5
-Now Sports 英超6,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-sports-premier-league6
-Now beIN SPORTS 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports1
-Now beIN SPORTS 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports2
-Now beIN SPORTS 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-bein-sports3
-Now 668,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-668
-Now Golf 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-golf2
-Now Golf 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=now-golf3
+Now 财经台,http://histar-proxy.isus.cc/now-finance
+Now 爆谷台,http://histar-proxy.isus.cc/baogu-movies
+Now 星影台,http://histar-proxy.isus.cc/now-baogu-superstars
+Now 新闻台,http://histar-proxy.isus.cc/now-news
+Now 直播台,http://histar-proxy.isus.cc/now-direct
+Now报价台,http://histar-proxy.isus.cc/now-data
+Now jelli紫金国际台,http://histar-proxy.isus.cc/now-jelli
+Now华剧台,http://histar-proxy.isus.cc/now-chinese-drama
+HBO Now115,http://histar-proxy.isus.cc/Now-HBO
+Now HBO Hits,http://histar-proxy.isus.cc/now-hbo-hits
+Now HBO Family,http://histar-proxy.isus.cc/now-hbof-amily
+Now HBO Signature,http://histar-proxy.isus.cc/now-hbo-signature
+MovieMovie,http://histar-proxy.isus.cc/moviemovie
+NowViu剧集台,http://histar-proxy.isus.cc/now-viu-drama
+Now Sports 641,http://histar-proxy.isus.cc/now-sports641
+Now NBA,http://histar-proxy.isus.cc/now-nba
+Now Sports精选,http://histar-proxy.isus.cc/now-sports-prime
+Now Sports 1,http://histar-proxy.isus.cc/now-sports-1
+Now Sports 2,http://histar-proxy.isus.cc/now-sports-2
+Now Sports 3,http://histar-proxy.isus.cc/now-sports-3
+Now Sports 4,http://histar-proxy.isus.cc/now-sports-4
+Now Sports 5,http://histar-proxy.isus.cc/now-sports-5
+Now Sports 6,http://histar-proxy.isus.cc/now-sports-6
+Now Sports 7,http://histar-proxy.isus.cc/now-sports-7
+Now Sports Plus,http://histar-proxy.isus.cc/now-sports-plus
+Now Sports 英超1,http://histar-proxy.isus.cc/now-sports-premier-league1
+Now Sports 英超2,http://histar-proxy.isus.cc/now-sports-premier-league2
+Now Sports 英超3,http://histar-proxy.isus.cc/now-sports-premier-league3
+Now Sports 英超4,http://histar-proxy.isus.cc/now-sports-premier-league4
+Now Sports 英超5,http://histar-proxy.isus.cc/now-sports-premier-league5
+Now Sports 英超6,http://histar-proxy.isus.cc/now-sports-premier-league6
+Now beIN SPORTS 1,http://histar-proxy.isus.cc/now-bein-sports1
+Now beIN SPORTS 2,http://histar-proxy.isus.cc/now-bein-sports2
+Now beIN SPORTS 3,http://histar-proxy.isus.cc/now-bein-sports3
+Now 668,http://histar-proxy.isus.cc/now-668
+Now Golf 2,http://histar-proxy.isus.cc/now-golf2
+Now Golf 3,http://histar-proxy.isus.cc/now-golf3
 
-民视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv
-民视台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-tw
-民视第一台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-one
-纬来日本,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-japan
-纬来综合,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland
-八大综合,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv28
-八大第一,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv27
-TVBS 精采台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-jc
-TVBS 欢乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-huanle
-TVBS Asia,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-asia
-三立台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-taiwan
-三立综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-zonghe
-台视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv
-东森超视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-super
-东森综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-ettv
-中视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv
-中视菁采台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bravo
-中天亚洲,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-asia
-中天综合,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctitv36
-华视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cts
-LiveABC 互动英语频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=liveabc
-好消息,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=goodtv
-KLT-靖天国际台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtgj
-ELTA综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-zonghe
-公视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts
-公视3台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-3
-公视台语台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=pts-ty
-靖天综合台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtzh
-靖天日本台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtrb
-客家电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hakkatv
-大爱一台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=daai1
-大爱二台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=daai2
-ARIRANG 阿里郎频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=arirang
+民视,http://histar-proxy.isus.cc/ftv
+民视台湾台,http://histar-proxy.isus.cc/ftv-tw
+民视第一台,http://histar-proxy.isus.cc/ftv-one
+纬来日本,http://histar-proxy.isus.cc/videoland-japan
+纬来综合,http://histar-proxy.isus.cc/videoland
+八大综合,http://histar-proxy.isus.cc/gtv28
+八大第一,http://histar-proxy.isus.cc/gtv27
+TVBS 精采台,http://histar-proxy.isus.cc/tvbs-jc
+TVBS 欢乐台,http://histar-proxy.isus.cc/tvbs-huanle
+TVBS Asia,http://histar-proxy.isus.cc/tvbs-asia
+三立台湾台,http://histar-proxy.isus.cc/settv-taiwan
+三立综合台,http://histar-proxy.isus.cc/settv-zonghe
+台视,http://histar-proxy.isus.cc/ttv
+东森超视,http://histar-proxy.isus.cc/ebc-super
+东森综合台,http://histar-proxy.isus.cc/ebc-ettv
+中视,http://histar-proxy.isus.cc/ctv
+中视菁采台,http://histar-proxy.isus.cc/bravo
+中天亚洲,http://histar-proxy.isus.cc/cti-asia
+中天综合,http://histar-proxy.isus.cc/ctitv36
+华视,http://histar-proxy.isus.cc/cts
+LiveABC 互动英语频道,http://histar-proxy.isus.cc/liveabc
+好消息,http://histar-proxy.isus.cc/goodtv
+KLT-靖天国际台,http://histar-proxy.isus.cc/jtgj
+ELTA综合台,http://histar-proxy.isus.cc/elta-zonghe
+公视,http://histar-proxy.isus.cc/pts
+公视3台,http://histar-proxy.isus.cc/pts-3
+公视台语台,http://histar-proxy.isus.cc/pts-ty
+靖天综合台,http://histar-proxy.isus.cc/jtzh
+靖天日本台,http://histar-proxy.isus.cc/jtrb
+客家电视台,http://histar-proxy.isus.cc/hakkatv
+大爱一台,http://histar-proxy.isus.cc/daai1
+大爱二台,http://histar-proxy.isus.cc/daai2
+ARIRANG 阿里郎频道,http://histar-proxy.isus.cc/arirang
 
-中天新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-news
-TVBS 新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-news
-TVBS HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-hd
-东森新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-news
-东森财经新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-finance
-寰宇新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=global-news
-寰宇财经台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=global-finance
-寰宇新闻台湾台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=global-news-tw
-壹新闻 HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nexttv
-三立新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-news
-三立iNews,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-inews
-中视新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv-news
-非凡新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=unique-business-news
-年代新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=era-news
-民视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-news
-台视新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ttv-news
-镜电视新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mnews
-华视新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cts-news
-半岛国际新闻台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=aljazeera
-SBN 全球财经台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sbn
-靖天资讯台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtzx
+中天新闻,http://histar-proxy.isus.cc/cti-news
+TVBS 新闻台,http://histar-proxy.isus.cc/tvbs-news
+TVBS HD,http://histar-proxy.isus.cc/tvbs-hd
+东森新闻,http://histar-proxy.isus.cc/ebc-news
+东森财经新闻,http://histar-proxy.isus.cc/ebc-finance
+寰宇新闻台,http://histar-proxy.isus.cc/global-news
+寰宇财经台,http://histar-proxy.isus.cc/global-finance
+寰宇新闻台湾台,http://histar-proxy.isus.cc/global-news-tw
+壹新闻 HD,http://histar-proxy.isus.cc/nexttv
+三立新闻,http://histar-proxy.isus.cc/settv-news
+三立iNews,http://histar-proxy.isus.cc/settv-inews
+中视新闻,http://histar-proxy.isus.cc/ctv-news
+非凡新闻,http://histar-proxy.isus.cc/unique-business-news
+年代新闻,http://histar-proxy.isus.cc/era-news
+民视新闻台,http://histar-proxy.isus.cc/ftv-news
+台视新闻,http://histar-proxy.isus.cc/ttv-news
+镜电视新闻台,http://histar-proxy.isus.cc/mnews
+华视新闻,http://histar-proxy.isus.cc/cts-news
+半岛国际新闻台,http://histar-proxy.isus.cc/aljazeera
+SBN 全球财经台,http://histar-proxy.isus.cc/sbn
+靖天资讯台,http://histar-proxy.isus.cc/jtzx
 
-纬来电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-movie
-纬来戏剧,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-drama
-TVBS综艺台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-zongyi
-TVBS台剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvbs-taiju
-龙祥电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lstime
-龙华电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ltv-movies
-龙华戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ltv-xiju
-龙华日韩台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ltv-rihan
-东森电影,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-movie
-东森戏剧,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-drama
-东森洋片,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-emovie
-八大精彩台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-jct
-八大戏剧,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-41
-八大娱乐,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gtv-86
-八大综艺,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=grt
-采昌影剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=caichang
-美亚电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=meiah-movies
-猪哥亮歌厅秀,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zglgtx
-民视综艺,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-reality
-民视影剧,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-drama
-三立都会台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-city
-三立戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=settv-drama
-中视经典台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ctv-classic
-中天娱乐,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cti-yule
-靖洋戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jyxj
-靖天映画,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtyh
-靖天电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtdy
-靖天戏剧台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtxjt
-韩国娱乐台 KMTV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kmtv
-公视戏剧,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gsxj
-影迷数位纪实台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ymswjst
-影迷数字电影台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=fans-cinema
-视纳华仁纪实频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cnex
-MTV Live HD 频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mtv
-ELTA 娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-ylt
+纬来电影台,http://histar-proxy.isus.cc/videoland-movie
+纬来戏剧,http://histar-proxy.isus.cc/videoland-drama
+TVBS综艺台,http://histar-proxy.isus.cc/tvbs-zongyi
+TVBS台剧台,http://histar-proxy.isus.cc/tvbs-taiju
+龙祥电影台,http://histar-proxy.isus.cc/lstime
+龙华电影台,http://histar-proxy.isus.cc/ltv-movies
+龙华戏剧台,http://histar-proxy.isus.cc/ltv-xiju
+龙华日韩台,http://histar-proxy.isus.cc/ltv-rihan
+东森电影,http://histar-proxy.isus.cc/ebc-movie
+东森戏剧,http://histar-proxy.isus.cc/ebc-drama
+东森洋片,http://histar-proxy.isus.cc/ebc-emovie
+八大精彩台,http://histar-proxy.isus.cc/gtv-jct
+八大戏剧,http://histar-proxy.isus.cc/gtv-41
+八大娱乐,http://histar-proxy.isus.cc/gtv-86
+八大综艺,http://histar-proxy.isus.cc/grt
+采昌影剧台,http://histar-proxy.isus.cc/caichang
+美亚电影台,http://histar-proxy.isus.cc/meiah-movies
+猪哥亮歌厅秀,http://histar-proxy.isus.cc/zglgtx
+民视综艺,http://histar-proxy.isus.cc/ftv-reality
+民视影剧,http://histar-proxy.isus.cc/ftv-drama
+三立都会台,http://histar-proxy.isus.cc/settv-city
+三立戏剧台,http://histar-proxy.isus.cc/settv-drama
+中视经典台,http://histar-proxy.isus.cc/ctv-classic
+中天娱乐,http://histar-proxy.isus.cc/cti-yule
+靖洋戏剧台,http://histar-proxy.isus.cc/jyxj
+靖天映画,http://histar-proxy.isus.cc/jtyh
+靖天电影台,http://histar-proxy.isus.cc/jtdy
+靖天戏剧台,http://histar-proxy.isus.cc/jtxjt
+韩国娱乐台 KMTV,http://histar-proxy.isus.cc/kmtv
+公视戏剧,http://histar-proxy.isus.cc/gsxj
+影迷数位纪实台,http://histar-proxy.isus.cc/ymswjst
+影迷数字电影台,http://histar-proxy.isus.cc/fans-cinema
+视纳华仁纪实频道,http://histar-proxy.isus.cc/cnex
+MTV Live HD 频道,http://histar-proxy.isus.cc/mtv
+ELTA 娱乐台,http://histar-proxy.isus.cc/elta-ylt
 
-Channel 5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=channel-5
-Channel 8,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=channel8
-Channel U,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=channel-u
-8TV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=8tv
-TV9,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tv9
-CM+,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cm-plus
-E乐,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=singtel-tv
-TV1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tv1-my
-TV2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tv2-my
-TV3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tv3-my
-ChannelNewsAsia,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=channelnewsasia
-OKEY,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=okey
-Magic,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvb-magic
-tvN Movies,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvn-movies
-AXN,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=axn
-TV Alhijrah,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tv-alhijrah
-ColorsHindi,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=colorshindi
-TVS,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvs
-tvN,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvn
-BeritaRTM,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=beritartm
-SukanRTM,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sukanrtm
-HITSMovies,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hitsmovies
-ShowCase,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=showcase
-BBCEarth,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bbcearth
-Mediacorp Suria,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mediacorp-suria
-Mediacorp Vasantham,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mediacorp-vasantham
-Gem,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gem
-GlobalTrekker,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=globaltrekker
-DramaSangat,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dramasangat
-SunTV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=suntv
-SunMusic,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sunmusic
-SunNews,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sunnews
-AwesomeTV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=awesometv
-DidikTV7,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=didiktv7
-Adithya,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=adithya
-KTVHD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ktvhd
-SunLife,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sunlife
-StarVijay,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=starvijay
-ColorsTamil,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=colorstamil
-ZeeTamil,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zeetamil
-ZeeCinemaHD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zeecinemahd
-Boo,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=boo
-MTVLive,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mtvlive
-Bernama,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bernama
-Moonbug,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=moonbug
+Channel 5,http://histar-proxy.isus.cc/channel-5
+Channel 8,http://histar-proxy.isus.cc/channel8
+Channel U,http://histar-proxy.isus.cc/channel-u
+8TV,http://histar-proxy.isus.cc/8tv
+TV9,http://histar-proxy.isus.cc/tv9
+CM+,http://histar-proxy.isus.cc/cm-plus
+E乐,http://histar-proxy.isus.cc/singtel-tv
+TV1,http://histar-proxy.isus.cc/tv1-my
+TV2,http://histar-proxy.isus.cc/tv2-my
+TV3,http://histar-proxy.isus.cc/tv3-my
+ChannelNewsAsia,http://histar-proxy.isus.cc/channelnewsasia
+OKEY,http://histar-proxy.isus.cc/okey
+Magic,http://histar-proxy.isus.cc/tvb-magic
+tvN Movies,http://histar-proxy.isus.cc/tvn-movies
+AXN,http://histar-proxy.isus.cc/axn
+TV Alhijrah,http://histar-proxy.isus.cc/tv-alhijrah
+ColorsHindi,http://histar-proxy.isus.cc/colorshindi
+TVS,http://histar-proxy.isus.cc/tvs
+tvN,http://histar-proxy.isus.cc/tvn
+BeritaRTM,http://histar-proxy.isus.cc/beritartm
+SukanRTM,http://histar-proxy.isus.cc/sukanrtm
+HITSMovies,http://histar-proxy.isus.cc/hitsmovies
+ShowCase,http://histar-proxy.isus.cc/showcase
+BBCEarth,http://histar-proxy.isus.cc/bbcearth
+Mediacorp Suria,http://histar-proxy.isus.cc/mediacorp-suria
+Mediacorp Vasantham,http://histar-proxy.isus.cc/mediacorp-vasantham
+Gem,http://histar-proxy.isus.cc/gem
+GlobalTrekker,http://histar-proxy.isus.cc/globaltrekker
+DramaSangat,http://histar-proxy.isus.cc/dramasangat
+SunTV,http://histar-proxy.isus.cc/suntv
+SunMusic,http://histar-proxy.isus.cc/sunmusic
+SunNews,http://histar-proxy.isus.cc/sunnews
+AwesomeTV,http://histar-proxy.isus.cc/awesometv
+DidikTV7,http://histar-proxy.isus.cc/didiktv7
+Adithya,http://histar-proxy.isus.cc/adithya
+KTVHD,http://histar-proxy.isus.cc/ktvhd
+SunLife,http://histar-proxy.isus.cc/sunlife
+StarVijay,http://histar-proxy.isus.cc/starvijay
+ColorsTamil,http://histar-proxy.isus.cc/colorstamil
+ZeeTamil,http://histar-proxy.isus.cc/zeetamil
+ZeeCinemaHD,http://histar-proxy.isus.cc/zeecinemahd
+Boo,http://histar-proxy.isus.cc/boo
+MTVLive,http://histar-proxy.isus.cc/mtvlive
+Bernama,http://histar-proxy.isus.cc/bernama
+Moonbug,http://histar-proxy.isus.cc/moonbug
 
-Hub都会,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=HubECity
-Hub娱家,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=HubVVDrama
-HubSports 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubsports1
-HubSports2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubsports2
-HubSports3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubsports3
-HubSport4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubsports4
-HubSports Plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubsports-plus
-Hub Premier 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubpremier1
-HubPremier2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubpremier2
-HubPremier3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubpremier3
-HubPremier 4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubpremier4
-HubPremier 5,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubpremier5
-Hub Sensasi,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hub-sensasi
-tvn HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tvnhd
-AstroWarna Hub版,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-warna-hub
-ONEMalay,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=one-malay
+Hub都会,http://histar-proxy.isus.cc/HubECity
+Hub娱家,http://histar-proxy.isus.cc/HubVVDrama
+HubSports 1,http://histar-proxy.isus.cc/hubsports1
+HubSports2,http://histar-proxy.isus.cc/hubsports2
+HubSports3,http://histar-proxy.isus.cc/hubsports3
+HubSport4,http://histar-proxy.isus.cc/hubsports4
+HubSports Plus,http://histar-proxy.isus.cc/hubsports-plus
+Hub Premier 1,http://histar-proxy.isus.cc/hubpremier1
+HubPremier2,http://histar-proxy.isus.cc/hubpremier2
+HubPremier3,http://histar-proxy.isus.cc/hubpremier3
+HubPremier 4,http://histar-proxy.isus.cc/hubpremier4
+HubPremier 5,http://histar-proxy.isus.cc/hubpremier5
+Hub Sensasi,http://histar-proxy.isus.cc/hub-sensasi
+tvn HD,http://histar-proxy.isus.cc/tvnhd
+AstroWarna Hub版,http://histar-proxy.isus.cc/astro-warna-hub
+ONEMalay,http://histar-proxy.isus.cc/one-malay
 
-Astro AEC,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aec
-Astro 欢喜台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-huaheedai
-Astro SuperSport,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=super-sports1
-Astro SuperSport 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=super-sports2
-Astro SuperSport 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=super-sports3
-Astro SuperSport 4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=super-sports4
-Arena Bola,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=arena-bola
-Arena Bola2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=arena-bola2
-Astro 爱奇艺,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-iqiyi
-Astro AOD 311 国语,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aod
-Astro AOD 311 粤语,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aod-311-hk
-Astro QJ,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-quanjia
-Astro Awani,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-awani
-Astro Arena HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-arena-hd
-Astro Arena 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-arena2
-Astro Citra,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-citra
-Astro Prima,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-prima
-Astro Aura,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-aura
-Astro RIA,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-ria
-Astro ONE,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-one
-AstroPremier,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astropremier
-Astro Ceria,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-ceria
-Astro Vaanavil,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-vaanavil
-Astro Vinmeen,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-vinmeen
-Astro Warna,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-warna
-Astro Vellithirai,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-vellithirai
-Astro Rania,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-rania
-Astro Oasis,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-oasis
-Astro TUTOR TV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-tutor-tv
-Astro GolfChannel,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=astro-golfchannel
+Astro AEC,http://histar-proxy.isus.cc/astro-aec
+Astro 欢喜台,http://histar-proxy.isus.cc/astro-huaheedai
+Astro SuperSport,http://histar-proxy.isus.cc/super-sports1
+Astro SuperSport 2,http://histar-proxy.isus.cc/super-sports2
+Astro SuperSport 3,http://histar-proxy.isus.cc/super-sports3
+Astro SuperSport 4,http://histar-proxy.isus.cc/super-sports4
+Arena Bola,http://histar-proxy.isus.cc/arena-bola
+Arena Bola2,http://histar-proxy.isus.cc/arena-bola2
+Astro 爱奇艺,http://histar-proxy.isus.cc/astro-iqiyi
+Astro AOD 311 国语,http://histar-proxy.isus.cc/astro-aod
+Astro AOD 311 粤语,http://histar-proxy.isus.cc/astro-aod-311-hk
+Astro QJ,http://histar-proxy.isus.cc/astro-quanjia
+Astro Awani,http://histar-proxy.isus.cc/astro-awani
+Astro Arena HD,http://histar-proxy.isus.cc/astro-arena-hd
+Astro Arena 2,http://histar-proxy.isus.cc/astro-arena2
+Astro Citra,http://histar-proxy.isus.cc/astro-citra
+Astro Prima,http://histar-proxy.isus.cc/astro-prima
+Astro Aura,http://histar-proxy.isus.cc/astro-aura
+Astro RIA,http://histar-proxy.isus.cc/astro-ria
+Astro ONE,http://histar-proxy.isus.cc/astro-one
+AstroPremier,http://histar-proxy.isus.cc/astropremier
+Astro Ceria,http://histar-proxy.isus.cc/astro-ceria
+Astro Vaanavil,http://histar-proxy.isus.cc/astro-vaanavil
+Astro Vinmeen,http://histar-proxy.isus.cc/astro-vinmeen
+Astro Warna,http://histar-proxy.isus.cc/astro-warna
+Astro Vellithirai,http://histar-proxy.isus.cc/astro-vellithirai
+Astro Rania,http://histar-proxy.isus.cc/astro-rania
+Astro Oasis,http://histar-proxy.isus.cc/astro-oasis
+Astro TUTOR TV,http://histar-proxy.isus.cc/astro-tutor-tv
+Astro GolfChannel,http://histar-proxy.isus.cc/astro-golfchannel
 
-beIN Sports,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=beinsports
-beIN Sports 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=beinsports2
-beIN Sports 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=beinsports3
-ELTA 体育-1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport1
-ELTA 体育-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport2
-ELTA 体育-3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport3
-ELTA体育4台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-sport4
-博斯网球,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-tennis
-博斯运动-1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast1
-博斯运动-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast2
-博斯无限,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-wx
-博斯高球-1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-golf1
-博斯高球-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-golf2
-博斯魅力,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sportcast-meili
-ESPN,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=espn
-ESPN 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=espn2
-ESPN 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=espn3
-ESPN 4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=espn4
-myTV SUPER直播足球1台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mytv-super-soccer1
-myTV SUPER直播足球2台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mytv-super-soccer2
-myTV SUPER直播足球3台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mytv-super-soccer3
-myTV SUPER直播足球4台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mytv-super-soccer4
-myTV SUPER 18,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mytvsuper-18
-纬来体育,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=videoland-sport
-NBA,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nba
-WWE,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=wwe
-DAZN 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eleven-sport1
-DAZN 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eleven-sport2
-Eurosports-1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eurosports-1
-SPOTV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=spotv
-SPOTV-2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=spotv2
-时尚运动 X,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ssydx
-GINX Esports TV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ginx-esports
-Tech Storm,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tech-storm
-TRACE Sport Stars,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=trace-sport-stars
-W-Sport,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=w-sport
-PremierSports,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=premiersports
-智林体育台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zl-sports
+beIN Sports,http://histar-proxy.isus.cc/beinsports
+beIN Sports 2,http://histar-proxy.isus.cc/beinsports2
+beIN Sports 3,http://histar-proxy.isus.cc/beinsports3
+ELTA 体育-1,http://histar-proxy.isus.cc/elta-sport1
+ELTA 体育-2,http://histar-proxy.isus.cc/elta-sport2
+ELTA 体育-3,http://histar-proxy.isus.cc/elta-sport3
+ELTA体育4台,http://histar-proxy.isus.cc/elta-sport4
+博斯网球,http://histar-proxy.isus.cc/sportcast-tennis
+博斯运动-1,http://histar-proxy.isus.cc/sportcast1
+博斯运动-2,http://histar-proxy.isus.cc/sportcast2
+博斯无限,http://histar-proxy.isus.cc/sportcast-wx
+博斯高球-1,http://histar-proxy.isus.cc/sportcast-golf1
+博斯高球-2,http://histar-proxy.isus.cc/sportcast-golf2
+博斯魅力,http://histar-proxy.isus.cc/sportcast-meili
+ESPN,http://histar-proxy.isus.cc/espn
+ESPN 2,http://histar-proxy.isus.cc/espn2
+ESPN 3,http://histar-proxy.isus.cc/espn3
+ESPN 4,http://histar-proxy.isus.cc/espn4
+myTV SUPER直播足球1台,http://histar-proxy.isus.cc/mytv-super-soccer1
+myTV SUPER直播足球2台,http://histar-proxy.isus.cc/mytv-super-soccer2
+myTV SUPER直播足球3台,http://histar-proxy.isus.cc/mytv-super-soccer3
+myTV SUPER直播足球4台,http://histar-proxy.isus.cc/mytv-super-soccer4
+myTV SUPER 18,http://histar-proxy.isus.cc/mytvsuper-18
+纬来体育,http://histar-proxy.isus.cc/videoland-sport
+NBA,http://histar-proxy.isus.cc/nba
+WWE,http://histar-proxy.isus.cc/wwe
+DAZN 1,http://histar-proxy.isus.cc/eleven-sport1
+DAZN 2,http://histar-proxy.isus.cc/eleven-sport2
+Eurosports-1,http://histar-proxy.isus.cc/eurosports-1
+SPOTV,http://histar-proxy.isus.cc/spotv
+SPOTV-2,http://histar-proxy.isus.cc/spotv2
+时尚运动 X,http://histar-proxy.isus.cc/ssydx
+GINX Esports TV,http://histar-proxy.isus.cc/ginx-esports
+Tech Storm,http://histar-proxy.isus.cc/tech-storm
+TRACE Sport Stars,http://histar-proxy.isus.cc/trace-sport-stars
+W-Sport,http://histar-proxy.isus.cc/w-sport
+PremierSports,http://histar-proxy.isus.cc/premiersports
+智林体育台,http://histar-proxy.isus.cc/zl-sports
 
-新时代电视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=fairchildtv
-新时代电视二台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=fairchildtv2
-城市电视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=talentvisiontv
-HBO HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hbo-hd
-HBO Hits HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hbo-hits-hd
-HBO Family HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hbo-family
-HBO Signature HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hbo-signature
-Cinemax,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cinemax
-CNN International,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cnn-international
-好莱坞电影,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hollywood-movie
-ROCK Action,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=rock-action
-ROCK Entertainment,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=rock-entertaiment
-Bloomberg,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bloomberg
-amc 最爱电影,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=amc-movie
-美国中文电视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sinovision
-Lifetime 娱乐频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lifetime
-HLN,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cnn-hln
-fun 探索娱乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=festival4k
-Euronews,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=euronews
-MyCinema Europe HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=mycinema-europe
-VOA 美国之音,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=voa
-DW 德国之声,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dw
-CNN,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cnn
-ABC News,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=abc-news
-BBC World News,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=bbc-world-news
-CNBC,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cnbc
+新时代电视,http://histar-proxy.isus.cc/fairchildtv
+新时代电视二台,http://histar-proxy.isus.cc/fairchildtv2
+城市电视,http://histar-proxy.isus.cc/talentvisiontv
+HBO HD,http://histar-proxy.isus.cc/hbo-hd
+HBO Hits HD,http://histar-proxy.isus.cc/hbo-hits-hd
+HBO Family HD,http://histar-proxy.isus.cc/hbo-family
+HBO Signature HD,http://histar-proxy.isus.cc/hbo-signature
+Cinemax,http://histar-proxy.isus.cc/cinemax
+CNN International,http://histar-proxy.isus.cc/cnn-international
+好莱坞电影,http://histar-proxy.isus.cc/hollywood-movie
+ROCK Action,http://histar-proxy.isus.cc/rock-action
+ROCK Entertainment,http://histar-proxy.isus.cc/rock-entertaiment
+Bloomberg,http://histar-proxy.isus.cc/bloomberg
+amc 最爱电影,http://histar-proxy.isus.cc/amc-movie
+美国中文电视,http://histar-proxy.isus.cc/sinovision
+Lifetime 娱乐频道,http://histar-proxy.isus.cc/lifetime
+HLN,http://histar-proxy.isus.cc/cnn-hln
+fun 探索娱乐台,http://histar-proxy.isus.cc/festival4k
+Euronews,http://histar-proxy.isus.cc/euronews
+MyCinema Europe HD,http://histar-proxy.isus.cc/mycinema-europe
+VOA 美国之音,http://histar-proxy.isus.cc/voa
+DW 德国之声,http://histar-proxy.isus.cc/dw
+CNN,http://histar-proxy.isus.cc/cnn
+ABC News,http://histar-proxy.isus.cc/abc-news
+BBC World News,http://histar-proxy.isus.cc/bbc-world-news
+CNBC,http://histar-proxy.isus.cc/cnbc
 
-CCTV-1 综合,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv1
-CCTV-2 财经,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv2
-CCTV-3 综艺,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv3
-CCTV-4 中文国际,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv4
-CCTV-5 体育,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv5
-CCTV-5+ 体育赛事,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv5plus
-CCTV-6 电影,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv6
-CCTV-7 国防军事,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv7
-CCTV-8 电视剧,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv8
-CCTV-9 纪录,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv9
-CCTV-10 科教,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv10
-CCTV-11 戏曲,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv11
-CCTV-12 社会与法,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv12
-CCTV-13 新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv13
-CCTV-14 少儿,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv14
-CCTV-15 音乐,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv15
-CCTV-16 奥林匹克,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv16
-CCTV-17 农业农村,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cctv17
-CHC家庭影院,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=chc-jtyy
-CHC动作电影,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=chc-dzdy
-CHC高清电影,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=chc-gqdy
-重温经典,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cwjd
+CCTV-1 综合,http://histar-proxy.isus.cc/cctv1
+CCTV-2 财经,http://histar-proxy.isus.cc/cctv2
+CCTV-3 综艺,http://histar-proxy.isus.cc/cctv3
+CCTV-4 中文国际,http://histar-proxy.isus.cc/cctv4
+CCTV-5 体育,http://histar-proxy.isus.cc/cctv5
+CCTV-5+ 体育赛事,http://histar-proxy.isus.cc/cctv5plus
+CCTV-6 电影,http://histar-proxy.isus.cc/cctv6
+CCTV-7 国防军事,http://histar-proxy.isus.cc/cctv7
+CCTV-8 电视剧,http://histar-proxy.isus.cc/cctv8
+CCTV-9 纪录,http://histar-proxy.isus.cc/cctv9
+CCTV-10 科教,http://histar-proxy.isus.cc/cctv10
+CCTV-11 戏曲,http://histar-proxy.isus.cc/cctv11
+CCTV-12 社会与法,http://histar-proxy.isus.cc/cctv12
+CCTV-13 新闻,http://histar-proxy.isus.cc/cctv13
+CCTV-14 少儿,http://histar-proxy.isus.cc/cctv14
+CCTV-15 音乐,http://histar-proxy.isus.cc/cctv15
+CCTV-16 奥林匹克,http://histar-proxy.isus.cc/cctv16
+CCTV-17 农业农村,http://histar-proxy.isus.cc/cctv17
+CHC家庭影院,http://histar-proxy.isus.cc/chc-jtyy
+CHC动作电影,http://histar-proxy.isus.cc/chc-dzdy
+CHC高清电影,http://histar-proxy.isus.cc/chc-gqdy
+重温经典,http://histar-proxy.isus.cc/cwjd
 
-CCTV1测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testcctv1
-CCTV2测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testcctv2
-CCTV3测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testcctv3
-CCTV4测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testcctv4
-CCTV5测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testcctv5
-Astro AEC测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testaec
-Astro QJ测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testqj
-Channel 5 测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testchannel5
-Channel 8 测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testchannel8
-SPOTV 测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testsportv
-SPOTV 2 测试,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testspotv2
-大湾区卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=testdwqws
+CCTV1测试,http://histar-proxy.isus.cc/testcctv1
+CCTV2测试,http://histar-proxy.isus.cc/testcctv2
+CCTV3测试,http://histar-proxy.isus.cc/testcctv3
+CCTV4测试,http://histar-proxy.isus.cc/testcctv4
+CCTV5测试,http://histar-proxy.isus.cc/testcctv5
+Astro AEC测试,http://histar-proxy.isus.cc/testaec
+Astro QJ测试,http://histar-proxy.isus.cc/testqj
+Channel 5 测试,http://histar-proxy.isus.cc/testchannel5
+Channel 8 测试,http://histar-proxy.isus.cc/testchannel8
+SPOTV 测试,http://histar-proxy.isus.cc/testsportv
+SPOTV 2 测试,http://histar-proxy.isus.cc/testspotv2
+大湾区卫视,http://histar-proxy.isus.cc/testdwqws
 
-湖南卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hunan
-浙江卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=zhejiang
-东方卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dongfang
-江苏卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jiangsu
-北京卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=beijing
-深圳卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=shenzhen
-广东卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=guangdong
-大湾区卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gdwqws
-重庆卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=chongqing
-东南卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dongnan
-广西卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=guangxi
-贵州卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=guizhou
-海南卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hainan
-河北卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hebei
-黑龙江卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=heilongjiang
-湖北卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hubei
-江西卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jiangxi
-吉林卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jilin
-辽宁卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=liaoning
-内蒙古卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=neimenggu
-宁夏卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ningxia
-陕西卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=shaanxi
-山东卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=shandong
-山西卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=shanxi
-四川卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sichuan
-天津卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tianjin
-厦门卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=xiamen
-新疆卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=xinjiang
-西藏卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=xizang
-云南卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=yunnan
-安徽卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=anhui
-河南卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=henan
-青海卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=qinghai
-甘肃卫视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gansu
+湖南卫视,http://histar-proxy.isus.cc/hunan
+浙江卫视,http://histar-proxy.isus.cc/zhejiang
+东方卫视,http://histar-proxy.isus.cc/dongfang
+江苏卫视,http://histar-proxy.isus.cc/jiangsu
+北京卫视,http://histar-proxy.isus.cc/beijing
+深圳卫视,http://histar-proxy.isus.cc/shenzhen
+广东卫视,http://histar-proxy.isus.cc/guangdong
+大湾区卫视,http://histar-proxy.isus.cc/gdwqws
+重庆卫视,http://histar-proxy.isus.cc/chongqing
+东南卫视,http://histar-proxy.isus.cc/dongnan
+广西卫视,http://histar-proxy.isus.cc/guangxi
+贵州卫视,http://histar-proxy.isus.cc/guizhou
+海南卫视,http://histar-proxy.isus.cc/hainan
+河北卫视,http://histar-proxy.isus.cc/hebei
+黑龙江卫视,http://histar-proxy.isus.cc/heilongjiang
+湖北卫视,http://histar-proxy.isus.cc/hubei
+江西卫视,http://histar-proxy.isus.cc/jiangxi
+吉林卫视,http://histar-proxy.isus.cc/jilin
+辽宁卫视,http://histar-proxy.isus.cc/liaoning
+内蒙古卫视,http://histar-proxy.isus.cc/neimenggu
+宁夏卫视,http://histar-proxy.isus.cc/ningxia
+陕西卫视,http://histar-proxy.isus.cc/shaanxi
+山东卫视,http://histar-proxy.isus.cc/shandong
+山西卫视,http://histar-proxy.isus.cc/shanxi
+四川卫视,http://histar-proxy.isus.cc/sichuan
+天津卫视,http://histar-proxy.isus.cc/tianjin
+厦门卫视,http://histar-proxy.isus.cc/xiamen
+新疆卫视,http://histar-proxy.isus.cc/xinjiang
+西藏卫视,http://histar-proxy.isus.cc/xizang
+云南卫视,http://histar-proxy.isus.cc/yunnan
+安徽卫视,http://histar-proxy.isus.cc/anhui
+河南卫视,http://histar-proxy.isus.cc/henan
+青海卫视,http://histar-proxy.isus.cc/qinghai
+甘肃卫视,http://histar-proxy.isus.cc/gansu
 
-上海都市,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=shds
-上海新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=shxw
-五星体育,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=wxty
-劲爆体育,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jbty
-广东体育,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gdty
-第一财经,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=yicai
-辽宁体育,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lnty
-天津体育,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tjty
-广东珠江,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gdzj
-河南梨园,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hnly
-辽宁都市,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lnds
-辽宁影视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=lnys
-黑龙江都市,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=hljds
-广州综合,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gzzh
-广州影视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gzys
-广州竞赛,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gzjs
-广东影视,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gdys
-广东新闻,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gdxw
-广东民生,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gdms
-广东少儿,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=gdse
+上海都市,http://histar-proxy.isus.cc/shds
+上海新闻,http://histar-proxy.isus.cc/shxw
+五星体育,http://histar-proxy.isus.cc/wxty
+劲爆体育,http://histar-proxy.isus.cc/jbty
+广东体育,http://histar-proxy.isus.cc/gdty
+第一财经,http://histar-proxy.isus.cc/yicai
+辽宁体育,http://histar-proxy.isus.cc/lnty
+天津体育,http://histar-proxy.isus.cc/tjty
+广东珠江,http://histar-proxy.isus.cc/gdzj
+河南梨园,http://histar-proxy.isus.cc/hnly
+辽宁都市,http://histar-proxy.isus.cc/lnds
+辽宁影视,http://histar-proxy.isus.cc/lnys
+黑龙江都市,http://histar-proxy.isus.cc/hljds
+广州综合,http://histar-proxy.isus.cc/gzzh
+广州影视,http://histar-proxy.isus.cc/gzys
+广州竞赛,http://histar-proxy.isus.cc/gzjs
+广东影视,http://histar-proxy.isus.cc/gdys
+广东新闻,http://histar-proxy.isus.cc/gdxw
+广东民生,http://histar-proxy.isus.cc/gdms
+广东少儿,http://histar-proxy.isus.cc/gdse
 
-迪士尼频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=disney
-Animax 卡通,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=animax-cartoon
-DreamWorks 梦工厂动画,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dreamworks
-小尼克频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nick-jr
-尼克儿童频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nickelodeon
-MOMO 亲子台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=momo-kids
-东森幼幼台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ebc-yoyo
-CN卡通,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=cn-cartoon
-靖天卡通台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtkt
-靖天育乐台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jtyl
-i-Fun 动漫台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=i-fun
-ELTV生活英語台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eltv
-Boomerang HD,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=boomerang-hd
-靖洋卡通 NiceBingo,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nice-bingo
-达文西频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=da-vinci
+迪士尼频道,http://histar-proxy.isus.cc/disney
+Animax 卡通,http://histar-proxy.isus.cc/animax-cartoon
+DreamWorks 梦工厂动画,http://histar-proxy.isus.cc/dreamworks
+小尼克频道,http://histar-proxy.isus.cc/nick-jr
+尼克儿童频道,http://histar-proxy.isus.cc/nickelodeon
+MOMO 亲子台,http://histar-proxy.isus.cc/momo-kids
+东森幼幼台,http://histar-proxy.isus.cc/ebc-yoyo
+CN卡通,http://histar-proxy.isus.cc/cn-cartoon
+靖天卡通台,http://histar-proxy.isus.cc/jtkt
+靖天育乐台,http://histar-proxy.isus.cc/jtyl
+i-Fun 动漫台,http://histar-proxy.isus.cc/i-fun
+ELTV生活英語台,http://histar-proxy.isus.cc/eltv
+Boomerang HD,http://histar-proxy.isus.cc/boomerang-hd
+靖洋卡通 NiceBingo,http://histar-proxy.isus.cc/nice-bingo
+达文西频道,http://histar-proxy.isus.cc/da-vinci
 
-探索频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discovery
-探索科学频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discovery-sci
-探索亚洲频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=discovery-asia
-DMAX,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=dmax
-History 频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=history
-History-2 频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=history-2
-Love Nature,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=love-nature
-国家地理 野生频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=natgeo-wild
-民视旅游,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ftv-travel
-美食星球频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=food-planet
-EYE 旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=eye-travel
-ELTA 生活旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=elta-lifetravel
-车迷TV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=motorvision
-动物星球频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=animal-planet
-TLC 旅游生活頻道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tlc
-亚洲旅游台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=asia-travel
-Asian Food Network,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=asian-food-network
-CI 罪案侦查频道,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=ci
-滚动力 rollor,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=rollor
-LUXE TV Channel,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=luxe-tv
+探索频道,http://histar-proxy.isus.cc/discovery
+探索科学频道,http://histar-proxy.isus.cc/discovery-sci
+探索亚洲频道,http://histar-proxy.isus.cc/discovery-asia
+DMAX,http://histar-proxy.isus.cc/dmax
+History 频道,http://histar-proxy.isus.cc/history
+History-2 频道,http://histar-proxy.isus.cc/history-2
+Love Nature,http://histar-proxy.isus.cc/love-nature
+国家地理 野生频道,http://histar-proxy.isus.cc/natgeo-wild
+民视旅游,http://histar-proxy.isus.cc/ftv-travel
+美食星球频道,http://histar-proxy.isus.cc/food-planet
+EYE 旅游台,http://histar-proxy.isus.cc/eye-travel
+ELTA 生活旅游台,http://histar-proxy.isus.cc/elta-lifetravel
+车迷TV,http://histar-proxy.isus.cc/motorvision
+动物星球频道,http://histar-proxy.isus.cc/animal-planet
+TLC 旅游生活頻道,http://histar-proxy.isus.cc/tlc
+亚洲旅游台,http://histar-proxy.isus.cc/asia-travel
+Asian Food Network,http://histar-proxy.isus.cc/asian-food-network
+CI 罪案侦查频道,http://histar-proxy.isus.cc/ci
+滚动力 rollor,http://histar-proxy.isus.cc/rollor
+LUXE TV Channel,http://histar-proxy.isus.cc/luxe-tv
 
-NHK General,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nhk-g
-NHK Education,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nhk-e
-日本电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=nippon-tv
-TBS TV,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tbs-tv
-富士电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=fujitv
-朝日电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tv-asahi
-东京电视台,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=tv-tokyo
-JSPORTS 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jsports1
-JSPORTS 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jsports2
-JSPORTS 3,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jsports3
-JSPORTS 4,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=jsports4
-KBS 1,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbs-1
-KBS 2,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbs-2
-KBS Drama,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbs-drama
-KBS Story,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbs-story
-KBS Life,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbs-life
-KBS Joy,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbs-joy
-KBS Kids,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbs-kids
-KBSWorld,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbsworld
-KBS NEWS,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=kbs-news
-SBS,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sbs
-SBS Plus,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sbs-plus
-SBS funE,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sbs-fune
-SBS M,https://www.sv6-douyin-cloudfare.cloudns.ch/histar.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=sbs-m
+NHK General,http://histar-proxy.isus.cc/nhk-g
+NHK Education,http://histar-proxy.isus.cc/nhk-e
+日本电视台,http://histar-proxy.isus.cc/nippon-tv
+TBS TV,http://histar-proxy.isus.cc/tbs-tv
+富士电视台,http://histar-proxy.isus.cc/fujitv
+朝日电视台,http://histar-proxy.isus.cc/tv-asahi
+东京电视台,http://histar-proxy.isus.cc/tv-tokyo
+JSPORTS 1,http://histar-proxy.isus.cc/jsports1
+JSPORTS 2,http://histar-proxy.isus.cc/jsports2
+JSPORTS 3,http://histar-proxy.isus.cc/jsports3
+JSPORTS 4,http://histar-proxy.isus.cc/jsports4
+KBS 1,http://histar-proxy.isus.cc/kbs-1
+KBS 2,http://histar-proxy.isus.cc/kbs-2
+KBS Drama,http://histar-proxy.isus.cc/kbs-drama
+KBS Story,http://histar-proxy.isus.cc/kbs-story
+KBS Life,http://histar-proxy.isus.cc/kbs-life
+KBS Joy,http://histar-proxy.isus.cc/kbs-joy
+KBS Kids,http://histar-proxy.isus.cc/kbs-kids
+KBSWorld,http://histar-proxy.isus.cc/kbsworld
+KBS NEWS,http://histar-proxy.isus.cc/kbs-news
+SBS,http://histar-proxy.isus.cc/sbs
+SBS Plus,http://histar-proxy.isus.cc/sbs-plus
+SBS funE,http://histar-proxy.isus.cc/sbs-fune
+SBS M,http://histar-proxy.isus.cc/sbs-m
 
 广东本地,#genre#
 广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
