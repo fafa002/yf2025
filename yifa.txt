@@ -139,6 +139,22 @@ for ya-蒋小呢,
 35,https://v3.yzzy21-play.com/20240530/35653_2a72eb32/index.m3u8
 36,https://v3.yzzy23-play.com/20240530/13801_c61b3c6e/index.m3u8
 
+歌手2024,#genre#
+0510期,https://svipsvip.ffzyread1.com/20240510/27036_0adaf098/2000k/hls/index.m3u8
+0511期,https://svipsvip.ffzyread1.com/20240511/27044_c1245dea/index.m3u8
+0516期,https://svipsvip.ffzyread1.com/20240516/27233_f4eda728/index.m3u8
+0517期,https://svipsvip.ffzyread1.com/20240518/27308_f11e3519/index.m3u8
+0518期,https://svipsvip.ffzyread1.com/20240518/27316_517fd813/index.m3u8
+0523期,https://svipsvip.ffzyread1.com/20240523/27534_4bbd2b24/index.m3u8
+0524期,https://svipsvip.ffzyread1.com/20240524/27614_d9fe423d/index.m3u8
+0525期,https://svipsvip.ffzyread1.com/20240525/27625_ba1ca301/index.m3u8
+0530期,https://svipsvip.ffzyread1.com/20240530/27816_2131b2f6/index.m3u8
+0531期,https://svipsvip.ffzyread1.com/20240531/27865_aa07946a/index.m3u8
+0601期,https://svipsvip.ffzyread1.com/20240601/27877_f1f0c6ee/index.m3u8
+0606期,https://svipsvip.ffzy-online5.com/20240606/28298_847d3330/index.m3u8
+0607期,https://svipsvip.ffzyread1.com/20240607/28087_41834497/index.m3u8
+0608期,https://svipsvip.ffzyread1.com/20240608/28097_c799a09f/index.m3u8
+
 易发出品,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
