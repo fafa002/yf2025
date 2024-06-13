@@ -180,11 +180,19 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 
 港-澳-台,#genre#
-NOW 星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
-NOW 爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
+NOW星影,http://60.30.198.43:5080/香蕉哥/now星影/hls.m3u8
+NOW爆谷,http://60.30.198.43:5080/香蕉哥/now爆谷/hls.m3u8
+TVB华语剧,http://60.30.198.43:5080/香蕉哥/华语剧/hls.m3u8
+TVB亚洲剧,http://60.30.198.43:5080/香蕉哥/亚洲剧/hls.m3u8
+广电翡翠1,http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8
+广电翡翠2,http://60.30.198.43:5080/香蕉哥/广电翡翠1/hls.m3u8
+TVB翡翠,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8
+TVB翡翠2,http://60.30.198.43:5080/香蕉哥/tvb翡翠2/hls.m3u8
+
+NOW星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
+NOW爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
 TVB翡翠,http://111.160.76.101:80/香蕉哥/tvb翡翠.live.flv
 NOW体育3,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
-(失效)广电翡翠1,http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8
 TVB翡翠,http://www.balala.top:9200/channel/n379c44d0/index.m3u8
 TVB翡翠,http://www.balala.top:9200/channel/23eda97a/index.m3u8
 
