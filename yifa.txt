@@ -361,7 +361,7 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
-安博科技,#genre#
+(失效)安博科技,#genre#
 凤凰中文,http://8.137.59.151:99/fhtv/fenghuang.php?id=1
 凤凰资讯,http://8.137.59.151:99/fhtv/fenghuang.php?id=2
 凤凰香港,http://8.137.59.151:99/fhtv/fenghuang.php?id=3
@@ -427,7 +427,7 @@ AXW,http://8.137.59.151:99/fhtv/fenghuang.php?id=47
 爱尔达体育4,http://8.137.59.151:99/fhtv/fenghuang.php?id=75
 爱尔达影剧,http://8.137.59.151:99/fhtv/fenghuang.php?id=126
 
-(失效)四季台湾,#genre#
+四季台湾,#genre#
 民視台灣台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
 民視第一台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
 TVBS HD,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv073
@@ -522,484 +522,484 @@ GLOBETROTTER,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95
 GinxTV,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv053
 
 星视界,#genre#
-翡翠台,http://histar-proxy.isus.cc/feicui
-无线新闻台,http://histar-proxy.isus.cc/tvb-news
-TVB plus,http://histar-proxy.isus.cc/tvb-plus
-TVB plus,http://histar-proxy.isus.cc/j2
-黄金翡翠台,http://histar-proxy.isus.cc/golden-jade
-黄金华剧台,http://histar-proxy.isus.cc/golden-chinese-drama
-千禧经典台,http://histar-proxy.isus.cc/tvb-classic
-粤语片台,http://histar-proxy.isus.cc/tvb-yueyu
-星河台,http://histar-proxy.isus.cc/tvb-xinghe
-亚洲剧台,http://histar-proxy.isus.cc/tvb-asia-drama
-娱乐新闻台,http://histar-proxy.isus.cc/ylxw
-明珠台,http://histar-proxy.isus.cc/pearl
-华语剧台,http://histar-proxy.isus.cc/tvb-drama
-凤凰资讯,http://histar-proxy.isus.cc/phtv-info
-凤凰中文,http://histar-proxy.isus.cc/phtv-cn
-凤凰香港,http://histar-proxy.isus.cc/phtv-hk
-HOY 资讯台,http://histar-proxy.isus.cc/hoy-info
-HOY TV,http://histar-proxy.isus.cc/hoytv
-HOY国际财经,http://histar-proxy.isus.cc/hoy-ibc
-ViuTV,http://histar-proxy.isus.cc/viutv
-ViuTV6,http://histar-proxy.isus.cc/viutv6
-天映频道,http://histar-proxy.isus.cc/celestial
-天映经典,http://histar-proxy.isus.cc/cccm
-Thrill,http://histar-proxy.isus.cc/thrill
-星空卫视,http://histar-proxy.isus.cc/star-xing-kong
-香港卫视,http://histar-proxy.isus.cc/hks
-澳亚卫视,http://histar-proxy.isus.cc/mastv
-澳门卫视,http://histar-proxy.isus.cc/mstv
-澳门莲花卫视,http://histar-proxy.isus.cc/lotustv
-澳门资讯,http://histar-proxy.isus.cc/tdm-information
-澳视澳门,http://histar-proxy.isus.cc/tdm
-HKC 18台,http://histar-proxy.isus.cc/hkc18
-港台电视 31,http://histar-proxy.isus.cc/rthk31
-港台电视 32,http://histar-proxy.isus.cc/rthk32
+翡翠台,http://histar.zapi.us.kg/?id=feicui
+无线新闻台,http://histar.zapi.us.kg/?id=tvb-news
+TVB plus,http://histar.zapi.us.kg/?id=tvb-plus
+TVB plus,http://histar.zapi.us.kg/?id=j2
+黄金翡翠台,http://histar.zapi.us.kg/?id=golden-jade
+黄金华剧台,http://histar.zapi.us.kg/?id=golden-chinese-drama
+千禧经典台,http://histar.zapi.us.kg/?id=tvb-classic
+粤语片台,http://histar.zapi.us.kg/?id=tvb-yueyu
+星河台,http://histar.zapi.us.kg/?id=tvb-xinghe
+亚洲剧台,http://histar.zapi.us.kg/?id=tvb-asia-drama
+娱乐新闻台,http://histar.zapi.us.kg/?id=ylxw
+明珠台,http://histar.zapi.us.kg/?id=pearl
+华语剧台,http://histar.zapi.us.kg/?id=tvb-drama
+凤凰资讯,http://histar.zapi.us.kg/?id=phtv-info
+凤凰中文,http://histar.zapi.us.kg/?id=phtv-cn
+凤凰香港,http://histar.zapi.us.kg/?id=phtv-hk
+HOY 资讯台,http://histar.zapi.us.kg/?id=hoy-info
+HOY TV,http://histar.zapi.us.kg/?id=hoytv
+HOY国际财经,http://histar.zapi.us.kg/?id=hoy-ibc
+ViuTV,http://histar.zapi.us.kg/?id=viutv
+ViuTV6,http://histar.zapi.us.kg/?id=viutv6
+天映频道,http://histar.zapi.us.kg/?id=celestial
+天映经典,http://histar.zapi.us.kg/?id=cccm
+Thrill,http://histar.zapi.us.kg/?id=thrill
+星空卫视,http://histar.zapi.us.kg/?id=star-xing-kong
+香港卫视,http://histar.zapi.us.kg/?id=hks
+澳亚卫视,http://histar.zapi.us.kg/?id=mastv
+澳门卫视,http://histar.zapi.us.kg/?id=mstv
+澳门莲花卫视,http://histar.zapi.us.kg/?id=lotustv
+澳门资讯,http://histar.zapi.us.kg/?id=tdm-information
+澳视澳门,http://histar.zapi.us.kg/?id=tdm
+HKC 18台,http://histar.zapi.us.kg/?id=hkc18
+港台电视 31,http://histar.zapi.us.kg/?id=rthk31
+港台电视 32,http://histar.zapi.us.kg/?id=rthk32
 
-Now 财经台,http://histar-proxy.isus.cc/now-finance
-Now 爆谷台,http://histar-proxy.isus.cc/baogu-movies
-Now 星影台,http://histar-proxy.isus.cc/now-baogu-superstars
-Now 新闻台,http://histar-proxy.isus.cc/now-news
-Now 直播台,http://histar-proxy.isus.cc/now-direct
-Now报价台,http://histar-proxy.isus.cc/now-data
-Now jelli紫金国际台,http://histar-proxy.isus.cc/now-jelli
-Now华剧台,http://histar-proxy.isus.cc/now-chinese-drama
-HBO Now115,http://histar-proxy.isus.cc/Now-HBO
-Now HBO Hits,http://histar-proxy.isus.cc/now-hbo-hits
-Now HBO Family,http://histar-proxy.isus.cc/now-hbof-amily
-Now HBO Signature,http://histar-proxy.isus.cc/now-hbo-signature
-MovieMovie,http://histar-proxy.isus.cc/moviemovie
-NowViu剧集台,http://histar-proxy.isus.cc/now-viu-drama
-Now Sports 641,http://histar-proxy.isus.cc/now-sports641
-Now NBA,http://histar-proxy.isus.cc/now-nba
-Now Sports精选,http://histar-proxy.isus.cc/now-sports-prime
-Now Sports 1,http://histar-proxy.isus.cc/now-sports-1
-Now Sports 2,http://histar-proxy.isus.cc/now-sports-2
-Now Sports 3,http://histar-proxy.isus.cc/now-sports-3
-Now Sports 4,http://histar-proxy.isus.cc/now-sports-4
-Now Sports 5,http://histar-proxy.isus.cc/now-sports-5
-Now Sports 6,http://histar-proxy.isus.cc/now-sports-6
-Now Sports 7,http://histar-proxy.isus.cc/now-sports-7
-Now Sports Plus,http://histar-proxy.isus.cc/now-sports-plus
-Now Sports 英超1,http://histar-proxy.isus.cc/now-sports-premier-league1
-Now Sports 英超2,http://histar-proxy.isus.cc/now-sports-premier-league2
-Now Sports 英超3,http://histar-proxy.isus.cc/now-sports-premier-league3
-Now Sports 英超4,http://histar-proxy.isus.cc/now-sports-premier-league4
-Now Sports 英超5,http://histar-proxy.isus.cc/now-sports-premier-league5
-Now Sports 英超6,http://histar-proxy.isus.cc/now-sports-premier-league6
-Now beIN SPORTS 1,http://histar-proxy.isus.cc/now-bein-sports1
-Now beIN SPORTS 2,http://histar-proxy.isus.cc/now-bein-sports2
-Now beIN SPORTS 3,http://histar-proxy.isus.cc/now-bein-sports3
-Now 668,http://histar-proxy.isus.cc/now-668
-Now Golf 2,http://histar-proxy.isus.cc/now-golf2
-Now Golf 3,http://histar-proxy.isus.cc/now-golf3
+Now 财经台,http://histar.zapi.us.kg/?id=now-finance
+Now 爆谷台,http://histar.zapi.us.kg/?id=baogu-movies
+Now 星影台,http://histar.zapi.us.kg/?id=now-baogu-superstars
+Now 新闻台,http://histar.zapi.us.kg/?id=now-news
+Now 直播台,http://histar.zapi.us.kg/?id=now-direct
+Now报价台,http://histar.zapi.us.kg/?id=now-data
+Now jelli紫金国际台,http://histar.zapi.us.kg/?id=now-jelli
+Now华剧台,http://histar.zapi.us.kg/?id=now-chinese-drama
+HBO Now115,http://histar.zapi.us.kg/?id=Now-HBO
+Now HBO Hits,http://histar.zapi.us.kg/?id=now-hbo-hits
+Now HBO Family,http://histar.zapi.us.kg/?id=now-hbof-amily
+Now HBO Signature,http://histar.zapi.us.kg/?id=now-hbo-signature
+MovieMovie,http://histar.zapi.us.kg/?id=moviemovie
+NowViu剧集台,http://histar.zapi.us.kg/?id=now-viu-drama
+Now Sports 641,http://histar.zapi.us.kg/?id=now-sports641
+Now NBA,http://histar.zapi.us.kg/?id=now-nba
+Now Sports精选,http://histar.zapi.us.kg/?id=now-sports-prime
+Now Sports 1,http://histar.zapi.us.kg/?id=now-sports-1
+Now Sports 2,http://histar.zapi.us.kg/?id=now-sports-2
+Now Sports 3,http://histar.zapi.us.kg/?id=now-sports-3
+Now Sports 4,http://histar.zapi.us.kg/?id=now-sports-4
+Now Sports 5,http://histar.zapi.us.kg/?id=now-sports-5
+Now Sports 6,http://histar.zapi.us.kg/?id=now-sports-6
+Now Sports 7,http://histar.zapi.us.kg/?id=now-sports-7
+Now Sports Plus,http://histar.zapi.us.kg/?id=now-sports-plus
+Now Sports 英超1,http://histar.zapi.us.kg/?id=now-sports-premier-league1
+Now Sports 英超2,http://histar.zapi.us.kg/?id=now-sports-premier-league2
+Now Sports 英超3,http://histar.zapi.us.kg/?id=now-sports-premier-league3
+Now Sports 英超4,http://histar.zapi.us.kg/?id=now-sports-premier-league4
+Now Sports 英超5,http://histar.zapi.us.kg/?id=now-sports-premier-league5
+Now Sports 英超6,http://histar.zapi.us.kg/?id=now-sports-premier-league6
+Now beIN SPORTS 1,http://histar.zapi.us.kg/?id=now-bein-sports1
+Now beIN SPORTS 2,http://histar.zapi.us.kg/?id=now-bein-sports2
+Now beIN SPORTS 3,http://histar.zapi.us.kg/?id=now-bein-sports3
+Now 668,http://histar.zapi.us.kg/?id=now-668
+Now Golf 2,http://histar.zapi.us.kg/?id=now-golf2
+Now Golf 3,http://histar.zapi.us.kg/?id=now-golf3
 
-民视,http://histar-proxy.isus.cc/ftv
-民视台湾台,http://histar-proxy.isus.cc/ftv-tw
-民视第一台,http://histar-proxy.isus.cc/ftv-one
-纬来日本,http://histar-proxy.isus.cc/videoland-japan
-纬来综合,http://histar-proxy.isus.cc/videoland
-八大综合,http://histar-proxy.isus.cc/gtv28
-八大第一,http://histar-proxy.isus.cc/gtv27
-TVBS 精采台,http://histar-proxy.isus.cc/tvbs-jc
-TVBS 欢乐台,http://histar-proxy.isus.cc/tvbs-huanle
-TVBS Asia,http://histar-proxy.isus.cc/tvbs-asia
-三立台湾台,http://histar-proxy.isus.cc/settv-taiwan
-三立综合台,http://histar-proxy.isus.cc/settv-zonghe
-台视,http://histar-proxy.isus.cc/ttv
-东森超视,http://histar-proxy.isus.cc/ebc-super
-东森综合台,http://histar-proxy.isus.cc/ebc-ettv
-中视,http://histar-proxy.isus.cc/ctv
-中视菁采台,http://histar-proxy.isus.cc/bravo
-中天亚洲,http://histar-proxy.isus.cc/cti-asia
-中天综合,http://histar-proxy.isus.cc/ctitv36
-华视,http://histar-proxy.isus.cc/cts
-LiveABC 互动英语频道,http://histar-proxy.isus.cc/liveabc
-好消息,http://histar-proxy.isus.cc/goodtv
-KLT-靖天国际台,http://histar-proxy.isus.cc/jtgj
-ELTA综合台,http://histar-proxy.isus.cc/elta-zonghe
-公视,http://histar-proxy.isus.cc/pts
-公视3台,http://histar-proxy.isus.cc/pts-3
-公视台语台,http://histar-proxy.isus.cc/pts-ty
-靖天综合台,http://histar-proxy.isus.cc/jtzh
-靖天日本台,http://histar-proxy.isus.cc/jtrb
-客家电视台,http://histar-proxy.isus.cc/hakkatv
-大爱一台,http://histar-proxy.isus.cc/daai1
-大爱二台,http://histar-proxy.isus.cc/daai2
-ARIRANG 阿里郎频道,http://histar-proxy.isus.cc/arirang
+民视,http://histar.zapi.us.kg/?id=ftv
+民视台湾台,http://histar.zapi.us.kg/?id=ftv-tw
+民视第一台,http://histar.zapi.us.kg/?id=ftv-one
+纬来日本,http://histar.zapi.us.kg/?id=videoland-japan
+纬来综合,http://histar.zapi.us.kg/?id=videoland
+八大综合,http://histar.zapi.us.kg/?id=gtv28
+八大第一,http://histar.zapi.us.kg/?id=gtv27
+TVBS 精采台,http://histar.zapi.us.kg/?id=tvbs-jc
+TVBS 欢乐台,http://histar.zapi.us.kg/?id=tvbs-huanle
+TVBS Asia,http://histar.zapi.us.kg/?id=tvbs-asia
+三立台湾台,http://histar.zapi.us.kg/?id=settv-taiwan
+三立综合台,http://histar.zapi.us.kg/?id=settv-zonghe
+台视,http://histar.zapi.us.kg/?id=ttv
+东森超视,http://histar.zapi.us.kg/?id=ebc-super
+东森综合台,http://histar.zapi.us.kg/?id=ebc-ettv
+中视,http://histar.zapi.us.kg/?id=ctv
+中视菁采台,http://histar.zapi.us.kg/?id=bravo
+中天亚洲,http://histar.zapi.us.kg/?id=cti-asia
+中天综合,http://histar.zapi.us.kg/?id=ctitv36
+华视,http://histar.zapi.us.kg/?id=cts
+LiveABC 互动英语频道,http://histar.zapi.us.kg/?id=liveabc
+好消息,http://histar.zapi.us.kg/?id=goodtv
+KLT-靖天国际台,http://histar.zapi.us.kg/?id=jtgj
+ELTA综合台,http://histar.zapi.us.kg/?id=elta-zonghe
+公视,http://histar.zapi.us.kg/?id=pts
+公视3台,http://histar.zapi.us.kg/?id=pts-3
+公视台语台,http://histar.zapi.us.kg/?id=pts-ty
+靖天综合台,http://histar.zapi.us.kg/?id=jtzh
+靖天日本台,http://histar.zapi.us.kg/?id=jtrb
+客家电视台,http://histar.zapi.us.kg/?id=hakkatv
+大爱一台,http://histar.zapi.us.kg/?id=daai1
+大爱二台,http://histar.zapi.us.kg/?id=daai2
+ARIRANG 阿里郎频道,http://histar.zapi.us.kg/?id=arirang
 
-中天新闻,http://histar-proxy.isus.cc/cti-news
-TVBS 新闻台,http://histar-proxy.isus.cc/tvbs-news
-TVBS HD,http://histar-proxy.isus.cc/tvbs-hd
-东森新闻,http://histar-proxy.isus.cc/ebc-news
-东森财经新闻,http://histar-proxy.isus.cc/ebc-finance
-寰宇新闻台,http://histar-proxy.isus.cc/global-news
-寰宇财经台,http://histar-proxy.isus.cc/global-finance
-寰宇新闻台湾台,http://histar-proxy.isus.cc/global-news-tw
-壹新闻 HD,http://histar-proxy.isus.cc/nexttv
-三立新闻,http://histar-proxy.isus.cc/settv-news
-三立iNews,http://histar-proxy.isus.cc/settv-inews
-中视新闻,http://histar-proxy.isus.cc/ctv-news
-非凡新闻,http://histar-proxy.isus.cc/unique-business-news
-年代新闻,http://histar-proxy.isus.cc/era-news
-民视新闻台,http://histar-proxy.isus.cc/ftv-news
-台视新闻,http://histar-proxy.isus.cc/ttv-news
-镜电视新闻台,http://histar-proxy.isus.cc/mnews
-华视新闻,http://histar-proxy.isus.cc/cts-news
-半岛国际新闻台,http://histar-proxy.isus.cc/aljazeera
-SBN 全球财经台,http://histar-proxy.isus.cc/sbn
-靖天资讯台,http://histar-proxy.isus.cc/jtzx
+中天新闻,http://histar.zapi.us.kg/?id=cti-news
+TVBS 新闻台,http://histar.zapi.us.kg/?id=tvbs-news
+TVBS HD,http://histar.zapi.us.kg/?id=tvbs-hd
+东森新闻,http://histar.zapi.us.kg/?id=ebc-news
+东森财经新闻,http://histar.zapi.us.kg/?id=ebc-finance
+寰宇新闻台,http://histar.zapi.us.kg/?id=global-news
+寰宇财经台,http://histar.zapi.us.kg/?id=global-finance
+寰宇新闻台湾台,http://histar.zapi.us.kg/?id=global-news-tw
+壹新闻 HD,http://histar.zapi.us.kg/?id=nexttv
+三立新闻,http://histar.zapi.us.kg/?id=settv-news
+三立iNews,http://histar.zapi.us.kg/?id=settv-inews
+中视新闻,http://histar.zapi.us.kg/?id=ctv-news
+非凡新闻,http://histar.zapi.us.kg/?id=unique-business-news
+年代新闻,http://histar.zapi.us.kg/?id=era-news
+民视新闻台,http://histar.zapi.us.kg/?id=ftv-news
+台视新闻,http://histar.zapi.us.kg/?id=ttv-news
+镜电视新闻台,http://histar.zapi.us.kg/?id=mnews
+华视新闻,http://histar.zapi.us.kg/?id=cts-news
+半岛国际新闻台,http://histar.zapi.us.kg/?id=aljazeera
+SBN 全球财经台,http://histar.zapi.us.kg/?id=sbn
+靖天资讯台,http://histar.zapi.us.kg/?id=jtzx
 
-纬来电影台,http://histar-proxy.isus.cc/videoland-movie
-纬来戏剧,http://histar-proxy.isus.cc/videoland-drama
-TVBS综艺台,http://histar-proxy.isus.cc/tvbs-zongyi
-TVBS台剧台,http://histar-proxy.isus.cc/tvbs-taiju
-龙祥电影台,http://histar-proxy.isus.cc/lstime
-龙华电影台,http://histar-proxy.isus.cc/ltv-movies
-龙华戏剧台,http://histar-proxy.isus.cc/ltv-xiju
-龙华日韩台,http://histar-proxy.isus.cc/ltv-rihan
-东森电影,http://histar-proxy.isus.cc/ebc-movie
-东森戏剧,http://histar-proxy.isus.cc/ebc-drama
-东森洋片,http://histar-proxy.isus.cc/ebc-emovie
-八大精彩台,http://histar-proxy.isus.cc/gtv-jct
-八大戏剧,http://histar-proxy.isus.cc/gtv-41
-八大娱乐,http://histar-proxy.isus.cc/gtv-86
-八大综艺,http://histar-proxy.isus.cc/grt
-采昌影剧台,http://histar-proxy.isus.cc/caichang
-美亚电影台,http://histar-proxy.isus.cc/meiah-movies
-猪哥亮歌厅秀,http://histar-proxy.isus.cc/zglgtx
-民视综艺,http://histar-proxy.isus.cc/ftv-reality
-民视影剧,http://histar-proxy.isus.cc/ftv-drama
-三立都会台,http://histar-proxy.isus.cc/settv-city
-三立戏剧台,http://histar-proxy.isus.cc/settv-drama
-中视经典台,http://histar-proxy.isus.cc/ctv-classic
-中天娱乐,http://histar-proxy.isus.cc/cti-yule
-靖洋戏剧台,http://histar-proxy.isus.cc/jyxj
-靖天映画,http://histar-proxy.isus.cc/jtyh
-靖天电影台,http://histar-proxy.isus.cc/jtdy
-靖天戏剧台,http://histar-proxy.isus.cc/jtxjt
-韩国娱乐台 KMTV,http://histar-proxy.isus.cc/kmtv
-公视戏剧,http://histar-proxy.isus.cc/gsxj
-影迷数位纪实台,http://histar-proxy.isus.cc/ymswjst
-影迷数字电影台,http://histar-proxy.isus.cc/fans-cinema
-视纳华仁纪实频道,http://histar-proxy.isus.cc/cnex
-MTV Live HD 频道,http://histar-proxy.isus.cc/mtv
-ELTA 娱乐台,http://histar-proxy.isus.cc/elta-ylt
+纬来电影台,http://histar.zapi.us.kg/?id=videoland-movie
+纬来戏剧,http://histar.zapi.us.kg/?id=videoland-drama
+TVBS综艺台,http://histar.zapi.us.kg/?id=tvbs-zongyi
+TVBS台剧台,http://histar.zapi.us.kg/?id=tvbs-taiju
+龙祥电影台,http://histar.zapi.us.kg/?id=lstime
+龙华电影台,http://histar.zapi.us.kg/?id=ltv-movies
+龙华戏剧台,http://histar.zapi.us.kg/?id=ltv-xiju
+龙华日韩台,http://histar.zapi.us.kg/?id=ltv-rihan
+东森电影,http://histar.zapi.us.kg/?id=ebc-movie
+东森戏剧,http://histar.zapi.us.kg/?id=ebc-drama
+东森洋片,http://histar.zapi.us.kg/?id=ebc-emovie
+八大精彩台,http://histar.zapi.us.kg/?id=gtv-jct
+八大戏剧,http://histar.zapi.us.kg/?id=gtv-41
+八大娱乐,http://histar.zapi.us.kg/?id=gtv-86
+八大综艺,http://histar.zapi.us.kg/?id=grt
+采昌影剧台,http://histar.zapi.us.kg/?id=caichang
+美亚电影台,http://histar.zapi.us.kg/?id=meiah-movies
+猪哥亮歌厅秀,http://histar.zapi.us.kg/?id=zglgtx
+民视综艺,http://histar.zapi.us.kg/?id=ftv-reality
+民视影剧,http://histar.zapi.us.kg/?id=ftv-drama
+三立都会台,http://histar.zapi.us.kg/?id=settv-city
+三立戏剧台,http://histar.zapi.us.kg/?id=settv-drama
+中视经典台,http://histar.zapi.us.kg/?id=ctv-classic
+中天娱乐,http://histar.zapi.us.kg/?id=cti-yule
+靖洋戏剧台,http://histar.zapi.us.kg/?id=jyxj
+靖天映画,http://histar.zapi.us.kg/?id=jtyh
+靖天电影台,http://histar.zapi.us.kg/?id=jtdy
+靖天戏剧台,http://histar.zapi.us.kg/?id=jtxjt
+韩国娱乐台 KMTV,http://histar.zapi.us.kg/?id=kmtv
+公视戏剧,http://histar.zapi.us.kg/?id=gsxj
+影迷数位纪实台,http://histar.zapi.us.kg/?id=ymswjst
+影迷数字电影台,http://histar.zapi.us.kg/?id=fans-cinema
+视纳华仁纪实频道,http://histar.zapi.us.kg/?id=cnex
+MTV Live HD 频道,http://histar.zapi.us.kg/?id=mtv
+ELTA 娱乐台,http://histar.zapi.us.kg/?id=elta-ylt
 
-Channel 5,http://histar-proxy.isus.cc/channel-5
-Channel 8,http://histar-proxy.isus.cc/channel8
-Channel U,http://histar-proxy.isus.cc/channel-u
-8TV,http://histar-proxy.isus.cc/8tv
-TV9,http://histar-proxy.isus.cc/tv9
-CM+,http://histar-proxy.isus.cc/cm-plus
-E乐,http://histar-proxy.isus.cc/singtel-tv
-TV1,http://histar-proxy.isus.cc/tv1-my
-TV2,http://histar-proxy.isus.cc/tv2-my
-TV3,http://histar-proxy.isus.cc/tv3-my
-ChannelNewsAsia,http://histar-proxy.isus.cc/channelnewsasia
-OKEY,http://histar-proxy.isus.cc/okey
-Magic,http://histar-proxy.isus.cc/tvb-magic
-tvN Movies,http://histar-proxy.isus.cc/tvn-movies
-AXN,http://histar-proxy.isus.cc/axn
-TV Alhijrah,http://histar-proxy.isus.cc/tv-alhijrah
-ColorsHindi,http://histar-proxy.isus.cc/colorshindi
-TVS,http://histar-proxy.isus.cc/tvs
-tvN,http://histar-proxy.isus.cc/tvn
-BeritaRTM,http://histar-proxy.isus.cc/beritartm
-SukanRTM,http://histar-proxy.isus.cc/sukanrtm
-HITSMovies,http://histar-proxy.isus.cc/hitsmovies
-ShowCase,http://histar-proxy.isus.cc/showcase
-BBCEarth,http://histar-proxy.isus.cc/bbcearth
-Mediacorp Suria,http://histar-proxy.isus.cc/mediacorp-suria
-Mediacorp Vasantham,http://histar-proxy.isus.cc/mediacorp-vasantham
-Gem,http://histar-proxy.isus.cc/gem
-GlobalTrekker,http://histar-proxy.isus.cc/globaltrekker
-DramaSangat,http://histar-proxy.isus.cc/dramasangat
-SunTV,http://histar-proxy.isus.cc/suntv
-SunMusic,http://histar-proxy.isus.cc/sunmusic
-SunNews,http://histar-proxy.isus.cc/sunnews
-AwesomeTV,http://histar-proxy.isus.cc/awesometv
-DidikTV7,http://histar-proxy.isus.cc/didiktv7
-Adithya,http://histar-proxy.isus.cc/adithya
-KTVHD,http://histar-proxy.isus.cc/ktvhd
-SunLife,http://histar-proxy.isus.cc/sunlife
-StarVijay,http://histar-proxy.isus.cc/starvijay
-ColorsTamil,http://histar-proxy.isus.cc/colorstamil
-ZeeTamil,http://histar-proxy.isus.cc/zeetamil
-ZeeCinemaHD,http://histar-proxy.isus.cc/zeecinemahd
-Boo,http://histar-proxy.isus.cc/boo
-MTVLive,http://histar-proxy.isus.cc/mtvlive
-Bernama,http://histar-proxy.isus.cc/bernama
-Moonbug,http://histar-proxy.isus.cc/moonbug
+Channel 5,http://histar.zapi.us.kg/?id=channel-5
+Channel 8,http://histar.zapi.us.kg/?id=channel8
+Channel U,http://histar.zapi.us.kg/?id=channel-u
+8TV,http://histar.zapi.us.kg/?id=8tv
+TV9,http://histar.zapi.us.kg/?id=tv9
+CM+,http://histar.zapi.us.kg/?id=cm-plus
+E乐,http://histar.zapi.us.kg/?id=singtel-tv
+TV1,http://histar.zapi.us.kg/?id=tv1-my
+TV2,http://histar.zapi.us.kg/?id=tv2-my
+TV3,http://histar.zapi.us.kg/?id=tv3-my
+ChannelNewsAsia,http://histar.zapi.us.kg/?id=channelnewsasia
+OKEY,http://histar.zapi.us.kg/?id=okey
+Magic,http://histar.zapi.us.kg/?id=tvb-magic
+tvN Movies,http://histar.zapi.us.kg/?id=tvn-movies
+AXN,http://histar.zapi.us.kg/?id=axn
+TV Alhijrah,http://histar.zapi.us.kg/?id=tv-alhijrah
+ColorsHindi,http://histar.zapi.us.kg/?id=colorshindi
+TVS,http://histar.zapi.us.kg/?id=tvs
+tvN,http://histar.zapi.us.kg/?id=tvn
+BeritaRTM,http://histar.zapi.us.kg/?id=beritartm
+SukanRTM,http://histar.zapi.us.kg/?id=sukanrtm
+HITSMovies,http://histar.zapi.us.kg/?id=hitsmovies
+ShowCase,http://histar.zapi.us.kg/?id=showcase
+BBCEarth,http://histar.zapi.us.kg/?id=bbcearth
+Mediacorp Suria,http://histar.zapi.us.kg/?id=mediacorp-suria
+Mediacorp Vasantham,http://histar.zapi.us.kg/?id=mediacorp-vasantham
+Gem,http://histar.zapi.us.kg/?id=gem
+GlobalTrekker,http://histar.zapi.us.kg/?id=globaltrekker
+DramaSangat,http://histar.zapi.us.kg/?id=dramasangat
+SunTV,http://histar.zapi.us.kg/?id=suntv
+SunMusic,http://histar.zapi.us.kg/?id=sunmusic
+SunNews,http://histar.zapi.us.kg/?id=sunnews
+AwesomeTV,http://histar.zapi.us.kg/?id=awesometv
+DidikTV7,http://histar.zapi.us.kg/?id=didiktv7
+Adithya,http://histar.zapi.us.kg/?id=adithya
+KTVHD,http://histar.zapi.us.kg/?id=ktvhd
+SunLife,http://histar.zapi.us.kg/?id=sunlife
+StarVijay,http://histar.zapi.us.kg/?id=starvijay
+ColorsTamil,http://histar.zapi.us.kg/?id=colorstamil
+ZeeTamil,http://histar.zapi.us.kg/?id=zeetamil
+ZeeCinemaHD,http://histar.zapi.us.kg/?id=zeecinemahd
+Boo,http://histar.zapi.us.kg/?id=boo
+MTVLive,http://histar.zapi.us.kg/?id=mtvlive
+Bernama,http://histar.zapi.us.kg/?id=bernama
+Moonbug,http://histar.zapi.us.kg/?id=moonbug
 
-Hub都会,http://histar-proxy.isus.cc/HubECity
-Hub娱家,http://histar-proxy.isus.cc/HubVVDrama
-HubSports 1,http://histar-proxy.isus.cc/hubsports1
-HubSports2,http://histar-proxy.isus.cc/hubsports2
-HubSports3,http://histar-proxy.isus.cc/hubsports3
-HubSport4,http://histar-proxy.isus.cc/hubsports4
-HubSports Plus,http://histar-proxy.isus.cc/hubsports-plus
-Hub Premier 1,http://histar-proxy.isus.cc/hubpremier1
-HubPremier2,http://histar-proxy.isus.cc/hubpremier2
-HubPremier3,http://histar-proxy.isus.cc/hubpremier3
-HubPremier 4,http://histar-proxy.isus.cc/hubpremier4
-HubPremier 5,http://histar-proxy.isus.cc/hubpremier5
-Hub Sensasi,http://histar-proxy.isus.cc/hub-sensasi
-tvn HD,http://histar-proxy.isus.cc/tvnhd
-AstroWarna Hub版,http://histar-proxy.isus.cc/astro-warna-hub
-ONEMalay,http://histar-proxy.isus.cc/one-malay
+Hub都会,http://histar.zapi.us.kg/?id=HubECity
+Hub娱家,http://histar.zapi.us.kg/?id=HubVVDrama
+HubSports 1,http://histar.zapi.us.kg/?id=hubsports1
+HubSports2,http://histar.zapi.us.kg/?id=hubsports2
+HubSports3,http://histar.zapi.us.kg/?id=hubsports3
+HubSport4,http://histar.zapi.us.kg/?id=hubsports4
+HubSports Plus,http://histar.zapi.us.kg/?id=hubsports-plus
+Hub Premier 1,http://histar.zapi.us.kg/?id=hubpremier1
+HubPremier2,http://histar.zapi.us.kg/?id=hubpremier2
+HubPremier3,http://histar.zapi.us.kg/?id=hubpremier3
+HubPremier 4,http://histar.zapi.us.kg/?id=hubpremier4
+HubPremier 5,http://histar.zapi.us.kg/?id=hubpremier5
+Hub Sensasi,http://histar.zapi.us.kg/?id=hub-sensasi
+tvn HD,http://histar.zapi.us.kg/?id=tvnhd
+AstroWarna Hub版,http://histar.zapi.us.kg/?id=astro-warna-hub
+ONEMalay,http://histar.zapi.us.kg/?id=one-malay
 
-Astro AEC,http://histar-proxy.isus.cc/astro-aec
-Astro 欢喜台,http://histar-proxy.isus.cc/astro-huaheedai
-Astro SuperSport,http://histar-proxy.isus.cc/super-sports1
-Astro SuperSport 2,http://histar-proxy.isus.cc/super-sports2
-Astro SuperSport 3,http://histar-proxy.isus.cc/super-sports3
-Astro SuperSport 4,http://histar-proxy.isus.cc/super-sports4
-Arena Bola,http://histar-proxy.isus.cc/arena-bola
-Arena Bola2,http://histar-proxy.isus.cc/arena-bola2
-Astro 爱奇艺,http://histar-proxy.isus.cc/astro-iqiyi
-Astro AOD 311 国语,http://histar-proxy.isus.cc/astro-aod
-Astro AOD 311 粤语,http://histar-proxy.isus.cc/astro-aod-311-hk
-Astro QJ,http://histar-proxy.isus.cc/astro-quanjia
-Astro Awani,http://histar-proxy.isus.cc/astro-awani
-Astro Arena HD,http://histar-proxy.isus.cc/astro-arena-hd
-Astro Arena 2,http://histar-proxy.isus.cc/astro-arena2
-Astro Citra,http://histar-proxy.isus.cc/astro-citra
-Astro Prima,http://histar-proxy.isus.cc/astro-prima
-Astro Aura,http://histar-proxy.isus.cc/astro-aura
-Astro RIA,http://histar-proxy.isus.cc/astro-ria
-Astro ONE,http://histar-proxy.isus.cc/astro-one
-AstroPremier,http://histar-proxy.isus.cc/astropremier
-Astro Ceria,http://histar-proxy.isus.cc/astro-ceria
-Astro Vaanavil,http://histar-proxy.isus.cc/astro-vaanavil
-Astro Vinmeen,http://histar-proxy.isus.cc/astro-vinmeen
-Astro Warna,http://histar-proxy.isus.cc/astro-warna
-Astro Vellithirai,http://histar-proxy.isus.cc/astro-vellithirai
-Astro Rania,http://histar-proxy.isus.cc/astro-rania
-Astro Oasis,http://histar-proxy.isus.cc/astro-oasis
-Astro TUTOR TV,http://histar-proxy.isus.cc/astro-tutor-tv
-Astro GolfChannel,http://histar-proxy.isus.cc/astro-golfchannel
+Astro AEC,http://histar.zapi.us.kg/?id=astro-aec
+Astro 欢喜台,http://histar.zapi.us.kg/?id=astro-huaheedai
+Astro SuperSport,http://histar.zapi.us.kg/?id=super-sports1
+Astro SuperSport 2,http://histar.zapi.us.kg/?id=super-sports2
+Astro SuperSport 3,http://histar.zapi.us.kg/?id=super-sports3
+Astro SuperSport 4,http://histar.zapi.us.kg/?id=super-sports4
+Arena Bola,http://histar.zapi.us.kg/?id=arena-bola
+Arena Bola2,http://histar.zapi.us.kg/?id=arena-bola2
+Astro 爱奇艺,http://histar.zapi.us.kg/?id=astro-iqiyi
+Astro AOD 311 国语,http://histar.zapi.us.kg/?id=astro-aod
+Astro AOD 311 粤语,http://histar.zapi.us.kg/?id=astro-aod-311-hk
+Astro QJ,http://histar.zapi.us.kg/?id=astro-quanjia
+Astro Awani,http://histar.zapi.us.kg/?id=astro-awani
+Astro Arena HD,http://histar.zapi.us.kg/?id=astro-arena-hd
+Astro Arena 2,http://histar.zapi.us.kg/?id=astro-arena2
+Astro Citra,http://histar.zapi.us.kg/?id=astro-citra
+Astro Prima,http://histar.zapi.us.kg/?id=astro-prima
+Astro Aura,http://histar.zapi.us.kg/?id=astro-aura
+Astro RIA,http://histar.zapi.us.kg/?id=astro-ria
+Astro ONE,http://histar.zapi.us.kg/?id=astro-one
+AstroPremier,http://histar.zapi.us.kg/?id=astropremier
+Astro Ceria,http://histar.zapi.us.kg/?id=astro-ceria
+Astro Vaanavil,http://histar.zapi.us.kg/?id=astro-vaanavil
+Astro Vinmeen,http://histar.zapi.us.kg/?id=astro-vinmeen
+Astro Warna,http://histar.zapi.us.kg/?id=astro-warna
+Astro Vellithirai,http://histar.zapi.us.kg/?id=astro-vellithirai
+Astro Rania,http://histar.zapi.us.kg/?id=astro-rania
+Astro Oasis,http://histar.zapi.us.kg/?id=astro-oasis
+Astro TUTOR TV,http://histar.zapi.us.kg/?id=astro-tutor-tv
+Astro GolfChannel,http://histar.zapi.us.kg/?id=astro-golfchannel
 
-beIN Sports,http://histar-proxy.isus.cc/beinsports
-beIN Sports 2,http://histar-proxy.isus.cc/beinsports2
-beIN Sports 3,http://histar-proxy.isus.cc/beinsports3
-ELTA 体育-1,http://histar-proxy.isus.cc/elta-sport1
-ELTA 体育-2,http://histar-proxy.isus.cc/elta-sport2
-ELTA 体育-3,http://histar-proxy.isus.cc/elta-sport3
-ELTA体育4台,http://histar-proxy.isus.cc/elta-sport4
-博斯网球,http://histar-proxy.isus.cc/sportcast-tennis
-博斯运动-1,http://histar-proxy.isus.cc/sportcast1
-博斯运动-2,http://histar-proxy.isus.cc/sportcast2
-博斯无限,http://histar-proxy.isus.cc/sportcast-wx
-博斯高球-1,http://histar-proxy.isus.cc/sportcast-golf1
-博斯高球-2,http://histar-proxy.isus.cc/sportcast-golf2
-博斯魅力,http://histar-proxy.isus.cc/sportcast-meili
-ESPN,http://histar-proxy.isus.cc/espn
-ESPN 2,http://histar-proxy.isus.cc/espn2
-ESPN 3,http://histar-proxy.isus.cc/espn3
-ESPN 4,http://histar-proxy.isus.cc/espn4
-myTV SUPER直播足球1台,http://histar-proxy.isus.cc/mytv-super-soccer1
-myTV SUPER直播足球2台,http://histar-proxy.isus.cc/mytv-super-soccer2
-myTV SUPER直播足球3台,http://histar-proxy.isus.cc/mytv-super-soccer3
-myTV SUPER直播足球4台,http://histar-proxy.isus.cc/mytv-super-soccer4
-myTV SUPER 18,http://histar-proxy.isus.cc/mytvsuper-18
-纬来体育,http://histar-proxy.isus.cc/videoland-sport
-NBA,http://histar-proxy.isus.cc/nba
-WWE,http://histar-proxy.isus.cc/wwe
-DAZN 1,http://histar-proxy.isus.cc/eleven-sport1
-DAZN 2,http://histar-proxy.isus.cc/eleven-sport2
-Eurosports-1,http://histar-proxy.isus.cc/eurosports-1
-SPOTV,http://histar-proxy.isus.cc/spotv
-SPOTV-2,http://histar-proxy.isus.cc/spotv2
-时尚运动 X,http://histar-proxy.isus.cc/ssydx
-GINX Esports TV,http://histar-proxy.isus.cc/ginx-esports
-Tech Storm,http://histar-proxy.isus.cc/tech-storm
-TRACE Sport Stars,http://histar-proxy.isus.cc/trace-sport-stars
-W-Sport,http://histar-proxy.isus.cc/w-sport
-PremierSports,http://histar-proxy.isus.cc/premiersports
-智林体育台,http://histar-proxy.isus.cc/zl-sports
+beIN Sports,http://histar.zapi.us.kg/?id=beinsports
+beIN Sports 2,http://histar.zapi.us.kg/?id=beinsports2
+beIN Sports 3,http://histar.zapi.us.kg/?id=beinsports3
+ELTA 体育-1,http://histar.zapi.us.kg/?id=elta-sport1
+ELTA 体育-2,http://histar.zapi.us.kg/?id=elta-sport2
+ELTA 体育-3,http://histar.zapi.us.kg/?id=elta-sport3
+ELTA体育4台,http://histar.zapi.us.kg/?id=elta-sport4
+博斯网球,http://histar.zapi.us.kg/?id=sportcast-tennis
+博斯运动-1,http://histar.zapi.us.kg/?id=sportcast1
+博斯运动-2,http://histar.zapi.us.kg/?id=sportcast2
+博斯无限,http://histar.zapi.us.kg/?id=sportcast-wx
+博斯高球-1,http://histar.zapi.us.kg/?id=sportcast-golf1
+博斯高球-2,http://histar.zapi.us.kg/?id=sportcast-golf2
+博斯魅力,http://histar.zapi.us.kg/?id=sportcast-meili
+ESPN,http://histar.zapi.us.kg/?id=espn
+ESPN 2,http://histar.zapi.us.kg/?id=espn2
+ESPN 3,http://histar.zapi.us.kg/?id=espn3
+ESPN 4,http://histar.zapi.us.kg/?id=espn4
+myTV SUPER直播足球1台,http://histar.zapi.us.kg/?id=mytv-super-soccer1
+myTV SUPER直播足球2台,http://histar.zapi.us.kg/?id=mytv-super-soccer2
+myTV SUPER直播足球3台,http://histar.zapi.us.kg/?id=mytv-super-soccer3
+myTV SUPER直播足球4台,http://histar.zapi.us.kg/?id=mytv-super-soccer4
+myTV SUPER 18,http://histar.zapi.us.kg/?id=mytvsuper-18
+纬来体育,http://histar.zapi.us.kg/?id=videoland-sport
+NBA,http://histar.zapi.us.kg/?id=nba
+WWE,http://histar.zapi.us.kg/?id=wwe
+DAZN 1,http://histar.zapi.us.kg/?id=eleven-sport1
+DAZN 2,http://histar.zapi.us.kg/?id=eleven-sport2
+Eurosports-1,http://histar.zapi.us.kg/?id=eurosports-1
+SPOTV,http://histar.zapi.us.kg/?id=spotv
+SPOTV-2,http://histar.zapi.us.kg/?id=spotv2
+时尚运动 X,http://histar.zapi.us.kg/?id=ssydx
+GINX Esports TV,http://histar.zapi.us.kg/?id=ginx-esports
+Tech Storm,http://histar.zapi.us.kg/?id=tech-storm
+TRACE Sport Stars,http://histar.zapi.us.kg/?id=trace-sport-stars
+W-Sport,http://histar.zapi.us.kg/?id=w-sport
+PremierSports,http://histar.zapi.us.kg/?id=premiersports
+智林体育台,http://histar.zapi.us.kg/?id=zl-sports
 
-新时代电视,http://histar-proxy.isus.cc/fairchildtv
-新时代电视二台,http://histar-proxy.isus.cc/fairchildtv2
-城市电视,http://histar-proxy.isus.cc/talentvisiontv
-HBO HD,http://histar-proxy.isus.cc/hbo-hd
-HBO Hits HD,http://histar-proxy.isus.cc/hbo-hits-hd
-HBO Family HD,http://histar-proxy.isus.cc/hbo-family
-HBO Signature HD,http://histar-proxy.isus.cc/hbo-signature
-Cinemax,http://histar-proxy.isus.cc/cinemax
-CNN International,http://histar-proxy.isus.cc/cnn-international
-好莱坞电影,http://histar-proxy.isus.cc/hollywood-movie
-ROCK Action,http://histar-proxy.isus.cc/rock-action
-ROCK Entertainment,http://histar-proxy.isus.cc/rock-entertaiment
-Bloomberg,http://histar-proxy.isus.cc/bloomberg
-amc 最爱电影,http://histar-proxy.isus.cc/amc-movie
-美国中文电视,http://histar-proxy.isus.cc/sinovision
-Lifetime 娱乐频道,http://histar-proxy.isus.cc/lifetime
-HLN,http://histar-proxy.isus.cc/cnn-hln
-fun 探索娱乐台,http://histar-proxy.isus.cc/festival4k
-Euronews,http://histar-proxy.isus.cc/euronews
-MyCinema Europe HD,http://histar-proxy.isus.cc/mycinema-europe
-VOA 美国之音,http://histar-proxy.isus.cc/voa
-DW 德国之声,http://histar-proxy.isus.cc/dw
-CNN,http://histar-proxy.isus.cc/cnn
-ABC News,http://histar-proxy.isus.cc/abc-news
-BBC World News,http://histar-proxy.isus.cc/bbc-world-news
-CNBC,http://histar-proxy.isus.cc/cnbc
+新时代电视,http://histar.zapi.us.kg/?id=fairchildtv
+新时代电视二台,http://histar.zapi.us.kg/?id=fairchildtv2
+城市电视,http://histar.zapi.us.kg/?id=talentvisiontv
+HBO HD,http://histar.zapi.us.kg/?id=hbo-hd
+HBO Hits HD,http://histar.zapi.us.kg/?id=hbo-hits-hd
+HBO Family HD,http://histar.zapi.us.kg/?id=hbo-family
+HBO Signature HD,http://histar.zapi.us.kg/?id=hbo-signature
+Cinemax,http://histar.zapi.us.kg/?id=cinemax
+CNN International,http://histar.zapi.us.kg/?id=cnn-international
+好莱坞电影,http://histar.zapi.us.kg/?id=hollywood-movie
+ROCK Action,http://histar.zapi.us.kg/?id=rock-action
+ROCK Entertainment,http://histar.zapi.us.kg/?id=rock-entertaiment
+Bloomberg,http://histar.zapi.us.kg/?id=bloomberg
+amc 最爱电影,http://histar.zapi.us.kg/?id=amc-movie
+美国中文电视,http://histar.zapi.us.kg/?id=sinovision
+Lifetime 娱乐频道,http://histar.zapi.us.kg/?id=lifetime
+HLN,http://histar.zapi.us.kg/?id=cnn-hln
+fun 探索娱乐台,http://histar.zapi.us.kg/?id=festival4k
+Euronews,http://histar.zapi.us.kg/?id=euronews
+MyCinema Europe HD,http://histar.zapi.us.kg/?id=mycinema-europe
+VOA 美国之音,http://histar.zapi.us.kg/?id=voa
+DW 德国之声,http://histar.zapi.us.kg/?id=dw
+CNN,http://histar.zapi.us.kg/?id=cnn
+ABC News,http://histar.zapi.us.kg/?id=abc-news
+BBC World News,http://histar.zapi.us.kg/?id=bbc-world-news
+CNBC,http://histar.zapi.us.kg/?id=cnbc
 
-CCTV-1 综合,http://histar-proxy.isus.cc/cctv1
-CCTV-2 财经,http://histar-proxy.isus.cc/cctv2
-CCTV-3 综艺,http://histar-proxy.isus.cc/cctv3
-CCTV-4 中文国际,http://histar-proxy.isus.cc/cctv4
-CCTV-5 体育,http://histar-proxy.isus.cc/cctv5
-CCTV-5+ 体育赛事,http://histar-proxy.isus.cc/cctv5plus
-CCTV-6 电影,http://histar-proxy.isus.cc/cctv6
-CCTV-7 国防军事,http://histar-proxy.isus.cc/cctv7
-CCTV-8 电视剧,http://histar-proxy.isus.cc/cctv8
-CCTV-9 纪录,http://histar-proxy.isus.cc/cctv9
-CCTV-10 科教,http://histar-proxy.isus.cc/cctv10
-CCTV-11 戏曲,http://histar-proxy.isus.cc/cctv11
-CCTV-12 社会与法,http://histar-proxy.isus.cc/cctv12
-CCTV-13 新闻,http://histar-proxy.isus.cc/cctv13
-CCTV-14 少儿,http://histar-proxy.isus.cc/cctv14
-CCTV-15 音乐,http://histar-proxy.isus.cc/cctv15
-CCTV-16 奥林匹克,http://histar-proxy.isus.cc/cctv16
-CCTV-17 农业农村,http://histar-proxy.isus.cc/cctv17
-CHC家庭影院,http://histar-proxy.isus.cc/chc-jtyy
-CHC动作电影,http://histar-proxy.isus.cc/chc-dzdy
-CHC高清电影,http://histar-proxy.isus.cc/chc-gqdy
-重温经典,http://histar-proxy.isus.cc/cwjd
+CCTV-1 综合,http://histar.zapi.us.kg/?id=cctv1
+CCTV-2 财经,http://histar.zapi.us.kg/?id=cctv2
+CCTV-3 综艺,http://histar.zapi.us.kg/?id=cctv3
+CCTV-4 中文国际,http://histar.zapi.us.kg/?id=cctv4
+CCTV-5 体育,http://histar.zapi.us.kg/?id=cctv5
+CCTV-5+ 体育赛事,http://histar.zapi.us.kg/?id=cctv5plus
+CCTV-6 电影,http://histar.zapi.us.kg/?id=cctv6
+CCTV-7 国防军事,http://histar.zapi.us.kg/?id=cctv7
+CCTV-8 电视剧,http://histar.zapi.us.kg/?id=cctv8
+CCTV-9 纪录,http://histar.zapi.us.kg/?id=cctv9
+CCTV-10 科教,http://histar.zapi.us.kg/?id=cctv10
+CCTV-11 戏曲,http://histar.zapi.us.kg/?id=cctv11
+CCTV-12 社会与法,http://histar.zapi.us.kg/?id=cctv12
+CCTV-13 新闻,http://histar.zapi.us.kg/?id=cctv13
+CCTV-14 少儿,http://histar.zapi.us.kg/?id=cctv14
+CCTV-15 音乐,http://histar.zapi.us.kg/?id=cctv15
+CCTV-16 奥林匹克,http://histar.zapi.us.kg/?id=cctv16
+CCTV-17 农业农村,http://histar.zapi.us.kg/?id=cctv17
+CHC家庭影院,http://histar.zapi.us.kg/?id=chc-jtyy
+CHC动作电影,http://histar.zapi.us.kg/?id=chc-dzdy
+CHC高清电影,http://histar.zapi.us.kg/?id=chc-gqdy
+重温经典,http://histar.zapi.us.kg/?id=cwjd
 
-CCTV1测试,http://histar-proxy.isus.cc/testcctv1
-CCTV2测试,http://histar-proxy.isus.cc/testcctv2
-CCTV3测试,http://histar-proxy.isus.cc/testcctv3
-CCTV4测试,http://histar-proxy.isus.cc/testcctv4
-CCTV5测试,http://histar-proxy.isus.cc/testcctv5
-Astro AEC测试,http://histar-proxy.isus.cc/testaec
-Astro QJ测试,http://histar-proxy.isus.cc/testqj
-Channel 5 测试,http://histar-proxy.isus.cc/testchannel5
-Channel 8 测试,http://histar-proxy.isus.cc/testchannel8
-SPOTV 测试,http://histar-proxy.isus.cc/testsportv
-SPOTV 2 测试,http://histar-proxy.isus.cc/testspotv2
-大湾区卫视,http://histar-proxy.isus.cc/testdwqws
+CCTV1测试,http://histar.zapi.us.kg/?id=testcctv1
+CCTV2测试,http://histar.zapi.us.kg/?id=testcctv2
+CCTV3测试,http://histar.zapi.us.kg/?id=testcctv3
+CCTV4测试,http://histar.zapi.us.kg/?id=testcctv4
+CCTV5测试,http://histar.zapi.us.kg/?id=testcctv5
+Astro AEC测试,http://histar.zapi.us.kg/?id=testaec
+Astro QJ测试,http://histar.zapi.us.kg/?id=testqj
+Channel 5 测试,http://histar.zapi.us.kg/?id=testchannel5
+Channel 8 测试,http://histar.zapi.us.kg/?id=testchannel8
+SPOTV 测试,http://histar.zapi.us.kg/?id=testsportv
+SPOTV 2 测试,http://histar.zapi.us.kg/?id=testspotv2
+大湾区卫视,http://histar.zapi.us.kg/?id=testdwqws
 
-湖南卫视,http://histar-proxy.isus.cc/hunan
-浙江卫视,http://histar-proxy.isus.cc/zhejiang
-东方卫视,http://histar-proxy.isus.cc/dongfang
-江苏卫视,http://histar-proxy.isus.cc/jiangsu
-北京卫视,http://histar-proxy.isus.cc/beijing
-深圳卫视,http://histar-proxy.isus.cc/shenzhen
-广东卫视,http://histar-proxy.isus.cc/guangdong
-大湾区卫视,http://histar-proxy.isus.cc/gdwqws
-重庆卫视,http://histar-proxy.isus.cc/chongqing
-东南卫视,http://histar-proxy.isus.cc/dongnan
-广西卫视,http://histar-proxy.isus.cc/guangxi
-贵州卫视,http://histar-proxy.isus.cc/guizhou
-海南卫视,http://histar-proxy.isus.cc/hainan
-河北卫视,http://histar-proxy.isus.cc/hebei
-黑龙江卫视,http://histar-proxy.isus.cc/heilongjiang
-湖北卫视,http://histar-proxy.isus.cc/hubei
-江西卫视,http://histar-proxy.isus.cc/jiangxi
-吉林卫视,http://histar-proxy.isus.cc/jilin
-辽宁卫视,http://histar-proxy.isus.cc/liaoning
-内蒙古卫视,http://histar-proxy.isus.cc/neimenggu
-宁夏卫视,http://histar-proxy.isus.cc/ningxia
-陕西卫视,http://histar-proxy.isus.cc/shaanxi
-山东卫视,http://histar-proxy.isus.cc/shandong
-山西卫视,http://histar-proxy.isus.cc/shanxi
-四川卫视,http://histar-proxy.isus.cc/sichuan
-天津卫视,http://histar-proxy.isus.cc/tianjin
-厦门卫视,http://histar-proxy.isus.cc/xiamen
-新疆卫视,http://histar-proxy.isus.cc/xinjiang
-西藏卫视,http://histar-proxy.isus.cc/xizang
-云南卫视,http://histar-proxy.isus.cc/yunnan
-安徽卫视,http://histar-proxy.isus.cc/anhui
-河南卫视,http://histar-proxy.isus.cc/henan
-青海卫视,http://histar-proxy.isus.cc/qinghai
-甘肃卫视,http://histar-proxy.isus.cc/gansu
+湖南卫视,http://histar.zapi.us.kg/?id=hunan
+浙江卫视,http://histar.zapi.us.kg/?id=zhejiang
+东方卫视,http://histar.zapi.us.kg/?id=dongfang
+江苏卫视,http://histar.zapi.us.kg/?id=jiangsu
+北京卫视,http://histar.zapi.us.kg/?id=beijing
+深圳卫视,http://histar.zapi.us.kg/?id=shenzhen
+广东卫视,http://histar.zapi.us.kg/?id=guangdong
+大湾区卫视,http://histar.zapi.us.kg/?id=gdwqws
+重庆卫视,http://histar.zapi.us.kg/?id=chongqing
+东南卫视,http://histar.zapi.us.kg/?id=dongnan
+广西卫视,http://histar.zapi.us.kg/?id=guangxi
+贵州卫视,http://histar.zapi.us.kg/?id=guizhou
+海南卫视,http://histar.zapi.us.kg/?id=hainan
+河北卫视,http://histar.zapi.us.kg/?id=hebei
+黑龙江卫视,http://histar.zapi.us.kg/?id=heilongjiang
+湖北卫视,http://histar.zapi.us.kg/?id=hubei
+江西卫视,http://histar.zapi.us.kg/?id=jiangxi
+吉林卫视,http://histar.zapi.us.kg/?id=jilin
+辽宁卫视,http://histar.zapi.us.kg/?id=liaoning
+内蒙古卫视,http://histar.zapi.us.kg/?id=neimenggu
+宁夏卫视,http://histar.zapi.us.kg/?id=ningxia
+陕西卫视,http://histar.zapi.us.kg/?id=shaanxi
+山东卫视,http://histar.zapi.us.kg/?id=shandong
+山西卫视,http://histar.zapi.us.kg/?id=shanxi
+四川卫视,http://histar.zapi.us.kg/?id=sichuan
+天津卫视,http://histar.zapi.us.kg/?id=tianjin
+厦门卫视,http://histar.zapi.us.kg/?id=xiamen
+新疆卫视,http://histar.zapi.us.kg/?id=xinjiang
+西藏卫视,http://histar.zapi.us.kg/?id=xizang
+云南卫视,http://histar.zapi.us.kg/?id=yunnan
+安徽卫视,http://histar.zapi.us.kg/?id=anhui
+河南卫视,http://histar.zapi.us.kg/?id=henan
+青海卫视,http://histar.zapi.us.kg/?id=qinghai
+甘肃卫视,http://histar.zapi.us.kg/?id=gansu
 
-上海都市,http://histar-proxy.isus.cc/shds
-上海新闻,http://histar-proxy.isus.cc/shxw
-五星体育,http://histar-proxy.isus.cc/wxty
-劲爆体育,http://histar-proxy.isus.cc/jbty
-广东体育,http://histar-proxy.isus.cc/gdty
-第一财经,http://histar-proxy.isus.cc/yicai
-辽宁体育,http://histar-proxy.isus.cc/lnty
-天津体育,http://histar-proxy.isus.cc/tjty
-广东珠江,http://histar-proxy.isus.cc/gdzj
-河南梨园,http://histar-proxy.isus.cc/hnly
-辽宁都市,http://histar-proxy.isus.cc/lnds
-辽宁影视,http://histar-proxy.isus.cc/lnys
-黑龙江都市,http://histar-proxy.isus.cc/hljds
-广州综合,http://histar-proxy.isus.cc/gzzh
-广州影视,http://histar-proxy.isus.cc/gzys
-广州竞赛,http://histar-proxy.isus.cc/gzjs
-广东影视,http://histar-proxy.isus.cc/gdys
-广东新闻,http://histar-proxy.isus.cc/gdxw
-广东民生,http://histar-proxy.isus.cc/gdms
-广东少儿,http://histar-proxy.isus.cc/gdse
+上海都市,http://histar.zapi.us.kg/?id=shds
+上海新闻,http://histar.zapi.us.kg/?id=shxw
+五星体育,http://histar.zapi.us.kg/?id=wxty
+劲爆体育,http://histar.zapi.us.kg/?id=jbty
+广东体育,http://histar.zapi.us.kg/?id=gdty
+第一财经,http://histar.zapi.us.kg/?id=yicai
+辽宁体育,http://histar.zapi.us.kg/?id=lnty
+天津体育,http://histar.zapi.us.kg/?id=tjty
+广东珠江,http://histar.zapi.us.kg/?id=gdzj
+河南梨园,http://histar.zapi.us.kg/?id=hnly
+辽宁都市,http://histar.zapi.us.kg/?id=lnds
+辽宁影视,http://histar.zapi.us.kg/?id=lnys
+黑龙江都市,http://histar.zapi.us.kg/?id=hljds
+广州综合,http://histar.zapi.us.kg/?id=gzzh
+广州影视,http://histar.zapi.us.kg/?id=gzys
+广州竞赛,http://histar.zapi.us.kg/?id=gzjs
+广东影视,http://histar.zapi.us.kg/?id=gdys
+广东新闻,http://histar.zapi.us.kg/?id=gdxw
+广东民生,http://histar.zapi.us.kg/?id=gdms
+广东少儿,http://histar.zapi.us.kg/?id=gdse
 
-迪士尼频道,http://histar-proxy.isus.cc/disney
-Animax 卡通,http://histar-proxy.isus.cc/animax-cartoon
-DreamWorks 梦工厂动画,http://histar-proxy.isus.cc/dreamworks
-小尼克频道,http://histar-proxy.isus.cc/nick-jr
-尼克儿童频道,http://histar-proxy.isus.cc/nickelodeon
-MOMO 亲子台,http://histar-proxy.isus.cc/momo-kids
-东森幼幼台,http://histar-proxy.isus.cc/ebc-yoyo
-CN卡通,http://histar-proxy.isus.cc/cn-cartoon
-靖天卡通台,http://histar-proxy.isus.cc/jtkt
-靖天育乐台,http://histar-proxy.isus.cc/jtyl
-i-Fun 动漫台,http://histar-proxy.isus.cc/i-fun
-ELTV生活英語台,http://histar-proxy.isus.cc/eltv
-Boomerang HD,http://histar-proxy.isus.cc/boomerang-hd
-靖洋卡通 NiceBingo,http://histar-proxy.isus.cc/nice-bingo
-达文西频道,http://histar-proxy.isus.cc/da-vinci
+迪士尼频道,http://histar.zapi.us.kg/?id=disney
+Animax 卡通,http://histar.zapi.us.kg/?id=animax-cartoon
+DreamWorks 梦工厂动画,http://histar.zapi.us.kg/?id=dreamworks
+小尼克频道,http://histar.zapi.us.kg/?id=nick-jr
+尼克儿童频道,http://histar.zapi.us.kg/?id=nickelodeon
+MOMO 亲子台,http://histar.zapi.us.kg/?id=momo-kids
+东森幼幼台,http://histar.zapi.us.kg/?id=ebc-yoyo
+CN卡通,http://histar.zapi.us.kg/?id=cn-cartoon
+靖天卡通台,http://histar.zapi.us.kg/?id=jtkt
+靖天育乐台,http://histar.zapi.us.kg/?id=jtyl
+i-Fun 动漫台,http://histar.zapi.us.kg/?id=i-fun
+ELTV生活英語台,http://histar.zapi.us.kg/?id=eltv
+Boomerang HD,http://histar.zapi.us.kg/?id=boomerang-hd
+靖洋卡通 NiceBingo,http://histar.zapi.us.kg/?id=nice-bingo
+达文西频道,http://histar.zapi.us.kg/?id=da-vinci
 
-探索频道,http://histar-proxy.isus.cc/discovery
-探索科学频道,http://histar-proxy.isus.cc/discovery-sci
-探索亚洲频道,http://histar-proxy.isus.cc/discovery-asia
-DMAX,http://histar-proxy.isus.cc/dmax
-History 频道,http://histar-proxy.isus.cc/history
-History-2 频道,http://histar-proxy.isus.cc/history-2
-Love Nature,http://histar-proxy.isus.cc/love-nature
-国家地理 野生频道,http://histar-proxy.isus.cc/natgeo-wild
-民视旅游,http://histar-proxy.isus.cc/ftv-travel
-美食星球频道,http://histar-proxy.isus.cc/food-planet
-EYE 旅游台,http://histar-proxy.isus.cc/eye-travel
-ELTA 生活旅游台,http://histar-proxy.isus.cc/elta-lifetravel
-车迷TV,http://histar-proxy.isus.cc/motorvision
-动物星球频道,http://histar-proxy.isus.cc/animal-planet
-TLC 旅游生活頻道,http://histar-proxy.isus.cc/tlc
-亚洲旅游台,http://histar-proxy.isus.cc/asia-travel
-Asian Food Network,http://histar-proxy.isus.cc/asian-food-network
-CI 罪案侦查频道,http://histar-proxy.isus.cc/ci
-滚动力 rollor,http://histar-proxy.isus.cc/rollor
-LUXE TV Channel,http://histar-proxy.isus.cc/luxe-tv
+探索频道,http://histar.zapi.us.kg/?id=discovery
+探索科学频道,http://histar.zapi.us.kg/?id=discovery-sci
+探索亚洲频道,http://histar.zapi.us.kg/?id=discovery-asia
+DMAX,http://histar.zapi.us.kg/?id=dmax
+History 频道,http://histar.zapi.us.kg/?id=history
+History-2 频道,http://histar.zapi.us.kg/?id=history-2
+Love Nature,http://histar.zapi.us.kg/?id=love-nature
+国家地理 野生频道,http://histar.zapi.us.kg/?id=natgeo-wild
+民视旅游,http://histar.zapi.us.kg/?id=ftv-travel
+美食星球频道,http://histar.zapi.us.kg/?id=food-planet
+EYE 旅游台,http://histar.zapi.us.kg/?id=eye-travel
+ELTA 生活旅游台,http://histar.zapi.us.kg/?id=elta-lifetravel
+车迷TV,http://histar.zapi.us.kg/?id=motorvision
+动物星球频道,http://histar.zapi.us.kg/?id=animal-planet
+TLC 旅游生活頻道,http://histar.zapi.us.kg/?id=tlc
+亚洲旅游台,http://histar.zapi.us.kg/?id=asia-travel
+Asian Food Network,http://histar.zapi.us.kg/?id=asian-food-network
+CI 罪案侦查频道,http://histar.zapi.us.kg/?id=ci
+滚动力 rollor,http://histar.zapi.us.kg/?id=rollor
+LUXE TV Channel,http://histar.zapi.us.kg/?id=luxe-tv
 
-NHK General,http://histar-proxy.isus.cc/nhk-g
-NHK Education,http://histar-proxy.isus.cc/nhk-e
-日本电视台,http://histar-proxy.isus.cc/nippon-tv
-TBS TV,http://histar-proxy.isus.cc/tbs-tv
-富士电视台,http://histar-proxy.isus.cc/fujitv
-朝日电视台,http://histar-proxy.isus.cc/tv-asahi
-东京电视台,http://histar-proxy.isus.cc/tv-tokyo
-JSPORTS 1,http://histar-proxy.isus.cc/jsports1
-JSPORTS 2,http://histar-proxy.isus.cc/jsports2
-JSPORTS 3,http://histar-proxy.isus.cc/jsports3
-JSPORTS 4,http://histar-proxy.isus.cc/jsports4
-KBS 1,http://histar-proxy.isus.cc/kbs-1
-KBS 2,http://histar-proxy.isus.cc/kbs-2
-KBS Drama,http://histar-proxy.isus.cc/kbs-drama
-KBS Story,http://histar-proxy.isus.cc/kbs-story
-KBS Life,http://histar-proxy.isus.cc/kbs-life
-KBS Joy,http://histar-proxy.isus.cc/kbs-joy
-KBS Kids,http://histar-proxy.isus.cc/kbs-kids
-KBSWorld,http://histar-proxy.isus.cc/kbsworld
-KBS NEWS,http://histar-proxy.isus.cc/kbs-news
-SBS,http://histar-proxy.isus.cc/sbs
-SBS Plus,http://histar-proxy.isus.cc/sbs-plus
-SBS funE,http://histar-proxy.isus.cc/sbs-fune
-SBS M,http://histar-proxy.isus.cc/sbs-m
+NHK General,http://histar.zapi.us.kg/?id=nhk-g
+NHK Education,http://histar.zapi.us.kg/?id=nhk-e
+日本电视台,http://histar.zapi.us.kg/?id=nippon-tv
+TBS TV,http://histar.zapi.us.kg/?id=tbs-tv
+富士电视台,http://histar.zapi.us.kg/?id=fujitv
+朝日电视台,http://histar.zapi.us.kg/?id=tv-asahi
+东京电视台,http://histar.zapi.us.kg/?id=tv-tokyo
+JSPORTS 1,http://histar.zapi.us.kg/?id=jsports1
+JSPORTS 2,http://histar.zapi.us.kg/?id=jsports2
+JSPORTS 3,http://histar.zapi.us.kg/?id=jsports3
+JSPORTS 4,http://histar.zapi.us.kg/?id=jsports4
+KBS 1,http://histar.zapi.us.kg/?id=kbs-1
+KBS 2,http://histar.zapi.us.kg/?id=kbs-2
+KBS Drama,http://histar.zapi.us.kg/?id=kbs-drama
+KBS Story,http://histar.zapi.us.kg/?id=kbs-story
+KBS Life,http://histar.zapi.us.kg/?id=kbs-life
+KBS Joy,http://histar.zapi.us.kg/?id=kbs-joy
+KBS Kids,http://histar.zapi.us.kg/?id=kbs-kids
+KBSWorld,http://histar.zapi.us.kg/?id=kbsworld
+KBS NEWS,http://histar.zapi.us.kg/?id=kbs-news
+SBS,http://histar.zapi.us.kg/?id=sbs
+SBS Plus,http://histar.zapi.us.kg/?id=sbs-plus
+SBS funE,http://histar.zapi.us.kg/?id=sbs-fune
+SBS M,http://histar.zapi.us.kg/?id=sbs-m
 
 广东本地,#genre#
 广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
