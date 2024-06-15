@@ -180,8 +180,8 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-搜狐4K,http://111.165.236.122:8000/rtp/225.1.2.190:5002?$天津联通主力线
-搜狐4K,http://180.213.167.13:8000/rtp/225.1.2.190:5002?$天津联通备线1
+搜狐4K,http://nas.hssvm.com:8888/rtp/225.1.2.190:5002?$天津联通主力线
+搜狐4K,http://125.37.57.151:18888/rtp/225.1.2.190:5002?$天津联通备线1
 百事通4K电影,http://www.17888.fun:10000//udp/239.45.3.107:5140?$上海电信备线3
 百事通4K电影,http://nxlj.cn:1688//udp/239.45.3.107:5140?$虹口电信组播
 百事通4K纪实,http://www.17888.fun:10000//rtp/239.45.1.10:5140?$上海电信备线3
