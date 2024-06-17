@@ -561,7 +561,7 @@ MEZZO LIVE,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f0
 GLOBETROTTER,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv016
 GinxTV,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv053
 
-星视界,#genre#
+(失效)星视界,#genre#
 翡翠台,http://histar.zapi.us.kg/?id=feicui
 无线新闻台,http://histar.zapi.us.kg/?id=tvb-news
 TVB plus,http://histar.zapi.us.kg/?id=tvb-plus
