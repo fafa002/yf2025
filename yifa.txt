@@ -363,6 +363,16 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
 TW 新闻,#genre#
+TVBS 新闻台,http://us1.qqvr.online:9000/live.m3u8?c=1
+TVBS 56频道,http://us1.qqvr.online:9000/live.m3u8?c=2
+中天 新闻,http://us1.qqvr.online:9000/live.m3u8?c=3
+三立 新闻,http://us1.qqvr.online:9000/live.m3u8?c=5
+寰宇 新聞,http://us1.qqvr.online:9000/live.m3u8?c=6
+東森 新聞,http://us1.qqvr.online:9000/live.m3u8?c=30
+中视 新聞,http://us1.qqvr.online:9000/live.m3u8?c=31
+中天 亜洲,http://us1.qqvr.online:9000/live.m3u8?c=32
+中天 新聞2,http://us1.qqvr.online:9000/live.m3u8?c=33
+
 凤凰 卫视,http://194.87.101.118/live.m3u8?c=2
 中天 亚洲,http://194.87.101.118/live.m3u8?c=3
 台視 新聞,http://194.87.101.118/live.m3u8?c=4
