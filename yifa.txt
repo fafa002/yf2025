@@ -363,17 +363,15 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
 TW 新闻,#genre#
-寰宇 新聞,http://gigs1.micar.me:8900/live.m3u8?c=6
-中天 新聞,http://gigs1.micar.me:8900/live.m3u8?c=7
-TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8
-三立 新聞,http://gigs1.micar.me:8900/live.m3u8?c=9
-台視 新聞,http://gigs1.micar.me:8900/live.m3u8?c=10
-民視 新聞,http://gigs1.micar.me:8900/live.m3u8?c=11
-东森 新聞,http://gigs1.micar.me:8900/live.m3u8?c=12
-公視 新聞,http://gigs1.micar.me:8900/live.m3u8?c=13
-中視 新聞,http://gigs1.micar.me:8900/live.m3u8?c=14
-寰宇 国际,http://gigs1.micar.me:8900/live.m3u8?c=15
-镜 新聞,http://gigs1.micar.me:8900/live.m3u8?c=16
+TVBS 新聞台,http://us1.qqvr.online:9000/live.m3u8?c=1
+TVBS  56频道,http://us1.qqvr.online:9000/live.m3u8?c=2
+中天新聞,http://us1.qqvr.online:9000/live.m3u8?c=3
+三立 新聞,http://us1.qqvr.online:9000/live.m3u8?c=5
+寰宇 新聞,http://us1.qqvr.online:9000/live.m3u8?c=6
+東森 新聞,http://us1.qqvr.online:9000/live.m3u8?c=30
+中視 新聞,http://us1.qqvr.online:9000/live.m3u8?c=31
+中天 亜洲,http://us1.qqvr.online:9000/live.m3u8?c=32
+中天 新聞2,http://us1.qqvr.online:9000/live.m3u8?c=33
 
 中天 新聞,http://104.233.187.174:8727/live.m3u8?c=1
 中天 新聞2,http://104.233.187.174:8727/live.m3u8?c=2
