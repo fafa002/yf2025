@@ -459,6 +459,65 @@ AXW,http://8.137.59.151:99/fhtv/fenghuang.php?id=47
 爱尔达体育4,http://8.137.59.151:99/fhtv/fenghuang.php?id=75
 爱尔达影剧,http://8.137.59.151:99/fhtv/fenghuang.php?id=126
 
+极速土拨鼠,#genre#
+凤凰卫视中文台,http://8.137.59.151:3000/live.php?key=hello&id=1
+凤凰卫视资讯台,http://8.137.59.151:3000/live.php?key=hello&id=2
+凤凰卫视香港台,http://8.137.59.151:3000/live.php?key=hello&id=3
+香港有线新闻台,http://8.137.59.151:3000/live.php?key=hello&id=4
+香港有线18台,http://8.137.59.151:3000/live.php?key=hello&id=5
+香港有线18台(普通话),http://8.137.59.151:3000/live.php?key=hello&id=6
+TVB无线新闻台,http://8.137.59.151:3000/live.php?key=hello&id=7
+TVB翡翠台,http://8.137.59.151:3000/live.php?key=hello&id=8
+黃金翡翠台,http://8.137.59.151:3000/live.php?key=hello&id=9
+TVB明珠台,http://8.137.59.151:3000/live.php?key=hello&id=10
+TVB Plus,http://8.137.59.151:3000/live.php?key=hello&id=11
+TVB娱乐新闻台,http://8.137.59.151:3000/live.php?key=hello&id=12
+TVB星河,http://8.137.59.151:3000/live.php?key=hello&id=13
+ViuTV,http://8.137.59.151:3000/live.php?key=hello&id=14
+NOW新闻台,http://8.137.59.151:3000/live.php?key=hello&id=15
+HOY国际财经台,http://8.137.59.151:3000/live.php?key=hello&id=16
+HOY TV,http://8.137.59.151:3000/live.php?key=hello&id=17
+HOY资讯台,http://8.137.59.151:3000/live.php?key=hello&id=18
+港台电视31,http://8.137.59.151:3000/live.php?key=hello&id=19
+港台电视32,http://8.137.59.151:3000/live.php?key=hello&id=20
+中天新闻台,http://8.137.59.151:3000/live.php?key=hello&id=21
+东森新闻台,http://8.137.59.151:3000/live.php?key=hello&id=22
+东森财经新闻台,http://8.137.59.151:3000/live.php?key=hello&id=23
+寰宇新闻台,http://8.137.59.151:3000/live.php?key=hello&id=24
+寰宇新闻台湾台,http://8.137.59.151:3000/live.php?key=hello&id=25
+台视新闻台,http://8.137.59.151:3000/live.php?key=hello&id=26
+中视新闻台,http://8.137.59.151:3000/live.php?key=hello&id=27
+华视新闻台,http://8.137.59.151:3000/live.php?key=hello&id=28
+TVBS新闻台,http://8.137.59.151:3000/live.php?key=hello&id=29
+三立新闻台,http://8.137.59.151:3000/live.php?key=hello&id=30
+三立iNEWS,http://8.137.59.151:3000/live.php?key=hello&id=31
+镜电视新闻台,http://8.137.59.151:3000/live.php?key=hello&id=32
+公视新闻,http://8.137.59.151:3000/live.php?key=hello&id=33
+民视新闻台,http://8.137.59.151:3000/live.php?key=hello&id=34
+民视第一台,http://8.137.59.151:3000/live.php?key=hello&id=35
+民视台湾台,http://8.137.59.151:3000/live.php?key=hello&id=36
+民视影剧台,http://8.137.59.151:3000/live.php?key=hello&id=37
+民视旅游台,http://8.137.59.151:3000/live.php?key=hello&id=38
+民视综艺台,http://8.137.59.151:3000/live.php?key=hello&id=39
+民视,http://8.137.59.151:3000/live.php?key=hello&id=40
+台视,http://8.137.59.151:3000/live.php?key=hello&id=41
+中视,http://8.137.59.151:3000/live.php?key=hello&id=42
+华视,http://8.137.59.151:3000/live.php?key=hello&id=43
+TVBS HD,http://8.137.59.151:3000/live.php?key=hello&id=44
+TVBS欢乐台,http://8.137.59.151:3000/live.php?key=hello&id=45
+中天亚洲台,http://8.137.59.151:3000/live.php?key=hello&id=46
+纬来体育台,http://8.137.59.151:3000/live.php?key=hello&id=47
+纬来日本台,http://8.137.59.151:3000/live.php?key=hello&id=48
+纬来育乐台,http://8.137.59.151:3000/live.php?key=hello&id=49
+ELEVEN 1,http://8.137.59.151:3000/live.php?key=hello&id=50
+ELEVEN 2,http://8.137.59.151:3000/live.php?key=hello&id=51
+爱尔达体育1台,http://8.137.59.151:3000/live.php?key=hello&id=52
+爱尔达体育2台,http://8.137.59.151:3000/live.php?key=hello&id=53
+爱尔达体育3台,http://8.137.59.151:3000/live.php?key=hello&id=54
+MOMO综合台,http://8.137.59.151:3000/live.php?key=hello&id=55
+东森超视,http://8.137.59.151:3000/live.php?key=hello&id=56
+CNN新闻频道,http://8.137.59.151:3000/live.php?key=hello&id=57
+
 四季台湾,#genre#
 民視台灣台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
 民視第一台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
