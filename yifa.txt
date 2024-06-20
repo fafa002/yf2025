@@ -624,6 +624,7 @@ Now beIN SPORTS 1,http://histar.zapi.us.kg/?id=now-bein-sports1
 Now beIN SPORTS 2,http://histar.zapi.us.kg/?id=now-bein-sports2
 Now beIN SPORTS 3,http://histar.zapi.us.kg/?id=now-bein-sports3
 Now 668,http://histar.zapi.us.kg/?id=now-668
+Now 618,http://histar.zapi.us.kg/?id=now-sports-618
 Now Golf 2,http://histar.zapi.us.kg/?id=now-golf2
 Now Golf 3,http://histar.zapi.us.kg/?id=now-golf3
 
@@ -1104,6 +1105,7 @@ Now beIN SPORTS 1,http://cdn.1678520.xyz/xsj.php?id=now-bein-sports1
 Now beIN SPORTS 2,http://cdn.1678520.xyz/xsj.php?id=now-bein-sports2
 Now beIN SPORTS 3,http://cdn.1678520.xyz/xsj.php?id=now-bein-sports3
 Now 668,http://cdn.1678520.xyz/xsj.php?id=now-668
+Now 618,http://cdn.1678520.xyz/xsj.php?id=now-sports-618
 Now Golf 2,http://cdn.1678520.xyz/xsj.php?id=now-golf2
 Now Golf 3,http://cdn.1678520.xyz/xsj.php?id=now-golf3
 
@@ -1583,6 +1585,7 @@ Now beIN SPORTS 1,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
 Now beIN SPORTS 2,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
 Now beIN SPORTS 3,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
 Now 668,http://php.jdshipin.com:8880/xsj.php?id=now-668
+Now 618,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
 Now Golf 2,http://php.jdshipin.com:8880/xsj.php?id=now-golf2
 Now Golf 3,http://php.jdshipin.com:8880/xsj.php?id=now-golf3
 
