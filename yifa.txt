@@ -2050,7 +2050,7 @@ CCTV5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv
 中国教育电视台,http://61.138.128.226:19901/tsfile/live/1021_1.m3u8?key=txiptv
 浙江卫视高清,http://61.138.128.226:19901/tsfile/live/1044_1.m3u8?key=txiptv
 
-北京鹏博士,#genre#
+(失效)北京鹏博士,#genre#
 CCTV1综合,http://ori.jsblive.hls.domybox.com:91/live/CCTV1-1500k/live.m3u8
 CCTV1综合HD,http://ori.jsblive.hls.domybox.com:91/live/CCTV1hd-8M/live.m3u8
 CCTV2财经,http://ori.jsblive.hls.domybox.com:91/live/CCTV2-1500k/live.m3u8
@@ -2952,7 +2952,7 @@ K頻道,http://61.224.96.189:9478/udp/224.1.4.65:11111
 驚豔成人電影台,http://61.224.96.189:9478/udp/224.1.4.204:11111
 驚豔成人電影台,http://61.224.96.189:9478/udp/230.1.2.27:11111
 
-珠江宽屏,#genre#
+(失效)珠江宽屏,#genre#
 CCTV1,http://116.199.110.44:2901/udp/225.1.101.12:7523
 CCTV2,http://116.199.110.44:2901/udp/225.1.101.26:7523
 CCTV3,http://116.199.110.44:2901/udp/225.1.101.121:7523
@@ -4515,7 +4515,7 @@ BesTV,http://www.weec.top:2222/udp/239.3.1.166:8001
 财富天下,http://www.weec.top:2222/udp/239.3.1.53:9136
 嘉佳卡通,http://www.weec.top:2222/udp/239.3.1.147:9268
 
-福建电信,#genre#
+(失效)福建电信,#genre#
 凤凰资讯,http://e3.woc.iiiya.cn:8888/udp/239.61.2.183:9086
 凤凰中文,http://e3.woc.iiiya.cn:8888/udp/239.61.5.48:1025
 凤凰中文,http://e3.woc.iiiya.cn:8888/udp/239.61.2.184:9092
@@ -5334,7 +5334,7 @@ NBTV-4,http://[2409:8087:2801:22:100::1b]/wh7f454c46tw1794365255_149904061/hwltc
 卡酷少儿,http://[2409:8087:2801:20:100::44]/wh7f454c46tw2070488029_-1459019471/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717817190&from=5&ocs=2_2409:8087:2801:22:100::6d_80&hms_devid=377&online=1717817190&vqe=3
 金鹰卡通,http://[2409:8087:2801:22:100::81]/wh7f454c46tw2095584071_-1691756926/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717817215&from=5&ocs=2_2409:8087:2801:22:100::78_80&hms_devid=321&online=1717817215&vqe=3
 
-上海移动V6,#genre#
+海南移动2V6,#genre#
 12[785x576],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000012/index.m3u8?IAS
 11[785x576],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
 14[785x576],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000014/index.m3u8?IAS
