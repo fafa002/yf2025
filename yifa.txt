@@ -163,9 +163,11 @@ ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 ViuTV,http://histar.zapi.us.kg/?id=viutv
 
-易发出品,#genre#
+加入易发群,#genre#
 QQ交流群,
 572343636,
+永久免费,
+谨防被骗,
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
 重温经典,http://36.108.172.237:10005/stream/channelid/14506760
