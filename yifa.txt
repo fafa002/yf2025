@@ -458,7 +458,7 @@ AXW,http://8.137.59.151:99/fhtv/fenghuang.php?id=47
 爱尔达体育4,http://8.137.59.151:99/fhtv/fenghuang.php?id=75
 爱尔达影剧,http://8.137.59.151:99/fhtv/fenghuang.php?id=126
 
-四季台湾,#genre#
+(失效)四季台湾,#genre#
 民視台灣台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv001
 民視第一台,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv003
 TVBS HD,http://www.sv6-douyin-cloudfare.cloudns.ch/4gtv.php?key=7cf3d5ebf95f092bf6e4c2667458fa59&id=4gtv-4gtv073
