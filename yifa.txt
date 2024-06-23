@@ -320,7 +320,7 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
 TW 新闻,#genre#
-中天新闻,http://64.64.229.133:9000/live.m3u8?c=1
+中天 新闻,http://64.64.229.133:9000/live.m3u8?c=1
 中天新闻2,http://64.64.229.133:9000/live.m3u8?c=14
 TVBS新闻,http://64.64.229.133:9000/live.m3u8?c=2
 三立新闻,http://64.64.229.133:9000/live.m3u8?c=3
