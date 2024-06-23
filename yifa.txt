@@ -320,6 +320,22 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
 TW 新闻,#genre#
+CCTV4,http://shuma05.chunfengyun.top/live.m3u8?c=1
+凤凰卫视资讯台,http://shuma05.chunfengyun.top/live.m3u8?c=2
+中天亚洲台,http://shuma05.chunfengyun.top/live.m3u8?c=3
+台视新闻,http://shuma05.chunfengyun.top/live.m3u8?c=4
+TVBS新闻,http://shuma05.chunfengyun.top/live.m3u8?c=5
+中视新闻,http://shuma05.chunfengyun.top/live.m3u8?c=6
+中天新闻,http://shuma05.chunfengyun.top/live.m3u8?c=7
+公视新闻,http://shuma05.chunfengyun.top/live.m3u8?c=8
+东森新闻,http://shuma05.chunfengyun.top/live.m3u8?c=9
+镜新闻,http://shuma05.chunfengyun.top/live.m3u8?c=10
+民视新闻,http://shuma05.chunfengyun.top/live.m3u8?c=11
+三立新闻,http://shuma05.chunfengyun.top/live.m3u8?c=12
+华视新闻,http://shuma05.chunfengyun.top/live.m3u8?c=13
+东森财经新闻,http://shuma05.chunfengyun.top/live.m3u8?c=14
+CGTN Europe,http://shuma05.chunfengyun.top/live.m3u8?c=15
+
 CNA Live,http://kr2.otoou.com:8999/live.m3u8?c=2
 NASA,http://kr2.otoou.com:8999/live.m3u8?c=3
 半岛电视台,http://kr2.otoou.com:8999/live.m3u8?c=4
