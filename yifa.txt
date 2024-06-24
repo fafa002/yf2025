@@ -320,6 +320,7 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
 TW 新闻,#genre#
+限时中天新闻,http://ali.hlspull.yximgs.com/live/hei_ruan_ji_shu_yi_guo_duan_3_qun_zhong_tian.flv
 中天 新闻,http://64.64.229.133:9000/live.m3u8?c=1
 中天新闻2,http://64.64.229.133:9000/live.m3u8?c=14
 中天新 闻,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/8j108vcc/index.m3u8
