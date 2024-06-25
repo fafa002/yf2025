@@ -323,6 +323,7 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 TW 新闻,#genre#
 中天新 闻,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/8j108vcc/index.m3u8
 TVBS,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/qb4zc9s7/index.m3u8
+
 中天亚洲台,http://194.87.101.118/live.m3u8?c=3
 台视新闻,http://194.87.101.118/live.m3u8?c=4
 TVBS新闻,http://194.87.101.118/live.m3u8?c=5
@@ -337,6 +338,24 @@ TVBS新闻,http://194.87.101.118/live.m3u8?c=5
 东森财经新闻,http://194.87.101.118/live.m3u8?c=14
 CGTN Europe,http://194.87.101.118/live.m3u8?c=15
 
+中天亞洲台,http://154.201.73.159:8181/live.m3u8?c=1
+中天新聞,http://154.201.73.159:8181/live.m3u8?c=2
+寰宇新聞台,http://154.201.73.159:8181/live.m3u8?c=3
+中天新聞2,http://154.201.73.159:8181/live.m3u8?c=4
+台視新聞,http://154.201.73.159:8181/live.m3u8?c=5
+三立iNEWS,http://154.201.73.159:8181/live.m3u8?c=6
+三立iNEWS+,http://154.201.73.159:8181/live.m3u8?c=7
+LIVE三立,http://154.201.73.159:8181/live.m3u8?c=8
+TVBS HD,http://154.201.73.159:8181/live.m3u8?c=9
+TVBS新聞台,http://154.201.73.159:8181/live.m3u8?c=10
+東森LIVE,http://154.201.73.159:8181/live.m3u8?c=11
+東森財經新聞,http://154.201.73.159:8181/live.m3u8?c=12
+中視新聞,http://154.201.73.159:8181/live.m3u8?c=13
+民視新聞,http://154.201.73.159:8181/live.m3u8?c=14
+公視新聞,http://154.201.73.159:8181/live.m3u8?c=15
+鏡新聞,http://154.201.73.159:8181/live.m3u8?c=16
+鳳凰資訊,http://154.201.73.159:8181/live.m3u8?c=17
+華視新聞,http://154.201.73.159:8181/live.m3u8?c=18
 
 斯玛特,#genre#
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
