@@ -321,7 +321,7 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
 TW 新闻,#genre#
-中天新 闻,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/8j108vcc/index.m3u8
+中天 新 闻,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/8j108vcc/index.m3u8
 TVBS,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/qb4zc9s7/index.m3u8
 
 中天亚洲台,http://194.87.101.118/live.m3u8?c=3
