@@ -321,23 +321,22 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
 TW 新闻,#genre#
-中天 新闻,http://64.64.229.133:9000/live.m3u8?c=1
-中天新闻2,http://64.64.229.133:9000/live.m3u8?c=14
 中天新 闻,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/8j108vcc/index.m3u8
 TVBS,http://154.9.228.245:9969/dibo2.php/?url=/live/a9a5de21/qb4zc9s7/index.m3u8
-TVBS新闻,http://64.64.229.133:9000/live.m3u8?c=2
-三立新闻,http://64.64.229.133:9000/live.m3u8?c=3
-三立新闻,http://64.64.229.133:9000/live.m3u8?c=4
-中视新闻,http://64.64.229.133:9000/live.m3u8?c=5
-东森live,http://64.64.229.133:9000/live.m3u8?c=6
-寰宇新聞,http://64.64.229.133:9000/live.m3u8?c=7
-寰宇新聞-台湾,http://64.64.229.133:9000/live.m3u8?c=8
-三立LIVE,http://64.64.229.133:9000/live.m3u8?c=9
-民视新闻,http://64.64.229.133:9000/live.m3u8?c=10
-台视新闻,http://64.64.229.133:9000/live.m3u8?c=11
-公视新闻,http://64.64.229.133:9000/live.m3u8?c=12
-鏡新聞,http://64.64.229.133:9000/live.m3u8?c=13
-TVBS 55,http://64.64.229.133:9000/live.m3u8?c=15
+中天亚洲台,http://194.87.101.118/live.m3u8?c=3
+台视新闻,http://194.87.101.118/live.m3u8?c=4
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+中视新闻,http://194.87.101.118/live.m3u8?c=6
+中天新 闻,http://194.87.101.118/live.m3u8?c=7
+公视新闻,http://194.87.101.118/live.m3u8?c=8
+东森新闻,http://194.87.101.118/live.m3u8?c=9
+镜新闻,http://194.87.101.118/live.m3u8?c=10
+民视新闻,http://194.87.101.118/live.m3u8?c=11
+三立新闻,http://194.87.101.118/live.m3u8?c=12
+华视新闻,http://194.87.101.118/live.m3u8?c=13
+东森财经新闻,http://194.87.101.118/live.m3u8?c=14
+CGTN Europe,http://194.87.101.118/live.m3u8?c=15
+
 
 斯玛特,#genre#
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
