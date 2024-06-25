@@ -5029,6 +5029,19 @@ Nicktoons,https://stream01.vnet.am/Boomerang/mono.m3u8
 Телекафе,http://stream01.vnet.am/Telekafe/mono.m3u8
 
 马来西亚,#genre#
+TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+TV3,https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+NTV7,https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+8TV,https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+TV9,https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+TV Okey,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+Dewan Rakyat,https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+Dewan Negara,https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
 TV1,http://frhk.x3322.net:9099/stream/channelid/52190677?profile=pass
 TV2,http://frhk.x3322.net:9099/stream/channelid/1641822363?profile=pass
 TV3 HD,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
