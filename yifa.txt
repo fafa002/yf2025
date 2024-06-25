@@ -595,6 +595,7 @@ Now beIN SPORTS 1,http://www.wanjiatv.net/18tv.php?id=now-bein-sports1
 Now beIN SPORTS 2,http://www.wanjiatv.net/18tv.php?id=now-bein-sports2
 Now beIN SPORTS 3,http://www.wanjiatv.net/18tv.php?id=now-bein-sports3
 Now 668,http://www.wanjiatv.net/18tv.php?id=now-668
+Now 618,http://www.wanjiatv.net/18tv.php?id=now-618
 Now Golf 2,http://www.wanjiatv.net/18tv.php?id=now-golf2
 Now Golf 3,http://www.wanjiatv.net/18tv.php?id=now-golf3
 
