@@ -320,6 +320,17 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 無綫新聞台,http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
+HOY 資訊台,http://timmy789.x3322.net:9081/stream/channelid/987171374
+HOY TV,http://timmy789.x3322.net:9081/stream/channelid/1835359755
+HOY 國際財經台,http://timmy789.x3322.net:9081/stream/channelid/697969860
+翡翠台,http://timmy789.x3322.net:9081/stream/channelid/1454142845
+TVB Plus,http://timmy789.x3322.net:9081/stream/channelid/1311286247
+無綫新聞台,http://timmy789.x3322.net:9081/stream/channelid/1862455626
+明珠台,http://timmy789.x3322.net:9081/stream/channelid/1796821108
+鳳凰衛視香港台,http://timmy789.x3322.net:9081/stream/channelid/1536951158
+ViuTVsix,http://timmy789.x3322.net:9081/stream/channelid/340123997
+ViuTV,http://timmy789.x3322.net:9081/stream/channelid/48058524
+
 TW 新闻,#genre#
 中天亚洲台,http://194.87.101.118/live.m3u8?c=3
 台视新闻,http://194.87.101.118/live.m3u8?c=4
