@@ -201,7 +201,7 @@ NOW星影,http://121.40.63.193:81/now星影/香蕉哥专用.live.ts
 NOW爆谷,http://121.40.63.193:81/now爆谷/香蕉哥专用.live.ts
 TVB翡翠,http://121.40.63.193:81/tvb翡翠/香蕉哥专用.live.ts
 广电翡翠,http://121.40.63.193:81/广电翡翠/香蕉哥专用.live.flv
-中华MOD,http://121.40.63.193:81/中华MOD/香蕉哥专用.live.ts
+中华MOD,http://120.46.36.35:6080/中华MOD/香蕉哥专用-易發TV/hls.m3u8
 
 NOW星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
 NOW爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
