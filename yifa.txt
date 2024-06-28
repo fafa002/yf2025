@@ -119,8 +119,6 @@ for ya-蒋小呢,
 
 足球欧洲杯,#genre#
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
-Now 668,http://43.132.147.111:8899/views/dl/cibn/guinei-1efaff81147381aab56791b650d83dc0.php?id=now-668
-Now 618,http://43.132.147.111:8899/views/dl/cibn/guinei-1efaff81147381aab56791b650d83dc0.php?id=now-sports-618
 ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 
@@ -197,7 +195,6 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 河南卫视4K,http://123.101.98.187:2000/rtp/239.16.20.199:11990?$河南电信主力线
 河南卫视4K,http://219.156.188.59:8089/rtp/225.1.4.254:1300?$河南联通备线2
-
 
 港-澳-台,#genre#
 NOW星影,http://121.40.63.193:81/now星影/香蕉哥专用.live.ts
