@@ -198,7 +198,7 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 河南卫视4K,http://123.101.98.187:2000/rtp/239.16.20.199:11990?$河南电信主力线
 河南卫视4K,http://219.156.188.59:8089/rtp/225.1.4.254:1300?$河南联通备线2
 
-极速,#genre#
+极速港台,#genre#
 NOW星影,http://121.40.63.193:81/now星影/香蕉哥专用.live.ts
 NOW爆谷,http://121.40.63.193:81/now爆谷/香蕉哥专用.live.ts
 TVB翡翠,http://121.40.63.193:81/tvb翡翠/香蕉哥专用.live.ts
@@ -372,7 +372,7 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
-极速港台,#genre#
+今日影视,#genre#
 SonyPix,http://www.238311.top:2302/views/proxy/cibn/联强科技-03354823ee777307e606384c41a548b1.php?id=jZmXX2dOISonyPix
 POPC,http://www.238311.top:2302/views/proxy/cibn/联强科技-03354823ee777307e606384c41a548b1.php?id=jZmXX2dOIDPOPCHK
 翡翠台,http://www.238311.top:2302/views/proxy/cibn/联强科技-03354823ee777307e606384c41a548b1.php?id=fBO-XWiGF-OHvyM
