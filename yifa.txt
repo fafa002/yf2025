@@ -958,6 +958,25 @@ CETV-1,http://219.137.203.101:8081/hls/67/index.m3u8
 金鹰卡通,http://219.137.203.101:8081/hls/71/index.m3u8
 MTV,http://219.137.203.101:8081/hls/73/index.m3u8
 
+茂名酒店,#genre#
+广东卫视,http://61.146.224.42:8088/hls/1/index.m3u8
+广东珠江,http://61.146.224.42:8088/hls/2/index.m3u8
+广东新闻,http://61.146.224.42:8088/hls/3/index.m3u8
+广东公共,http://61.146.224.42:8088/hls/4/index.m3u8
+广东影视,http://61.146.224.42:8088/hls/9/index.m3u8
+广东少儿,http://61.146.224.42:8088/hls/10/index.m3u8
+CCTV-1,http://61.146.224.42:8088/hls/12/index.m3u8
+CCTV-2,http://61.146.224.42:8088/hls/13/index.m3u8
+CCTV-3,http://61.146.224.42:8088/hls/14/index.m3u8
+CCTV-4,http://61.146.224.42:8088/hls/15/index.m3u8
+CCTV-5,http://61.146.224.42:8088/hls/16/index.m3u8
+CCTV-6,http://61.146.224.42:8088/hls/17/index.m3u8
+CCTV-10,http://61.146.224.42:8088/hls/21/index.m3u8
+CCTV-11,http://61.146.224.42:8088/hls/22/index.m3u8
+CCTV-12,http://61.146.224.42:8088/hls/23/index.m3u8
+CCTV-13,http://61.146.224.42:8088/hls/24/index.m3u8
+CCTV-14,http://61.146.224.42:8088/hls/25/index.m3u8
+
 广西酒店,#genre#
 广东珠江,http://13457610200.8866.org:2018/live/粤语节目/index.m3u8
 广东珠江,http://13457610200.8866.org:2018/live/有线娱乐HD/index.m3u8
