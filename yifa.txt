@@ -233,6 +233,59 @@ TVB星河,http://117.114.153.1:8180/TV00000000000000000073@HHZT
 娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
+(勿信广告)极速港台,#genre#
+凤凰卫视中文台,http://8.137.59.151:3000/live.php?key=he&id=1
+凤凰卫视资讯台,http://8.137.59.151:3000/live.php?key=he&id=2
+凤凰卫视香港台,http://8.137.59.151:3000/live.php?key=he&id=3
+香港有线新闻台,http://8.137.59.151:3000/live.php?key=he&id=4
+HOY TV,http://8.137.59.151:3000/live.php?key=he&id=16
+HOY资讯台,http://8.137.59.151:3000/live.php?key=he&id=17
+TVB无线新闻台,http://8.137.59.151:3000/live.php?key=he&id=7
+TVB翡翠台,http://8.137.59.151:3000/live.php?key=he&id=8
+TVB明珠台,http://8.137.59.151:3000/live.php?key=he&id=9
+TVB Plus,http://8.137.59.151:3000/live.php?key=he&id=10
+TVB娱乐新闻台,http://8.137.59.151:3000/live.php?key=he&id=11
+TVB星河,http://8.137.59.151:3000/live.php?key=he&id=12
+香港有线18台,http://8.137.59.151:3000/live.php?key=he&id=5
+香港有线18台(普通话),http://8.137.59.151:3000/live.php?key=he&id=6
+NOW新闻台,http://8.137.59.151:3000/live.php?key=he&id=14
+香港国际财经台,http://8.137.59.151:3000/live.php?key=he&id=15
+港台电视31,http://8.137.59.151:3000/live.php?key=he&id=18
+港台电视32,http://8.137.59.151:3000/live.php?key=he&id=19
+ViuTV,http://8.137.59.151:3000/live.php?key=he&id=13
+民视,http://8.137.59.151:3000/live.php?key=he&id=34
+台视,http://8.137.59.151:3000/live.php?key=he&id=35
+中视,http://8.137.59.151:3000/live.php?key=he&id=36
+华视,http://8.137.59.151:3000/live.php?key=he&id=37
+TVBS HD,http://8.137.59.151:3000/live.php?key=he&id=38
+中天新闻台,http://8.137.59.151:3000/live.php?key=he&id=20
+东森新闻台,http://8.137.59.151:3000/live.php?key=he&id=21
+东森财经新闻台,http://8.137.59.151:3000/live.php?key=he&id=22
+寰宇新闻台,http://8.137.59.151:3000/live.php?key=he&id=23
+寰宇新闻台湾台,http://8.137.59.151:3000/live.php?key=he&id=24
+台视新闻台,http://8.137.59.151:3000/live.php?key=he&id=25
+中视新闻台,http://8.137.59.151:3000/live.php?key=he&id=26
+华视新闻台,http://8.137.59.151:3000/live.php?key=he&id=27
+TVBS新闻台,http://8.137.59.151:3000/live.php?key=he&id=28
+三立新闻台,http://8.137.59.151:3000/live.php?key=he&id=29
+三立iNEWS,http://8.137.59.151:3000/live.php?key=he&id=30
+镜电视新闻台,http://8.137.59.151:3000/live.php?key=he&id=31
+公视新闻,http://8.137.59.151:3000/live.php?key=he&id=32
+民视新闻台,http://8.137.59.151:3000/live.php?key=he&id=33
+TVBS欢乐台,http://8.137.59.151:3000/live.php?key=he&id=39
+中天亚洲台,http://8.137.59.151:3000/live.php?key=he&id=40
+纬来体育台,http://8.137.59.151:3000/live.php?key=he&id=41
+纬来日本台,http://8.137.59.151:3000/live.php?key=he&id=42
+纬来育乐台,http://8.137.59.151:3000/live.php?key=he&id=43
+ELEVEN 1,http://8.137.59.151:3000/live.php?key=he&id=44
+ELEVEN 2,http://8.137.59.151:3000/live.php?key=he&id=45
+爱尔达体育1台,http://8.137.59.151:3000/live.php?key=he&id=46
+爱尔达体育2台,http://8.137.59.151:3000/live.php?key=he&id=47
+爱尔达体育3台,http://8.137.59.151:3000/live.php?key=he&id=48
+MOMO综合台,http://8.137.59.151:3000/live.php?key=he&id=49
+东森超视,http://8.137.59.151:3000/live.php?key=he&id=50
+CNN新闻频道,http://8.137.59.151:3000/live.php?key=he&id=51
+
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 台视,rtmp://f13h.mine.nu/sat/tv071
