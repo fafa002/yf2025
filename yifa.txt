@@ -282,16 +282,16 @@ HOY 資訊台,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
 中央電視台綜合頻道（CCTV-1綜合),http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 
-明珠台,http://113.83.152.61:1935/bysid/2.m3u8
-TVB Plus,http://113.83.152.61:1935/bysid/82.m3u8
-無綫新聞台,http://113.83.152.61:1935/bysid/83.m3u8
-鳳凰衛視香港台,http://113.83.152.61:1935/bysid/85.m3u8
-翡翠台,http://113.83.152.61:1936/bysid/1.m3u8
-ViuTVsix,http://113.83.152.61:1936/bysid/96.m3u8
-ViuTV,http://113.83.152.61:1936/bysid/99.m3u8
-HOY 國際財經台,http://113.83.152.61:1935/bysid/76.m3u8
-HOY TV,http://113.83.152.61:1935/bysid/77.m3u8
-HOY 資訊台,http://113.83.152.61:1935/bysid/78.m3u8
+明珠台,http://113.83.152.58:8554/bysid/2.m3u8
+TVB Plus,http://113.83.152.58:8554/bysid/82.m3u8
+無綫新聞台,http://113.83.152.58:8554/bysid/83.m3u8
+鳳凰衛視香港台,http://113.83.152.58:8554/bysid/85.m3u8
+翡翠台,http://113.83.152.58:8555/bysid/1.m3u8
+ViuTVsix,http://113.83.152.58:8555/bysid/96.m3u8
+ViuTV,http://113.83.152.58:8555/bysid/99.m3u8
+HOY 國際財經台,http://113.83.152.58:8555/bysid/76.m3u8
+HOY TV,http://113.83.152.58:8555/bysid/77.m3u8
+HOY 資訊台,http://113.83.152.58:8555/bysid/78.m3u8
 
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
@@ -3950,6 +3950,48 @@ J2台,http://ha.hahomes.net:9988/stream/channelid/2095215043?ticket=6c32381f431d
 無綫財經 體育 資訊台,http://ha.hahomes.net:9988/stream/channelid/372029763?ticket=e77138407ccca6af48f97e00dbc8eb58fb0769f0&profile=pass
 ViuTVsix,http://ha.hahomes.net:9988/stream/channelid/240018592?ticket=4cc8233314417402248db1986820a12e2fb6355a&profile=pass
 ViuTV,http://ha.hahomes.net:9988/stream/channelid/1153374433?ticket=47bc82c9e17296a3bf733df7e846443356a75acb&profile=pass
+
+广西有线,#genre#
+CCTV1综合高清,http://rqd.mytvh.top:10291/stream/channelid/1863091369?ticket=af6dd20d03aea376d76ebb61f8ace60b19543413&profile=pass
+CCTV2财经高清,http://rqd.mytvh.top:10291/stream/channelid/1094303539?ticket=a9c4b6f516b017b793c5bb1d1fa68a85c196811c&profile=pass
+CCTV3综艺高清,http://rqd.mytvh.top:10291/stream/channelid/1489574550?ticket=c7c4507e295f2cf3fd29e1776f3068b8a1d43894&profile=pass
+CCTV2财经高清,http://rqd.mytvh.top:10291/stream/channelid/1094303539?ticket=a9c4b6f516b017b793c5bb1d1fa68a85c196811c&profile=pass
+CCTV4中文国际高清,http://rqd.mytvh.top:10291/stream/channelid/1004757644?ticket=3fc46d0dbf02501d0867e69f5fd38df76801be4e&profile=pass
+CCTV4中文国际高清,http://rqd.mytvh.top:10291/stream/channelid/1004757644?ticket=3fc46d0dbf02501d0867e69f5fd38df76801be4e&profile=pass
+CCTV5体育高清,http://rqd.mytvh.top:10291/stream/channelid/633530303?ticket=095d801f03d9169aaa431385774e283e09d194c0&profile=pass
+CCTV5体育高清,http://rqd.mytvh.top:10291/stream/channelid/633530303?ticket=095d801f03d9169aaa431385774e283e09d194c0&profile=pass
+CCTV6电影高清,http://rqd.mytvh.top:10291/stream/channelid/1353199490?ticket=fc212ac589b6aba2eefb00d7f8ff552830cd8e16&profile=pass
+CCTV7国防军事高清,http://rqd.mytvh.top:10291/stream/channelid/1547679402?ticket=ae75d88a3cb0d89082668c4835fc63cdd14f36ea&profile=pass
+CCTV8电视剧高清,http://rqd.mytvh.top:10291/stream/channelid/904062276?ticket=a509be492c461c2ec629f858e2e69b35d4fb9898&profile=pass
+CCTV9纪录高清,http://rqd.mytvh.top:10291/stream/channelid/356145826?ticket=377f29f5dcec21d948123229ffac9a148be39d0b&profile=pass
+CCTV9纪录高清,http://rqd.mytvh.top:10291/stream/channelid/356145826?ticket=377f29f5dcec21d948123229ffac9a148be39d0b&profile=pass
+CCTV10科教高清,http://rqd.mytvh.top:10291/stream/channelid/296310237?ticket=21104578a305f5950a1c195c411d24cdc4fe3b1d&profile=pass
+CCTV11戏曲高清,http://rqd.mytvh.top:10291/stream/channelid/871098497?ticket=123a25970758a2770e267228f09dff2bd3f37ff9&profile=pass
+CCTV12社会与法高清,http://rqd.mytvh.top:10291/stream/channelid/1588497407?ticket=d0b9510d12a84bb71ae0f690a40592e25f5bd865&profile=pass
+CCTV13新闻高清,http://rqd.mytvh.top:10291/stream/channelid/682846583?ticket=51bc84493990c0b8703ced98d37653a64faf15bb&profile=pass
+CCTV14少儿高清,http://rqd.mytvh.top:10291/stream/channelid/1031837868?ticket=68c8e1c9e70cf39b36b00ded3391bbb618ef4205&profile=pass
+CCTV15音乐高清,http://rqd.mytvh.top:10291/stream/channelid/1048977047?ticket=5b40e72224462f8b15d505d4ce5edccc33bccac5&profile=pass
+CCTV17农业农村高清,http://rqd.mytvh.top:10291/stream/channelid/403686768?ticket=b1480a491b0b593b430df08f143eb8ea4591fc32&profile=pass
+CHC动作电影高清,http://rqd.mytvh.top:10291/stream/channelid/701426452?ticket=3c005ce757aca7517c30a5c7e8996ad94e27ee5c&profile=pass
+CHC家庭影院高清,http://rqd.mytvh.top:10291/stream/channelid/754735596?ticket=d88f89354279a0e8f18897354076c3e5b1c3de8a&profile=pass
+CHC高清电影,http://rqd.mytvh.top:10291/stream/channelid/2129937130?ticket=5b498a2e4c5449cd72010d81b9253c846aed6d35&profile=pass
+东方卫视高清,http://rqd.mytvh.top:10291/stream/channelid/714259426?ticket=15c55951e28222070177dd520de3d86bc316cf18&profile=pass
+中国教育高清,http://rqd.mytvh.top:10291/stream/channelid/282996776?ticket=0b401f9431477b16e070ed40bdae8d36fcccf905&profile=pass
+北京卫视高清,http://rqd.mytvh.top:10291/stream/channelid/616119875?ticket=7eabe1fa8667537bdd61bb5cf19c3238d184aa59&profile=pass
+广东卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1443055312?ticket=06d4d55d7313746738a5713e015bb2e9da51a356&profile=pass
+广西卫视高清,http://rqd.mytvh.top:10291/stream/channelid/2004289260?ticket=35634d3b811a44f405b45119d9f545e630c16758&profile=pass
+广西影视高清,http://rqd.mytvh.top:10291/stream/channelid/1054345760?ticket=207f4aae757ceeb7b848629e465cea332e6695ed&profile=pass
+广西新闻高清,http://rqd.mytvh.top:10291/stream/channelid/828173314?ticket=259495afaa1b6a5d9404a1d16cd64aee60040de2&profile=pass
+广西综艺高清,http://rqd.mytvh.top:10291/stream/channelid/51020652?ticket=5f096ad4451a5996884aef81c3688449431bc30c&profile=pass
+广西都市高清,http://rqd.mytvh.top:10291/stream/channelid/991345033?ticket=90ff7ebdb2c5ce2ea63a43cc7eb2ad8881012564&profile=pass
+江苏卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1728300757?ticket=ed65ec6ac25116da3bf7ba56ddef415ee4c4eac0&profile=pass
+江西卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1989120761?ticket=7ef896116ff274f4f3097de980497c0825856877&profile=pass
+浙江卫视高清,http://rqd.mytvh.top:10291/stream/channelid/2039311817?ticket=c916802a240d5d0426286002616e254ec6addf88&profile=pass
+深圳卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1039159189?ticket=29c2e0128d3d1636316a4fb0a06e47ebf4164b34&profile=pass
+湖南卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1538257676?ticket=d62f893309a1edfcf996249a91c683e5f125a03a&profile=pass
+甘肃卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1449082850?ticket=08020b66b4ff53b444c8822493220f7582ff8fbd&profile=pass
+桂林新闻,http://rqd.mytvh.top:10291/stream/channelid/832841934?ticket=da9a6bbe02dad298e83ab1f0c1e668ba4afa2c5c&profile=pass
+爱上4K,http://rqd.mytvh.top:10291/stream/channelid/1223012783?ticket=69111af4c08b7f0946fcddfece1965a9b0e119f4&profile=pass
 
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
