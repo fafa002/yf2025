@@ -273,231 +273,178 @@ CINEMAX,http://156.238.230.135:8888/channel/n3b145cc7/index.m3u8?q=fd33f3a0246f9
 东森超视,http://156.238.230.135:8888/channel/n5cc27fbf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
 
 极速港台2,#genre#
-凤凰卫视中文台,http://8.137.59.151:3000/live.php?key=he&id=1
-凤凰卫视资讯台,http://8.137.59.151:3000/live.php?key=he&id=2
-凤凰卫视香港台,http://8.137.59.151:3000/live.php?key=he&id=3
-香港有线新闻台,http://8.137.59.151:3000/live.php?key=he&id=4
-HOY TV,http://8.137.59.151:3000/live.php?key=he&id=16
-HOY资讯台,http://8.137.59.151:3000/live.php?key=he&id=17
-TVB无线新闻台,http://8.137.59.151:3000/live.php?key=he&id=7
-TVB翡翠台,http://8.137.59.151:3000/live.php?key=he&id=8
-TVB明珠台,http://8.137.59.151:3000/live.php?key=he&id=9
-TVB Plus,http://8.137.59.151:3000/live.php?key=he&id=10
-TVB娱乐新闻台,http://8.137.59.151:3000/live.php?key=he&id=11
-TVB星河,http://8.137.59.151:3000/live.php?key=he&id=12
-香港有线18台,http://8.137.59.151:3000/live.php?key=he&id=5
-香港有线18台(普通话),http://8.137.59.151:3000/live.php?key=he&id=6
-NOW新闻台,http://8.137.59.151:3000/live.php?key=he&id=14
-香港国际财经台,http://8.137.59.151:3000/live.php?key=he&id=15
-港台电视31,http://8.137.59.151:3000/live.php?key=he&id=18
-港台电视32,http://8.137.59.151:3000/live.php?key=he&id=19
-ViuTV,http://8.137.59.151:3000/live.php?key=he&id=13
-民视,http://8.137.59.151:3000/live.php?key=he&id=34
-台视,http://8.137.59.151:3000/live.php?key=he&id=35
-中视,http://8.137.59.151:3000/live.php?key=he&id=36
-华视,http://8.137.59.151:3000/live.php?key=he&id=37
-TVBS HD,http://8.137.59.151:3000/live.php?key=he&id=38
-中天新闻台,http://8.137.59.151:3000/live.php?key=he&id=20
-东森新闻台,http://8.137.59.151:3000/live.php?key=he&id=21
-东森财经新闻台,http://8.137.59.151:3000/live.php?key=he&id=22
-寰宇新闻台,http://8.137.59.151:3000/live.php?key=he&id=23
-寰宇新闻台湾台,http://8.137.59.151:3000/live.php?key=he&id=24
-台视新闻台,http://8.137.59.151:3000/live.php?key=he&id=25
-中视新闻台,http://8.137.59.151:3000/live.php?key=he&id=26
-华视新闻台,http://8.137.59.151:3000/live.php?key=he&id=27
-TVBS新闻台,http://8.137.59.151:3000/live.php?key=he&id=28
-三立新闻台,http://8.137.59.151:3000/live.php?key=he&id=29
-三立iNEWS,http://8.137.59.151:3000/live.php?key=he&id=30
-镜电视新闻台,http://8.137.59.151:3000/live.php?key=he&id=31
-公视新闻,http://8.137.59.151:3000/live.php?key=he&id=32
-民视新闻台,http://8.137.59.151:3000/live.php?key=he&id=33
-TVBS欢乐台,http://8.137.59.151:3000/live.php?key=he&id=39
-中天亚洲台,http://8.137.59.151:3000/live.php?key=he&id=40
-纬来体育台,http://8.137.59.151:3000/live.php?key=he&id=41
-纬来日本台,http://8.137.59.151:3000/live.php?key=he&id=42
-纬来育乐台,http://8.137.59.151:3000/live.php?key=he&id=43
-ELEVEN 1,http://8.137.59.151:3000/live.php?key=he&id=44
-ELEVEN 2,http://8.137.59.151:3000/live.php?key=he&id=45
-爱尔达体育1台,http://8.137.59.151:3000/live.php?key=he&id=46
-爱尔达体育2台,http://8.137.59.151:3000/live.php?key=he&id=47
-爱尔达体育3台,http://8.137.59.151:3000/live.php?key=he&id=48
-MOMO综合台,http://8.137.59.151:3000/live.php?key=he&id=49
-东森超视,http://8.137.59.151:3000/live.php?key=he&id=50
-CNN新闻频道,http://8.137.59.151:3000/live.php?key=he&id=51
-
-极速港台3,#genre#
-凤凰中文台,http://110.185.171.226:96/yximgs.php?id=182
-凤凰资讯台,http://110.185.171.226:96/yximgs.php?id=183
-凤凰香港台,http://110.185.171.226:96/yximgs.php?id=184
-TVB翡翠台,http://110.185.171.226:96/yximgs.php?id=2
-TVB明珠台,http://110.185.171.226:96/yximgs.php?id=3
-TVB J2,http://110.185.171.226:96/yximgs.php?id=5
-TVB星河台,http://110.185.171.226:96/yximgs.php?id=4
-TVB粤语片,http://110.185.171.226:96/yximgs.php?id=6
-TVB经典剧,http://110.185.171.226:96/yximgs.php?id=7
-TVB亚洲剧,http://110.185.171.226:96/yximgs.php?id=8
-TVB华剧台,http://110.185.171.226:96/yximgs.php?id=24
-港版美亚电影,http://110.185.171.226:96/yximgs.php?id=9
-TVB娱乐新闻,http://110.185.171.226:96/yximgs.php?id=10
-TVB黄金翡翠,http://110.185.171.226:96/yximgs.php?id=11
-TVB千禧经典,http://110.185.171.226:96/yximgs.php?id=198
-TVB功夫台,http://110.185.171.226:96/yximgs.php?id=12
-Now爆谷台,http://110.185.171.226:96/yximgs.php?id=187
-Now星影台,http://110.185.171.226:96/yximgs.php?id=186
-无线新闻台,http://110.185.171.226:96/yximgs.php?id=13
-无线财经台,http://110.185.171.226:96/yximgs.php?id=14
-港台RHK31,http://110.185.171.226:96/yximgs.php?id=29
-港台RHK32,http://110.185.171.226:96/yximgs.php?id=30
-HOY TV,http://110.185.171.226:96/yximgs.php?id=1
-HOY资讯台,http://110.185.171.226:96/yximgs.php?id=15
-国际财经台,http://110.185.171.226:96/yximgs.php?id=16
-澳门莲花台,http://110.185.171.226:96/yximgs.php?id=17
-18 跑马台,http://110.185.171.226:96/yximgs.php?id=18
-ViU TV,http://110.185.171.226:96/yximgs.php?id=193
-VIU TV,http://110.185.171.226:96/yximgs.php?id=19
-VIU6TV,http://110.185.171.226:96/yximgs.php?id=20
-Now新闻台,http://110.185.171.226:96/yximgs.php?id=21
-Now财经台,http://110.185.171.226:96/yximgs.php?id=23
-Now英超台,http://110.185.171.226:96/yximgs.php?id=22
-Now Golf 2,http://110.185.171.226:96/yximgs.php?id=28
-Now体育台,http://110.185.171.226:96/yximgs.php?id=195
-NowSPORTS7,http://110.185.171.226:96/yximgs.php?id=197
-Hands UP,http://110.185.171.226:96/yximgs.php?id=25
-SKY体育台,http://110.185.171.226:96/yximgs.php?id=196
-民视HD,http://110.185.171.226:96/yximgs.php?id=36
-中视HD,http://110.185.171.226:96/yximgs.php?id=35
-华视HD,http://110.185.171.226:96/yximgs.php?id=38
-公视HD,http://110.185.171.226:96/yximgs.php?id=39
-公视3HD,http://110.185.171.226:96/yximgs.php?id=199
-三立综合台,http://110.185.171.226:96/yximgs.php?id=46
-三立台湾台,http://110.185.171.226:96/yximgs.php?id=44
-三立戏剧台,http://110.185.171.226:96/yximgs.php?id=47
-三立都会台,http://110.185.171.226:96/yximgs.php?id=26
-八大第一台,http://110.185.171.226:96/yximgs.php?id=40
-八大综合台,http://110.185.171.226:96/yximgs.php?id=41
-八大戏剧台,http://110.185.171.226:96/yximgs.php?id=42
-八大精彩台,http://110.185.171.226:96/yximgs.php?id=43
-中天娱乐台,http://110.185.171.226:96/yximgs.php?id=32
-中天综合台,http://110.185.171.226:96/yximgs.php?id=33
-民视第一台,http://110.185.171.226:96/yximgs.php?id=45
-民视第一台,http://110.185.171.226:96/yximgs.php?id=45
-民视第一台,http://110.185.171.226:96/yximgs.php?id=45
-民视台湾台,http://110.185.171.226:96/yximgs.php?id=37
-东森综合台,http://110.185.171.226:96/yximgs.php?id=48
-东森超视台,http://110.185.171.226:96/yximgs.php?id=49
-龙华偶像台,http://110.185.171.226:96/yximgs.php?id=52
-纬来体育台,http://110.185.171.226:96/yximgs.php?id=58
-纬来日本台,http://110.185.171.226:96/yximgs.php?id=54
-靖天国际台,http://110.185.171.226:96/yximgs.php?id=53
-靖天卡通台,http://110.185.171.226:96/yximgs.php?id=55
-爱尔达影剧,http://110.185.171.226:96/yximgs.php?id=57
-TVBS欢乐台,http://110.185.171.226:96/yximgs.php?id=31
-东森YOYO,http://110.185.171.226:96/yximgs.php?id=191
-CN卡通台,http://110.185.171.226:96/yximgs.php?id=185
-TVBS HD,http://110.185.171.226:96/yximgs.php?id=140
-TVBS新闻台,http://110.185.171.226:96/yximgs.php?id=139
-中天新闻台,http://110.185.171.226:96/yximgs.php?id=141
-中天新闻 2,http://110.185.171.226:96/yximgs.php?id=142
-中视新闻台,http://110.185.171.226:96/yximgs.php?id=143
-民视新闻台,http://110.185.171.226:96/yximgs.php?id=144
-东森新闻台,http://110.185.171.226:96/yximgs.php?id=145
-东森财经台,http://110.185.171.226:96/yximgs.php?id=146
-环宇新闻台,http://110.185.171.226:96/yximgs.php?id=147
-台视新闻台,http://110.185.171.226:96/yximgs.php?id=148
-壹新闻电视,http://110.185.171.226:96/yximgs.php?id=149
-亚洲国际台,http://110.185.171.226:96/yximgs.php?id=150
-三立LIVE台,http://110.185.171.226:96/yximgs.php?id=151
-镜视新闻台,http://110.185.171.226:96/yximgs.php?id=152
-华视新闻台,http://110.185.171.226:96/yximgs.php?id=153
-非凡新闻台,http://110.185.171.226:96/yximgs.php?id=154
-年代新闻台,http://110.185.171.226:96/yximgs.php?id=155
-CBS新闻台,http://110.185.171.226:96/yximgs.php?id=156
-ABC新闻台,http://110.185.171.226:96/yximgs.php?id=157
-环宇台湾台,http://110.185.171.226:96/yximgs.php?id=158
-SBC新闻台,http://110.185.171.226:96/yximgs.php?id=159
-DW,http://110.185.171.226:96/yximgs.php?id=160
-CNN新闻台,http://110.185.171.226:96/yximgs.php?id=161
-CNBC新闻,http://110.185.171.226:96/yximgs.php?id=162
-BBC新闻台,http://110.185.171.226:96/yximgs.php?id=163
-LIVE新闻台,http://110.185.171.226:96/yximgs.php?id=164
-CGTN新闻,http://110.185.171.226:96/yximgs.php?id=165
-纬来电影台,http://110.185.171.226:96/yximgs.php?id=103
-东森电影台,http://110.185.171.226:96/yximgs.php?id=104
-东森洋片台,http://110.185.171.226:96/yximgs.php?id=105
-东森戏剧台,http://110.185.171.226:96/yximgs.php?id=106
-好莱坞电影,http://110.185.171.226:96/yximgs.php?id=100
-龙华洋片台,http://110.185.171.226:96/yximgs.php?id=107
-龙祥电影台,http://110.185.171.226:96/yximgs.php?id=108
-卫视中文台,http://110.185.171.226:96/yximgs.php?id=109
-天映频道,http://110.185.171.226:96/yximgs.php?id=110
-天映经典,http://110.185.171.226:96/yximgs.php?id=111
-星卫电影台,http://110.185.171.226:96/yximgs.php?id=112
-美亚电影台,http://110.185.171.226:96/yximgs.php?id=113
-卫视电影台,http://110.185.171.226:96/yximgs.php?id=114
-HBO HD,http://110.185.171.226:96/yximgs.php?id=96
-HBO lgnature,http://110.185.171.226:96/yximgs.php?id=97
-HBO HiTS,http://110.185.171.226:96/yximgs.php?id=98
-HBO famlly,http://110.185.171.226:96/yximgs.php?id=99
-CINEMAX,http://110.185.171.226:96/yximgs.php?id=101
-AXN,http://110.185.171.226:96/yximgs.php?id=102
-Sony Pix HD,http://110.185.171.226:96/yximgs.php?id=115
-BOO,http://110.185.171.226:96/yximgs.php?id=117
-KIX,http://110.185.171.226:96/yximgs.php?id=118
-华纳电影,http://110.185.171.226:96/yximgs.php?id=119
-One,http://110.185.171.226:96/yximgs.php?id=120
-Thrill,http://110.185.171.226:96/yximgs.php?id=121
-Hits Movie,http://110.185.171.226:96/yximgs.php?id=122
-tvN Movie,http://110.185.171.226:96/yximgs.php?id=123
-astro AEC,http://110.185.171.226:96/yximgs.php?id=175
-astro 全佳,http://110.185.171.226:96/yximgs.php?id=176
-astro 小太阳,http://110.185.171.226:96/yximgs.php?id=177
-astro 华丽台,http://110.185.171.226:96/yximgs.php?id=178
-astro AOD,http://110.185.171.226:96/yximgs.php?id=179
-astro 爱奇艺,http://110.185.171.226:96/yximgs.php?id=180
-astro ARENA,http://110.185.171.226:96/yximgs.php?id=83
-astro MUtv,http://110.185.171.226:96/yximgs.php?id=192
-国家地理,http://110.185.171.226:96/yximgs.php?id=124
-国家地理野生,http://110.185.171.226:96/yximgs.php?id=125
-动物星球,http://110.185.171.226:96/yximgs.php?id=127
-ofn,http://110.185.171.226:96/yximgs.php?id=128
-探索频道,http://110.185.171.226:96/yximgs.php?id=130
-亚洲旅游台,http://110.185.171.226:96/yximgs.php?id=131
-TLC,http://110.185.171.226:96/yximgs.php?id=133
-BBC Earth Lifestyle,http://110.185.171.226:96/yximgs.php?id=135
-History,http://110.185.171.226:96/yximgs.php?id=136
-lifestyle,http://110.185.171.226:96/yximgs.php?id=137
-golf,http://110.185.171.226:96/yximgs.php?id=173
-ELTA体育 1,http://110.185.171.226:96/yximgs.php?id=188
-ELTA体育 2,http://110.185.171.226:96/yximgs.php?id=189
-ELTA体育 3,http://110.185.171.226:96/yximgs.php?id=190
-ELEVEN体育1,http://110.185.171.226:96/yximgs.php?id=59
-ELEVEN体育2,http://110.185.171.226:96/yximgs.php?id=60
-博斯运动2,http://110.185.171.226:96/yximgs.php?id=62
-博斯高球1,http://110.185.171.226:96/yximgs.php?id=63
-博斯高球2,http://110.185.171.226:96/yximgs.php?id=64
-博斯网球,http://110.185.171.226:96/yximgs.php?id=65
-博斯无限2,http://110.185.171.226:96/yximgs.php?id=89
-Sony Ten 1,http://110.185.171.226:96/yximgs.php?id=66
-Sony Ten 2,http://110.185.171.226:96/yximgs.php?id=67
-Sony Ten 3,http://110.185.171.226:96/yximgs.php?id=68
-Sony Ten 4,http://110.185.171.226:96/yximgs.php?id=77
-Eurosports1,http://110.185.171.226:96/yximgs.php?id=70
-Eurosports2,http://110.185.171.226:96/yximgs.php?id=71
-Eurosports3,http://110.185.171.226:96/yximgs.php?id=72
-Eurosports4,http://110.185.171.226:96/yximgs.php?id=73
-Eurosports5,http://110.185.171.226:96/yximgs.php?id=84
-GOLF,http://110.185.171.226:96/yximgs.php?id=78
-BT Sports 1,http://110.185.171.226:96/yximgs.php?id=80
-BT Sports 2,http://110.185.171.226:96/yximgs.php?id=81
-BT Sports 3,http://110.185.171.226:96/yximgs.php?id=82
-BT Sports 4,http://110.185.171.226:96/yximgs.php?id=85
-BT Sports 5,http://110.185.171.226:96/yximgs.php?id=87
-ESPR2,http://110.185.171.226:96/yximgs.php?id=90
-ESPR3,http://110.185.171.226:96/yximgs.php?id=91
-SPORTSNET,http://110.185.171.226:96/yximgs.php?id=92
-ESPR4,http://110.185.171.226:96/yximgs.php?id=93
-ESPR5,http://110.185.171.226:96/yximgs.php?id=94
-ESPR6,http://110.185.171.226:96/yximgs.php?id=95
+凤凰中文台,http://dl.yidiandian.online/11.php?id=182
+凤凰资讯台,http://dl.yidiandian.online/11.php?id=183
+凤凰香港台,http://dl.yidiandian.online/11.php?id=184
+TVB翡翠台,http://dl.yidiandian.online/11.php?id=2
+TVB明珠台,http://dl.yidiandian.online/11.php?id=3
+TVB J2,http://dl.yidiandian.online/11.php?id=5
+TVB星河台,http://dl.yidiandian.online/11.php?id=4
+TVB粤语片,http://dl.yidiandian.online/11.php?id=6
+TVB经典剧,http://dl.yidiandian.online/11.php?id=7
+TVB亚洲剧,http://dl.yidiandian.online/11.php?id=8
+TVB华剧台,http://dl.yidiandian.online/11.php?id=24
+港版美亚电影,http://dl.yidiandian.online/11.php?id=9
+TVB娱乐新闻,http://dl.yidiandian.online/11.php?id=10
+TVB黄金翡翠,http://dl.yidiandian.online/11.php?id=11
+TVB千禧经典,http://dl.yidiandian.online/11.php?id=198
+TVB功夫台,http://dl.yidiandian.online/11.php?id=12
+Now爆谷台,http://dl.yidiandian.online/11.php?id=187
+Now星影台,http://dl.yidiandian.online/11.php?id=186
+无线新闻台,http://dl.yidiandian.online/11.php?id=13
+无线财经台,http://dl.yidiandian.online/11.php?id=14
+港台RHK31,http://dl.yidiandian.online/11.php?id=29
+港台RHK32,http://dl.yidiandian.online/11.php?id=30
+HOY TV,http://dl.yidiandian.online/11.php?id=1
+HOY资讯台,http://dl.yidiandian.online/11.php?id=15
+国际财经台,http://dl.yidiandian.online/11.php?id=16
+澳门莲花台,http://dl.yidiandian.online/11.php?id=17
+18 跑马台,http://dl.yidiandian.online/11.php?id=18
+ViU TV,http://dl.yidiandian.online/11.php?id=193
+VIU TV,http://dl.yidiandian.online/11.php?id=19
+VIU6TV,http://dl.yidiandian.online/11.php?id=20
+Now新闻台,http://dl.yidiandian.online/11.php?id=21
+Now财经台,http://dl.yidiandian.online/11.php?id=23
+Now英超台,http://dl.yidiandian.online/11.php?id=22
+Now Golf 2,http://dl.yidiandian.online/11.php?id=28
+Now体育台,http://dl.yidiandian.online/11.php?id=195
+NowSPORTS7,http://dl.yidiandian.online/11.php?id=197
+Hands UP,http://dl.yidiandian.online/11.php?id=25
+SKY体育台,http://dl.yidiandian.online/11.php?id=196
+民视HD,http://dl.yidiandian.online/11.php?id=36
+中视HD,http://dl.yidiandian.online/11.php?id=35
+华视HD,http://dl.yidiandian.online/11.php?id=38
+公视HD,http://dl.yidiandian.online/11.php?id=39
+公视3HD,http://dl.yidiandian.online/11.php?id=199
+三立综合台,http://dl.yidiandian.online/11.php?id=46
+三立台湾台,http://dl.yidiandian.online/11.php?id=44
+三立戏剧台,http://dl.yidiandian.online/11.php?id=47
+三立都会台,http://dl.yidiandian.online/11.php?id=26
+八大第一台,http://dl.yidiandian.online/11.php?id=40
+八大综合台,http://dl.yidiandian.online/11.php?id=41
+八大戏剧台,http://dl.yidiandian.online/11.php?id=42
+八大精彩台,http://dl.yidiandian.online/11.php?id=43
+中天娱乐台,http://dl.yidiandian.online/11.php?id=32
+中天综合台,http://dl.yidiandian.online/11.php?id=33
+民视第一台,http://dl.yidiandian.online/11.php?id=45
+民视第一台,http://dl.yidiandian.online/11.php?id=45
+民视第一台,http://dl.yidiandian.online/11.php?id=45
+民视台湾台,http://dl.yidiandian.online/11.php?id=37
+东森综合台,http://dl.yidiandian.online/11.php?id=48
+东森超视台,http://dl.yidiandian.online/11.php?id=49
+龙华偶像台,http://dl.yidiandian.online/11.php?id=52
+纬来体育台,http://dl.yidiandian.online/11.php?id=58
+纬来日本台,http://dl.yidiandian.online/11.php?id=54
+靖天国际台,http://dl.yidiandian.online/11.php?id=53
+靖天卡通台,http://dl.yidiandian.online/11.php?id=55
+爱尔达影剧,http://dl.yidiandian.online/11.php?id=57
+TVBS欢乐台,http://dl.yidiandian.online/11.php?id=31
+东森YOYO,http://dl.yidiandian.online/11.php?id=191
+CN卡通台,http://dl.yidiandian.online/11.php?id=185
+TVBS HD,http://dl.yidiandian.online/11.php?id=140
+TVBS新闻台,http://dl.yidiandian.online/11.php?id=139
+中天新闻台,http://dl.yidiandian.online/11.php?id=141
+中天新闻 2,http://dl.yidiandian.online/11.php?id=142
+中视新闻台,http://dl.yidiandian.online/11.php?id=143
+民视新闻台,http://dl.yidiandian.online/11.php?id=144
+东森新闻台,http://dl.yidiandian.online/11.php?id=145
+东森财经台,http://dl.yidiandian.online/11.php?id=146
+环宇新闻台,http://dl.yidiandian.online/11.php?id=147
+台视新闻台,http://dl.yidiandian.online/11.php?id=148
+壹新闻电视,http://dl.yidiandian.online/11.php?id=149
+亚洲国际台,http://dl.yidiandian.online/11.php?id=150
+三立LIVE台,http://dl.yidiandian.online/11.php?id=151
+镜视新闻台,http://dl.yidiandian.online/11.php?id=152
+华视新闻台,http://dl.yidiandian.online/11.php?id=153
+非凡新闻台,http://dl.yidiandian.online/11.php?id=154
+年代新闻台,http://dl.yidiandian.online/11.php?id=155
+CBS新闻台,http://dl.yidiandian.online/11.php?id=156
+ABC新闻台,http://dl.yidiandian.online/11.php?id=157
+环宇台湾台,http://dl.yidiandian.online/11.php?id=158
+SBC新闻台,http://dl.yidiandian.online/11.php?id=159
+DW,http://dl.yidiandian.online/11.php?id=160
+CNN新闻台,http://dl.yidiandian.online/11.php?id=161
+CNBC新闻,http://dl.yidiandian.online/11.php?id=162
+BBC新闻台,http://dl.yidiandian.online/11.php?id=163
+LIVE新闻台,http://dl.yidiandian.online/11.php?id=164
+CGTN新闻,http://dl.yidiandian.online/11.php?id=165
+纬来电影台,http://dl.yidiandian.online/11.php?id=103
+东森电影台,http://dl.yidiandian.online/11.php?id=104
+东森洋片台,http://dl.yidiandian.online/11.php?id=105
+东森戏剧台,http://dl.yidiandian.online/11.php?id=106
+好莱坞电影,http://dl.yidiandian.online/11.php?id=100
+龙华洋片台,http://dl.yidiandian.online/11.php?id=107
+龙祥电影台,http://dl.yidiandian.online/11.php?id=108
+卫视中文台,http://dl.yidiandian.online/11.php?id=109
+天映频道,http://dl.yidiandian.online/11.php?id=110
+天映经典,http://dl.yidiandian.online/11.php?id=111
+星卫电影台,http://dl.yidiandian.online/11.php?id=112
+美亚电影台,http://dl.yidiandian.online/11.php?id=113
+卫视电影台,http://dl.yidiandian.online/11.php?id=114
+HBO HD,http://dl.yidiandian.online/11.php?id=96
+HBO lgnature,http://dl.yidiandian.online/11.php?id=97
+HBO HiTS,http://dl.yidiandian.online/11.php?id=98
+HBO famlly,http://dl.yidiandian.online/11.php?id=99
+CINEMAX,http://dl.yidiandian.online/11.php?id=101
+AXN,http://dl.yidiandian.online/11.php?id=102
+Sony Pix HD,http://dl.yidiandian.online/11.php?id=115
+BOO,http://dl.yidiandian.online/11.php?id=117
+KIX,http://dl.yidiandian.online/11.php?id=118
+华纳电影,http://dl.yidiandian.online/11.php?id=119
+One,http://dl.yidiandian.online/11.php?id=120
+Thrill,http://dl.yidiandian.online/11.php?id=121
+Hits Movie,http://dl.yidiandian.online/11.php?id=122
+tvN Movie,http://dl.yidiandian.online/11.php?id=123
+astro AEC,http://dl.yidiandian.online/11.php?id=175
+astro 全佳,http://dl.yidiandian.online/11.php?id=176
+astro 小太阳,http://dl.yidiandian.online/11.php?id=177
+astro 华丽台,http://dl.yidiandian.online/11.php?id=178
+astro AOD,http://dl.yidiandian.online/11.php?id=179
+astro 爱奇艺,http://dl.yidiandian.online/11.php?id=180
+astro ARENA,http://dl.yidiandian.online/11.php?id=83
+astro MUtv,http://dl.yidiandian.online/11.php?id=192
+国家地理,http://dl.yidiandian.online/11.php?id=124
+国家地理野生,http://dl.yidiandian.online/11.php?id=125
+动物星球,http://dl.yidiandian.online/11.php?id=127
+ofn,http://dl.yidiandian.online/11.php?id=128
+探索频道,http://dl.yidiandian.online/11.php?id=130
+亚洲旅游台,http://dl.yidiandian.online/11.php?id=131
+TLC,http://dl.yidiandian.online/11.php?id=133
+BBC Earth Lifestyle,http://dl.yidiandian.online/11.php?id=135
+History,http://dl.yidiandian.online/11.php?id=136
+lifestyle,http://dl.yidiandian.online/11.php?id=137
+golf,http://dl.yidiandian.online/11.php?id=173
+ELTA体育 1,http://dl.yidiandian.online/11.php?id=188
+ELTA体育 2,http://dl.yidiandian.online/11.php?id=189
+ELTA体育 3,http://dl.yidiandian.online/11.php?id=190
+ELEVEN体育1,http://dl.yidiandian.online/11.php?id=59
+ELEVEN体育2,http://dl.yidiandian.online/11.php?id=60
+博斯运动2,http://dl.yidiandian.online/11.php?id=62
+博斯高球1,http://dl.yidiandian.online/11.php?id=63
+博斯高球2,http://dl.yidiandian.online/11.php?id=64
+博斯网球,http://dl.yidiandian.online/11.php?id=65
+博斯无限2,http://dl.yidiandian.online/11.php?id=89
+Sony Ten 1,http://dl.yidiandian.online/11.php?id=66
+Sony Ten 2,http://dl.yidiandian.online/11.php?id=67
+Sony Ten 3,http://dl.yidiandian.online/11.php?id=68
+Sony Ten 4,http://dl.yidiandian.online/11.php?id=77
+Eurosports1,http://dl.yidiandian.online/11.php?id=70
+Eurosports2,http://dl.yidiandian.online/11.php?id=71
+Eurosports3,http://dl.yidiandian.online/11.php?id=72
+Eurosports4,http://dl.yidiandian.online/11.php?id=73
+Eurosports5,http://dl.yidiandian.online/11.php?id=84
+GOLF,http://dl.yidiandian.online/11.php?id=78
+BT Sports 1,http://dl.yidiandian.online/11.php?id=80
+BT Sports 2,http://dl.yidiandian.online/11.php?id=81
+BT Sports 3,http://dl.yidiandian.online/11.php?id=82
+BT Sports 4,http://dl.yidiandian.online/11.php?id=85
+BT Sports 5,http://dl.yidiandian.online/11.php?id=87
+ESPR2,http://dl.yidiandian.online/11.php?id=90
+ESPR3,http://dl.yidiandian.online/11.php?id=91
+SPORTSNET,http://dl.yidiandian.online/11.php?id=92
+ESPR4,http://dl.yidiandian.online/11.php?id=93
+ESPR5,http://dl.yidiandian.online/11.php?id=94
+ESPR6,http://dl.yidiandian.online/11.php?id=95
 
 HK DTMB,#genre#
 翡翠台,http://m.glx008.com:8000/bysid/1.m3u8
