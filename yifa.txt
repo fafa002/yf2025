@@ -209,14 +209,10 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 河南卫视4K,http://219.156.188.59:8089/rtp/225.1.4.254:1300?$河南联通备线2
 
 极速港台,#genre#
-NOW星影,http://121.40.63.193:81/now星影/香蕉哥专用.live.ts
-NOW爆谷,http://121.40.63.193:81/now爆谷/香蕉哥专用.live.ts
-TVB翡翠,http://121.40.63.193:81/tvb翡翠/香蕉哥专用.live.ts
-广电翡翠,http://121.40.63.193:81/广电翡翠/香蕉哥专用.live.flv
-
-NOW星影,http://111.160.76.101:80/香蕉哥/now星影.live.flv
-NOW爆谷,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
-TVB翡翠,http://111.160.76.101:80/香蕉哥/tvb翡翠.live.flv
+NOW星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
+NOW爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
+TVB翡翠,http://60.208.140.180:5544/tvb翡翠/香蕉哥专用-易發TV.live.flv
+TVB翡翠2,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
 
 TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
@@ -412,7 +408,6 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 
 TW 新闻,#genre#
 中天新闻,http://60.208.140.180:5544/中天新闻/香蕉哥专用-易發TV.live.flv
-中天新闻,http://122.112.192.218:80/中天新闻/香蕉哥专用-易發TV/hls.m3u8
 中天 新闻,http://4.216.147.218:9500/live.m3u8?c=21
 中天新闻2,http://4.216.147.218:9500/live.m3u8?c=4
 中天亜洲,http://4.216.147.218:9500/live.m3u8?c=5
