@@ -325,7 +325,7 @@ MOMO综合台,http://8.137.59.151:3000/live.php?key=he&id=49
 东森超视,http://8.137.59.151:3000/live.php?key=he&id=50
 CNN新闻频道,http://8.137.59.151:3000/live.php?key=he&id=51
 
-极速港台3,#genre#
+今日影视,#genre#
 凤凰中文台,http://110.185.171.226:96/yximgs.php?id=182
 凤凰资讯台,http://110.185.171.226:96/yximgs.php?id=183
 凤凰香港台,http://110.185.171.226:96/yximgs.php?id=184
