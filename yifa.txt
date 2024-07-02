@@ -119,6 +119,16 @@ for ya-蒋小呢,
 
 足球欧洲杯,#genre#
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
+NOW 618台,http://dl.yidiandian.online/11.php?id=618
+纬来体育HD,http://dl.yidiandian.online/11.php?id=121
+ELTA体育1台,http://dl.yidiandian.online/11.php?id=159
+ELTA体育2台,http://dl.yidiandian.online/11.php?id=160
+ELTA体育3台,http://dl.yidiandian.online/11.php?id=161
+东森新闻HD,http://dl.yidiandian.online/11.php?id=145
+中天新闻HD,http://dl.yidiandian.online/11.php?id=141
+NOW新闻台,http://dl.yidiandian.online/11.php?id=332
+NOW直播台,http://dl.yidiandian.online/11.php?id=331
+NOW财经台,http://dl.yidiandian.online/11.php?id=333
 ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 
