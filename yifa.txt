@@ -209,9 +209,9 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 河南卫视4K,http://219.156.188.59:8089/rtp/225.1.4.254:1300?$河南联通备线2
 
 极速港台,#genre#
-NOW星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
-NOW爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
-TVB翡翠,http://60.208.140.180:5544/tvb翡翠/香蕉哥专用-易發TV.live.flv
+NOW 星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
+NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
+TVB 翡翠,http://60.208.140.180:5544/tvb翡翠/香蕉哥专用-易發TV.live.flv
 TVB翡翠2,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
 
 TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
