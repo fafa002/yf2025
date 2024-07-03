@@ -197,6 +197,7 @@ NOW 星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.fl
 NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
 TVB 翡翠,http://60.208.140.180:5544/tvb翡翠/香蕉哥专用-易發TV.live.flv
 TVB翡翠2,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
+TVB 翡翠,http://ali.hlspull.yximgs.com/live/tmdbocnmkx44.flv
 
 TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
