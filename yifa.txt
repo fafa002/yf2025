@@ -198,7 +198,7 @@ NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.fl
 TVB 翡翠,http://60.208.140.180:5544/tvb翡翠/香蕉哥专用-易發TV.live.flv
 TVB翡翠2,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
 TVB新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
-HOY77,http://60.208.140.180:5544/hoy77/香蕉哥专用-易發TV.live.flv
+HOY77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
 HOY78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
 
 TVB 翡翠,http://ali.hlspull.yximgs.com/live/tmdbocnmkx44.flv
