@@ -207,7 +207,6 @@ TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb2
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
 TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 TVB星河,http://117.114.153.1:8180/TV00000000000000000073@HHZT
-TVB星河2,http://freegat.us.kg/flv.php
 有线18,http://dl.mytvzhibo.top/1.php
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
 凤凰资讯,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
