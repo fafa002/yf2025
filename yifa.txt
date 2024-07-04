@@ -1456,13 +1456,11 @@ CHC家庭影院,http://58.216.99.148:80/live2.rxip.sc96655.com/live/jbtygqCHCjty
 犍为新闻,http://58.216.99.148:80/live2.rxip.sc96655.com/live/qwxwzh_2000.m3u8
 筠连,http://58.216.99.148:80/live2.rxip.sc96655.com/live/ylyt_2000.m3u8
 
-咪咕频道,#genre#
+咪咕央视,#genre#
 CCTV1综合,http://player.200877926.top/169l/0/migu.php?id=cctv1
 CCTV2财经,http://player.200877926.top/169l/0/migu.php?id=cctv2
 CCTV3综艺,http://player.200877926.top/169l/0/migu.php?id=cctv3
 CCTV4中文国际,http://player.200877926.top/169l/0/migu.php?id=cctv4
-CCTV4美洲,http://player.200877926.top/169l/0/migu.php?id=cctv4a
-CCTV4欧洲,http://player.200877926.top/169l/0/migu.php?id=cctv4o
 CCTV5体育,http://player.200877926.top/169l/0/migu.php?id=cctv5
 CCTV5+体育赛事,http://player.200877926.top/169l/0/migu.php?id=cctv5p
 CCTV6电影,http://player.200877926.top/169l/0/migu.php?id=cctv6
