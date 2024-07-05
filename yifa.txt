@@ -452,10 +452,6 @@ ESPR5,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=94
 ESPR6,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=95
 
 HK DTMB,#genre#
-翡翠台,http://m.glx008.com:8000/bysid/1.m3u8
-ViuTVsix,http://m.glx008.com:8000/bysid/96.m3u8
-ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
-
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
@@ -515,6 +511,10 @@ Jelli,http://nz171l122.bb60246.ctm.net:8890/bysid/16.m3u8
 TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 無綫新聞台,http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
 鳳凰衛視香港台,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
+
+翡翠台,http://m.glx008.com:8000/bysid/1.m3u8
+ViuTVsix,http://m.glx008.com:8000/bysid/96.m3u8
+ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 
 TW 新闻,#genre#
 中天新闻,http://60.208.140.180:5544/中天新闻/香蕉哥专用-易發TV.live.flv
