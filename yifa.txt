@@ -196,13 +196,12 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 极速港台,#genre#
 NOW 星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
 NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
+TVB 翡翠,http://ali.hlspull.yximgs.com/live/tmdbocnmkx44.flv
 TVB 翡翠,http://60.208.140.180:5544/tvb翡翠/香蕉哥专用-易發TV.live.flv
 TVB翡翠2,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
 无线新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
 HOY77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
 HOY78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
-
-TVB 翡翠,http://ali.hlspull.yximgs.com/live/tmdbocnmkx44.flv
 
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
