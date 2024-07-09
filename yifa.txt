@@ -203,9 +203,9 @@ TVB翡翠2,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.f
 HOY77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
 HOY78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
 
+TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
-TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
 TVB星河,http://117.114.153.1:8180/TV00000000000000000073@HHZT
 有线18,http://dl.mytvzhibo.top/1.php
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
