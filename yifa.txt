@@ -205,6 +205,7 @@ HOY78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.flv
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/22222testk.flv
 TVB-Plus,https://play.kankanlive.com/live/263e1346ae81458d997fd04bfba2e1e7.flv
+TVB-Plus,http://14.221.164.125:8086/0.ts
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB星河,http://117.114.153.1:8180/TV00000000000000000073@HHZT
 有线18,https://play.kankanlive.com/live/6e81398cd9d242b697e53e3ea32f5eeb.flv
