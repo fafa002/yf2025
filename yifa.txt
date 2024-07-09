@@ -277,6 +277,113 @@ CINEMAX,http://156.238.230.135:8888/channel/n3b145cc7/index.m3u8?q=fd33f3a0246f9
 东森戏剧 ETTV Drama,http://156.238.230.135:8888/channel/n1be373a0/index.m3u8?q=fd33f3a0246f92404921feccc6334093
 东森超视,http://156.238.230.135:8888/channel/n5cc27fbf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
 
+欧华159,#genre#
+TVB翡翠台,p3p://108.181.20.159:60124/653e4c02000ea0440c8c63fd3e5d709d
+TVB翡翠台 H.265,p3p://108.181.20.159:60124/653e4c6d000965ef0c8e049f4be34103
+TVB J2,p3p://108.181.20.159:60124/653e4cda0007743f0c8fade86d132b26
+TVB J2 H.265,p3p://108.181.20.159:60124/653e4d3e000b344f0c91357e73163f82
+TVB无线新闻,p3p://108.181.20.159:60124/653e4703000daead0c78dfb07723484e
+TVB无线新闻 H.265,p3p://108.181.20.159:60124/653e4818000b73240c7d19181340415e
+TVB财体资讯,p3p://108.181.20.159:60124/5ffbee4900066c0ddf0b8b84423c06f3
+TVB财体资讯 H.265,p3p://108.181.20.159:60124/611d989d0005244a4a7f24d111282ffb
+TVB明珠,p3p://108.181.20.159:60124/611d99f3000116024a845bb9627404c9
+TVB明珠 H.265,p3p://108.181.20.159:60124/602f1ba9000814efa6f2970333d309d9
+Viu TV,p3p://108.181.20.159:60124/611d99820007a67c4a82a3fe3cc749de
+VIU TV H.265,p3p://108.181.20.159:60124/5fed3234000c7a49a57dbd6e14af358f
+VIU 6,p3p://108.181.20.159:60124/5fed31e7000736e2a57c8f4c14d55d36
+有线直播新闻,p3p://108.181.20.159:60124/64ff4f0e000d7954168179ff031e6108
+香港国际财经,p3p://108.181.20.159:60124/64838620000cd8ed32fb0d6a414411f7
+HOY资讯,p3p://108.181.20.159:60124/655bd22c000147307fdff68936807320
+HOY TV,p3p://108.181.20.159:60124/62184bc3000cd48f11e47b06202b7e18
+TVB娱乐新闻,p3p://108.181.20.159:60124/5fe7f68d000e73d9910d2a86341258f7
+黄金翡翠台,p3p://108.181.20.159:60124/653e49c20006c60f0c8397f7771b1b7b
+TVB千禧经典,p3p://108.181.20.159:60124/645f6a3a0006360ca5eec1c509a8654f
+TVB经典,p3p://108.181.20.159:60124/5fdee1a2000b5fba6d93e51308cb7ddf
+TVB功夫台,p3p://108.181.20.159:60124/653e4a3f000b1abb0c85815c35fa0803
+TVB华语剧,p3p://108.181.20.159:60124/653e4acf0006e0e80c87b2c8194d5791
+TVB粤语片,p3p://108.181.20.159:60124/653e4b8d00001a450c8a973c06325101
+TVB亚洲剧,p3p://108.181.20.159:60124/6284685e00039b52b82eeeca7a785fda
+TVB 18赛马,p3p://108.181.20.159:60124/630aae2a0009c386c4a94bfb4c686b60
+TVB星河(粤),p3p://108.181.20.159:60124/5fdee23d000b670a6d96428e4c334643
+TVB星河(国),p3p://108.181.20.159:60124/6563174f0002ffaf9c45dd927c7d6df1
+TVB亚洲综艺,p3p://108.181.20.159:60124/63108c86000a543bdb95705579fa26ad
+TVB戏曲,p3p://108.181.20.159:60124/63108bd0000e4a9cdb92aa6820e833d5
+NOW 直播,p3p://108.181.20.159:60124/655fa52d000c3fc98ed0353c0e327e63
+Now新闻,p3p://108.181.20.159:60124/653e4f3d0003bdbf0c98ffaf583a6e3a
+Now财经,p3p://108.181.20.159:60124/6256e47a0007a6bb0665fa1971252f50
+Now紫金,p3p://108.181.20.159:60124/657dbdbc0000dc5e045fa25a2ac54c31
+Now紫金,p3p://108.181.20.159:60124/6427e42c00084703cd0c176f58dd37f1
+NOW华剧,p3p://108.181.20.159:60124/64d26915000887bf671ffe127ecd0115
+NOW华剧,p3p://108.181.20.159:60124/6519bc200001e7b37dbb01f124075086
+NOW剧集,p3p://108.181.20.159:60124/657dcad9000eebf80492df3c33e35790
+NOW剧集,p3p://108.181.20.159:60124/63ed3e1500077d30e7f449055a0846ce
+NOW星影,p3p://108.181.20.159:60124/657db120000499e9042e61f04c0d03cb
+NOW星影,p3p://108.181.20.159:60124/65423b7b00047dbb1bebd20b45f374d2
+NOW爆谷,p3p://108.181.20.159:60124/657db17a000c6768042fc38047b34ee4
+NOW爆谷,p3p://108.181.20.159:60124/65423beb00082fd01bed887e0ae23bbf
+黄金华剧台,p3p://108.181.20.159:60124/652970de00011277bb14dcd76e301cc0
+HBO(粤),p3p://108.181.20.159:60124/650ff8190006c7355795739f3c0b7500
+美亚电影(粤),p3p://108.181.20.159:60124/64be58dd0007fb8d18c11148736701af
+美亚电影(粤),p3p://108.181.20.159:60124/655f8ccc0007d2578e70f934113a2428
+凤凰资讯,p3p://108.181.20.159:60124/640dad8e0004032e66a7116c70d14d30
+凤凰资讯,p3p://108.181.20.159:60124/5fffbf860003807cedf4e1016c3c3ed2
+凤凰卫视,p3p://108.181.20.159:60124/5ff7074800001bcccbe59f3d4ff00590
+凤凰卫视,p3p://108.181.20.159:60124/602c73500002f4d29c90fa1270f21160
+凤凰香港,p3p://108.181.20.159:60124/5fe0b82c000cac9774c17f262e43314d
+Channel V,p3p://108.181.20.159:60124/657da67d0006060a0404d5987d1853db
+Thrill,p3p://108.181.20.159:60124/630c2b9400044df5ca7abd7159677c41
+Hi-YAH,p3p://108.181.20.159:60124/64c4d523000ac6a9321683700b626a46
+Mytv Super18,p3p://108.181.20.159:60124/6506d591000d6d7733e6bdfb4725689e
+Now Sports 1,p3p://108.181.20.159:60124/63ed464b000b911be8145d035c4e0f21
+Now Sports 2,p3p://108.181.20.159:60124/63ed46be0002b99be8161bfd62d87e90
+Now Sports 3,p3p://108.181.20.159:60124/63ed4715000c1bffe81772386f5b27f7
+Now Sports 4,p3p://108.181.20.159:60124/63ed478e000a98f2e8194a7c2bdc7fe6
+Now Sports 5,p3p://108.181.20.159:60124/63ed98c2000122f4e9567b333a74077a
+Now Sports 6,p3p://108.181.20.159:60124/63ed98d90002f8f6e956d5822ff208b1
+Now Sports 7,p3p://108.181.20.159:60124/63ed990600010efde95784d4529f16d2
+Now Sports Prime,p3p://108.181.20.159:60124/644edbcc0004d5a765428da71f967a86
+Hands Up,p3p://108.181.20.159:60124/6484c7b80001882237e3197529891bda
+GEM HK,p3p://108.181.20.159:60124/6506c5e500027c7f33a9834b5d937568
+HBO Signature,p3p://108.181.20.159:60124/6318b7730000b372fb7ca7e170c66e54
+HBO Hits,p3p://108.181.20.159:60124/63109c310002f740dbd2a26e2dc405af
+HBO Family,p3p://108.181.20.159:60124/63109c71000a3661dbd39e495cfb24f8
+天映频道(国语),p3p://108.181.20.159:60124/6471b0bb00011e09ed51d397629e4f55
+美亚电影(国),p3p://108.181.20.159:60124/64c3653f0007f6812c7970122ff43531
+龙祥电影(粤),p3p://108.181.20.159:60124/63375cce0008451773313a26199f3191
+卫视体育,p3p://108.181.20.159:60124/6567988e0000e3a1addebb21084a3ba9
+卫视体育 2,p3p://108.181.20.159:60124/656b06be00029e16bb452713093c6af9
+香港卫视,p3p://108.181.20.159:60124/655f9ff5000f136f8ebbd33f2f097512
+NOW ZooMoo,p3p://108.181.20.159:60124/65679bc200084412adeb40284be664e6
+Love Nature 4k,p3p://108.181.20.159:60124/655fa9280009c6278edfc1176731425f
+Mytv super体育 1,p3p://108.181.20.159:60124/656b084a000d6e6ebb4b34b917802022
+Mytv super体育 2,p3p://108.181.20.159:60124/656b08f3000c2a97bb4dc88f69c60aa6
+OneTV综合,p3p://108.181.20.159:60124/64d5c5550007c4d9744057ea09db782a
+KIX HD,p3p://108.181.20.159:60124/6444e9940006c03f3e688dba67767ffd
+NowSports 4K 1,p3p://108.181.20.159:60124/64ff0dd300027c501582a8b75bd6680f
+NowSports 英超1,p3p://108.181.20.159:60124/657d6d39000e5726032526132b312df6
+天映频道(粤语),p3p://108.181.20.159:60124/6533b684000931d9e334c45b064e2833
+有线赛马18,p3p://108.181.20.159:60124/64db58eb000d759e8a08afbc7bd65062
+香港31台,p3p://108.181.20.159:60124/6109ec88000eed44fda7d8ff6e487ce1
+香港32台,p3p://108.181.20.159:60124/6109eca300044552fda83fbc4a2f6a1b
+RTHK33,p3p://108.181.20.159:60124/655bd0a300087b5f7fd9f9375cad3a7e
+RTHK34,p3p://108.181.20.159:60124/655bd13900008a057fdc41200892339e
+RTHK35,p3p://108.181.20.159:60124/655bd1840005600a7fdd67552d662d4b
+Axn HK,p3p://108.181.20.159:60124/6506d42b0000055133e1441b1d831414
+Super Kids,p3p://108.181.20.159:60124/6506d285000b06bd33dad67a652e2bfd
+TVN HK,p3p://108.181.20.159:60124/6506c6930009ab3233ac2cd3018a6125
+Fight Sports,p3p://108.181.20.159:60124/644c26370001b4eb5aad692f22d9728d
+创世电视,p3p://108.181.20.159:60124/64b5088100037eb4f45f54135b7b6177
+面包台,p3p://108.181.20.159:60124/64c26e6d0003155c28b54a8561850853
+澳亚卫视,p3p://108.181.20.159:60124/64c262e100006db428882ef8137c12c4
+澳门Macau,p3p://108.181.20.159:60124/64c2611000018873288116d70e04175d
+澳门奥视,p3p://108.181.20.159:60124/644ed5a00003da2f652a717f77c821b8
+澳门资讯,p3p://108.181.20.159:60124/644ed21e000dd9a7651cc03a565575f7
+澳门莲花,p3p://108.181.20.159:60124/60b977ed000ba538c36458471a9d6772
+澳视葡语,p3p://108.181.20.159:60124/644ece91000b801a650ee0e442bd0b87
+星空卫视,p3p://108.181.20.159:60124/64ee40d1000cfcc5d3e2330305817be2
+CN卡通(粤),p3p://108.181.20.159:60124/648353bb0006d4d93236315a766b692a
+Animax HK,p3p://108.181.20.159:60124/6506d1a00000a99a33d7555a4b747caa
+
 HK DTMB,#genre#
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
@@ -3153,124 +3260,6 @@ NBTV-4,http://[2409:8087:2801:22:100::1b]/wh7f454c46tw1794365255_149904061/hwltc
 523[1920x1080],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000523/index.m3u8?IAS
 528[1920x1080],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 533[1920x1080],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
-
-重庆卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
-重庆新闻,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8
-重庆科教,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8
-重庆影视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8
-重庆文体娱乐,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8
-重庆少儿,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
-重庆时尚生活,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
-重庆新农村,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
-
-重庆有线,#genre#
-CCTV1,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV2,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
-CCTV3,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
-CCTV4,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-CCTV5,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-CCTV5+,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV6,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
-CCTV7,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
-CCTV8,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
-CCTV9,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
-CCTV10,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
-CCTV11,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
-CCTV12,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
-CCTV13,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-CCTV14,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
-CCTV15,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
-CCTV16,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV16,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-CCTV17,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
-CCTV-4K,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-东南卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
-东方卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
-云南卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
-北京卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
-吉林卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
-四川卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
-天津卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
-宁夏卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
-安徽卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
-山西卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
-广东卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
-广西卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
-新疆卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
-江苏卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
-江西卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
-河北卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
-河南卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
-浙江卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
-海南卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
-深圳卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
-湖北卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
-湖南卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
-西藏卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
-贵州卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
-辽宁卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
-青海卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
-黑龙江卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
-三沙卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
-兵团卫视,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8
-上海都市剧场,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/dsjcHD/__op/default/__f/index.m3u8
-上海魅力足球,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
-上海动漫秀场,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/dmxcHD/__op/default/__f/index.m3u8
-上海游戏风云,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
-上海欢笑剧场,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-华数求索纪录,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
-CHC高清电影,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
-CHC动作电影,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
-CHC家庭影院,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
-CCTV风云剧场,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
-CCTV风云音乐,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-CCTV风云足球,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
-CCTV怀旧剧场,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-CCTV风云剧场,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
-CCTV第一剧场,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
-CCTV兵器科技,http://36.138.213.175:10425/117.59.80.9:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
-
-广西有线,#genre#
-CCTV1综合高清,http://rqd.mytvh.top:10291/stream/channelid/1863091369?ticket=af6dd20d03aea376d76ebb61f8ace60b19543413&profile=pass
-CCTV2财经高清,http://rqd.mytvh.top:10291/stream/channelid/1094303539?ticket=a9c4b6f516b017b793c5bb1d1fa68a85c196811c&profile=pass
-CCTV3综艺高清,http://rqd.mytvh.top:10291/stream/channelid/1489574550?ticket=c7c4507e295f2cf3fd29e1776f3068b8a1d43894&profile=pass
-CCTV2财经高清,http://rqd.mytvh.top:10291/stream/channelid/1094303539?ticket=a9c4b6f516b017b793c5bb1d1fa68a85c196811c&profile=pass
-CCTV4中文国际高清,http://rqd.mytvh.top:10291/stream/channelid/1004757644?ticket=3fc46d0dbf02501d0867e69f5fd38df76801be4e&profile=pass
-CCTV4中文国际高清,http://rqd.mytvh.top:10291/stream/channelid/1004757644?ticket=3fc46d0dbf02501d0867e69f5fd38df76801be4e&profile=pass
-CCTV5体育高清,http://rqd.mytvh.top:10291/stream/channelid/633530303?ticket=095d801f03d9169aaa431385774e283e09d194c0&profile=pass
-CCTV5体育高清,http://rqd.mytvh.top:10291/stream/channelid/633530303?ticket=095d801f03d9169aaa431385774e283e09d194c0&profile=pass
-CCTV6电影高清,http://rqd.mytvh.top:10291/stream/channelid/1353199490?ticket=fc212ac589b6aba2eefb00d7f8ff552830cd8e16&profile=pass
-CCTV7国防军事高清,http://rqd.mytvh.top:10291/stream/channelid/1547679402?ticket=ae75d88a3cb0d89082668c4835fc63cdd14f36ea&profile=pass
-CCTV8电视剧高清,http://rqd.mytvh.top:10291/stream/channelid/904062276?ticket=a509be492c461c2ec629f858e2e69b35d4fb9898&profile=pass
-CCTV9纪录高清,http://rqd.mytvh.top:10291/stream/channelid/356145826?ticket=377f29f5dcec21d948123229ffac9a148be39d0b&profile=pass
-CCTV9纪录高清,http://rqd.mytvh.top:10291/stream/channelid/356145826?ticket=377f29f5dcec21d948123229ffac9a148be39d0b&profile=pass
-CCTV10科教高清,http://rqd.mytvh.top:10291/stream/channelid/296310237?ticket=21104578a305f5950a1c195c411d24cdc4fe3b1d&profile=pass
-CCTV11戏曲高清,http://rqd.mytvh.top:10291/stream/channelid/871098497?ticket=123a25970758a2770e267228f09dff2bd3f37ff9&profile=pass
-CCTV12社会与法高清,http://rqd.mytvh.top:10291/stream/channelid/1588497407?ticket=d0b9510d12a84bb71ae0f690a40592e25f5bd865&profile=pass
-CCTV13新闻高清,http://rqd.mytvh.top:10291/stream/channelid/682846583?ticket=51bc84493990c0b8703ced98d37653a64faf15bb&profile=pass
-CCTV14少儿高清,http://rqd.mytvh.top:10291/stream/channelid/1031837868?ticket=68c8e1c9e70cf39b36b00ded3391bbb618ef4205&profile=pass
-CCTV15音乐高清,http://rqd.mytvh.top:10291/stream/channelid/1048977047?ticket=5b40e72224462f8b15d505d4ce5edccc33bccac5&profile=pass
-CCTV17农业农村高清,http://rqd.mytvh.top:10291/stream/channelid/403686768?ticket=b1480a491b0b593b430df08f143eb8ea4591fc32&profile=pass
-CHC动作电影高清,http://rqd.mytvh.top:10291/stream/channelid/701426452?ticket=3c005ce757aca7517c30a5c7e8996ad94e27ee5c&profile=pass
-CHC家庭影院高清,http://rqd.mytvh.top:10291/stream/channelid/754735596?ticket=d88f89354279a0e8f18897354076c3e5b1c3de8a&profile=pass
-CHC高清电影,http://rqd.mytvh.top:10291/stream/channelid/2129937130?ticket=5b498a2e4c5449cd72010d81b9253c846aed6d35&profile=pass
-东方卫视高清,http://rqd.mytvh.top:10291/stream/channelid/714259426?ticket=15c55951e28222070177dd520de3d86bc316cf18&profile=pass
-中国教育高清,http://rqd.mytvh.top:10291/stream/channelid/282996776?ticket=0b401f9431477b16e070ed40bdae8d36fcccf905&profile=pass
-北京卫视高清,http://rqd.mytvh.top:10291/stream/channelid/616119875?ticket=7eabe1fa8667537bdd61bb5cf19c3238d184aa59&profile=pass
-广东卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1443055312?ticket=06d4d55d7313746738a5713e015bb2e9da51a356&profile=pass
-广西卫视高清,http://rqd.mytvh.top:10291/stream/channelid/2004289260?ticket=35634d3b811a44f405b45119d9f545e630c16758&profile=pass
-广西影视高清,http://rqd.mytvh.top:10291/stream/channelid/1054345760?ticket=207f4aae757ceeb7b848629e465cea332e6695ed&profile=pass
-广西新闻高清,http://rqd.mytvh.top:10291/stream/channelid/828173314?ticket=259495afaa1b6a5d9404a1d16cd64aee60040de2&profile=pass
-广西综艺高清,http://rqd.mytvh.top:10291/stream/channelid/51020652?ticket=5f096ad4451a5996884aef81c3688449431bc30c&profile=pass
-广西都市高清,http://rqd.mytvh.top:10291/stream/channelid/991345033?ticket=90ff7ebdb2c5ce2ea63a43cc7eb2ad8881012564&profile=pass
-江苏卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1728300757?ticket=ed65ec6ac25116da3bf7ba56ddef415ee4c4eac0&profile=pass
-江西卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1989120761?ticket=7ef896116ff274f4f3097de980497c0825856877&profile=pass
-浙江卫视高清,http://rqd.mytvh.top:10291/stream/channelid/2039311817?ticket=c916802a240d5d0426286002616e254ec6addf88&profile=pass
-深圳卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1039159189?ticket=29c2e0128d3d1636316a4fb0a06e47ebf4164b34&profile=pass
-湖南卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1538257676?ticket=d62f893309a1edfcf996249a91c683e5f125a03a&profile=pass
-甘肃卫视高清,http://rqd.mytvh.top:10291/stream/channelid/1449082850?ticket=08020b66b4ff53b444c8822493220f7582ff8fbd&profile=pass
-桂林新闻,http://rqd.mytvh.top:10291/stream/channelid/832841934?ticket=da9a6bbe02dad298e83ab1f0c1e668ba4afa2c5c&profile=pass
-爱上4K,http://rqd.mytvh.top:10291/stream/channelid/1223012783?ticket=69111af4c08b7f0946fcddfece1965a9b0e119f4&profile=pass
 
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
