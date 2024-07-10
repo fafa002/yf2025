@@ -278,6 +278,209 @@ CINEMAX,http://156.238.230.135:8888/channel/n3b145cc7/index.m3u8?q=fd33f3a0246f9
 东森戏剧 ETTV Drama,http://156.238.230.135:8888/channel/n1be373a0/index.m3u8?q=fd33f3a0246f92404921feccc6334093
 东森超视,http://156.238.230.135:8888/channel/n5cc27fbf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
 
+极速港台v6,#genre#
+
+凤凰中文台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=182
+
+凤凰资讯台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=183
+
+凤凰香港台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=184
+
+TVB翡翠台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=2
+
+TVB明珠台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=3
+
+TVB J2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=5
+
+TVB星河台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=4
+
+TVB粤语片,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=6
+
+TVB经典剧,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=7
+
+TVB亚洲剧,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=8
+
+TVB华剧台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=24
+
+港版美亚电影,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=9
+
+TVB娱乐新闻,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=10
+
+TVB黄金翡翠,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=11
+
+TVB千禧经典,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=198
+
+TVB功夫台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=12
+Now爆谷台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=187
+Now星影台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=186
+无线新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=13
+无线财经台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=14
+港台RHK31,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=29
+港台RHK32,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=30
+HOY TV,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=1
+HOY资讯台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=15
+国际财经台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=16
+澳门莲花台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=17
+18 跑马台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=18
+ViU TV,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=193
+VIU TV,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=19
+VIU6TV,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=20
+Now新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=21
+Now财经台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=23
+Now英超台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=22
+Now Golf 2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=28
+Now体育台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=195
+NowSPORTS7,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=197
+Hands UP,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=25
+SKY体育台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=196
+民视HD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=36
+中视HD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=35
+华视HD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=38
+公视HD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=39
+公视3HD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=199
+三立综合台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=46
+三立台湾台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=44
+三立戏剧台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=47
+三立都会台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=26
+八大第一台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=40
+八大综合台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=41
+八大戏剧台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=42
+八大精彩台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=43
+中天娱乐台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=32
+中天综合台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=33
+民视第一台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=45
+民视第一台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=45
+民视第一台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=45
+民视台湾台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=37
+东森综合台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=48
+东森超视台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=49
+龙华偶像台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=52
+纬来体育台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=58
+纬来日本台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=54
+靖天国际台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=53
+靖天卡通台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=55
+爱尔达影剧,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=57
+TVBS欢乐台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=31
+东森YOYO,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=191
+CN卡通台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=185
+TVBS HD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=140
+TVBS新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=139
+中天新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=141
+中天新闻 2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=142
+中视新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=143
+民视新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=144
+东森新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=145
+东森财经台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=146
+环宇新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=147
+台视新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=148
+壹新闻电视,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=149
+亚洲国际台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=150
+三立LIVE台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=151
+镜视新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=152
+华视新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=153
+非凡新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=154
+年代新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=155
+CBS新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=156
+ABC新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=157
+环宇台湾台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=158
+SBC新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=159
+DW,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=160
+CNN新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=161
+CNBC新闻,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=162
+BBC新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=163
+LIVE新闻台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=164
+CGTN新闻,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=165
+纬来电影台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=103
+东森电影台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=104
+东森洋片台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=105
+东森戏剧台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=106
+好莱坞电影,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=100
+龙华洋片台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=107
+龙祥电影台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=108
+卫视中文台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=109
+天映频道,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=110
+天映经典,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=111
+星卫电影台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=112
+美亚电影台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=113
+卫视电影台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=114
+HBO HD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=96
+HBO lgnature,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=97
+HBO HiTS,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=98
+HBO famlly,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=99
+CINEMAX,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=101
+AXN,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=102
+Sony Pix HD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=115
+BOO,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=117
+KIX,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=118
+华纳电影,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=119
+One,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=120
+Thrill,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=121
+Hits Movie,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=122
+tvN Movie,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=123
+astro AEC,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=175
+astro 全佳,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=176
+astro 小太阳,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=177
+astro 华丽台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=178
+astro AOD,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=179
+astro 爱奇艺,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=180
+astro ARENA,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=83
+astro MUtv,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=192
+国家地理,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=124
+国家地理野生,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=125
+动物星球,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=127
+ofn,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=128
+探索频道,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=130
+亚洲旅游台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=131
+TLC,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=133
+
+BBC Earth Lifestyle,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=135
+
+History,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=136
+
+lifestyle,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=137
+
+golf,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=173
+
+ELTA体育 1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=188
+
+ELTA体育 2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=189
+
+ELTA体育 3,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=190
+ELEVEN体育1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=59
+
+ELEVEN体育2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=60
+
+博斯运动2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=62
+
+博斯高球1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=63
+
+博斯高球2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=64
+
+博斯网球,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=65
+
+博斯无限2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=89
+Sony Ten 1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=66
+Sony Ten 2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=67
+Sony Ten 3,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=68
+Sony Ten 4,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=77
+Eurosports1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=70
+Eurosports2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=71
+Eurosports3,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=72
+Eurosports4,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=73
+Eurosports5,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=84
+GOLF,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=78
+BT Sports 1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=80
+BT Sports 2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=81
+BT Sports 3,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=82
+BT Sports 4,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=85
+BT Sports 5,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=87
+ESPR2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=90
+ESPR3,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=91
+SPORTSNET,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=92
+ESPR4,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=93
+ESPR5,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=94
+ESPR6,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=95
+
 欧华159,#genre#
 偏多设置,
 开启原力,
