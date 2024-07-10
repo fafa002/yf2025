@@ -279,37 +279,21 @@ CINEMAX,http://156.238.230.135:8888/channel/n3b145cc7/index.m3u8?q=fd33f3a0246f9
 东森超视,http://156.238.230.135:8888/channel/n5cc27fbf/index.m3u8?q=fd33f3a0246f92404921feccc6334093
 
 极速港台v6,#genre#
-
 凤凰中文台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=182
-
 凤凰资讯台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=183
-
 凤凰香港台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=184
-
 TVB翡翠台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=2
-
 TVB明珠台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=3
-
 TVB J2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=5
-
 TVB星河台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=4
-
 TVB粤语片,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=6
-
 TVB经典剧,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=7
-
 TVB亚洲剧,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=8
-
 TVB华剧台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=24
-
 港版美亚电影,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=9
-
 TVB娱乐新闻,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=10
-
 TVB黄金翡翠,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=11
-
 TVB千禧经典,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=198
-
 TVB功夫台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=12
 Now爆谷台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=187
 Now星影台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=186
