@@ -196,12 +196,12 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 极速港台,#genre#
 NOW 星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
 NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
-NOW新闻,http://60.208.140.180:5544/NOW新闻/香蕉哥专用-易發TV.live.flv
+NOW 新闻,http://60.208.140.180:5544/NOW新闻/香蕉哥专用-易發TV.live.flv
 TVB 翡翠,http://60.208.140.180:5544/tvb翡翠/香蕉哥专用-易發TV.live.flv
-TVB翡翠2,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
-无线新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
-HOY77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
-HOY78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
+TVB 翡翠2,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
+无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
+HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
+HOY 78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
 
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.flv
@@ -210,7 +210,7 @@ TVB-Plus,https://play.kankanlive.com/live/263e1346ae81458d997fd04bfba2e1e7.flv
 TVB-Plus,http://14.221.164.125:8086/0.ts
 TVB星河,http://117.114.153.1:8180/TV00000000000000000073@HHZT
 有线18,https://play.kankanlive.com/live/6e81398cd9d242b697e53e3ea32f5eeb.flv
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
+无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2
 凤凰资讯,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
 凤凰中文,http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
