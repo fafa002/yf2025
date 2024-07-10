@@ -415,33 +415,20 @@ astro MUtv,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=192
 ofn,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=128
 探索频道,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=130
 亚洲旅游台,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=131
-TLC,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=133
-
+TLC,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=13
 BBC Earth Lifestyle,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=135
-
 History,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=136
-
 lifestyle,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=137
-
 golf,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=173
-
 ELTA体育 1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=188
-
 ELTA体育 2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=189
-
 ELTA体育 3,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=190
 ELEVEN体育1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=59
-
 ELEVEN体育2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=60
-
 博斯运动2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=62
-
 博斯高球1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=63
-
 博斯高球2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=64
-
 博斯网球,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=65
-
 博斯无限2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=89
 Sony Ten 1,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=66
 Sony Ten 2,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=67
