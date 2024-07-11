@@ -433,6 +433,153 @@ ESPR4,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=93
 ESPR5,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=94
 ESPR6,http://[2a0e:97c0:7d4:cee6:9b6b:a130:21e3:3904]:9898/tl.php?id=95
 
+断流测试,#genre#
+亚洲美食台 HD,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
+亚洲旅游台 HD,http://extraott.com:80/live/7921751389/6097373662/5565.m3u8
+八大戏剧 HD,http://extraott.com:80/live/7921751389/6097373662/5564.m3u8
+八大娱乐 HD,http://extraott.com:80/live/7921751389/6097373662/5563.m3u8
+八大第一 HD,http://extraott.com:80/live/7921751389/6097373662/5562.m3u8
+八大综合 HD,http://extraott.com:80/live/7921751389/6097373662/5561.m3u8
+博斯高球1台 HD,http://extraott.com:80/live/7921751389/6097373662/5560.m3u8
+博斯高球2台 HD,http://extraott.com:80/live/7921751389/6097373662/5559.m3u8
+博斯体育1台 HD,http://extraott.com:80/live/7921751389/6097373662/5558.m3u8
+博斯体育2台 HD,http://extraott.com:80/live/7921751389/6097373662/5557.m3u8
+中天亚洲台 HD,http://extraott.com:80/live/7921751389/6097373662/5555.m3u8
+中天娱乐 HD,http://extraott.com:80/live/7921751389/6097373662/5554.m3u8
+中天综合 HD,http://extraott.com:80/live/7921751389/6097373662/5552.m3u8
+华视 HD,http://extraott.com:80/live/7921751389/6097373662/5551.m3u8
+公视1台 HD,http://extraott.com:80/live/7921751389/6097373662/5550.m3u8
+公视2台 HD,http://extraott.com:80/live/7921751389/6097373662/5549.m3u8
+大爱2台 HD,http://extraott.com:80/live/7921751389/6097373662/5548.m3u8
+大爱1台 HD,http://extraott.com:80/live/7921751389/6097373662/5547.m3u8
+爱尔达戏剧 HD,http://extraott.com:80/live/7921751389/6097373662/5546.m3u8
+爱尔达体育2台 HD,http://extraott.com:80/live/7921751389/6097373662/5545.m3u8
+爱尔达体育3台 HD,http://extraott.com:80/live/7921751389/6097373662/5544.m3u8
+爱尔达影剧 HD,http://extraott.com:80/live/7921751389/6097373662/5542.m3u8
+爱尔达综合 HD,http://extraott.com:80/live/7921751389/6097373662/5541.m3u8
+东森亚洲 HD,http://extraott.com:80/live/7921751389/6097373662/5540.m3u8
+东森财经 HD,http://extraott.com:80/live/7921751389/6097373662/5539.m3u8
+东森戏剧 HD,http://extraott.com:80/live/7921751389/6097373662/5538.m3u8
+东森电影 HD,http://extraott.com:80/live/7921751389/6097373662/5537.m3u8
+东森新闻 HD,http://extraott.com:80/live/7921751389/6097373662/5536.m3u8
+东森洋片 HD,http://extraott.com:80/live/7921751389/6097373662/5534.m3u8
+壹电视旅游台 HD,http://extraott.com:80/live/7921751389/6097373662/5533.m3u8
+壹电视新闻台 HD,http://extraott.com:80/live/7921751389/6097373662/5532.m3u8
+非凡新闻 HD,http://extraott.com:80/live/7921751389/6097373662/5531.m3u8
+民视高清台 HD,http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
+民视新闻台 HD,http://extraott.com:80/live/7921751389/6097373662/5529.m3u8
+民视台湾台 HD,http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
+好电视2台 HD,http://extraott.com:80/live/7921751389/6097373662/5527.m3u8
+好莱坞电影 HD,http://extraott.com:80/live/7921751389/6097373662/5526.m3u8
+寰宇财经 HD,http://extraott.com:80/live/7921751389/6097373662/5525.m3u8
+JET TV HD,http://extraott.com:80/live/7921751389/6097373662/5522.m3u8
+Arirang HD,http://extraott.com:80/live/7921751389/6097373662/5521.m3u8
+龙华偶像 HD,http://extraott.com:80/live/7921751389/6097373662/5518.m3u8
+龙华电影 HD,http://extraott.com:80/live/7921751389/6097373662/5516.m3u8
+龙华洋片 HD,http://extraott.com:80/live/7921751389/6097373662/5515.m3u8
+龙华戏剧 HD,http://extraott.com:80/live/7921751389/6097373662/5514.m3u8
+龙祥时代 HD,http://extraott.com:80/live/7921751389/6097373662/5513.m3u8
+美亚电影 HD,http://extraott.com:80/live/7921751389/6097373662/5511.m3u8
+东森MOMO HD,http://extraott.com:80/live/7921751389/6097373662/5510.m3u8
+年代新闻 HD,http://extraott.com:80/live/7921751389/6097373662/5509.m3u8
+年代电视 HD,http://extraott.com:80/live/7921751389/6097373662/5508.m3u8
+壹电视 HD,http://extraott.com:80/live/7921751389/6097373662/5507.m3u8
+三立都会 HD,http://extraott.com:80/live/7921751389/6097373662/5506.m3u8
+三立台湾 HD,http://extraott.com:80/live/7921751389/6097373662/5505.m3u8
+三立戏剧 HD,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
+三立综合 HD,http://extraott.com:80/live/7921751389/6097373662/5503.m3u8
+台视台湾台 HD,http://extraott.com:80/live/7921751389/6097373662/5502.m3u8
+台视新闻台 HD,http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
+台视综合台 HD,http://extraott.com:80/live/7921751389/6097373662/5500.m3u8
+TVBS N HD,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
+TVBS G HD,http://extraott.com:80/live/7921751389/6097373662/5498.m3u8
+TVBS欢乐台 HD,http://extraott.com:80/live/7921751389/6097373662/5497.m3u8
+TVBS HD,http://extraott.com:80/live/7921751389/6097373662/5496.m3u8
+纬来日本 HD,http://extraott.com:80/live/7921751389/6097373662/5495.m3u8
+纬来精彩 HD,http://extraott.com:80/live/7921751389/6097373662/5494.m3u8
+纬来体育 HD,http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
+卫视中文台 HD,http://extraott.com:80/live/7921751389/6097373662/5489.m3u8
+星卫电影 HD,http://extraott.com:80/live/7921751389/6097373662/5488.m3u8
+星卫娱乐 HD,http://extraott.com:80/live/7921751389/6097373662/5487.m3u8
+中视 HD,http://extraott.com:80/live/7921751389/6097373662/5486.m3u8
+中视高清 HD,http://extraott.com:80/live/7921751389/6097373662/5485.m3u8
+中视新闻台 HD,http://extraott.com:80/live/7921751389/6097373662/5484.m3u8
+纬来综合 HD,http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
+纬来电视· HD,http://extraott.com:80/live/7921751389/6097373662/5491.m3u8
+纬来电影 HD,http://extraott.com:80/live/7921751389/6097373662/5493.m3u8
+漫迪日本 HD,http://extraott.com:80/live/7921751389/6097373662/5512.m3u8
+龙华经典 HD,http://extraott.com:80/live/7921751389/6097373662/5517.m3u8
+靖天国际 HD,http://extraott.com:80/live/7921751389/6097373662/5519.m3u8
+靖天咨询 HD,http://extraott.com:80/live/7921751389/6097373662/5520.m3u8
+寰宇新闻 HD,http://extraott.com:80/live/7921751389/6097373662/5523.m3u8
+寰宇台湾 HD,http://extraott.com:80/live/7921751389/6097373662/5524.m3u8
+东森超视 HD,http://extraott.com:80/live/7921751389/6097373662/5535.m3u8
+爱尔达体育台 HD,http://extraott.com:80/live/7921751389/6097373662/5543.m3u8
+中天新闻 HD,http://extraott.com:80/live/7921751389/6097373662/5553.m3u8
+博斯网球 HD,http://extraott.com:80/live/7921751389/6097373662/5556.m3u8
+YOYO TV,http://extraott.com:80/live/7921751389/6097373662/473533.m3u8
+ICITI,http://extraott.com:80/live/7921751389/6097373662/473534.m3u8
+SKYLINK TELEVISION 2,http://extraott.com:80/live/7921751389/6097373662/473535.m3u8
+SKYLINK TELEVISION,http://extraott.com:80/live/7921751389/6097373662/473536.m3u8
+USTV,http://extraott.com:80/live/7921751389/6097373662/473537.m3u8
+ET NEWS,http://extraott.com:80/live/7921751389/6097373662/473538.m3u8
+ET FINANCIAL NEWS,http://extraott.com:80/live/7921751389/6097373662/473539.m3u8
+ET DRAMA,http://extraott.com:80/live/7921751389/6097373662/473540.m3u8
+ET GLOBAL,http://extraott.com:80/live/7921751389/6097373662/473541.m3u8
+ET CHINA,http://extraott.com:80/live/7921751389/6097373662/473542.m3u8
+TTV,http://extraott.com:80/live/7921751389/6097373662/473543.m3u8
+CTS AMERICA,http://extraott.com:80/live/7921751389/6097373662/473544.m3u8
+SETI,http://extraott.com:80/live/7921751389/6097373662/473545.m3u8
+FORMOSA TV,http://extraott.com:80/live/7921751389/6097373662/473546.m3u8
+
+HBO Family HD,http://extraott.com:80/live/7921751389/6097373662/13063.m3u8
+HBO Family FHD,http://extraott.com:80/live/7921751389/6097373662/13064.m3u8
+HBO Family SD,http://extraott.com:80/live/7921751389/6097373662/13062.m3u8
+HBO HITS HD,http://extraott.com:80/live/7921751389/6097373662/13066.m3u8
+HBO HITS FHD,http://extraott.com:80/live/7921751389/6097373662/13067.m3u8
+HBO HITS SD,http://extraott.com:80/live/7921751389/6097373662/13065.m3u8
+HBO GO HD,http://extraott.com:80/live/7921751389/6097373662/13069.m3u8
+HBO GO FHD,http://extraott.com:80/live/7921751389/6097373662/13070.m3u8
+HBO GO SD,http://extraott.com:80/live/7921751389/6097373662/13068.m3u8
+HBO Signature HD,http://extraott.com:80/live/7921751389/6097373662/38110.m3u8
+HBO Signature FHD,http://extraott.com:80/live/7921751389/6097373662/38109.m3u8
+HBO Signature SD,http://extraott.com:80/live/7921751389/6097373662/38111.m3u8
+
+ASTRO SHUANG XING HD,http://extraott.com:80/live/7921751389/6097373662/191980.m3u8
+ASTRO QUAN JIA HD,http://extraott.com:80/live/7921751389/6097373662/191974.m3u8
+中天 ASIA FHD,http://extraott.com:80/live/7921751389/6097373662/29615.m3u8
+中天 ASIA HD,http://extraott.com:80/live/7921751389/6097373662/191911.m3u8
+TVB 新闻 HD,http://extraott.com:80/live/7921751389/6097373662/192006.m3u8
+TVB 新闻 FHD,http://extraott.com:80/live/7921751389/6097373662/13046.m3u8
+TVB 星河 HD,http://extraott.com:80/live/7921751389/6097373662/192007.m3u8
+TVB 星河 FHD,http://extraott.com:80/live/7921751389/6097373662/13043.m3u8
+
+TVB2,http://extraott.com:80/live/7921751389/6097373662/473566.m3u8
+TVB CHINESE,http://extraott.com:80/live/7921751389/6097373662/473567.m3u8
+TVB DRAMA,http://extraott.com:80/live/7921751389/6097373662/473568.m3u8
+TVBE,http://extraott.com:80/live/7921751389/6097373662/473569.m3u8
+TVB PEARL,http://extraott.com:80/live/7921751389/6097373662/473570.m3u8
+TVB1,http://extraott.com:80/live/7921751389/6097373662/473571.m3u8
+PHOENIX NORTH AMERICA CHINESE CHANNEL,http://extraott.com:80/live/7921751389/6097373662/473556.m3u8
+PHOENIX HONG KONG CHANNEL,http://extraott.com:80/live/7921751389/6097373662/473557.m3u8
+广东体育 HD,http://extraott.com:80/live/7921751389/6097373662/62845.m3u8
+珠江台 HD,http://extraott.com:80/live/7921751389/6097373662/62846.m3u8
+广东南方卫视 HD,http://extraott.com:80/live/7921751389/6097373662/62847.m3u8
+Phoenix Info HD,http://extraott.com:80/live/7921751389/6097373662/62829.m3u8
+Phoenix TV HD,http://extraott.com:80/live/7921751389/6097373662/62830.m3u8
+TVB Financial HD,http://extraott.com:80/live/7921751389/6097373662/62816.m3u8
+HK TVB HD,http://extraott.com:80/live/7921751389/6097373662/62817.m3u8
+RHK32 HD,http://extraott.com:80/live/7921751389/6097373662/62818.m3u8
+RHK31 HD,http://extraott.com:80/live/7921751389/6097373662/62819.m3u8
+Macus TV HD,http://extraott.com:80/live/7921751389/6097373662/62820.m3u8
+HK02 HD,http://extraott.com:80/live/7921751389/6097373662/62821.m3u8
+HK Phoenix HD,http://extraott.com:80/live/7921751389/6097373662/62822.m3u8
+Pearl HD,http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
+iNews HD,http://extraott.com:80/live/7921751389/6097373662/62824.m3u8
+J5 HD,http://extraott.com:80/live/7921751389/6097373662/62825.m3u8
+J2 HD,http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
+Jade HD,http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
+
 HK DTMB,#genre#
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
