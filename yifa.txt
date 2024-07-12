@@ -579,6 +579,220 @@ iNews HD,http://extraott.com:80/live/7921751389/6097373662/62824.m3u8
 J5 HD,http://extraott.com:80/live/7921751389/6097373662/62825.m3u8
 J2 HD,http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
 Jade HD,http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
+4季Tv,#genre#
+民視第一台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8
+民視台灣台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
+民視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+大愛電視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/209/4gtv-live007/index.m3u8
+中視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
+中視經典台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/124/4gtv-4gtv080/index.m3u8
+華視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
+三立綜合台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
+客家電視台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/107/4gtv-4gtv043/index.m3u8
+八大綜藝台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
+中視菁采台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/123/4gtv-4gtv064/index.m3u8
+TVBS精采台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/227/4gtv-4gtv067/index.m3u8
+愛爾達娛樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
+靖天綜合台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
+靖天日本台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
+新唐人亞太台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
+ARIRANG阿里郎頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/189/4gtv-4gtv079/index.m3u8
+Global Trekker,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/252/4gtv-live112/index.m3u8
+原住民族電視台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/273/4gtv-live014/index.m3u8
+Smart知識台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
+東森購物四台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/286/4gtv-live049/index.m3u8
+LiveABC互動英語頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/188/4gtv-live030/index.m3u8
+達文西頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/106/litv-longturn20/index.m3u8
+Nick Jr. 兒童頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8
+尼克兒童頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/185/4gtv-live105/index.m3u8
+DreamWorks 夢工廠動畫,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8
+靖天卡通台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
+靖洋卡通Nice Bingo,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
+i-Fun動漫台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
+龍華卡通台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
+MOMO親子台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8
+東森購物一台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/173/4gtv-live047/index.m3u8
+鏡電視新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
+東森新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
+華視新聞,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
+民視新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
+三立新聞iNEWS,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
+TVBS新聞,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
+東森財經新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
+中視新聞,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
+中天新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+Bloomberg TV,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/283/4gtv-live059/index.m3u8
+寰宇新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8
+SBN全球財經台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/224/4gtv-live060/index.m3u8
+寰宇財經台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/281/litv-longturn23/index.m3u8
+TVBS,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
+東森購物二台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/174/4gtv-live046/index.m3u8
+民視綜藝台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8
+靖天育樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
+KLT-靖天國際台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8
+Nice TV 靖天歡樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8
+靖天資訊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
+TVBS歡樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
+ROCK Entertainment,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/275/4gtv-live080/index.m3u8
+Lifetime 娛樂頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/217/4gtv-live029/index.m3u8
+電影原聲台CMusic,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
+TRACE Urban,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/78/4gtv-4gtv082/index.m3u8
+MTV Live HD 音樂頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
+Mezzo Live HD,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/79/4gtv-4gtv083/index.m3u8
+CLASSICA 古典樂,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/80/4gtv-4gtv059/index.m3u8
+東森購物三台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/287/4gtv-live048/index.m3u8
+博斯高球台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8
+博斯高球二台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/298/litv-longturn06/index.m3u8
+博斯運動一台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8
+博斯無限台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8
+博斯網球台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8
+博斯運動二台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
+博斯魅力台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
+TRACE Sport Stars,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
+智林體育台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/58/4gtv-4gtv101/index.m3u8
+時尚運動X,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
+車迷TV,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/160/4gtv-live201/index.m3u8
+GINX Esports TV,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/179/4gtv-4gtv053/index.m3u8
+TechStorm,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/181/4gtv-live109/index.m3u8
+Pet Club TV,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/182/4gtv-live110/index.m3u8
+民視旅遊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
+滾動力rollor,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
+亞洲旅遊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
+fun探索娛樂台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/274/4gtv-live011/index.m3u8
+幸福空間居家台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/168/4gtv-live206/index.m3u8
+Love Nature,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/139/4gtv-live208/index.m3u8
+History 歷史頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
+Globetrotter 環遊旅行家,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3u8
+愛爾達生活旅遊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+LUXE TV Channel,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
+TV5MONDE STYLE HD 生活時尚,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/178/4gtv-live122/index.m3u8
+龍華偶像台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
+公視戲劇,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/7/4gtv-4gtv042/index.m3u8
+民視影劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
+龍華戲劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
+HITS頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/186/4gtv-live620/index.m3u8
+龍華日韓台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
+八大精彩台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/172/4gtv-4gtv034/index.m3u8
+霹靂布袋戲,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
+靖天戲劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
+靖洋戲劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
+CI 罪案偵查頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/215/4gtv-live027/index.m3u8
+視納華仁紀實頻道,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/38/4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
+金光布袋戲,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/236/4gtv-live144/index.m3u8
+ROCK Action,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
+采昌影劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
+靖天映畫,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
+靖天電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
+龍華電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
+影迷數位電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
+amc電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
+CinemaWorld,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
+My Cinema Europe HD 我的歐洲電影,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/176/4gtv-live157/index.m3u8
+好消息2台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/8/litv-ftv17/index.m3u8
+好消息,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/9/litv-ftv16/index.m3u8
+大愛二台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8
+人間衛視,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/210/4gtv-live008/index.m3u8
+FRANCE24 英文台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/316/4gtv-live146/index.m3u8
+半島國際新聞台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/85/litv-ftv10/index.m3u8
+VOA美國之音,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/86/litv-ftv03/index.m3u8
+CNBC Asia 財經台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/235/4gtv-live130/index.m3u8
+DW德國之聲,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/226/4gtv-live071/index.m3u8
+鳳梨直擊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/93/4gtv-4gtv035/index.m3u8
+香蕉直擊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/94/4gtv-4gtv038/index.m3u8
+番茄直擊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/289/4gtv-live301/index.m3u8
+芭樂直擊台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/290/4gtv-live302/index.m3u8
+國會頻道1,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/170/4gtv-4gtv084/index.m3u8
+國會頻道2,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/171/4gtv-4gtv085/index.m3u8
+TVBS綜藝台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
+TVBS台劇台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
+經典電影台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8
+經典卡通台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
+兒童卡通台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/269/4gtv-live009/index.m3u8
+精選動漫台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
+戲劇免費看 1台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
+戲劇免費看 2台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
+電影免費看 2台,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
+超人力霸王整套看,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
+花系列 經典劇場,http://gofuxkyourself.online/pachongbo/mumi.php?url=http://4gtv.mumi.rip:9877/279/4gtv-live016/index.m3u8
+
+台湾秒开酒店,#genre#
+台視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1047
+中視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1048
+華視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1049
+民視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1050
+公視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1201
+人間衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1198
+大愛電視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1216
+好消息GOOD TV,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1669
+Trace Sport Stars,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1003
+DISCOVERY,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1002
+旅遊生活,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1005
+動物星球,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1004
+亞洲旅遊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1219
+MOMO親子台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1007
+東森幼幼HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1008
+龍華卡通台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1670
+緯來綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1044
+八大第一HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1043
+八大綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1019
+三立台灣HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1021
+三立都會HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1020
+韓國娛樂台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1024
+東森綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1041
+超視HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1180
+中天綜合HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1022
+中天娛樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1023
+東風衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1195
+MUCH TV,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1189
+東森戲劇HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1042
+八大戲劇HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1057
+TVBS歡樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1018
+緯來戲劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1186
+龍華戲劇台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1671
+龍華日韓劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1672
+龍華偶像劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1673
+緯來日本HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1026
+Taiwan Plus,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1674
+年代新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1192
+東森新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1014
+中天新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1675
+民視新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1204
+三立新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1016
+TVBS新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1052
+TVBS HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668
+非凡新聞HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1013
+非凡商業HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1012
+東森財經HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1017
+寰宇新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1222
+壹新聞,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1676
+Bloomberg News,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1066
+NHK世界HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1027
+鏡電視新聞台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1031
+好萊塢電影HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1025
+緯來電影HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1183
+龍華電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1677
+HBO,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1029
+AXN,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1054
+CINEMAX HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1030
+AMC 電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1032
+寵物頻道,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1040
+緯來育樂HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1045
+緯來體育HD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1011
+博斯運動一,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1678
+momo綜合台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1225
+DAZN 1,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1069
+DAZN 2,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1072
+廈門衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1033
+CCTV4-中央衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1034
+海峽衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1035
+浙江衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1036
+東方衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1037
+湖南衛視,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1038
+鳯凰衛視資訊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1666
 
 HK DTMB,#genre#
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
