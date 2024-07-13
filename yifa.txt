@@ -109,11 +109,6 @@ NOW 618台,http://dl.yidiandian.online/11.php?id=618
 ELTA体育1台,http://dl.yidiandian.online/11.php?id=159
 ELTA体育2台,http://dl.yidiandian.online/11.php?id=160
 ELTA体育3台,http://dl.yidiandian.online/11.php?id=161
-东森新闻HD,http://dl.yidiandian.online/11.php?id=145
-中天新闻HD,http://dl.yidiandian.online/11.php?id=141
-NOW新闻台,http://dl.yidiandian.online/11.php?id=332
-NOW直播台,http://dl.yidiandian.online/11.php?id=331
-NOW财经台,http://dl.yidiandian.online/11.php?id=333
 ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 
@@ -180,6 +175,9 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 NOW 星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
 NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
 NOW 新闻(不稳定),http://60.208.140.180:5544/NOW新闻/香蕉哥专用-易發TV.live.flv
+NOW新闻台,http://dl.yidiandian.online/11.php?id=332
+NOW直播台,http://dl.yidiandian.online/11.php?id=331
+NOW财经台,http://dl.yidiandian.online/11.php?id=333
 翡翠4K,https://cdn.1678520.xyz/fct4k.php
 TVB 翡翠,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
 无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
@@ -722,6 +720,8 @@ ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 
 TW 新闻,#genre#
 中天新闻,http://60.208.140.180:5544/中天新闻/香蕉哥专用-易發TV.live.flv
+东森新闻HD,http://dl.yidiandian.online/11.php?id=145
+中天新闻HD,http://dl.yidiandian.online/11.php?id=141
 公视,http://78.142.195.249:8500/live.m3u8?c=1
 中天新闻台,http://78.142.195.249:8500/live.m3u8?c=3
 中视新闻台,http://78.142.195.249:8500/live.m3u8?c=6
