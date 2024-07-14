@@ -706,8 +706,8 @@ CHC电影,http://www.zzlag.top:9087/tsfile/live/1051_1.m3u8?key=txiptv
 茂名酒店,#genre#
 广东珠江,http://adsl.netjsu.com:9900/tsfile/live/1000_1.m3u8?key=txiptv
 广东卫视,http://adsl.netjsu.com:9900/tsfile/live/0125_1.m3u8?key=txiptv
-珠江新闻,http://adsl.netjsu.com:9900/tsfile/live/1001_1.m3u8?key=txiptv
-珠江公共,http://adsl.netjsu.com:9900/tsfile/live/1002_1.m3u8?key=txiptv
+广东新闻,http://adsl.netjsu.com:9900/tsfile/live/1001_1.m3u8?key=txiptv
+广东民生,http://adsl.netjsu.com:9900/tsfile/live/1002_1.m3u8?key=txiptv
 茂名综合,http://adsl.netjsu.com:9900/tsfile/live/1003_1.m3u8?key=txiptv
 广东体育,http://adsl.netjsu.com:9900/tsfile/live/1004_1.m3u8?key=txiptv
 广东影视,http://adsl.netjsu.com:9900/tsfile/live/1005_1.m3u8?key=txiptv
