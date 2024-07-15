@@ -202,7 +202,6 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 极速港台,#genre#
 NOW 星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
 NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
-NOW 新闻(不稳定),http://60.208.140.180:5544/NOW新闻/香蕉哥专用-易發TV.live.flv
 NOW新闻台,http://dl.yidiandian.online/11.php?id=332
 NOW直播台,http://dl.yidiandian.online/11.php?id=331
 NOW财经台,http://dl.yidiandian.online/11.php?id=333
