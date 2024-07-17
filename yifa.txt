@@ -190,9 +190,9 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 河南卫视4K,http://219.156.188.59:8089/rtp/225.1.4.254:1300?$河南联通备线2
 
 极速港台,#genre#
-NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV/hls.m3u8
-NOW 爆谷,http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV/hls.m3u8
-TVB 翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV/hls.m3u8
+NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
+NOW 爆谷,http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
+TVB 翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
 无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
 HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
 HOY 78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
@@ -594,7 +594,7 @@ ViuTVsix,http://m.glx008.com:8000/bysid/96.m3u8
 ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 
 TW 新闻,#genre#
-中天新闻,http://123.150.5.131:9000/中天新闻/香蕉哥专用-易發TV/hls.m3u8
+中天新闻,http://123.150.5.131:9000/中天新闻/香蕉哥专用-易發TV.live.ts
 公視新聞,https://iptv.lalifeier.eu.org/youtube/quwqlazU-c8.m3u8
 鏡新聞,https://iptv.lalifeier.eu.org/youtube/5n0y6b0Q25o.m3u8
 華視新聞,https://iptv.lalifeier.eu.org/youtube/wM0g8EoUZ_E.m3u8
