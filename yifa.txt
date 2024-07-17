@@ -200,13 +200,12 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 河南卫视4K,http://219.156.188.59:8089/rtp/225.1.4.254:1300?$河南联通备线2
 
 极速港台,#genre#
-NOW 星影,http://60.208.140.180:5544/NOW星影/香蕉哥专用-易發TV.live.flv
-NOW 爆谷,http://60.208.140.180:5544/NOW爆谷/香蕉哥专用-易發TV.live.flv
+NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV/hls.m3u8
+NOW 爆谷,http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV/hls.m3u8
 NOW新闻台,http://dl.yidiandian.online/11.php?id=332
 NOW直播台,http://dl.yidiandian.online/11.php?id=331
 NOW财经台,http://dl.yidiandian.online/11.php?id=333
-TVB翡翠,http://60.208.140.180:5544/翡翠1/香蕉哥专用-易發TV.live.flv
-TVB 翡翠,http://60.208.140.180:5544/tvb翡翠2/香蕉哥专用-易發TV.live.flv
+TVB 翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV/hls.m3u8
 无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
 HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
 HOY 78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
@@ -608,7 +607,7 @@ ViuTVsix,http://m.glx008.com:8000/bysid/96.m3u8
 ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 
 TW 新闻,#genre#
-中天新闻,http://60.208.140.180:5544/中天新闻/香蕉哥专用-易發TV.live.flv
+中天新闻,http://123.150.5.131:9000/中天新闻/香蕉哥专用-易發TV/hls.m3u8
 东森新闻HD,http://dl.yidiandian.online/11.php?id=145
 中天新闻HD,http://dl.yidiandian.online/11.php?id=141
 中天亚洲台,http://194.87.101.118/live.m3u8?c=3
