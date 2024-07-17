@@ -595,6 +595,12 @@ ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 
 TW 新闻,#genre#
 中天新闻,http://123.150.5.131:9000/中天新闻/香蕉哥专用-易發TV/hls.m3u8
+公視新聞,https://iptv.lalifeier.eu.org/youtube/quwqlazU-c8.m3u8
+鏡新聞,https://iptv.lalifeier.eu.org/youtube/5n0y6b0Q25o.m3u8
+華視新聞,https://iptv.lalifeier.eu.org/youtube/wM0g8EoUZ_E.m3u8
+中視新聞,https://iptv.lalifeier.eu.org/youtube/TCnaIE_SAtM.m3u8
+中天新聞,https://iptv.lalifeier.eu.org/youtube/oIgbl7t0S_w.m3u8
+中天新聞2台,https://iptv.lalifeier.eu.org/youtube/WPfPjbOLNfE.m3u8
 中天亚洲台,http://194.87.101.118/live.m3u8?c=3
 台视新闻,http://194.87.101.118/live.m3u8?c=4
 TVBS新闻,http://194.87.101.118/live.m3u8?c=5
