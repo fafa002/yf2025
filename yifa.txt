@@ -197,7 +197,7 @@ TVB 翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
 HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
 HOY 78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
 有线18,http://60.208.140.180:5544/yx18/香蕉哥专用-易發TV.live.flv
-有线18备,http://123.150.5.131:9000/yx18备/香蕉哥专用-易發TV.live.ts
+有线18备,http://123.150.5.131:9000/yx18备/香蕉哥专用-易發TV/hls.m3u8
 mytv18,http://dl.yidiandian.online/11.php?id=18
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.flv
