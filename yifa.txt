@@ -572,6 +572,14 @@ TVB Plus,http://113.73.73.223:8100/bysid/82
 無綫新聞台,http://113.73.73.223:8100/bysid/83
 鳳凰衛視香港台,http://113.73.73.223:8100/bysid/85
 
+翡翠台,http://124.244.149.194:65530/bysid/1
+ViuTVsix,http://124.244.149.194:65530/bysid/96
+ViuTV,http://124.244.149.194:65530/bysid/99
+明珠台,http://124.244.149.194:65531/bysid/2
+TVB Plus,http://124.244.149.194:65531/bysid/82
+無綫新聞台,http://124.244.149.194:65531/bysid/83
+鳳凰衛視香港台,http://124.244.149.194:65531/bysid/85
+
 TW 新闻,#genre#
 中天新闻,http://123.150.5.131:9000/中天新闻/香蕉哥专用-易發TV.live.ts
 公視新聞,https://iptv.lalifeier.eu.org/youtube/quwqlazU-c8.m3u8
