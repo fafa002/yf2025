@@ -943,46 +943,65 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 恩平综合,http://php.jdshipin.com:8880/chudian.php?id=epzh
 
-揭阳酒店,#genre#
-CCTV风云剧场,http://jxtv2.gdsz.eu.org:8081/hls/18/index.m3u8
-综合频道,http://jxtv2.gdsz.eu.org:8081/hls/19/index.m3u8
-CCTV央视文化精品,http://jxtv2.gdsz.eu.org:8081/hls/33/index.m3u8
-凤凰资讯,http://jxtv2.gdsz.eu.org:8081/hls/36/index.m3u8
-凤凰中文,http://jxtv2.gdsz.eu.org:8081/hls/37/index.m3u8
-凤凰香港,http://jxtv2.gdsz.eu.org:8081/hls/38/index.m3u8
-综合频道2,http://jxtv2.gdsz.eu.org:8081/hls/39/index.m3u8
-北京卫视,http://jxtv2.gdsz.eu.org:8081/hls/45/index.m3u8
-天津卫视,http://jxtv2.gdsz.eu.org:8081/hls/48/index.m3u8
-黑龙江卫视,http://jxtv2.gdsz.eu.org:8081/hls/50/index.m3u8
-广西卫视,http://jxtv2.gdsz.eu.org:8081/hls/60/index.m3u8
-华数,http://jxtv2.gdsz.eu.org:8081/hls/61/index.m3u8
-CHC动作电影,http://jxtv2.gdsz.eu.org:8081/hls/62/index.m3u8
-华数2,http://jxtv2.gdsz.eu.org:8081/hls/63/index.m3u8
-乐游,http://jxtv2.gdsz.eu.org:8081/hls/66/index.m3u8
-都市频道,http://jxtv2.gdsz.eu.org:8081/hls/68/index.m3u8
-电视剧频道,http://jxtv2.gdsz.eu.org:8081/hls/69/index.m3u8
-体育健康,http://jxtv2.gdsz.eu.org:8081/hls/70/index.m3u8
-宁夏卫视,http://jxtv2.gdsz.eu.org:8081/hls/71/index.m3u8
-山东文化,http://jxtv2.gdsz.eu.org:8081/hls/72/index.m3u8
-宁夏卫视,http://jxtv2.gdsz.eu.org:8081/hls/73/index.m3u8
-山东卫视,http://jxtv2.gdsz.eu.org:8081/hls/75/index.m3u8
-重庆卫视,http://jxtv2.gdsz.eu.org:8081/hls/76/index.m3u8
-新疆卫视,http://jxtv2.gdsz.eu.org:8081/hls/82/index.m3u8
-CCTV风云音乐,http://jxtv2.gdsz.eu.org:8081/hls/88/index.m3u8
-河南卫视,http://jxtv2.gdsz.eu.org:8081/hls/96/index.m3u8
-新疆卫视,http://jxtv2.gdsz.eu.org:8081/hls/104/index.m3u8
-现代教育,http://jxtv2.gdsz.eu.org:8081/hls/109/index.m3u8
-CCTV风云音乐,http://jxtv2.gdsz.eu.org:8081/hls/117/index.m3u8
-优漫卡通,http://jxtv2.gdsz.eu.org:8081/hls/128/index.m3u8
-TVB星河,http://jxtv2.gdsz.eu.org:8081/hls/135/index.m3u8
-TVB星河,http://jxtv2.gdsz.eu.org:8081/hls/136/index.m3u8
-CCTV1,http://jxtv2.gdsz.eu.org:8081/hls/137/index.m3u8
-广东卫视,http://jxtv2.gdsz.eu.org:8081/hls/140/index.m3u8
-电视剧频道,http://jxtv2.gdsz.eu.org:8081/hls/141/index.m3u8
-体育健康,http://jxtv2.gdsz.eu.org:8081/hls/142/index.m3u8
-CCTV4K,http://jxtv2.gdsz.eu.org:8081/hls/144/index.m3u8
-CCTV4K,http://jxtv2.gdsz.eu.org:8081/hls/145/index.m3u8
-华数3,http://jxtv2.gdsz.eu.org:8081/hls/154/index.m3u8
+汕头酒店,#genre#
+汕头一台,http://221.5.12.130:2223/hls/76/index.m3u8
+汕头二台,http://221.5.12.130:2223/hls/69/index.m3u8
+汕头三台,http://221.5.12.130:2223/hls/62/index.m3u8
+揭阳综合,http://221.5.12.130:2223/hls/11/index.m3u8
+普宁台,http://221.5.12.130:2223/hls/12/index.m3u8
+TVB星河台,http://221.5.12.130:2223/hls/6/index.m3u8
+凤凰中文,http://221.5.12.130:2223/hls/7/index.m3u8
+凤凰资讯,http://221.5.12.130:2223/hls/10/index.m3u8
+广东体育,http://221.5.12.130:2223/hls/13/index.m3u8
+CCTV-5＋体育,http://221.5.12.130:2223/hls/91/index.m3u8
+风云足球,http://221.5.12.130:2223/hls/85/index.m3u8
+优漫卡通,http://221.5.12.130:2223/hls/77/index.m3u8
+金鹰卡通,http://221.5.12.130:2223/hls/83/index.m3u8
+嘉佳卡通,http://221.5.12.130:2223/hls/72/index.m3u8
+CCTV-14 少儿,http://221.5.12.130:2223/hls/84/index.m3u8
+广东新闻,http://221.5.12.130:2223/hls/5/index.m3u8
+TVS1,http://221.5.12.130:2223/hls/1/index.m3u8
+西甲,http://221.5.12.130:2223/hls/4/index.m3u8
+CCTV-1 综合,http://221.5.12.130:2223/hls/23/index.m3u8
+﻿CCTV-2 财经,http://221.5.12.130:2223/hls/73/index.m3u8
+CCTV-3 综艺,http://221.5.12.130:2223/hls/24/index.m3u8
+CCTV-4 国际,http://221.5.12.130:2223/hls/74/index.m3u8
+CCTV-5 体育,http://221.5.12.130:2223/hls/89/index.m3u8
+CCTV-6 电影,http://221.5.12.130:2223/hls/75/index.m3u8
+CCTV-7 军事农业,http://221.5.12.130:2223/hls/79/index.m3u8
+CCTV-8 电视剧,http://221.5.12.130:2223/hls/80/index.m3u8
+CCTV-9记录,http://221.5.12.130:2223/hls/90/index.m3u8
+CCTV-10科教,http://221.5.12.130:2223/hls/56/index.m3u8
+CCTV-11戏曲,http://221.5.12.130:2223/hls/60/index.m3u8
+CCTV-12 社会与法,http://221.5.12.130:2223/hls/81/index.m3u8
+CCTV-13 新闻,http://221.5.12.130:2223/hls/65/index.m3u8
+CCTV-15 音乐,http://221.5.12.130:2223/hls/70/index.m3u8
+广东卫视,http://221.5.12.130:2223/hls/14/index.m3u8
+广东影视,http://221.5.12.130:2223/hls/46/index.m3u8
+深圳卫视,http://221.5.12.130:2223/hls/82/index.m3u8
+湖南卫视,http://221.5.12.130:2223/hls/63/index.m3u8
+浙江卫视,http://221.5.12.130:2223/hls/29/index.m3u8
+安徽卫视,http://221.5.12.130:2223/hls/34/index.m3u8
+广东珠江,http://221.5.12.130:2223/hls/15/index.m3u8
+南方卫视,http://221.5.12.130:2223/hls/59/index.m3u8
+江苏卫视,http://221.5.12.130:2223/hls/71/index.m3u8
+东南卫视,http://221.5.12.130:2223/hls/37/index.m3u8
+湖北卫视,http://221.5.12.130:2223/hls/68/index.m3u8
+深圳都市,http://221.5.12.130:2223/hls/61/index.m3u8
+云南卫视,http://221.5.12.130:2223/hls/55/index.m3u8
+河南卫视,http://221.5.12.130:2223/hls/64/index.m3u8
+山东卫视,http://221.5.12.130:2223/hls/88/index.m3u8
+四川卫视,http://221.5.12.130:2223/hls/66/index.m3u8
+北京卫视,http://221.5.12.130:2223/hls/78/index.m3u8
+河北卫视,http://221.5.12.130:2223/hls/47/index.m3u8
+东方卫视,http://221.5.12.130:2223/hls/67/index.m3u8
+江西卫视,http://221.5.12.130:2223/hls/87/index.m3u8
+天津卫视,http://221.5.12.130:2223/hls/92/index.m3u8
+重庆卫视,http://221.5.12.130:2223/hls/93/index.m3u8
+陕西卫视,http://221.5.12.130:2223/hls/54/index.m3u8
+内蒙古卫视,http://221.5.12.130:2223/hls/57/index.m3u8
+宁夏卫视,http://221.5.12.130:2223/hls/58/index.m3u8
+黑龙江卫视,http://221.5.12.130:2223/hls/95/index.m3u8
 
 潮州酒店,#genre#
 潮州综合,http://www.zzlag.top:9087/tsfile/live/1066_1.m3u8?key=txiptv
