@@ -125,10 +125,10 @@ AGA-孤雏,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cp22l
 古巨基-爱与诚,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cq20gevog65vbni5bjpg&ratio=720p&line=0
 黎瑞恩-一人有一个的梦想,
 陈文缓-时光中飞舞,
-忘川-陈僖仪,
-for ya-蒋小呢,
-夏天-李玖哲
-我的天空-南征北战,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fbf0000bt8nuaevamb718qchkt0&ratio=720p&line=0
+陈僖仪-忘川,
+蒋小呢-for ya,
+李玖哲-夏天,
+南征北战-我的天空,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fbf0000bt8nuaevamb718qchkt0&ratio=720p&line=0
 
 加入易發群,#genre#
 QQ交流群(满人),
@@ -159,35 +159,7 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-搜狐4K,http://nas.hssvm.com:8888/rtp/225.1.2.190:5002?$天津联通主力线
-搜狐4K,http://125.37.57.151:18888/rtp/225.1.2.190:5002?$天津联通备线1
-百事通4K电影,http://www.17888.fun:10000//udp/239.45.3.107:5140?$上海电信备线3
-百事通4K电影,http://nxlj.cn:1688//udp/239.45.3.107:5140?$虹口电信组播
-百事通4K纪实,http://www.17888.fun:10000//rtp/239.45.1.10:5140?$上海电信备线3
-百事通4K纪实,http://nxlj.cn:1688//rtp/239.45.1.10:5140?$虹口电信组播
-百事通4K儿童,http://www.17888.fun:10000//rtp/239.45.1.1:5140?$上海电信备线3
-百事通4K儿童,http://nxlj.cn:1688//rtp/239.45.1.1:5140?$虹口电信组播
-华数电影4K,http://220.176.218.35:8888/udp/239.252.220.212:5140?$江西上饶电信
-华数电影4K,http://920425.xyz:6666/rtp/239.253.240.102:8000?$山东泰安联通
-华数电影4K,http://125.69.136.119:8880/udp/239.93.0.97:5140?$四川电信备线2
-华数电影4K,http://home.sylaigym.top:8887/rtp/239.69.1.141:10482?$湖北武汉电信
-欢笑剧场4K,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000?$盐成电信组播
-欢笑剧场4K,http://qingcheng.pro:7890/udp/238.125.5.122:5140?$新疆电信组播
-CCTV16奥林匹克4K,http://vip.syzkgg.com:8686/rtp/239.253.64.126:5140?$海南三亚电信
 CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
-北京4K超清,http://115.171.216.54:4000/udp/225.1.8.211:8002?$北京电信备线4
-北京4K超清,http://ikuai.zlsip.top:4022/rtp/239.3.1.249:8001$北京联通备线1
-中录动漫4K,http://125.69.136.119:8880/udp/239.93.1.188:5140?$四川电信备线2
-乐享4K,http://171.223.198.94:4000/udp/239.93.0.43:5140?$四川电信主力线
-乐享4K,http://125.69.136.119:8880/udp/239.93.0.43:5140?$四川电信备线2
-亲子趣学4K.http://171.223.198.94:4000/udp/239.93.1.191:5140?$四川电信主力线
-亲子趣学4K.http://125.69.136.119:8880/udp/239.93.1.191:5140?$四川电信备线2
-亲子趣学4Khttp://118.114.97.25:886/udp/239.93.1.191:5140?$四川电信备线1
-南国都市4K,http://113.93.48.143:2000/udp/239.253.43.99:5146?$广东电信主力线
-绚影4K,http://125.69.136.119:8880/udp/239.93.42.33:5140?$四川电信备线2
-苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-河南卫视4K,http://123.101.98.187:2000/rtp/239.16.20.199:11990?$河南电信主力线
-河南卫视4K,http://219.156.188.59:8089/rtp/225.1.4.254:1300?$河南联通备线2
 
 极速港台,#genre#
 NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
