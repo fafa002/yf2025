@@ -358,7 +358,7 @@ J5 HD,http://extraott.com:80/live/7921751389/6097373662/62825.m3u8
 TVBplus HD,http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
 翡翠 HD,http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
 
-星视界,#genre#
+(失效)星视界,#genre#
 翡翠台,http://110.185.171.226:96/gat.php?id=fct
 无线新闻台,http://110.185.171.226:96/gat.php?id=tvb-news
 TVB plus,http://110.185.171.226:96/gat.php?id=tvb-plus
