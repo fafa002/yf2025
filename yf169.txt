@@ -173,6 +173,8 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 极速港台,#genre#
 NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
 NOW 爆谷,http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
+NOW 星影2,http://120.211.93.113:8089/NOW星影/香蕉哥专用-易發TV.live.flv
+NOW 爆谷2,http://120.211.93.113:8089/NOW爆谷/香蕉哥专用-易發TV.live.flv
 TVB翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
 TVB翡翠2,http://120.211.93.113:8089/tvb翡翠2/香蕉哥专用-易發TV.live.flv
 无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
