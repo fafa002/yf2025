@@ -302,6 +302,20 @@ TVB Plus,http://124.244.149.194:65531/bysid/82
 無綫新聞台,http://124.244.149.194:65531/bysid/83
 鳳凰衛視香港台,http://124.244.149.194:65531/bysid/85
 
+31-RTHK TV31,http://119.237.169.213:29981/usr/bin/src/stream/channelid/851661235?ticket=0019ccdc30fe79d35a1f75a8aee6b01dabdadd0a&profile=pass
+32-RTHK TV32,http://119.237.169.213:29981/usr/bin/src/stream/channelid/1741718636?ticket=aa28f20c5d86dab7dcf4b280252037015140aeac&profile=pass
+33-CCTV1,http://119.237.169.213:29981/usr/bin/src/stream/channelid/453096785?ticket=42115b1181f2d84ffa5487624f0bad850451e836&profile=pass
+76-HOY財經台,http://119.237.169.213:29981/usr/bin/src/stream/channelid/969208907?ticket=24dcb4c51b2b52ddf711ca43c862bb2ea9c4733c&profile=pass
+77-HOYTV,http://119.237.169.213:29981/usr/bin/src/stream/channelid/234491286?ticket=1d86e061f4772ddc8c130802694b2bcd61f08558&profile=pass
+78-HOY資訊台,http://119.237.169.213:29981/usr/bin/src/stream/channelid/1396456201?ticket=0adf20366d53b05c2a547a4842090144b4c819c1&profile=pass
+81-翡翠台,http://119.237.169.213:29981/usr/bin/src/stream/channelid/1015141139?ticket=73905bc1e920da1111a89f60cbcf3cce5501b821&profile=pass
+82-J2,http://119.237.169.213:29981/usr/bin/src/stream/channelid/425405946?ticket=10ddf1d24f6182e3f9798b4f285aec33c55be977&profile=pass
+83-無線新聞台,http://119.237.169.213:29981/usr/bin/src/stream/channelid/2124829131?ticket=b16d0c8962bf9b3eb3020b7ca41a6c8f8e0bef2a&profile=pass
+84-明珠台,http://119.237.169.213:29981/usr/bin/src/stream/channelid/693885245?ticket=51d578e276e510901699f527cb6e7e90e2cc5201&profile=pass
+85-無線資訊台,http://119.237.169.213:29981/usr/bin/src/stream/channelid/1298184103?ticket=dad2a32d1a573195b557771d0c0a6e41731aa177&profile=pass
+96-ViuTVsix,http://119.237.169.213:29981/usr/bin/src/stream/channelid/503744687?ticket=1f30859b76c2665b74761397e371ab06a3fdb889&profile=pass
+99-ViuTV,http://119.237.169.213:29981/usr/bin/src/stream/channelid/1934093061?ticket=2c573420151a2cb2177fc45666855fbb62ba6101&profile=pass
+
 断流测试,#genre#
 亚洲美食台 HD,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
 亚洲旅游台 HD,http://extraott.com:80/live/7921751389/6097373662/5565.m3u8
