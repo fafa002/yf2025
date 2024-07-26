@@ -545,6 +545,81 @@ myTV SUPER 直播足球5台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper5/mast
 myTV SUPER 直播足球6台,https://mytv.btjson.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 广东体育,https://mytv.btjson.us.kg/stream/tvb/null-29/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
+星视界2,#genre#
+PopC,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=popc
+星影台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-27
+爆谷台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-26
+翡翠台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null
+翡翠台 4K,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=4k
+功夫台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-31
+明珠台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-2
+TVB Plus,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=tvbplus
+ViuTV,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=viutv
+NowViu剧集台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=nowviu
+Now NBA,http://38.58.176.207:8090/stream/tvb/nownba
+星河台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-25
+無線新聞台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-1
+華語劇台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-5
+鳳凰衛視中文台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-17
+鳳凰衛視資訊台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-18
+鳳凰衛視香港台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-19
+黃金翡翠台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-3
+黃金華劇台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-8
+亞洲劇台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-7
+亞洲新聞台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-23
+創世電視,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-15
+千禧經典台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-4
+天映經典頻道,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-12
+娛樂新聞台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-9
+戲曲台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-10
+東方衛視國際頻道,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-16
+無線衛星亞洲台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-14
+myTV SUPER 18台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=mytvsuper18
+港台电视31,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=31
+港台电视32,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=32
+港台电视33,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=33-1
+港台电视34,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=34
+港台电视35,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=35
+港台电视36,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=33
+無線衛星新聞台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-22
+神州新聞台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-21
+粵語片台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-6
+美亞電影台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-11
+中國電影頻道,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-13
+Now668,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=now668
+Animax,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=animax
+Arirang TV,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=arirangtv
+AXN,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=axn
+Now 新闻台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=now
+Now 直播台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=now-1
+NHK World-Japan,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=nhkworldjapan
+Nick Jr.,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=nickjr
+Nickelodeon,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=nickelodeon
+ROCK Action,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=rockaction
+ROCK 綜藝娛樂,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=rock
+SUPER Kids,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=superkidschannel
+Thrill,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=thrill
+tvN,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=tvn
+ZooMoo,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=zoomoo
+DW,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=dw
+FashionBox,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=fashionbox
+France 24,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=france24
+Global Trekker,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=globaltrekker
+KIX,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=kix
+Love Nature HD,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=lovenaturehd
+Love Nature 4K,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=lovenature4k
+Mezzo Live HD,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=mezzolivehd
+MovieMovie,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=moviemovie
+HOY 资讯台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=hoy
+HOY TV,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=hoytv
+HOY国际财经,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=hoy-1
+Now HBO Hits,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-30
+Now HBO Signature,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-30
+Now HBO Family,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=nowhbofamily
+myTV SUPER FREE,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=mytvsuperfree
+广东体育,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-29
+緯來體育,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-28
+
 土拨鼠(ua),#genre#
 凤凰卫视,http://8.137.59.151:3000/laoshu1.php?key=kdsm666&id=1
 凤凰资讯,http://8.137.59.151:3000/laoshu1.php?key=kdsm666&id=2
