@@ -606,6 +606,87 @@ myTV SUPER FREE,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=mytvsuperfree
 广东体育,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-29
 緯來體育,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-28
 
+奥运2024频道,#genre#
+ELTA奥运1台,https://api.btbt.im/live?id=elta-oly1
+ELTA奥运2台,https://api.btbt.im/live?id=elta-oly2
+ELTA奥运3台,https://api.btbt.im/live?id=elta-oly3
+ELTA奥运4台,https://api.btbt.im/live?id=elta-oly4
+ELTA奥运5台,https://api.btbt.im/live?id=elta-oly5
+ELTA奥运6台,https://api.btbt.im/live?id=elta-oly6
+ELTA奥运7台,https://api.btbt.im/live?id=elta-oly7
+Astro OLY 1,https://api.btbt.im/live?id=astro-oly1
+Astro OLY 2,https://api.btbt.im/live?id=astro-oly2
+Astro OLY 3,https://api.btbt.im/live?id=astro-oly3
+Astro OLY 4,https://api.btbt.im/live?id=astro-oly4
+Astro OLY 5,https://api.btbt.im/live?id=astro-oly5
+MyTVSuper奥运801,https://api.btbt.im/live?id=mytvsuper-oly801
+MyTVSuper奥运802,https://api.btbt.im/live?id=mytvsuper-oly802
+MyTVSuper奥运803,https://api.btbt.im/live?id=mytvsuper-oly803
+MyTVSuper奥运804,https://api.btbt.im/live?id=mytvsuper-oly804
+MyTVSuper奥运805,https://api.btbt.im/live?id=mytvsuper-oly805
+MyTVSuper奥运806,https://api.btbt.im/live?id=mytvsuper-oly806
+MyTVSuper奥运807,https://api.btbt.im/live?id=mytvsuper-oly807
+MyTVSuper奥运808,https://api.btbt.im/live?id=mytvsuper-oly808
+MyTVSuper奥运809,https://api.btbt.im/live?id=mytvsuper-oly809
+MyTVSuper奥运810,https://api.btbt.im/live?id=mytvsuper-oly810
+MyTVSuper奥运811,https://api.btbt.im/live?id=mytvsuper-oly811
+MyTVSuper奥运812,https://api.btbt.im/live?id=mytvsuper-oly812
+MyTVSuper奥运813,https://api.btbt.im/live?id=mytvsuper-oly813
+MyTVSuper奥运814,https://api.btbt.im/live?id=mytvsuper-oly814
+MyTVSuper奥运815,https://api.btbt.im/live?id=mytvsuper-oly815
+MyTVSuper奥运816,https://api.btbt.im/live?id=mytvsuper-oly816
+MyTVSuper奥运817,https://api.btbt.im/live?id=mytvsuper-oly817
+
+Now Sports 618 欧洲杯,https://api.btbt.im/live?id=now-sports-618
+Now Sports 619 欧洲杯,https://api.btbt.im/live?id=now-sports-619
+Now Lucky 688 欧洲杯,https://api.btbt.im/live?id=now-lucky-688
+Now 财经台,https://api.btbt.im/live?id=now-finance
+Now 爆谷台,https://api.btbt.im/live?id=baogu-movies
+Now 星影台,https://api.btbt.im/live?id=now-baogu-superstars
+Now 新闻台,https://api.btbt.im/live?id=now-news
+Now 直播台,https://api.btbt.im/live?id=now-direct
+Now报价台,https://api.btbt.im/live?id=now-data
+Now jelli紫金国际台,https://api.btbt.im/live?id=now-jelli
+Now华剧台,https://api.btbt.im/live?id=now-chinese-drama
+HBO Now115,https://api.btbt.im/live?id=Now-HBO
+Now HBO Hits,https://api.btbt.im/live?id=now-hbo-hits
+Now HBO Family,https://api.btbt.im/live?id=now-hbof-amily
+Now HBO Signature,https://api.btbt.im/live?id=now-hbo-signature
+MovieMovie,https://api.btbt.im/live?id=moviemovie
+NowViu剧集台,https://api.btbt.im/live?id=now-viu-drama
+Now Sports 641,https://api.btbt.im/live?id=now-sports641
+Now NBA,https://api.btbt.im/live?id=now-nba
+Now Sports精选,https://api.btbt.im/live?id=now-sports-prime
+Now Sports 1,https://api.btbt.im/live?id=now-sports-1
+Now Sports 2,https://api.btbt.im/live?id=now-sports-2
+Now Sports 3,https://api.btbt.im/live?id=now-sports-3
+Now Sports 4,https://api.btbt.im/live?id=now-sports-4
+Now Sports 5,https://api.btbt.im/live?id=now-sports-5
+Now Sports 6,https://api.btbt.im/live?id=now-sports-6
+Now Sports 7,https://api.btbt.im/live?id=now-sports-7
+Now Sports Plus,https://api.btbt.im/live?id=now-sports-plus
+Now Sports 英超1,https://api.btbt.im/live?id=now-sports-premier-league1
+Now beIN SPORTS 1,https://api.btbt.im/live?id=now-bein-sports1
+Now beIN SPORTS 2,https://api.btbt.im/live?id=now-bein-sports2
+Now beIN SPORTS 3,https://api.btbt.im/live?id=now-bein-sports3
+Now 668,https://api.btbt.im/live?id=now-668
+Now Golf 2,https://api.btbt.im/live?id=now-golf2
+Now Golf 3,https://api.btbt.im/live?id=now-golf3
+
+TVB 翡翠台,https://api.btbt.im/live?id=feicui
+TVB 无线新闻台,https://api.btbt.im/live?id=tvb-news
+TVB PLUS,https://api.btbt.im/live?id=tvb-plus
+TVB 黄金翡翠台,https://api.btbt.im/live?id=golden-jade
+TVB 黄金华剧台,https://api.btbt.im/live?id=golden-chinese-drama
+TVB 千禧经典台,https://api.btbt.im/live?id=tvb-classic
+TVB 粤语片台,https://api.btbt.im/live?id=tvb-yueyu
+TVB 星河台,https://api.btbt.im/live?id=tvb-xinghe
+TVB 亚洲剧台,https://api.btbt.im/live?id=tvb-asia-drama
+TVB 娱乐新闻台,https://api.btbt.im/live?id=TVB ylxw
+J2,https://api.btbt.im/live?id=j2
+TVB 明珠台,https://api.btbt.im/live?id=pearl
+TVB 华语剧台,https://api.btbt.im/live?id=tvb-drama
+
 土拨鼠(ua),#genre#
 凤凰卫视,http://8.137.59.151:3000/laoshu1.php?key=kdsm666&id=1
 凤凰资讯,http://8.137.59.151:3000/laoshu1.php?key=kdsm666&id=2
