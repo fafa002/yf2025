@@ -177,10 +177,10 @@ NOW 星影2,http://120.211.93.113:8089/NOW星影/香蕉哥专用-易發TV.live.f
 NOW 爆谷2,http://120.211.93.113:8089/NOW爆谷/香蕉哥专用-易發TV.live.flv
 TVB翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
 TVB翡翠2,http://120.211.93.113:8089/tvb翡翠2/香蕉哥专用-易發TV.live.flv
-无线 新闻,http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv
-HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
-HOY 78,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
-有线18,http://60.208.140.180:5544/yx18备1/香蕉哥专用-易發TV.live.flv
+无线 新闻,http://123.150.5.131:9000/tvb新闻/香蕉哥专用-易發TV.live.flv
+HOY 77,http://123.150.5.131:9000/HOY77/香蕉哥专用-易發TV.live.flv
+HOY 78,http://123.150.5.131:9000/hoy78/香蕉哥专用-易發TV.live.flv
+有线18,http://123.150.5.131:9000/yx18备1/香蕉哥专用-易發TV.live.flv
 中华电信MOD,http://123.150.5.131:9000/中华电信MOD/香蕉哥专用-易發TV.live.ts
 TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.flv
