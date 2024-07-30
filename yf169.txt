@@ -803,7 +803,7 @@ SBS funE,http://cdn.1678520.xyz/xsj2.php?id=sbs-fune
 SBS M,http://cdn.1678520.xyz/xsj2.php?id=sbs-m
 
 2024巴黎奥运,#genre#
-HOY 77,http://60.208.140.180:5544/HOY77/香蕉哥专用-易發TV.live.flv
+HOY 77,http://123.150.5.131:9000/HOY77/香蕉哥专用-易發TV.live.flv
 CCTV5,http://42.101.3.124:8888/newlive/live/hls/6/live.m3u8
 CCTV5+,http://42.101.3.124:8888/newlive/live/hls/7/live.m3u8
 CCTV16,http://42.101.3.124:8888/newlive/live/hls/18/live.m3u8
