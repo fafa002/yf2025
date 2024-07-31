@@ -3437,6 +3437,8 @@ JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 26,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdfl5vrc77u84a2ndsog&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 鸟叔dadey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqraijc77u7k67gk2n0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 鸟叔江南style,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqqvubc77u1shdk2990&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+随机美女1,http://222.186.34.90:99/api/xjj.php
+随机美女2,http://api.eeccx.com/api/xjj.php
 
 泰国,#genre#
 泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
