@@ -1012,6 +1012,12 @@ CCTV6,http://60.208.140.180:5544/CCTV6盗源可耻/易發TV专用.live.flv
 CCTV7,http://60.208.140.180:5544/CCTV7盗源可耻/易發TV专用.live.flv
 CCTV8,http://60.208.140.180:5544/CCTV8盗源可耻/易發TV专用.live.flv
 CCTV9,http://60.208.140.180:5544/CCTV9盗源可耻/易發TV专用.live.flv
+CCTV10,http://60.208.140.180:5544/CCTV10-盗源可耻/易發TV专用.live.flv
+CCTV11,http://60.208.140.180:5544/CCTV11-盗源可耻/易發TV专用.live.flv
+CCTV12,http://60.208.140.180:5544/CCTV12-盗源可耻/易發TV专用.live.flv
+CCTV13,http://60.208.140.180:5544/CCTV13-盗源可耻/易發TV专用.live.flv
+CCTV14,http://60.208.140.180:5544/CCTV14-盗源可耻/易發TV专用.live.flv
+CCTV15,http://60.208.140.180:5544/CCTV15-盗源可耻/易發TV专用.live.flv
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
