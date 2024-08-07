@@ -432,335 +432,6 @@ J5 HD,http://extraott.com:80/live/7921751389/6097373662/62825.m3u8
 TVBplus HD,http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
 翡翠 HD,http://extraott.com:80/live/7921751389/6097373662/62827.m3u8
 
-星视界,#genre#
-PopC,http://cdn9.1678520.xyz/xsj2.1.php?id=popc
-翡翠台,http://cdn9.1678520.xyz/xsj2.1.php?id=fct
-翡翠台,http://cdn9.1678520.xyz/xsj2.1.php?id=feicui
-无线新闻台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-news
-TVB plus,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-plus
-TVB plus,http://cdn9.1678520.xyz/xsj2.1.php?id=j2
-黄金翡翠台,http://cdn9.1678520.xyz/xsj2.1.php?id=golden-jade
-黄金华剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=golden-chinese-drama
-千禧经典台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-classic
-粤语片台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-yueyu
-星河台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-xinghe
-亚洲剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-asia-drama
-娱乐新闻台,http://cdn9.1678520.xyz/xsj2.1.php?id=ylxw
-明珠台,http://cdn9.1678520.xyz/xsj2.1.php?id=pearl
-华语剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-drama
-凤凰资讯,http://cdn9.1678520.xyz/xsj2.1.php?id=phtv-info
-凤凰中文,http://cdn9.1678520.xyz/xsj2.1.php?id=phtv-cn
-凤凰香港,http://cdn9.1678520.xyz/xsj2.1.php?id=phtv-hk
-HOY 资讯台,http://cdn9.1678520.xyz/xsj2.1.php?id=hoy-info
-HOY TV,http://cdn9.1678520.xyz/xsj2.1.php?id=hoytv
-HOY国际财经,http://cdn9.1678520.xyz/xsj2.1.php?id=hoy-ibc
-ViuTV,http://cdn9.1678520.xyz/xsj2.1.php?id=viutv
-ViuTV6,http://cdn9.1678520.xyz/xsj2.1.php?id=viutv6
-天映频道,http://cdn9.1678520.xyz/xsj2.1.php?id=celestial
-天映经典,http://cdn9.1678520.xyz/xsj2.1.php?id=cccm
-Thrill,http://cdn9.1678520.xyz/xsj2.1.php?id=thrill
-星空卫视,http://cdn9.1678520.xyz/xsj2.1.php?id=star-xing-kong
-香港卫视,http://cdn9.1678520.xyz/xsj2.1.php?id=hks
-澳亚卫视,http://cdn9.1678520.xyz/xsj2.1.php?id=mastv
-澳门卫视,http://cdn9.1678520.xyz/xsj2.1.php?id=mstv
-澳门莲花卫视,http://cdn9.1678520.xyz/xsj2.1.php?id=lotustv
-澳门资讯,http://cdn9.1678520.xyz/xsj2.1.php?id=tdm-information
-澳视澳门,http://cdn9.1678520.xyz/xsj2.1.php?id=tdm
-HKC 18台,http://cdn9.1678520.xyz/xsj2.1.php?id=hkc18
-港台电视 31,http://cdn9.1678520.xyz/xsj2.1.php?id=rthk31
-港台电视 32,http://cdn9.1678520.xyz/xsj2.1.php?id=rthk32
-
-Now 财经台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-finance
-Now 爆谷台,http://cdn9.1678520.xyz/xsj2.1.php?id=baogu-movies
-Now 星影台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-baogu-superstars
-Now 新闻台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-news
-Now 直播台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-direct
-Now报价台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-data
-Now jelli紫金国际台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-jelli
-Now华剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-chinese-drama
-HBO Now115,http://cdn9.1678520.xyz/xsj2.1.php?id=Now-HBO
-Now HBO Hits,http://cdn9.1678520.xyz/xsj2.1.php?id=now-hbo-hits
-Now HBO Family,http://cdn9.1678520.xyz/xsj2.1.php?id=now-hbof-amily
-Now HBO Signature,http://cdn9.1678520.xyz/xsj2.1.php?id=now-hbo-signature
-MovieMovie,http://cdn9.1678520.xyz/xsj2.1.php?id=moviemovie
-NowViu剧集台,http://cdn9.1678520.xyz/xsj2.1.php?id=now-viu-drama
-Now Sports 641,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports641
-Now NBA,http://cdn9.1678520.xyz/xsj2.1.php?id=now-nba
-Now Sports精选,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-prime
-Now Sports 1,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-1
-Now Sports 2,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-2
-Now Sports 3,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-3
-Now Sports 4,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-4
-Now Sports 5,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-5
-Now Sports 6,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-6
-Now Sports 7,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-7
-Now Sports Plus,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-plus
-Now Sports 英超1,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-premier-league1
-Now Sports 英超2,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-premier-league2
-Now Sports 英超3,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-premier-league3
-Now Sports 英超4,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-premier-league4
-Now Sports 英超5,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-premier-league5
-Now Sports 英超6,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-premier-league6
-Now beIN SPORTS 1,http://cdn9.1678520.xyz/xsj2.1.php?id=now-bein-sports1
-Now beIN SPORTS 2,http://cdn9.1678520.xyz/xsj2.1.php?id=now-bein-sports2
-Now beIN SPORTS 3,http://cdn9.1678520.xyz/xsj2.1.php?id=now-bein-sports3
-Now 668,http://cdn9.1678520.xyz/xsj2.1.php?id=now-668
-Now 618,http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-618
-Now Golf 2,http://cdn9.1678520.xyz/xsj2.1.php?id=now-golf2
-Now Golf 3,http://cdn9.1678520.xyz/xsj2.1.php?id=now-golf3
-
-民视,http://cdn9.1678520.xyz/xsj2.1.php?id=ftv
-民视台湾台,http://cdn9.1678520.xyz/xsj2.1.php?id=ftv-tw
-民视第一台,http://cdn9.1678520.xyz/xsj2.1.php?id=ftv-one
-纬来日本,http://cdn9.1678520.xyz/xsj2.1.php?id=videoland-japan
-纬来综合,http://cdn9.1678520.xyz/xsj2.1.php?id=videoland
-八大综合,http://cdn9.1678520.xyz/xsj2.1.php?id=gtv28
-八大第一,http://cdn9.1678520.xyz/xsj2.1.php?id=gtv27
-TVBS 精采台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvbs-jc
-TVBS 欢乐台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvbs-huanle
-TVBS Asia,http://cdn9.1678520.xyz/xsj2.1.php?id=tvbs-asia
-三立台湾台,http://cdn9.1678520.xyz/xsj2.1.php?id=settv-taiwan
-三立综合台,http://cdn9.1678520.xyz/xsj2.1.php?id=settv-zonghe
-台视,http://cdn9.1678520.xyz/xsj2.1.php?id=ttv
-东森超视,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-super
-东森综合台,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-ettv
-中视,http://cdn9.1678520.xyz/xsj2.1.php?id=ctv
-中视菁采台,http://cdn9.1678520.xyz/xsj2.1.php?id=bravo
-中天亚洲,http://cdn9.1678520.xyz/xsj2.1.php?id=cti-asia
-中天综合,http://cdn9.1678520.xyz/xsj2.1.php?id=ctitv36
-华视,http://cdn9.1678520.xyz/xsj2.1.php?id=cts
-LiveABC 互动英语频道,http://cdn9.1678520.xyz/xsj2.1.php?id=liveabc
-好消息,http://cdn9.1678520.xyz/xsj2.1.php?id=goodtv
-KLT-靖天国际台,http://cdn9.1678520.xyz/xsj2.1.php?id=jtgj
-ELTA综合台,http://cdn9.1678520.xyz/xsj2.1.php?id=elta-zonghe
-公视,http://cdn9.1678520.xyz/xsj2.1.php?id=pts
-公视3台,http://cdn9.1678520.xyz/xsj2.1.php?id=pts-3
-公视台语台,http://cdn9.1678520.xyz/xsj2.1.php?id=pts-ty
-靖天综合台,http://cdn9.1678520.xyz/xsj2.1.php?id=jtzh
-靖天日本台,http://cdn9.1678520.xyz/xsj2.1.php?id=jtrb
-客家电视台,http://cdn9.1678520.xyz/xsj2.1.php?id=hakkatv
-大爱一台,http://cdn9.1678520.xyz/xsj2.1.php?id=daai1
-大爱二台,http://cdn9.1678520.xyz/xsj2.1.php?id=daai2
-ARIRANG 阿里郎频道,http://cdn9.1678520.xyz/xsj2.1.php?id=arirang
-
-中天新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=cti-news
-TVBS 新闻台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvbs-news
-TVBS HD,http://cdn9.1678520.xyz/xsj2.1.php?id=tvbs-hd
-东森新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-news
-东森财经新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-finance
-寰宇新闻台,http://cdn9.1678520.xyz/xsj2.1.php?id=global-news
-寰宇财经台,http://cdn9.1678520.xyz/xsj2.1.php?id=global-finance
-寰宇新闻台湾台,http://cdn9.1678520.xyz/xsj2.1.php?id=global-news-tw
-壹新闻 HD,http://cdn9.1678520.xyz/xsj2.1.php?id=nexttv
-三立新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=settv-news
-三立iNews,http://cdn9.1678520.xyz/xsj2.1.php?id=settv-inews
-中视新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=ctv-news
-非凡新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=unique-business-news
-年代新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=era-news
-民视新闻台,http://cdn9.1678520.xyz/xsj2.1.php?id=ftv-news
-台视新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=ttv-news
-镜电视新闻台,http://cdn9.1678520.xyz/xsj2.1.php?id=mnews
-华视新闻,http://cdn9.1678520.xyz/xsj2.1.php?id=cts-news
-半岛国际新闻台,http://cdn9.1678520.xyz/xsj2.1.php?id=aljazeera
-SBN 全球财经台,http://cdn9.1678520.xyz/xsj2.1.php?id=sbn
-靖天资讯台,http://cdn9.1678520.xyz/xsj2.1.php?id=jtzx
-
-纬来电影台,http://cdn9.1678520.xyz/xsj2.1.php?id=videoland-movie
-纬来戏剧,http://cdn9.1678520.xyz/xsj2.1.php?id=videoland-drama
-TVBS综艺台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvbs-zongyi
-TVBS台剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvbs-taiju
-龙祥电影台,http://cdn9.1678520.xyz/xsj2.1.php?id=lstime
-龙华电影台,http://cdn9.1678520.xyz/xsj2.1.php?id=ltv-movies
-龙华戏剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=ltv-xiju
-龙华日韩台,http://cdn9.1678520.xyz/xsj2.1.php?id=ltv-rihan
-东森电影,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-movie
-东森戏剧,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-drama
-东森洋片,http://cdn9.1678520.xyz/xsj2.1.php?id=ebc-emovie
-八大精彩台,http://cdn9.1678520.xyz/xsj2.1.php?id=gtv-jct
-八大戏剧,http://cdn9.1678520.xyz/xsj2.1.php?id=gtv-41
-八大娱乐,http://cdn9.1678520.xyz/xsj2.1.php?id=gtv-86
-八大综艺,http://cdn9.1678520.xyz/xsj2.1.php?id=grt
-采昌影剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=caichang
-美亚电影台,http://cdn9.1678520.xyz/xsj2.1.php?id=meiah-movies
-猪哥亮歌厅秀,http://cdn9.1678520.xyz/xsj2.1.php?id=zglgtx
-民视综艺,http://cdn9.1678520.xyz/xsj2.1.php?id=ftv-reality
-民视影剧,http://cdn9.1678520.xyz/xsj2.1.php?id=ftv-drama
-三立都会台,http://cdn9.1678520.xyz/xsj2.1.php?id=settv-city
-三立戏剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=settv-drama
-中视经典台,http://cdn9.1678520.xyz/xsj2.1.php?id=ctv-classic
-中天娱乐,http://cdn9.1678520.xyz/xsj2.1.php?id=cti-yule
-靖洋戏剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=jyxj
-靖天映画,http://cdn9.1678520.xyz/xsj2.1.php?id=jtyh
-靖天电影台,http://cdn9.1678520.xyz/xsj2.1.php?id=jtdy
-靖天戏剧台,http://cdn9.1678520.xyz/xsj2.1.php?id=jtxjt
-韩国娱乐台 KMTV,http://cdn9.1678520.xyz/xsj2.1.php?id=kmtv
-公视戏剧,http://cdn9.1678520.xyz/xsj2.1.php?id=gsxj
-影迷数位纪实台,http://cdn9.1678520.xyz/xsj2.1.php?id=ymswjst
-影迷数字电影台,http://cdn9.1678520.xyz/xsj2.1.php?id=fans-cinema
-视纳华仁纪实频道,http://cdn9.1678520.xyz/xsj2.1.php?id=cnex
-MTV Live HD 频道,http://cdn9.1678520.xyz/xsj2.1.php?id=mtv
-ELTA 娱乐台,http://cdn9.1678520.xyz/xsj2.1.php?id=elta-ylt
-
-Channel 5,http://cdn9.1678520.xyz/xsj2.1.php?id=channel-5
-Channel 8,http://cdn9.1678520.xyz/xsj2.1.php?id=channel8
-Channel U,http://cdn9.1678520.xyz/xsj2.1.php?id=channel-u
-8TV,http://cdn9.1678520.xyz/xsj2.1.php?id=8tv
-TV9,http://cdn9.1678520.xyz/xsj2.1.php?id=tv9
-CM+,http://cdn9.1678520.xyz/xsj2.1.php?id=cm-plus
-E乐,http://cdn9.1678520.xyz/xsj2.1.php?id=singtel-tv
-TV1,http://cdn9.1678520.xyz/xsj2.1.php?id=tv1-my
-TV2,http://cdn9.1678520.xyz/xsj2.1.php?id=tv2-my
-TV3,http://cdn9.1678520.xyz/xsj2.1.php?id=tv3-my
-ChannelNewsAsia,http://cdn9.1678520.xyz/xsj2.1.php?id=channelnewsasia
-OKEY,http://cdn9.1678520.xyz/xsj2.1.php?id=okey
-Magic,http://cdn9.1678520.xyz/xsj2.1.php?id=tvb-magic
-tvN Movies,http://cdn9.1678520.xyz/xsj2.1.php?id=tvn-movies
-AXN,http://cdn9.1678520.xyz/xsj2.1.php?id=axn
-TV Alhijrah,http://cdn9.1678520.xyz/xsj2.1.php?id=tv-alhijrah
-ColorsHindi,http://cdn9.1678520.xyz/xsj2.1.php?id=colorshindi
-TVS,http://cdn9.1678520.xyz/xsj2.1.php?id=tvs
-tvN,http://cdn9.1678520.xyz/xsj2.1.php?id=tvn
-BeritaRTM,http://cdn9.1678520.xyz/xsj2.1.php?id=beritartm
-SukanRTM,http://cdn9.1678520.xyz/xsj2.1.php?id=sukanrtm
-HITSMovies,http://cdn9.1678520.xyz/xsj2.1.php?id=hitsmovies
-ShowCase,http://cdn9.1678520.xyz/xsj2.1.php?id=showcase
-BBCEarth,http://cdn9.1678520.xyz/xsj2.1.php?id=bbcearth
-Mediacorp Suria,http://cdn9.1678520.xyz/xsj2.1.php?id=mediacorp-suria
-Mediacorp Vasantham,http://cdn9.1678520.xyz/xsj2.1.php?id=mediacorp-vasantham
-Gem,http://cdn9.1678520.xyz/xsj2.1.php?id=gem
-GlobalTrekker,http://cdn9.1678520.xyz/xsj2.1.php?id=globaltrekker
-DramaSangat,http://cdn9.1678520.xyz/xsj2.1.php?id=dramasangat
-SunTV,http://cdn9.1678520.xyz/xsj2.1.php?id=suntv
-SunMusic,http://cdn9.1678520.xyz/xsj2.1.php?id=sunmusic
-SunNews,http://cdn9.1678520.xyz/xsj2.1.php?id=sunnews
-AwesomeTV,http://cdn9.1678520.xyz/xsj2.1.php?id=awesometv
-DidikTV7,http://cdn9.1678520.xyz/xsj2.1.php?id=didiktv7
-Adithya,http://cdn9.1678520.xyz/xsj2.1.php?id=adithya
-KTVHD,http://cdn9.1678520.xyz/xsj2.1.php?id=ktvhd
-SunLife,http://cdn9.1678520.xyz/xsj2.1.php?id=sunlife
-StarVijay,http://cdn9.1678520.xyz/xsj2.1.php?id=starvijay
-ColorsTamil,http://cdn9.1678520.xyz/xsj2.1.php?id=colorstamil
-ZeeTamil,http://cdn9.1678520.xyz/xsj2.1.php?id=zeetamil
-ZeeCinemaHD,http://cdn9.1678520.xyz/xsj2.1.php?id=zeecinemahd
-Boo,http://cdn9.1678520.xyz/xsj2.1.php?id=boo
-MTVLive,http://cdn9.1678520.xyz/xsj2.1.php?id=mtvlive
-Bernama,http://cdn9.1678520.xyz/xsj2.1.php?id=bernama
-Moonbug,http://cdn9.1678520.xyz/xsj2.1.php?id=moonbug
-
-Hub都会,http://cdn9.1678520.xyz/xsj2.1.php?id=HubECity
-Hub娱家,http://cdn9.1678520.xyz/xsj2.1.php?id=HubVVDrama
-HubSports 1,http://cdn9.1678520.xyz/xsj2.1.php?id=hubsports1
-HubSports2,http://cdn9.1678520.xyz/xsj2.1.php?id=hubsports2
-HubSports3,http://cdn9.1678520.xyz/xsj2.1.php?id=hubsports3
-HubSport4,http://cdn9.1678520.xyz/xsj2.1.php?id=hubsports4
-HubSports Plus,http://cdn9.1678520.xyz/xsj2.1.php?id=hubsports-plus
-Hub Premier 1,http://cdn9.1678520.xyz/xsj2.1.php?id=hubpremier1
-HubPremier2,http://cdn9.1678520.xyz/xsj2.1.php?id=hubpremier2
-HubPremier3,http://cdn9.1678520.xyz/xsj2.1.php?id=hubpremier3
-HubPremier 4,http://cdn9.1678520.xyz/xsj2.1.php?id=hubpremier4
-HubPremier 5,http://cdn9.1678520.xyz/xsj2.1.php?id=hubpremier5
-Hub Sensasi,http://cdn9.1678520.xyz/xsj2.1.php?id=hub-sensasi
-tvn HD,http://cdn9.1678520.xyz/xsj2.1.php?id=tvnhd
-AstroWarna Hub版,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-warna-hub
-ONEMalay,http://cdn9.1678520.xyz/xsj2.1.php?id=one-malay
-
-Astro AEC,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-aec
-Astro 欢喜台,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-huaheedai
-Astro SuperSport,http://cdn9.1678520.xyz/xsj2.1.php?id=super-sports1
-Astro SuperSport 2,http://cdn9.1678520.xyz/xsj2.1.php?id=super-sports2
-Astro SuperSport 3,http://cdn9.1678520.xyz/xsj2.1.php?id=super-sports3
-Astro SuperSport 4,http://cdn9.1678520.xyz/xsj2.1.php?id=super-sports4
-Arena Bola,http://cdn9.1678520.xyz/xsj2.1.php?id=arena-bola
-Arena Bola2,http://cdn9.1678520.xyz/xsj2.1.php?id=arena-bola2
-Astro 爱奇艺,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-iqiyi
-Astro AOD 311 国语,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-aod
-Astro AOD 311 粤语,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-aod-311-hk
-Astro QJ,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-quanjia
-Astro Awani,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-awani
-Astro Arena HD,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-arena-hd
-Astro Arena 2,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-arena2
-Astro Citra,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-citra
-Astro Prima,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-prima
-Astro Aura,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-aura
-Astro RIA,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-ria
-Astro ONE,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-one
-AstroPremier,http://cdn9.1678520.xyz/xsj2.1.php?id=astropremier
-Astro Ceria,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-ceria
-Astro Vaanavil,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-vaanavil
-Astro Vinmeen,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-vinmeen
-Astro Warna,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-warna
-Astro Vellithirai,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-vellithirai
-Astro Rania,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-rania
-Astro Oasis,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-oasis
-Astro TUTOR TV,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-tutor-tv
-Astro GolfChannel,http://cdn9.1678520.xyz/xsj2.1.php?id=astro-golfchannel
-
-beIN Sports,http://cdn9.1678520.xyz/xsj2.1.php?id=beinsports
-beIN Sports 2,http://cdn9.1678520.xyz/xsj2.1.php?id=beinsports2
-beIN Sports 3,http://cdn9.1678520.xyz/xsj2.1.php?id=beinsports3
-ELTA 体育-1,http://cdn9.1678520.xyz/xsj2.1.php?id=elta-sport1
-ELTA 体育-2,http://cdn9.1678520.xyz/xsj2.1.php?id=elta-sport2
-ELTA 体育-3,http://cdn9.1678520.xyz/xsj2.1.php?id=elta-sport3
-ELTA体育4台,http://cdn9.1678520.xyz/xsj2.1.php?id=elta-sport4
-博斯网球,http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast-tennis
-博斯运动-1,http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast1
-博斯运动-2,http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast2
-博斯无限,http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast-wx
-博斯高球-1,http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast-golf1
-博斯高球-2,http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast-golf2
-博斯魅力,http://cdn9.1678520.xyz/xsj2.1.php?id=sportcast-meili
-ESPN,http://cdn9.1678520.xyz/xsj2.1.php?id=espn
-ESPN 2,http://cdn9.1678520.xyz/xsj2.1.php?id=espn2
-ESPN 3,http://cdn9.1678520.xyz/xsj2.1.php?id=espn3
-ESPN 4,http://cdn9.1678520.xyz/xsj2.1.php?id=espn4
-myTV SUPER直播足球1台,http://cdn9.1678520.xyz/xsj2.1.php?id=mytv-super-soccer1
-myTV SUPER直播足球2台,http://cdn9.1678520.xyz/xsj2.1.php?id=mytv-super-soccer2
-myTV SUPER直播足球3台,http://cdn9.1678520.xyz/xsj2.1.php?id=mytv-super-soccer3
-myTV SUPER直播足球4台,http://cdn9.1678520.xyz/xsj2.1.php?id=mytv-super-soccer4
-myTV SUPER 18,http://cdn9.1678520.xyz/xsj2.1.php?id=mytvsuper-18
-纬来体育,http://cdn9.1678520.xyz/xsj2.1.php?id=videoland-sport
-NBA,http://cdn9.1678520.xyz/xsj2.1.php?id=nba
-WWE,http://cdn9.1678520.xyz/xsj2.1.php?id=wwe
-DAZN 1,http://cdn9.1678520.xyz/xsj2.1.php?id=eleven-sport1
-DAZN 2,http://cdn9.1678520.xyz/xsj2.1.php?id=eleven-sport2
-Eurosports-1,http://cdn9.1678520.xyz/xsj2.1.php?id=eurosports-1
-SPOTV,http://cdn9.1678520.xyz/xsj2.1.php?id=spotv
-SPOTV-2,http://cdn9.1678520.xyz/xsj2.1.php?id=spotv2
-时尚运动 X,http://cdn9.1678520.xyz/xsj2.1.php?id=ssydx
-GINX Esports TV,http://cdn9.1678520.xyz/xsj2.1.php?id=ginx-esports
-Tech Storm,http://cdn9.1678520.xyz/xsj2.1.php?id=tech-storm
-TRACE Sport Stars,http://cdn9.1678520.xyz/xsj2.1.php?id=trace-sport-stars
-W-Sport,http://cdn9.1678520.xyz/xsj2.1.php?id=w-sport
-PremierSports,http://cdn9.1678520.xyz/xsj2.1.php?id=premiersports
-智林体育台,http://cdn9.1678520.xyz/xsj2.1.php?id=zl-sports
-
-新时代电视,http://cdn9.1678520.xyz/xsj2.1.php?id=fairchildtv
-新时代电视二台,http://cdn9.1678520.xyz/xsj2.1.php?id=fairchildtv2
-城市电视,http://cdn9.1678520.xyz/xsj2.1.php?id=talentvisiontv
-HBO HD,http://cdn9.1678520.xyz/xsj2.1.php?id=hbo-hd
-HBO Hits HD,http://cdn9.1678520.xyz/xsj2.1.php?id=hbo-hits-hd
-HBO Family HD,http://cdn9.1678520.xyz/xsj2.1.php?id=hbo-family
-HBO Signature HD,http://cdn9.1678520.xyz/xsj2.1.php?id=hbo-signature
-Cinemax,http://cdn9.1678520.xyz/xsj2.1.php?id=cinemax
-CNN International,http://cdn9.1678520.xyz/xsj2.1.php?id=cnn-international
-好莱坞电影,http://cdn9.1678520.xyz/xsj2.1.php?id=hollywood-movie
-ROCK Action,http://cdn9.1678520.xyz/xsj2.1.php?id=rock-action
-ROCK Entertainment,http://cdn9.1678520.xyz/xsj2.1.php?id=rock-entertaiment
-Bloomberg,http://cdn9.1678520.xyz/xsj2.1.php?id=bloomberg
-amc 最爱电影,http://cdn9.1678520.xyz/xsj2.1.php?id=amc-movie
-美国中文电视,http://cdn9.1678520.xyz/xsj2.1.php?id=sinovision
-Lifetime 娱乐频道,http://cdn9.1678520.xyz/xsj2.1.php?id=lifetime
-HLN,http://cdn9.1678520.xyz/xsj2.1.php?id=cnn-hln
-fun 探索娱乐台,http://cdn9.1678520.xyz/xsj2.1.php?id=festival4k
-Euronews,http://cdn9.1678520.xyz/xsj2.1.php?id=euronews
-MyCinema Europe HD,http://cdn9.1678520.xyz/xsj2.1.php?id=mycinema-europe
-VOA 美国之音,http://cdn9.1678520.xyz/xsj2.1.php?id=voa
-DW 德国之声,http://cdn9.1678520.xyz/xsj2.1.php?id=dw
-CNN,http://cdn9.1678520.xyz/xsj2.1.php?id=cnn
-ABC News,http://cdn9.1678520.xyz/xsj2.1.php?id=abc-news
-BBC World News,http://cdn9.1678520.xyz/xsj2.1.php?id=bbc-world-news
-CNBC,http://cdn9.1678520.xyz/xsj2.1.php?id=cnbc
-
 巴黎奥运直播,#genre#
 CCTV-5,http://183.185.40.47:8085/udp/226.0.1.135:2020
 CCTV-5+,http://183.185.40.47:8085/udp/226.0.1.172:3096
@@ -1036,6 +707,74 @@ CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000296.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000297.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000298.m3u8
+
+央视频,#genre#
+CCTV1,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+CCTV2,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8 
+CCTV3,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+CCTV4,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
+CCTV5,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8 
+CCTV5+,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8 
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8 
+CCTV6,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024086203.m3u8 
+CCTV7,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8 
+CCTV8,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8 
+CCTV9,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8 
+CCTV10,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078703.m3u8 
+CCTV11,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078803.m3u8 
+CCTV12,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078903.m3u8 
+CCTV13,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8 
+CCTV14,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079103.m3u8 
+CCTV15,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079203.m3u8 
+CCTV16,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079303.m3u8 
+CCTV16-4K,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024083703.m3u8 
+CCTV17,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024079503.m3u8 
+CCTV4K,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024081302.m3u8 
+CCTV8K,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV世界地理,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
+CCTV兵器科技,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
+CCTV第一剧场,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
+CCTV怀旧剧场,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
+CCTV风云剧场,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
+CCTV风云音乐,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
+CCTV风云足球,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV央视文化精品,http://60.221.17.67:80/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172301.m3u8
+CCTV高尔夫·网球,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
+CCTV央视台球,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
+CCTV电视指南,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
+CCTV女性时尚,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
+CCTV卫生健康,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024165201.m3u8
+CGTN,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2022575001.m3u8 
+CGTN纪录,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2022574703.m3u8 
+CGTN西语,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2022571703.m3u8 
+CGTN法语,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2022574903.m3u8 
+CGTN阿语,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2022574603.m3u8 
+CGTN俄语,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2022574803.m3u8 
+中国教育1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8 
+北京卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024052703.m3u8 
+东方卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054502.m3u8 
+天津卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2019927003.m3u8 
+重庆卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061102.m3u8 
+黑龙江卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061002.m3u8 
+辽宁卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171302.m3u8 
+河北卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171502.m3u8 
+山东卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171602.m3u8 
+安徽卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171402.m3u8 
+河南卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024059702.m3u8 
+湖北卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171202.m3u8 
+湖南卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054802.m3u8 
+江西卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061702.m3u8 
+江苏卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024171102.m3u8 
+浙江卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054702.m3u8 
+东南卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061502.m3u8 
+广东卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024060902.m3u8 
+深圳卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061302.m3u8
+广西卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024060702.m3u8 
+贵州卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061602.m3u8 
+四川卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024061402.m3u8 
+新疆卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2019927403.m3u8 
+海南卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024055602.m3u8 
+兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 
 广东移动,#genre#
 广东卫视FHD,http://oy.linye.tech:6006/udp/239.20.0.99:3004
@@ -2309,107 +2048,6 @@ IPTV谍战剧场,http://113.101.118.57:9981/stream/channelid/379618343?profile=p
 IPTV相声小品,http://113.101.118.57:9981/stream/channelid/419878795?profile=pass
 IPTV野外,http://113.101.118.57:9981/stream/channelid/1590638435?profile=pass
 IPTV法治,http://113.101.118.57:9981/stream/channelid/1879058663?profile=pass
-
-陕西秦岭云,#genre#
-重温经典,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-CCTV1HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
-CCTV2HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
-CCTV3HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
-CCTV4HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
-CCTV5HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
-CCTV5+HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-CCTV6HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
-CCTV7HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
-CCTV8HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
-CCTV9HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
-CCTV10HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
-CCTV11HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
-CCTV12HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
-CCTV13HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
-CCTV14HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
-CCTV15HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
-CCTV16HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
-CCTV17HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
-央视台球HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
-发现之旅,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226018/index.m3u8
-老故事,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226017/index.m3u8
-中学生,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226027/index.m3u8
-CGTN,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225519/index.m3u8
-CGTN,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225707/index.m3u8
-CGTN,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225708/index.m3u8
-CETV1,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225516/index.m3u8
-CETV1,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225709/index.m3u8
-CETV1,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225710/index.m3u8
-CHC家庭影院,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
-CHC家庭影院,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226315/index.m3u8
-北京卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
-北京卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225602/index.m3u8
-东方卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
-天津卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
-重庆卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
-黑龙江卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225594/index.m3u8
-吉林卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
-辽宁卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
-内蒙古卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225511/index.m3u8
-内蒙古卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225725/index.m3u8
-内蒙古卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225726/index.m3u8
-宁夏卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225522/index.m3u8
-宁夏卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225727/index.m3u8
-宁夏卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225728/index.m3u8
-甘肃卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225561/index.m3u8
-青海卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225528/index.m3u8
-青海卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225729/index.m3u8
-青海卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225730/index.m3u8
-陕西卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-农林卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
-河北卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226328/index.m3u8
-山西卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225507/index.m3u8
-山西卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225735/index.m3u8
-山西卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225736/index.m3u8
-山东卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226326/index.m3u8
-安徽卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
-河南卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
-湖北卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226322/index.m3u8
-湖南卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
-江西卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
-江苏卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
-浙江卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
-东南卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225549/index.m3u8
-广东卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
-深圳卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
-广西卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225557/index.m3u8
-广西卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225719/index.m3u8
-广西卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225720/index.m3u8
-云南卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
-贵州卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
-四川卫视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
-新疆卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225560/index.m3u8
-兵团卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225518/index.m3u8
-兵团卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225731/index.m3u8
-兵团卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225732/index.m3u8
-西藏卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225559/index.m3u8
-海南卫视,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225562/index.m3u8
-凤凰中文,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
-凤凰中文,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
-凤凰资讯,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-北京纪实科教HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226011/index.m3u8
-百姓健康,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226021/index.m3u8
-环球奇观,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226029/index.m3u8
-四海钓鱼,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226025/index.m3u8
-优优宝贝,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226023/index.m3u8
-中华特产,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226022/index.m3u8
-陕西新闻资讯HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
-陕西都市青春HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
-陕西公共HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
-陕西生活HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
-陕西体育休闲HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226093/index.m3u8
-陕西影视HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226329/index.m3u8
-陕西西部电影HD,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
-影视剧,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226306/index.m3u8
-西安新闻综合,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225668/index.m3u8
-西安教育电视台,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226015/index.m3u8
-长安一套,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225841/index.m3u8
-长安一套,http://116.162.6.191/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225896/index.m3u8
 
 虎牙电影,#genre#
 火影忍者,http://mtw.so/5FCWPi
