@@ -229,19 +229,19 @@ HOY 資訊台,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
 中央電視台綜合頻道（CCTV-1綜合),http://beishan008.asuscomm.com:8892/bysid/33.m3u8
 中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://beishan008.asuscomm.com:8892/bysid/34.m3u8
 
-HOY 國際財經台,http://113.83.152.56:8554/bysid/76
-HOY TV,http://113.83.152.56:8554/bysid/77
-HOY 資訊台,http://113.83.152.56:8554/bysid/78
-翡翠台,http://113.83.152.56:8555/bysid/1
-ViuTVsix,http://113.83.152.56:8555/bysid/96
-ViuTV,http://113.83.152.56:8555/bysid/99
+HOY 國際財經台,http://113.83.152.56:8554/bysid/76.m3u8
+HOY TV,http://113.83.152.56:8554/bysid/77.m3u8
+HOY 資訊台,http://113.83.152.56:8554/bysid/78.m3u8
+翡翠台,http://113.83.152.56:8555/bysid/1.m3u8
+ViuTVsix,http://113.83.152.56:8555/bysid/96.m3u8
+ViuTV,http://113.83.152.56:8555/bysid/99.m3u8
 
-HOY 國際財經台,http://113.83.152.56:8181/bysid/76
-HOY TV,http://113.83.152.56:8181/bysid/77
-HOY 資訊台,http://113.83.152.56:8181/bysid/78
-翡翠台,http://113.83.152.56:8182/bysid/1
-ViuTVsix,http://113.83.152.56:8182/bysid/96
-ViuTV,http://113.83.152.56:8182/bysid/99
+HOY 國際財經台,http://113.83.152.56:8181/bysid/76.m3u8
+HOY TV,http://113.83.152.56:8181/bysid/77.m3u8
+HOY 資訊台,http://113.83.152.56:8181/bysid/78.m3u8
+翡翠台,http://113.83.152.56:8182/bysid/1.m3u8
+ViuTVsix,http://113.83.152.56:8182/bysid/96.m3u8
+ViuTV,http://113.83.152.56:8182/bysid/99.m3u8
 
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
@@ -272,18 +272,18 @@ TVB Plus,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 翡翠台,http://m.glx008.com:8000/bysid/1.m3u8
 ViuTVsix,http://m.glx008.com:8000/bysid/96.m3u8
 ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
-明珠台,http://m.glx008.com:8000/bysid/2
-TVB Plus,http://m.glx008.com:8000/bysid/82
-無綫新聞台,http://m.glx008.com:8000/bysid/83
-鳳凰衛視香港台,http://m.glx008.com:8000/bysid/85
+明珠台,http://m.glx008.com:8000/bysid/2.m3u8
+TVB Plus,http://m.glx008.com:8000/bysid/82.m3u8
+無綫新聞台,http://m.glx008.com:8000/bysid/83.m3u8
+鳳凰衛視香港台,http://m.glx008.com:8000/bysid/85.m3u8
 
-翡翠台,http://124.244.149.194:65530/bysid/1
-ViuTVsix,http://124.244.149.194:65530/bysid/96
-ViuTV,http://124.244.149.194:65530/bysid/99
-明珠台,http://124.244.149.194:65531/bysid/2
-TVB Plus,http://124.244.149.194:65531/bysid/82
-無綫新聞台,http://124.244.149.194:65531/bysid/83
-鳳凰衛視香港台,http://124.244.149.194:65531/bysid/85
+翡翠台,http://124.244.149.194:65530/bysid/1.m3u8
+ViuTVsix,http://124.244.149.194:65530/bysid/96.m3u8
+ViuTV,http://124.244.149.194:65530/bysid/99.m3u8
+明珠台,http://124.244.149.194:65531/bysid/2.m3u8
+TVB Plus,http://124.244.149.194:65531/bysid/82.m3u8
+無綫新聞台,http://124.244.149.194:65531/bysid/83.m3u8
+鳳凰衛視香港台,http://124.244.149.194:65531/bysid/85.m3u8
 
 断流测试,#genre#
 亚洲美食台 HD,http://extraott.com:80/live/7921751389/6097373662/5566.m3u8
