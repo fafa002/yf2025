@@ -346,6 +346,25 @@ RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
 断流测试,#genre#
+HOY TV,P2p://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4
+HOY资讯台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
+翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+翡翠台(备),P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
+TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
+无线新闻台(备),P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
+TVB娱乐新闻台,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
+无线新闻台,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+ViuTVsix,P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580
+ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
+凤凰中文台,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰资讯台,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
+凤凰香港台,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
+TVB星河,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
+澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf
+澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8
+港台电视36,P2p://generationnexxxt.com:19806/66ae0d840005a10ee8285dce7b7d2800
+HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
+戏曲台,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
 爆谷台,P2p://147.135.39.171:9906/66ba28a0000e660981f55e2a07e90c64
 爆谷星影,P2p://147.135.39.171:9906/66ba32f60009fff9179ab28f746a6025
 美亚电影台HD,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
