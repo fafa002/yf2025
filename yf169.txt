@@ -167,7 +167,8 @@ NOW 爆谷2,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls
 NOW 新闻,http://223.244.26.190:8082/now新闻-盗源可耻/易發TV专用/hls.m3u8
 TVB翡翠,http://123.150.5.131:9000/tvb翡翠盗源可耻/易發TV专用.live.flv
 TVB翡翠2,http://223.244.26.190:8082/tvb翡翠-盗源可耻/易發TV专用/hls.m3u8
-TVB翡翠3,http://cdn2.1689.us.kg/live/live1.1.php?id=fct2
+TVB翡翠3,http://cdn2.1689.us.kg/live/live1.1.php?id=fct
+TVB翡翠4,http://cdn2.1689.us.kg/live/live1.1.php?id=fct2
 TVB翡翠4k,http://cdn2.1689.us.kg/live/live1.1.php?id=fct4k
 无线 新闻,http://123.150.5.131:9000/tvb新闻盗源可耻/易發TV专用.live.flv
 HOY 77,http://223.244.26.190:8082/hoy77-盗源可耻/易發TV专用/hls.m3u8
