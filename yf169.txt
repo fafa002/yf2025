@@ -160,7 +160,6 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 
 极速港台,#genre#
-(限时)POPC,http://223.244.26.190:8082/popc-盗源可耻/易發TV专用/hls.m3u8
 NOW 星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.flv
 NOW 爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
 NOW 爆谷2,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
