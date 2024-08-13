@@ -346,9 +346,9 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
-晴天港湾,#genre#
+断流测试,#genre#
 爆谷台,P2p://147.135.39.171:9906/66ba28a0000e660981f55e2a07e90c64
-爆谷星影,P2p://generationnexxxt.com:19806/66ba32f60009fff9179ab28f746a6025
+爆谷星影,P2p://147.135.39.171:9906/66ba32f60009fff9179ab28f746a6025
 美亚电影台HD,P2p://generationnexxxt.com:19806/6c34f21c2c634e5db469a2971a6e4ed0
 龙华电影,P2p://generationnexxxt.com:19806/40368423d7dc44baaac3fbfc644ee9bf
 天映频道,P2p://generationnexxxt.com:19806/179f2b9026a9449198a6486cb1bc8481
