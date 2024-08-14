@@ -160,6 +160,9 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 
 极速港台,#genre#
+POPC,http://short-link.me/POPC
+黄金翡翠,https://short-link.me/HJFC
+mytv亚洲剧,https://short-link.me/YZJ
 NOW 星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.flv
 NOW 爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
 NOW 爆谷2,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
@@ -345,7 +348,7 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
-断流测试,#genre#
+断流 测试,#genre#
 HOY TV,P2p://generationnexxxt.com:19806/66b0affc0000b2eff273015566865bd4
 HOY资讯台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
@@ -601,7 +604,20 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 爱尔达奥运7台,P2p://generationnexxxt.com:19806/66a9cc5d0004582ed789dd273b4c44fe
 
 广东本地,#genre#
-广州塔,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
+广东卫视,http://123.150.5.131:9000/广东卫视-盗源可耻/易發TV专用.live.flv
+广东珠江,http://123.150.5.131:9000/广东珠江-盗源可耻/易發TV专用.live.flv
+大湾区卫视,http://123.150.5.131:9000/大湾区卫视-盗源可耻/易發TV专用.live.flv
+广东民生,http://123.150.5.131:9000/广东民生-盗源可耻/易發TV专用.live.flv
+广东新闻,http://123.150.5.131:9000/广东新闻-盗源可耻/易發TV专用.live.flv
+广东经济科教,http://123.150.5.131:9000/经济科教-盗源可耻/易發TV专用.live.flv
+广东体育,http://123.150.5.131:9000/广东体育-盗源可耻/易發TV专用.live.flv
+(失效)广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
+广东影视,http://123.150.5.131:9000/广东影视-盗源可耻/易發TV专用.live.flv
+嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
+广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
+广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
+广东综艺4K,http://php.jdshipin.com:8880/chudian.php?id=gdzy
+GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -625,20 +641,6 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/playlist.m3u8
 阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/playlist.m3u8
-(失效)广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
-(失效)广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
-(失效)大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
-(失效)广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
-(失效)广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
-(失效)广东经济科教,http://php.jdshipin.com:8880/chudian.php?id=gdjjkj
-(失效)广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
-(失效)广东少儿,http://php.jdshipin.com:8880/chudian.php?id=gdse
-(失效)广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
-嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
-广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
-广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
-广东综艺4K,http://php.jdshipin.com:8880/chudian.php?id=gdzy
-GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 肇庆综合,http://php.jdshipin.com:8880/chudian.php?id=zqzh
 肇庆公共,http://php.jdshipin.com:8880/chudian.php?id=zqgg
 惠州新闻综合,http://php.jdshipin.com:8880/chudian.php?id=hzxw
