@@ -160,11 +160,11 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 
 极速港台,#genre#
-POPC,http://short-link.me/POPC
-黄金翡翠,http://short-link.me/HJFC
-mytv亚洲剧,http://short-link.me/YZJ
-广电翡翠,http://short-link.me/gdfct
-TVB翡翠4k,http://short-link.me/GDFC4K
+POPC,https://short-link.me/POPC
+黄金翡翠,https://short-link.me/HJFC
+mytv亚洲剧,https://short-link.me/YZJ
+广电翡翠,https://short-link.me/gdfct
+TVB翡翠4k,https://short-link.me/GDFC4K
 NOW 星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.flv
 NOW 爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
 NOW 爆谷2,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
