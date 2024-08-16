@@ -1846,28 +1846,6 @@ Unknown@239.77.1.23:5146,http://tenfarr.com:4000/rtp/239.77.1.23:5146
 网络通道6HD,http://tenfarr.com:4000/rtp/239.77.1.122:5146
 （信号传输故障）高清,http://tenfarr.com:4000/rtp/239.77.1.110:5146
 
-中华电信MOD,#genre#
-JStar極限台電影頻道,http://jaz9.my.to:4022/udp/230.1.2.152:11111
-JStar極限台電影頻道,http://jaz9.my.to:4022/udp/230.1.2.32:11111
-K頻道,http://jaz9.my.to:4022/udp/224.1.4.175:11111
-K頻道,http://jaz9.my.to:4022/udp/224.1.4.65:11111
-松視1台,http://jaz9.my.to:4022/udp/224.1.4.68:11111
-松視1台,http://jaz9.my.to:4022/udp/230.1.2.142:11111
-松視2台,http://jaz9.my.to:4022/udp/224.1.4.149:11111
-松視2台,http://jaz9.my.to:4022/udp/224.1.4.69:11111
-松視3台,http://jaz9.my.to:4022/udp/224.1.4.253:11111
-松視3台,http://jaz9.my.to:4022/udp/224.1.4.70:11111
-香蕉台,http://jaz9.my.to:4022/udp/224.1.4.205:11111
-香蕉台,http://jaz9.my.to:4022/udp/230.1.2.94:11111
-彩虹 MOVIE,http://jaz9.my.to:4022/udp/224.1.4.164:11111
-彩虹 MOVIE,http://jaz9.my.to:4022/udp/224.1.4.64:11111
-彩虹E台,http://jaz9.my.to:4022/udp/224.1.4.141:11111
-彩虹E台,http://jaz9.my.to:4022/udp/224.1.4.63:11111
-潘朵啦高畫質玩美台,http://jaz9.my.to:4022/udp/230.1.2.219:11111
-潘朵啦高畫質玩美台,http://jaz9.my.to:4022/udp/230.1.2.39:11111
-驚豔成人電影台,http://jaz9.my.to:4022/udp/224.1.4.204:11111
-驚豔成人電影台,http://jaz9.my.to:4022/udp/230.1.2.27:11111
-
 黑龙江移动V6,#genre#
 CCTV1[1280*720],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
 CCTV1[1280*720],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226005/index.m3u8
@@ -3053,3 +3031,25 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 福建音乐,https://lhttp.qingting.fm/live/4585/64k.mp3
 河北音乐,https://lhttp.qingting.fm/live/1649/64k.mp3
 浙江音乐,https://lhttp.qingting.fm/live/4866/64k.mp3
+
+中华电信MOD,#genre#
+JStar極限台電影頻道,http://jaz9.my.to:4022/udp/230.1.2.152:11111
+JStar極限台電影頻道,http://jaz9.my.to:4022/udp/230.1.2.32:11111
+K頻道,http://jaz9.my.to:4022/udp/224.1.4.175:11111
+K頻道,http://jaz9.my.to:4022/udp/224.1.4.65:11111
+松視1台,http://jaz9.my.to:4022/udp/224.1.4.68:11111
+松視1台,http://jaz9.my.to:4022/udp/230.1.2.142:11111
+松視2台,http://jaz9.my.to:4022/udp/224.1.4.149:11111
+松視2台,http://jaz9.my.to:4022/udp/224.1.4.69:11111
+松視3台,http://jaz9.my.to:4022/udp/224.1.4.253:11111
+松視3台,http://jaz9.my.to:4022/udp/224.1.4.70:11111
+香蕉台,http://jaz9.my.to:4022/udp/224.1.4.205:11111
+香蕉台,http://jaz9.my.to:4022/udp/230.1.2.94:11111
+彩虹 MOVIE,http://jaz9.my.to:4022/udp/224.1.4.164:11111
+彩虹 MOVIE,http://jaz9.my.to:4022/udp/224.1.4.64:11111
+彩虹E台,http://jaz9.my.to:4022/udp/224.1.4.141:11111
+彩虹E台,http://jaz9.my.to:4022/udp/224.1.4.63:11111
+潘朵啦高畫質玩美台,http://jaz9.my.to:4022/udp/230.1.2.219:11111
+潘朵啦高畫質玩美台,http://jaz9.my.to:4022/udp/230.1.2.39:11111
+驚豔成人電影台,http://jaz9.my.to:4022/udp/224.1.4.204:11111
+驚豔成人電影台,http://jaz9.my.to:4022/udp/230.1.2.27:11111
