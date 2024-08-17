@@ -175,7 +175,8 @@ TVB翡翠2,http://223.244.26.190:8082/tvb翡翠-盗源可耻/易發TV专用/hls.
 HOY 77,http://223.244.26.190:8082/hoy77-盗源可耻/易發TV专用/hls.m3u8
 HOY 78,http://123.150.5.131:9000/hoy78盗源可耻/易發TV专用.live.flv
 有线18,http://123.150.5.131:9000/yx18盗源可耻/易發TV专用.live.flv
-TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+TVB-Plus1,http://223.244.26.190:8082/tvbplus-盗源可耻/易發TV专用/hls.m3u8
+TVB-Plus2,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2
 美亚电影,http://60.208.140.180:5544/美亚电影-盗源可耻/易發TV专用.live.ts
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -1046,8 +1047,8 @@ CGTN俄语,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181903.m3u8
 
 广东联通,#genre#
 盗源狗不得好si，出门被车撞
-CCTV-1,http://58.248.112.203:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W8QJmHEMzRUBrKJPimctRp9aWqV4lJS02pIKdFtSYf7Z
-CCTV-2,http://58.248.112.203:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WyktMDQbcrKz8xjfH5H57oKfN3ozY0wTBpkwddXKtocd
+CCTV-1,http://58.248.112.203:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W8QJmHEMzRUBrKJPimctRp/OX3HsHOZl1n0qXIlMM+jS
+CCTV-2,http://58.248.112.203:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W52fbwLZxfhaPFyBTQ0aYLfM/cZnr1eC8XHSIvXFo0Cm+jS
 CCTV-3,http://58.248.112.203:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wy6USnhhgx8TZ3vY5OEagLQ5EbipDR9eKYQhENh7mdbY
 CCTV-4,http://58.248.112.203:8006/GD_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4TD67pxikfM8K4w2idTQSZnomXtUQB7eSvK2PB1Jy6U
 CCTV-5,http://58.248.112.203:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W84yDoXpAnJRzJ%2B84zD8adHx8chxpqAhceepOo4b9RtD
