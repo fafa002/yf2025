@@ -163,12 +163,6 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 
 极速港台,#genre#
 盗源狗不得好si，出门被车撞
-广电翡翠(备),https://short-link.me/gdfct
-TVB翡翠4k(备),https://short-link.me/GDFC4K
-NOW 星影(备),https://short-link.me/yifatvxy
-NOW 爆谷(备),https://short-link.me/yifatvbg
-NOW 紫金(备),https://short-link.me/yifatvzjgj
-TVB 翡翠(备),https://short-link.me/yifatvjade
 NOW 星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.flv
 NOW 爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
 NOW 爆谷2,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
@@ -216,6 +210,15 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+
+极速港台2,#genre#
+广电翡翠,https://short-link.me/gdfct
+TVB 翡翠,https://short-link.me/yifatvjade
+TVB 翡翠2,https://short-link.me/yifatvjade2
+TVB翡翠4k,https://short-link.me/GDFC4K
+NOW 星影,https://short-link.me/yifatvxy
+NOW 爆谷,https://short-link.me/yifatvbg
+NOW 紫金,https://short-link.me/yifatvzjgj
 
 HK DTMB,#genre#
 盗源狗不得好si，出门被车撞
@@ -1066,153 +1069,6 @@ CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000296.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000297.m3u8
 甘肃|轮播,http://120.76.248.139/live/bfgd/4200000298.m3u8
-
-央视频,#genre#
-盗源狗不得好si，出门被车撞
-CCTV1,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
-CCTV2,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
-CCTV3,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
-CCTV4,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
-CCTV5,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
-CCTV5+,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
-CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV6SD,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024086203.m3u8
-CCTV7,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
-CCTV8,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
-CCTV9,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
-CCTV10,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
-CCTV11,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
-CCTV12,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
-CCTV13,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
-CCTV14,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
-CCTV15,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
-CCTV16,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
-CCTV16-4K,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
-CCTV17,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
-CCTV4k,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
-CCTV8k,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
-CCTV第一剧场,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
-CCTV风云剧场,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
-CCTV怀旧剧场,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
-CCTV风云音乐,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
-CCTV女性时尚,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
-CCTV世界地理,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
-CCTV文化精品,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
-CCTV卫生健康,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
-CCTV兵器科技,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
-CCTV风云足球,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV央视台球,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
-CCTV电视指南,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
-CCTV高尔夫网球,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
-CGTN,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181703.m3u8
-CGTN纪录,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182303.m3u8
-CGTN阿语,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182003.m3u8
-CGTN西语,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182103.m3u8
-CGTN法语,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181803.m3u8
-CGTN俄语,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024181903.m3u8
-北京卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
-东方卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
-湖南卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
-江苏卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
-浙江卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054703.m3u8
-安徽卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171403.m3u8
-天津卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
-东南卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061503.m3u8
-辽宁卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171303.m3u8
-海南卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024055603.m3u8
-深圳卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061303.m3u8
-广东卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
-江西卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061703.m3u8
-广西卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060703.m3u8
-湖北卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171203.m3u8
-山东卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171603.m3u8
-贵州卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061603.m3u8
-四川卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061403.m3u8
-河南卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024059703.m3u8
-河北卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171503.m3u8
-重庆卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
-新疆卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
-黑龙江卫视,http://116.148.164.119/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
-中国教育1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
-兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
-
-广东联通,#genre#
-盗源狗不得好si，出门被车撞
-CCTV-1,http://58.248.112.203:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W8QJmHEMzRUBrKJPimctRp/OX3HsHOZl1n0qXIlMM+jS
-CCTV-2,http://58.248.112.203:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W52fbwLZxfhaPFyBTQ0aYLfM/cZnr1eC8XHSIvXFo0Cm+jS
-CCTV-3,http://58.248.112.203:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wy6USnhhgx8TZ3vY5OEagLQ5EbipDR9eKYQhENh7mdbY
-CCTV-4,http://58.248.112.203:8006/GD_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4TD67pxikfM8K4w2idTQSZnomXtUQB7eSvK2PB1Jy6U
-CCTV-5,http://58.248.112.203:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W84yDoXpAnJRzJ%2B84zD8adHx8chxpqAhceepOo4b9RtD
-CCTV-5+,http://58.248.112.203:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4dR%2FXUke9cnQAha7YFSVScD5okLKHDsH1UwLSGlTPIy
-CCTV-6,http://58.248.112.203:8006/GD_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W0bPDOOJFgJDi5H6ngmdCMuGEAcZL8Po8OBMQD3ZDcGz
-CCTV-7,http://58.248.112.203:8006/GD_CUCC/G_CCTV-7-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W39Nm2tkwwe8LDghHXPWAdEVP8GR7bS%2BpOsFkIc0bJTj
-CCTV-8,http://58.248.112.203:8006/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W7ZvJivceDnqGCNghAH1JA3tRMWHjbegBqrEhXA4%2F5WC
-CCTV-9,http://58.248.112.203:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W5VvyLa3QaGDGjlKYedDqY%2BA0Xvn3SoZYj7nSTNH8Zuo
-CCTV-10,http://58.248.112.203:8006/GD_CUCC/G_CCTV-10-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W0sd9mij0JyOcibqYTdmWtL80AgwP32UFMxX2MzQWHa9
-CCTV-11,http://58.248.112.203:8006/GD_CUCC/G_CCTV-11-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wwtjk7PDi4fkN2nvO2gK27uPb2T4ltPMG4R2OJ87OvaC
-CCTV-12,http://58.248.112.203:8006/GD_CUCC/G_CCTV-12-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WxtFGgShYCQQqFHAFhzmlequbYkQA6dBvVzZ5ZiuuFt3
-CCTV-13,http://58.248.112.203:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2BUi4Thb7vkXG9wotcNmK%2FT1mLqaSx3IH8BuQh36VIlk
-CCTV-14,http://58.248.112.203:8006/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W844kHEGXWPeTdip0KbSgbeiAR9MjLi%2Bq2iyZhe0RaCh
-CCTV-15,http://58.248.112.203:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4yPYgkCWBSIT3aCcBdsAjugxdNVhEWfzFkHQJSuoE55
-CCTV-16,http://58.248.112.203:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W1SIaGkZ%2BPhCYgvTlbbof9dxUrdb59IZ5GDULw0iMhuh
-CCTV-17,http://58.248.112.203:8006/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2FlsNSUvoRXJq9Dxabd45ukTW8OgXtg6rNYGPzjXvio8
-CCTV-NEWS,http://58.248.112.203:8006/GD_GUANGXI-HQ/G_GUANGXI-HQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W0IecLjXoLUiOhb4XqRrxOtBVKU1aXSdned0F3Lm8d22
-广东卫视,http://58.248.112.203:8006/GD_CUCC/G_GUANGDONG-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2FgbSbSCTYnboG1IAsnN%2B8QuPtCHcR6F9IFj1kjs21FV
-江苏卫视,http://58.248.112.203:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2B%2BuH8HDFS0PtokY11nWnf4K8n6Wm2oFiY8rXaeDQrwu
-浙江卫视,http://58.248.112.203:8006/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W9r3tmmw%2BL49D6e6Yw0TfYwmPYWednZ10hSEuvKGUyKQ
-湖南卫视,http://58.248.112.203:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2F1wQVhT8QyGCCyGVizEAH%2BwBIlXKGguMY%2FW7ZKQsISU
-东方卫视,http://58.248.112.203:8006/GD_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2FFI8ayEeoekFD8P08%2F7EXFxXX0IcdlD9Wg7wVYt9Iys
-北京卫视,http://58.248.112.203:8006/GD_CUCC/G_BEIJING-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W36pFJlsKFX2elUkY7G9WuYefTZGLGh8uX0Wv9QBEtwH
-深圳卫视,http://58.248.112.203:8006/GD_CUCC/G_SHENZHEN-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W9BPUZJQRNJB5bOiIhhUc3feb5k4Uo8cyogIy2TyLVf3
-辽宁卫视,http://58.248.112.203:8006/GD_CUCC/G_LIAONING-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W0RqeVO49Tnq6K%2BWCd0TWOvlIJxJocQt%2FkrOiEdn1dqH
-安徽卫视,http://58.248.112.203:8006/GD_CUCC/G_ANHUI-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WzRKOXxeNY3tggxMWb9c7MIe8yiP41%2B8Q7Y6U%2B7QXfaq
-山东卫视,http://58.248.112.203:8006/GD_CUCC/G_SHANDONG-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4%2BfIJoJ9xhIZtB7lTaNNRJ%2Fqqvs0Yr7n%2FegN24fGsDq
-黑龙江卫视,http://58.248.112.203:8006/GD_CUCC/G_HEILONGJIANG-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4GO4sBlEXR27vS0rpENy%2BD4gf1P7JcEPqFyRZENTd9m
-天津卫视,http://58.248.112.203:8006/GD_CUCC/G_TIANJIN-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W6essbbY33u5MnZnHCFZZTISpHc%2BIJBrNUNEXqI3zUCv
-广西卫视,http://58.248.112.203:8006/GD_GUANGXI-HQ/G_GUANGXI-HQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W0IecLjXoLUiOhb4XqRrxOvF66Ho7rRhmlhBXybe9XwC
-东南卫视,http://58.248.112.203:8006/GD_CUCC/G_DONGNAN-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Ww3sVbVN1ZTQKUpnK8xcf7zEtSxyRm0DPwspPU2YxI49
-甘肃卫视,http://58.248.112.203:8006/GD_GANSU-CQ/G_GANSU-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W8QJmHEMzRUBrKJPimctRp90l4tDpe9eCFUo1j7FtgxZ
-贵州卫视,http://58.248.112.203:8006/GD_CUCC/G_GUIZHOU-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W2s5lc8HFQLTI9VPV%2F62TTsaEtgGq9dMWKkNrjbmwHrV
-海南卫视,http://58.248.112.203:8006/GD_HAINAN-HQ/G_HAINAN-HQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2B66eKhBOXG72XMJ19aKuEYj0vX0cubKe2doebslXpaD
-河北卫视,http://58.248.112.203:8006/GD_CUCC/G_HEBEI-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WxrvjD6rClzQqW5Ol16tkcr5q3jFAC3RhgTzHG1f%2Bix2
-河南卫视,http://58.248.112.203:8006/GD_CUCC/G_HENAN-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W1MgD%2F2Vwt2jsqFNQcMozSqyFXmQrDHK%2FS6p2mHOgmHn
-湖北卫视,http://58.248.112.203:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W90xwbCane0yNdbIXyVFD1toSI6whEIZOyWSCs4hPfDS
-吉林卫视,http://58.248.112.203:8006/GD_CUCC/G_JILIN-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W7Ru8hQKQCklmJSJpqlEXmwG%2BrR0U2ODxuv2r7oM3HHB
-江西卫视,http://58.248.112.203:8006/GD_CUCC/G_JIANGXI-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WyFtNLUdun4aiq6hb34UOKcQCyOlO4PCFu1SZ82yP80e
-康巴卫视,http://58.248.112.203:8006/GD_KANGBA/G_KANGBA.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W6qOi3aMHMcjG0PAgt%2BS1aFrZoNjL4ZpAN3oDkefV9KH
-安多卫视,http://58.248.112.203:8006/GD_CUCC/G_ANDUO.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wx%2BKQJBFNI6YXWkTvcspjeAaaCYVcp%2FtsR%2B%2FtlO17q5a
-兵团卫视,http://58.248.112.203:8006/GD_CUCC/G_BINGTUAN.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W0zxlgmqXEaNNG05pW%2F4ylTw2wC6Dgu%2BPXsuNPIW%2B7i2
-大湾区卫视,http://58.248.112.203:8006/GD_CUCC/G_NANFANG.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wzrp8SNBouqH2Ilu%2FAx5Q%2B8RB%2FZy%2BH1ELgd6D7E%2F29cz
-内蒙古卫视,http://58.248.112.203:8006/GD_CUCC/G_NEIMENGGU.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W2Fhapc%2B7BltWxAegaMahIEW5%2FZpEk4h3J%2BGhTW%2BldDN
-宁夏卫视,http://58.248.112.203:8006/GD_CUCC/G_NINGXIA.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2Bm3MUbLI%2Fb7io3SsJQYTbSkzjBbei0vZijxLpOAZMX7
-农林卫视,http://58.248.112.203:8006/GD_CUCC/G_NONGLIN.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W7py4GpbdZhV0MIt%2BaqB6DdlWSxjM3p3A%2FQSCA4X34gL
-三沙卫视,http://58.248.112.203:8006/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W1wPuPs%2BvQy%2B5RChxYZNKpc20tDxMcr7PQfLfB1Obiji
-陕西卫视,http://58.248.112.203:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2FCb2BZONVnQVODclGUbuEatA95rjQeBmIozNekxAu5c
-上海纪实,http://58.248.112.203:8006/GD_CUCC/G_SHANGHAIJS-HD.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wz2XjEQPCgsjHTwYM82OKTB8p4G0fGrBVfKLP4fhGl8i
-四川卫视,http://58.248.112.203:8006/GD_CUCC/G_SICHUAN-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WyhysHnFVsdNiy%2FnVMuA%2F2v5TrBHd%2BYx365wQ1XGfpAu
-西藏卫视,http://58.248.112.203:8006/GD_CUCC/G_XIZANG.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2FjJjpHmGZQ4Ek5z6TPQrCAO4MGIODZ9%2FzMA65tle9zb
-新疆卫视,http://58.248.112.203:8006/GD_CUCC/G_XINJIANG.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WxvYfL8Y1mPn1b0n2I2pHBtRKIEwyKe9YY8oehLObW%2Bv
-延边卫视,http://58.248.112.203:8006/GD_CUCC/G_YANBIAN.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4R%2FtompuYfwxiy2l8771zo6bqYKFzGw2KEKE0Old3dH
-云南卫视,http://58.248.112.203:8006/GD_CUCC/G_YUNNAN-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W7oTqaTDvVrBsNyqc1P3zxN6xcy8qI3KrYeW8GfV%2B9%2Fq
-重庆卫视,http://58.248.112.203:8006/GD_CUCC/G_CHONGQING-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wy5XA1hsd3RREgysPiqqJeSe9udVpENKSMoxvmLJoxrA
-北京奥运纪实,http://58.248.112.203:8006/GD_CUCC/G_BEIJINGJS-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W1qqd8HLKWN9yv5NoaCSBtxS9joeTROZfZ0q5VmSHiRT
-青海卫视,http://58.248.112.203:8006/GD_CUCC/G_QINGHAI.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wygkxaz%2B%2FfwErD5ULZGrwmBYUcQcR03o8FEtCY%2F2EAIn
-厦门卫视,http://58.248.112.203:8006/GD_CUCC/G_XIAMEN.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W9xpy9zQFtpouCk3TwmtZ5mOITDje%2FHznxN%2FjHgGAuil
-家庭理财,http://58.248.112.203:8006/GD_CUCC/G_JIATINGLC.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W6ShnWmnOVIp3RBY9AoK3pEqcwJkVD5p2gW60t%2B%2B%2FruD
-金鹰卡通,http://58.248.112.203:8006/GD_CUCC/G_JINYING.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4LvOkDyqMXmM4Kju3fDAnEYKMWMkp%2BAcMwFcR19YL4I
-卡酷少儿,http://58.248.112.203:8006/GD_CUCC/G_KAKU.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WweuHPAx2fusnaoyAFDfhqUCMNY12od21KDWX9YFDv6w
-炫动卡通,http://58.248.112.203:8006/GD_CUCC/G_XUANDONG.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WxyaeQXvfiBIEv5gfWejAdUov7TnrFJCTmSUWIzi1TN9
-优漫卡通,http://58.248.112.203:8006/GD_CUCC/G_YOUMAN.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W36j9a%2Bl6xyDC1tQT9TGdYxci5lVcCz2JLVEfgm5a%2FwW
-嘉佳卡通,http://58.248.112.203:8006/GD_CUCC/G_JIAJIA.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WyW03NnFm6eR8LRdNtl3nTezKgejKJbC86KDvoHsiOnl
-CETV-1,http://58.248.112.203:8006/GD_CUCC/G_CETV-1-HQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W85h9g1Y%2FeQY4JzxSpI1I83s%2Bz19RRko6q%2FmiFbYBnr6
-CETV-2,http://58.248.112.203:8006/GD_CUCC/G_CETV-2.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W%2Bk0xZE%2B7pPIw6EbWHvhFxG9wsP%2B6WqVvALog07abfqr
-CETV-3,http://58.248.112.203:8006/GD_CUCC/G_CETV-3.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WyTplBToGCmj3BDetC6mfN2npotL5VVhVc6aSn4cvHD4
-CETV-4,http://58.248.112.203:8006/GD_CUCC/G_CETV-4.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WxlDpamLdAO1k0LvD7FDxNAsWhP%2BRLgNYHNk6asWzBxn
-CETV早期教育,http://58.248.112.203:8006/GD_CUCC/G_CETV-ZQJY-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W5gEcPJzku%2FK%2BhOejG8m3LIaH%2BxsHEeogdlhrRCTmyJP
-中华美食,http://58.248.112.203:8006/GD_CUCC/G_ZHONGHUAMS.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W13PU3p0Usv8FjOEENDSW4y4U1KFbW55fwEENQd22Rnz
-天元围棋,http://58.248.112.203:8006/GD_CUCC/G_TIANYUANWQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02WyhOv%2BYcLGXjIDOSPvEdjQH0com16Ii49fMylDg0CQsx
-国学频道,http://58.248.112.203:8006/GD_CUCC/G_GUOXUE.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02W4hO8LNpLAaASRMCJ%2BigDXWT0V12sJwjDMJAtJR59zBy
-女性时尚,http://58.248.112.203:8006/GD_CUCC/G_NVXINGSS-CQ.m3u8?Authinfo=VU0kPm6nlLJgVXvdMO02Wz6%2FGriC8y3OKTsyZWzciYtlPXoqozz6ex0Bd5R8fMBa
 
 广州电信,#genre#
 盗源狗不得好si，出门被车撞
