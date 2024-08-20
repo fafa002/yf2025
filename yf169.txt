@@ -163,18 +163,17 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 
 极速港台,#genre#
 盗源狗不得好si，出门被车撞
-NOW 星影,http://123.150.5.131:9000/NOW星影盗源可耻/易發TV专用.live.flv
-NOW 爆谷,http://123.150.5.131:9000/NOW爆谷盗源可耻/易發TV专用.live.flv
+NOW 星影,http://123.150.5.131:9000/NOW星影-盗源-可耻/易發TV专用.live.flv
+NOW 爆谷,http://123.150.5.131:9000/NOW爆谷-盗源-可耻/易發TV专用.live.flv
 NOW 爆谷2,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
 NOW 新闻,http://223.244.26.190:8082/now新闻-盗源可耻/易發TV专用/hls.m3u8
-TVB翡翠,http://123.150.5.131:9000/tvb翡翠盗源可耻/易發TV专用.live.flv
+TVB翡翠,http://123.150.5.131:9000/tvb翡翠-盗源-可耻/易發TV专用.live.flv
 TVB翡翠2,http://223.244.26.190:8082/tvb翡翠-盗源可耻/易發TV专用/hls.m3u8
-无线 新闻,http://123.150.5.131:9000/tvb新闻盗源可耻/易發TV专用.live.flv
+无线 新闻,http://123.150.5.131:9000/tvb新闻-盗源*可耻/易發TV专用.live.flv
 HOY 77,http://223.244.26.190:8082/hoy77-盗源可耻/易發TV专用/hls.m3u8
 HOY 78,http://123.150.5.131:9000/hoy78盗源可耻/易發TV专用.live.flv
-有线18,http://123.150.5.131:9000/yx18盗源可耻/易發TV专用.live.flv
+有线18,http://123.150.5.131:9000/yx18-盗源*可耻/易發TV专用.live.flv
 TVB-Plus1,http://223.244.26.190:8082/tvbplus-盗源可耻/易發TV专用/hls.m3u8
-TVB-Plus2,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
 无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2
 美亚电影,http://60.208.140.180:5544/美亚电影-盗源可耻/易發TV专用.live.ts
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
