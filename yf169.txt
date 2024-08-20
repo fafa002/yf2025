@@ -167,15 +167,15 @@ NOW 星影,http://49.65.97.133:8180/NOW星影*盗源*可耻/易發TV专用/hls.m
 NOW 爆谷,http://49.65.97.133:8180/NOW爆谷*盗源*可耻/易發TV专用/hls.m3u8
 NOW 爆谷2,http://223.244.26.190:8082/NOW爆谷-盗源可耻/易發TV专用/hls.m3u8
 NOW 新闻,http://223.244.26.190:8082/now新闻-盗源可耻/易發TV专用/hls.m3u8
-TVB翡翠,http://49.65.97.133:8180/tvb翡翠-盗源*可耻/易發TV专用/hls.m3u8
+TVB翡翠,http://49.65.97.133:8180/tvb翡翠*盗源*可耻/易發TV专用/hls.m3u8
 TVB翡翠2,http://223.244.26.190:8082/tvb翡翠-盗源可耻/易發TV专用/hls.m3u8
 无线 新闻,http://49.65.97.133:8180/新闻*盗源*可耻/易發TV专用/hls.m3u8
 HOY 77,http://223.244.26.190:8082/hoy77-盗源可耻/易發TV专用/hls.m3u8
 HOY 78,http://49.65.97.133:8180/hoy78*盗源*可耻/易發TV专用/hls.m3u8
-有线18,http://49.65.97.133:8180/yx18-盗源*可耻/易發TV专用/hls.m3u8
+有线18,http://49.65.97.133:8180/yx18*盗源*可耻/易發TV专用/hls.m3u8
 TVB-Plus1,http://223.244.26.190:8082/tvbplus-盗源可耻/易發TV专用/hls.m3u8
 无线 新闻,http://live.cooltv.top/tv/tvb.php?id=2
-美亚电影,http://60.208.140.180:5544/美亚电影-盗源可耻/易發TV专用.live.ts
+美亚电影,http://39.101.75.133:80/美亚电影*盗源*可耻/易發TV专用/hls.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
 凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
@@ -219,6 +219,7 @@ NOW 星影,https://short-link.me/yifatvxy
 NOW 爆谷,https://short-link.me/yifatvbg
 NOW 紫金,https://short-link.me/yifatvzjgj
 HOY 77,https://short-link.me/yifatvhoy77
+无线 新闻,https://short-link.me/yifatvwxxw
 
 HK DTMB,#genre#
 盗源狗不得好si，出门被车撞
