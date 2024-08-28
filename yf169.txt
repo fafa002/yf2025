@@ -169,10 +169,10 @@ NOW 爆谷2,http://223.244.26.190:8082/爆谷2-盗源死全家/易發TV专用/hl
 NOW 新闻,http://223.244.26.190:8082/now新闻-盗源死全家/易發TV专用/hls.m3u8
 TVB翡翠,http://49.65.97.133:8180/翡翠*盗源死全家/易發TV专用/hls.m3u8
 TVB翡翠2,http://223.244.26.190:8082/翡翠2-盗源死全家/易發TV专用/hls.m3u8
-无线 新闻,http://49.65.97.133:8180/无新闻**盗源死全家/易發TV专用/hls.m3u8
+无线 新闻,http://47.113.199.163:9092/无新闻**盗源死全家/易發TV专用/hls.m3u8
 HOY 77,http://223.244.26.190:8082/hoy77-盗源死全家/易發TV专用/hls.m3u8
 HOY 78,http://49.65.97.133:8180/hoy78*盗源死全家/易發TV专用/hls.m3u8
-有线18,http://49.65.97.133:8180/yx18*盗源死全家/易發TV专用/hls.m3u8
+有线18,http://47.113.199.163:9092/yx18**盗源死全家/易發TV专用/hls.m3u8
 TVB-Plus,http://223.244.26.190:8082/tvbplus-盗源死全家/易發TV专用/hls.m3u8
 美亚电影,http://39.101.75.133:80/美亚电影*盗源死全家/易發TV专用/hls.m3u8
 中天综合,http://39.101.75.133:80/中天综合-盗源死全家/易發TV专用/hls.m3u8
@@ -2569,16 +2569,28 @@ CHC动作电影,http://dsm.ikun.hn.cn:9981/stream/channelid/750230923?profile=pa
 优漫卡通,http://dsm.ikun.hn.cn:9981/stream/channelid/1070198113?profile=pass
 新动漫,http://dsm.ikun.hn.cn:9981/stream/channelid/254347879?profile=pass
 
-广西有线,#genre#
+广东有线,#genre#
 盗源狗si全家 全家下地狱
-CCTV10科教HD,http://gx00.fun:9981/stream/channelid/1097743861?profile=pass
-CCTV11戏曲HD,http://gx00.fun:9981/stream/channelid/1313324912?profile=pass
-CCTV12社会与法HD,http://gx00.fun:9981/stream/channelid/1069187074?profile=pass
-CCTV13新闻HD,http://gx00.fun:9981/stream/channelid/1761183855?profile=pass
-CCTV14少儿HD,http://gx00.fun:9981/stream/channelid/496711696?profile=pass
-CCTV15音乐HD,http://gx00.fun:9981/stream/channelid/1763339749?profile=pass
-CCTV16奥林匹克HD,http://gx00.fun:9981/stream/channelid/579247035?profile=pass
-CCTV17农业农村HD,http://gx00.fun:9981/stream/channelid/1245421875?profile=pass
+广东体育高清,http://gx00.fun:9981/stream/channelid/719383633?profile=pass
+广东卫视HD,http://gx00.fun:9981/stream/channelid/1382392813?profile=pass
+广东卫视HD,http://gx00.fun:9981/stream/channelid/1194499797?profile=pass
+广东少儿高清,http://gx00.fun:9981/stream/channelid/817146360?profile=pass
+广东影视高清,http://gx00.fun:9981/stream/channelid/527879943?profile=pass
+广东新闻高清,http://gx00.fun:9981/stream/channelid/137437140?profile=pass
+广东民生高清,http://gx00.fun:9981/stream/channelid/1416381964?profile=pass
+广东珠江高清,http://gx00.fun:9981/stream/channelid/249228222?profile=pass
+广西卫视,http://gx00.fun:9981/stream/channelid/111211664?profile=pass
+惠州1高清,http://gx00.fun:9981/stream/channelid/1288917064?profile=pass
+惠州2高清,http://gx00.fun:9981/stream/channelid/1090297859?profile=pass
+揭阳生活高清,http://gx00.fun:9981/stream/channelid/244328322?profile=pass
+揭阳综合高清,http://gx00.fun:9981/stream/channelid/1075191894?profile=pass
+揭阳综合高清,http://gx00.fun:9981/stream/channelid/291956556?profile=pass
+新疆卫视,http://gx00.fun:9981/stream/channelid/1995382806?profile=pass
+汕头体育高清,http://gx00.fun:9981/stream/channelid/91688465?profile=pass
+汕头生活高清,http://gx00.fun:9981/stream/channelid/1822580977?profile=pass
+汕头综合高清,http://gx00.fun:9981/stream/channelid/1987822535?profile=pass
+汕尾生活高清,http://gx00.fun:9981/stream/channelid/1091218173?profile=pass
+汕尾综合高清,http://gx00.fun:9981/stream/channelid/527164836?profile=pass
 CCTV1综合HD,http://gx00.fun:9981/stream/channelid/1011369808?profile=pass
 CCTV2财经HD,http://gx00.fun:9981/stream/channelid/582405257?profile=pass
 CCTV3综艺HD,http://gx00.fun:9981/stream/channelid/1953544324?profile=pass
@@ -2589,6 +2601,14 @@ CCTV6电影HD,http://gx00.fun:9981/stream/channelid/1425238483?profile=pass
 CCTV7国防军事HD,http://gx00.fun:9981/stream/channelid/1364742960?profile=pass
 CCTV8电视剧HD,http://gx00.fun:9981/stream/channelid/1294791186?profile=pass
 CCTV9纪录HD,http://gx00.fun:9981/stream/channelid/266557957?profile=pass
+CCTV10科教HD,http://gx00.fun:9981/stream/channelid/1097743861?profile=pass
+CCTV11戏曲HD,http://gx00.fun:9981/stream/channelid/1313324912?profile=pass
+CCTV12社会与法HD,http://gx00.fun:9981/stream/channelid/1069187074?profile=pass
+CCTV13新闻HD,http://gx00.fun:9981/stream/channelid/1761183855?profile=pass
+CCTV14少儿HD,http://gx00.fun:9981/stream/channelid/496711696?profile=pass
+CCTV15音乐HD,http://gx00.fun:9981/stream/channelid/1763339749?profile=pass
+CCTV16奥林匹克HD,http://gx00.fun:9981/stream/channelid/579247035?profile=pass
+CCTV17农业农村HD,http://gx00.fun:9981/stream/channelid/1245421875?profile=pass
 CETV1中教1台,http://gx00.fun:9981/stream/channelid/862340024?profile=pass
 CETV1中教2台,http://gx00.fun:9981/stream/channelid/183914112?profile=pass
 CETV1中教3台,http://gx00.fun:9981/stream/channelid/1435236607?profile=pass
@@ -2608,11 +2628,6 @@ CETV1中教4台,http://gx00.fun:9981/stream/channelid/38673581?profile=pass
 安徽卫视HD,http://gx00.fun:9981/stream/channelid/1695793019?profile=pass
 山东卫视HD,http://gx00.fun:9981/stream/channelid/1886145536?profile=pass
 山西卫视,http://gx00.fun:9981/stream/channelid/821893148?profile=pass
-山西卫视,http://gx00.fun:9981/stream/channelid/1315495359?profile=pass
-广东卫视HD,http://gx00.fun:9981/stream/channelid/1353391737?profile=pass
-广东卫视HD,http://gx00.fun:9981/stream/channelid/1382392813?profile=pass
-广西卫视,http://gx00.fun:9981/stream/channelid/111211664?profile=pass
-新疆卫视,http://gx00.fun:9981/stream/channelid/1995382806?profile=pass
 江苏卫视HD,http://gx00.fun:9981/stream/channelid/1241143961?profile=pass
 江西卫视HD,http://gx00.fun:9981/stream/channelid/1105767355?profile=pass
 河北卫视HD,http://gx00.fun:9981/stream/channelid/2047793602?profile=pass
@@ -2622,7 +2637,7 @@ CETV1中教4台,http://gx00.fun:9981/stream/channelid/38673581?profile=pass
 湖北卫视HD,http://gx00.fun:9981/stream/channelid/679293180?profile=pass
 湖南卫视HD,http://gx00.fun:9981/stream/channelid/962273894?profile=pass
 甘肃卫视,http://gx00.fun:9981/stream/channelid/1962222057?profile=pass
-纪实文人HD,http://gx00.fun:9981/stream/channelid/1974012147?profile=pass
+经济科教高清,http://gx00.fun:9981/stream/channelid/1795915634?profile=pass
 西藏卫视,http://gx00.fun:9981/stream/channelid/598314925?profile=pass
 贵州卫视HD,http://gx00.fun:9981/stream/channelid/1093810963?profile=pass
 辽宁卫视HD,http://gx00.fun:9981/stream/channelid/2060054470?profile=pass
@@ -2631,6 +2646,7 @@ CETV1中教4台,http://gx00.fun:9981/stream/channelid/38673581?profile=pass
 陕西卫视,http://gx00.fun:9981/stream/channelid/888199082?profile=pass
 青海卫视,http://gx00.fun:9981/stream/channelid/1045466828?profile=pass
 黑龙江卫视HD,http://gx00.fun:9981/stream/channelid/896565579?profile=pass
+纪实文人HD,http://gx00.fun:9981/stream/channelid/1974012147?profile=pass
 
 虎牙电影,#genre#
 盗源狗si全家 全家下地狱
