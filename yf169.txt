@@ -216,11 +216,9 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 
 极速港台2,#genre#
 广电翡翠,https://short-link.me/gdfct
-TVB 翡翠,https://short-link.me/yifatvjade
 TVB 翡翠2,https://short-link.me/yifatvjade2
 HOY 77,https://short-link.me/yifatvhoy77
-POPC,https://short-link.me/yifapopc
-Now 爆谷台,https://short-link.me/yifa-bgt
+Now 星影台,https://short-link.me/yifaxyt
 
 HK DTMB,#genre#
 盗源狗si全家 全家下地狱
