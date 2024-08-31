@@ -469,32 +469,98 @@ TVBS台剧台,http://test.zapi.us.kg/?id=tvbs-taiju
 MTV Live HD 频道,http://test.zapi.us.kg/?id=mtv
 ELTA 娱乐台,http://test.zapi.us.kg/?id=elta-ylt
 
-TW 新闻,#genre#
+TW 酒店,#genre#
 盗源狗si全家 全家下地狱
-TVBS新聞台,http://154.216.191.38:8500/live.m3u8?c=1
-中天新闻,http://154.216.191.38:8500/live.m3u8?c=2
-中天新闻2,http://154.216.191.38:8500/live.m3u8?c=3
-中天亜洲,http://154.216.191.38:8500/live.m3u8?c=4
-东森Live,http://154.216.191.38:8500/live.m3u8?c=5
-TVBS 新闻,http://154.216.191.38:8500/live.m3u8?c=6
-TVBS NEWS,http://154.216.191.38:8500/live.m3u8?c=7
-TVBS HD,http://154.216.191.38:8500/live.m3u8?c=8
-民视新闻,http://154.216.191.38:8500/live.m3u8?c=9
-寰宇新聞,http://154.216.191.38:8500/live.m3u8?c=10
-寰宇新聞-台湾,http://154.216.191.38:8500/live.m3u8?c=11
-台视新闻,http://154.216.191.38:8500/live.m3u8?c=12
-中视新闻,http://154.216.191.38:8500/live.m3u8?c=13
-華视新闻,http://154.216.191.38:8500/live.m3u8?c=14
-鏡新聞,http://154.216.191.38:8500/live.m3u8?c=15
-三立LIVE+,http://154.216.191.38:8500/live.m3u8?c=16
-公视新闻,http://154.216.191.38:8500/live.m3u8?c=17
-
-民視新聞,http://181.215.6.106:9000/live.m3u8?c=4
-中視經典戲劇,http://181.215.6.106:9000/live.m3u8?c=5
-中天新聞,http://181.215.6.106:9000/live.m3u8?c=6
-中天新聞,http://181.215.6.106:9000/live.m3u8?c=7
-中天新聞,http://181.215.6.106:9000/live.m3u8?c=8
-民視,http://181.215.6.106:9000/live.m3u8?c=9
+ELTV生活,http://shuma004.chunfengyun.top:8080/live/56/hls.m3u8
+CRIME,http://shuma004.chunfengyun.top:8080/live/29/hls.m3u8
+民視第一台,http://shuma004.chunfengyun.top:8080/live/4/hls.m3u8
+民視台灣台,http://shuma004.chunfengyun.top:8080/live/5/hls.m3u8
+龍華電影台,http://shuma004.chunfengyun.top:8080/live/19/hls.m3u8
+CMUSIC音樂台,http://shuma004.chunfengyun.top:8080/live/72/hls.m3u8
+博斯運動1,http://shuma004.chunfengyun.top:8080/live/14/hls.m3u8
+TVBS歡樂台,http://shuma004.chunfengyun.top:8080/live/24/hls.m3u8
+博斯高球1,http://shuma004.chunfengyun.top:8080/live/13/hls.m3u8
+博斯网球,http://shuma004.chunfengyun.top:8080/live/16/hls.m3u8
+東森新聞,http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+民视第一,http://shuma004.chunfengyun.top:8080/live/4/hls.m3u8
+亚洲旅游,http://shuma004.chunfengyun.top:8080/live/10/hls.m3u8
+东森新闻,http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+三立综合,http://shuma004.chunfengyun.top:8080/live/31/hls.m3u8
+民视台湾,http://shuma004.chunfengyun.top:8080/live/5/hls.m3u8
+龙华日韩,http://shuma004.chunfengyun.top:8080/live/42/hls.m3u8
+龙华戏剧,http://shuma004.chunfengyun.top:8080/live/41/hls.m3u8
+龙华电影,http://shuma004.chunfengyun.top:8080/live/19/hls.m3u8
+中视经典,http://shuma004.chunfengyun.top:8080/live/47/hls.m3u8
+中视青采,http://shuma004.chunfengyun.top:8080/live/48/hls.m3u8
+寰宇台湾,http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
+公视戏剧,http://shuma004.chunfengyun.top:8080/live/87/hls.m3u8
+CINEMA WORLD,http://shuma004.chunfengyun.top:8080/live/30/hls.m3u8
+全球财经,http://shuma004.chunfengyun.top:8080/live/64/hls.m3u8
+華視新聞,http://shuma004.chunfengyun.top:8080/live/8/hls.m3u8
+互動英語,http://shuma004.chunfengyun.top:8080/live/54/hls.m3u8
+Nickelodeon,http://shuma004.chunfengyun.top:8080/live/12/hls.m3u8
+CinemaWorld,http://shuma004.chunfengyun.top:8080/live/30/hls.m3u8
+LOVE NATURE,http://shuma004.chunfengyun.top:8080/live/84/hls.m3u8
+ROCK ACTION,http://shuma004.chunfengyun.top:8080/live/94/hls.m3u8
+TECH STORM,http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
+电视剧3,http://shuma004.chunfengyun.top:8080/live/111/hls.m3u8
+哆啦A梦,http://shuma004.chunfengyun.top:8080/live/107/hls.m3u8
+电视剧2,http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
+镜新闻,http://shuma004.chunfengyun.top:8080/live/62/hls.m3u8
+BLOOMBERG,http://shuma004.chunfengyun.top:8080/live/34/hls.m3u8
+豬哥亮,http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
+电视剧,http://shuma004.chunfengyun.top:8080/live/108/hls.m3u8
+探案台,http://shuma004.chunfengyun.top:8080/live/11/hls.m3u8
+DW NEWS,http://shuma004.chunfengyun.top:8080/live/46/hls.m3u8
+HISTORY,http://shuma004.chunfengyun.top:8080/live/27/hls.m3u8
+hokkotv,http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
+电影,http://shuma004.chunfengyun.top:8080/live/11/hls.m3u8
+民视,http://shuma004.chunfengyun.top:8080/live/6/hls.m3u8
+中视,http://shuma004.chunfengyun.top:8080/live/7/hls.m3u8
+华视,http://shuma004.chunfengyun.top:8080/live/8/hls.m3u8
+影迷,http://shuma004.chunfengyun.top:8080/live/92/hls.m3u8
+中視,http://shuma004.chunfengyun.top:8080/live/7/hls.m3u8
+超人,http://shuma004.chunfengyun.top:8080/live/110/hls.m3u8
+综艺,http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
+影剧,http://shuma004.chunfengyun.top:8080/live/88/hls.m3u8
+旅游,http://shuma004.chunfengyun.top:8080/live/82/hls.m3u8
+民視,http://shuma004.chunfengyun.top:8080/live/6/hls.m3u8
+KOREA,http://shuma004.chunfengyun.top:8080/live/52/hls.m3u8
+TVBS,http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
+ROCK,http://shuma004.chunfengyun.top:8080/live/70/hls.m3u8
+HITS,http://shuma004.chunfengyun.top:8080/live/28/hls.m3u8
+CNBC,http://shuma004.chunfengyun.top:8080/live/102/hls.m3u8
+momo,http://shuma004.chunfengyun.top:8080/live/3/hls.m3u8
+LUXE,http://shuma004.chunfengyun.top:8080/live/86/hls.m3u8
+MTV,http://shuma004.chunfengyun.top:8080/live/25/hls.m3u8
+MCE,http://shuma004.chunfengyun.top:8080/live/98/hls.m3u8
+VOA,http://shuma004.chunfengyun.top:8080/live/45/hls.m3u8
+elta生活旅游,http://shuma004.chunfengyun.top:8080/live/85/hls.m3u8
+亞洲旅遊台,http://shuma004.chunfengyun.top:8080/live/10/hls.m3u8
+靖洋戲劇台,http://shuma004.chunfengyun.top:8080/live/17/hls.m3u8
+靖天電影台,http://shuma004.chunfengyun.top:8080/live/18/hls.m3u8
+寰宇财经,http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
+智林体育,http://shuma004.chunfengyun.top:8080/live/77/hls.m3u8
+東森購物,http://shuma004.chunfengyun.top:8080/live/66/hls.m3u8
+人间卫视,http://shuma004.chunfengyun.top:8080/live/101/hls.m3u8
+八大綜合,http://shuma004.chunfengyun.top:8080/live/21/hls.m3u8
+幸福空間,http://shuma004.chunfengyun.top:8080/live/26/hls.m3u8
+東森購物,http://shuma004.chunfengyun.top:8080/live/61/hls.m3u8
+博斯無限,http://shuma004.chunfengyun.top:8080/live/15/hls.m3u8
+LIFE TIME,http://shuma004.chunfengyun.top:8080/live/71/hls.m3u8
+動畫台,http://shuma004.chunfengyun.top:8080/live/57/hls.m3u8
+新唐人,http://shuma004.chunfengyun.top:8080/live/51/hls.m3u8
+TV5 MONDE,http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+PET CLUB,http://shuma004.chunfengyun.top:8080/live/81/hls.m3u8
+FESTIVAL,http://shuma004.chunfengyun.top:8080/live/83/hls.m3u8
+动漫2,http://shuma004.chunfengyun.top:8080/live/106/hls.m3u8
+HakkaTV,http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
+动漫,http://shuma004.chunfengyun.top:8080/live/105/hls.m3u8
+nickjr,http://shuma004.chunfengyun.top:8080/live/22/hls.m3u8
+CNBC,http://shuma004.chunfengyun.top:8080/live/102/hls.m3u8
+居家,http://shuma004.chunfengyun.top:8080/live/26/hls.m3u8
+GOOD2,http://shuma004.chunfengyun.top:8080/live/99/hls.m3u8
+TiTV,http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
 
 断流 测试,#genre#
 盗源狗si全家 全家下地狱
