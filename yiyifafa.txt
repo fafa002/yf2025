@@ -1745,25 +1745,12 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 广东影视,http://goo.bkpcp.top/mg/gdys
 
-经济科教,http://218.15.20.81:3388/hls/12/index.m3u8
-大湾区卫视,http://218.15.20.81:3388/hls/13/index.m3u8
-广东影视,http://218.15.20.81:3388/hls/14/index.m3u8
-广东新闻,http://218.15.20.81:3388/hls/15/index.m3u8
-
-广东体育,http://113.101.119.50:8090/hls/108/index.m3u8
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
-广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
-广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
-广东体育,http://113.65.162.235:8081/hls/41/index.m3u8
-广东体育,http://113.101.119.93:808/hls/108/index.m3u8
-广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
-
-广东民生,http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
-广东民生,http://113.65.162.235:8081/hls/26/index.m3u8
-
-广东影视,http://113.101.119.50:8090/hls/110/index.m3u8
-广东影视,http://113.65.162.235:8081/hls/31/index.m3u8
-广东影视,http://113.101.119.93:808/hls/110/index.m3u8
+大湾区卫视,http://conghua-sslp.online:3009/大湾区/大湾区/hls.m3u8
+广东影视,http://conghua-sslp.online:3009/广东影视/易发/hls.m3u8
+广东经济,http://conghua-sslp.online:3009/广东经济/易发/hls.m3u8
+广东民生,http://conghua-sslp.online:3009/广东民生/易发/hls.m3u8
+广东体育,http://conghua-sslp.online:3009/广东体育/易发/hls.m3u8
+广东新闻,http://conghua-sslp.online:3009/广东新闻/易发/hls.m3u8
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
