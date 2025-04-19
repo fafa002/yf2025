@@ -2538,7 +2538,7 @@ CCTV-16奥林匹克频道,http://10.255.128.136/PLTV/88888888/224/3221226274/100
 CCTV-4K超高清,http://10.255.128.136/PLTV/88888888/224/3221226293/10000100000000060000000001081237_0.smil/index.m3u8?fmt=ts2hls
 优购物,http://10.255.128.136/PLTV/88888888/224/3221226296/10000100000000060000000001081155_0.smil/index.m3u8?fmt=ts2hls
 
-陕西电信,#genre#
+陕西移动,#genre#
 CCTV1综合,http://ltsmkj.cn:3389/cctv1ly/index.m3u8
 CCTV2财经,http://ltsmkj.cn:3389/cctv2qp/index.m3u8
 CCTV3综艺,http://ltsmkj.cn:3389/cctv3pA/index.m3u8
