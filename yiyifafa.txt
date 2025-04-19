@@ -2675,7 +2675,7 @@ CCTV怀旧剧场高清,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:liv
 CCTV第一剧场高清,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
 CCTV兵器科技高清,http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
 
-咪咕频道,#genre#
+咪咕央视,#genre#
 CCTV-1,http://goo.bkpcp.top/mg/cctv1
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
 CCTV-3,http://goo.bkpcp.top/mg/cctv3
@@ -2699,7 +2699,7 @@ CCTV-17,http://goo.bkpcp.top/mg/cctv17
 广东卫视,http://goo.bkpcp.top/mg/gdws
 东方卫视,http://goo.bkpcp.top/mg/dfws
 
-咪咕频道2,#genre#
+咪咕央视2,#genre#
 CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -2751,7 +2751,7 @@ SiTV 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
 SiTV 乐游,http://z.b.bkpcp.top/m.php?id=ly
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 
-咪咕体育,#genre#
+咪咕+体育,#genre#
 咪咕视频_8M1080_咪视通-1,http://b.zgjok.com:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-2,http://b.zgjok.com:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-3,http://b.zgjok.com:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
@@ -2809,7 +2809,7 @@ SiTV 乐游,http://z.b.bkpcp.top/m.php?id=ly
 咪咕视频_8M1080_易视腾-4,http://b.zgjok.com:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
 咪咕视频_8M1080_易视腾-5,http://b.zgjok.com:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 
-咪咕体育2,#genre#
+咪咕+体育2,#genre#
 咪咕视频_8M1080_咪视通-1,http://aio.jiqinga.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-2,http://aio.jiqinga.top:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-3,http://aio.jiqinga.top:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
@@ -2867,7 +2867,7 @@ SiTV 乐游,http://z.b.bkpcp.top/m.php?id=ly
 咪咕视频_8M1080_易视腾-4,http://aio.jiqinga.top:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
 咪咕视频_8M1080_易视腾-5,http://aio.jiqinga.top:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 
-咪咕体育3,#genre#
+咪咕+体育3,#genre#
 咪咕视频_8M1080_咪视通-1,http://tv.186252.xyz:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-2,http://tv.186252.xyz:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 咪咕视频_8M1080_咪视通-3,http://tv.186252.xyz:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
