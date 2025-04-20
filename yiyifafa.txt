@@ -547,7 +547,8 @@ viuTV,http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 直播地址,
 User地址,
 都输入:haotv,
-保存再打开,
+点击确定,
+再选择打钩,
 凤凰卫视中文台,http://150.138.77.132:10037/150.php?id=凤凰中文
 凤凰卫视资讯台,http://150.138.77.132:10037/150.php?id=凤凰资讯
 凤凰卫视香港台,http://150.138.77.132:10037/150.php?id=凤凰香港台
