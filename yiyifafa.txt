@@ -1286,6 +1286,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东影视,http://goo.bkpcp.top/mg/gdys
 
 -大湾区卫视,http://conghua-sslp.online:3009/大湾区/大湾区/hls.m3u8
+-广东珠江,http://conghua-sslp.online:3009/广东珠江/易发/hls.m3u8
 -广东影视,http://conghua-sslp.online:3009/广东影视/易发/hls.m3u8
 -广东经济,http://conghua-sslp.online:3009/广东经济/易发/hls.m3u8
 -广东民生,http://conghua-sslp.online:3009/广东民生/易发/hls.m3u8
