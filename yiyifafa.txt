@@ -462,6 +462,8 @@ hoy78,http://bziyunshao.synology.me:8891/bysid/78.m3u8
 -ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
 hk31,http://bziyunshao.synology.me:8892/bysid/31.m3u8
 hk32,http://bziyunshao.synology.me:8892/bysid/32.m3u8
+ViuTV,https://hkfa.2025link.site/43rd_HK_Film_Awards/viutv_99
+天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 
 极速122,#genre#
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
