@@ -1202,8 +1202,12 @@ ElaT体育,http://108.181.21.27:27347/livehttpplay?channel_id=20129
 
 极速150,#genre#
 翡翠台,http://zb.xmzb.xyz/8888.php?id=be一翡翠台
-中天新闻,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
-中天新闻2,http://ali.hlspull.yximgs.com/live/_______CTI_2_HD.flv
+东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
+now新闻频标,http://mytv.cdn.com.mp/live/now/stream.m3u8
+龙祥时代频标,http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
+纬来电影频高,http://mytv.cdn.com.mp/live/wldy/stream.m3u8
+好莱电影频高,http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
+discover频高,http://mytv.cdn.com.mp/live/d/stream.m3u8
 
 Hoy78,http://live4play.uk/livehttpplay?channel_id=20191
 天映频道,http://live4play.uk/livehttpplay?channel_id=10130
