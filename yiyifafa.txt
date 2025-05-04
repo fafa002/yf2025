@@ -464,10 +464,16 @@ hoy78,http://bziyunshao.synology.me:8891/bysid/78.m3u8
 -ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
 hk31,http://bziyunshao.synology.me:8892/bysid/31.m3u8
 hk32,http://bziyunshao.synology.me:8892/bysid/32.m3u8
+翡翠台,http://8hb85846je10.vicp.fun:8001/bysid/1
+ViuTV,http://8hb85846je10.vicp.fun:8001/bysid/96
+ViuTVsix,http://8hb85846je10.vicp.fun:8001/bysid/99
 -明珠台,http://8hb85846je10.vicp.fun:5000/bysid/2.m3u8
 -TVB Plus,http://8hb85846je10.vicp.fun:5000/bysid/82.m3u8
 -無綫新聞台,http://8hb85846je10.vicp.fun:5000/bysid/83.m3u8
 -鳳凰衛視香港台,http://8hb85846je10.vicp.fun:5000/bysid/85.m3u8
+翡翠台,http://113.83.152.34:65534/bysid/1
+ViuTV,http://113.83.152.34:65534/bysid/96.m3u8
+ViuTVsix,http://113.83.152.34:65534/bysid/99.m3u8
 ViuTV,https://hkfa.2025link.site/43rd_HK_Film_Awards/viutv_99
 天映频道,https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
 
