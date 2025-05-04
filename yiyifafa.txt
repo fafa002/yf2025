@@ -660,7 +660,7 @@ Now体育2,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
-AK极速,#genre#
+AK极速(失效),#genre#
 Channel 5 HD,http://aktv_stream.m16tv.cfd/stream/aktv1/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv_stream.m16tv.cfd/stream/aktv1/channel8hd/AKTV.m3u8
 Channel U HD,http://aktv_stream.m16tv.cfd/stream/aktv1/channeluhd/AKTV.m3u8
