@@ -415,7 +415,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
-极速限时,#genre#
+极速限时(失效),#genre#
 中天新聞,http://live.iill.top/youtube/@中天新聞CtiNews
 中天新闻2,http://live.iill.top/youtube/@ctitalkshow
 台视新闻,http://live.iill.top/youtube/@TTV_NEWS/live
@@ -640,17 +640,19 @@ AXN,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 
 极速169,#genre#
 盗源狗si全家 全家下地狱
-翡翠台,http://erp.giihgtidg.com:8080/live/jade.m3u8
-无线新闻,http://erp.giihgtidg.com:8080/live/wxxw.m3u8
-Tvbplus,https://gdfire2.67890123.cn:8088/live/tvbplus.m3u8
-Hoy78,https://gdfire2.67890123.cn:8088/live/hoy78.m3u8
-Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw1.m3u8
-Now体育1,https://gdfire2.67890123.cn:8088/live/nowty1.m3u8
-Now体育2,https://gdfire2.67890123.cn:8088/live/nowty2.m3u8
-东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw1.m3u8
-中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw1.m3u8
-中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw21.m3u8
-寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw1.m3u8
+翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+mytv18,http://erp.giihgtidg.com:8080/live/mytv18.m3u8
+Hoy77,http://erp.giihgtidg.com:8080/live/hoy77.m3u8
+Tvbplus,https://gdfire2.67890123.cn:8088/live/tvbplus01.m3u8
+Hoy78,https://gdfire2.67890123.cn:8088/live/hoy7801.m3u8
+Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
+Now体育1,https://gdfire2.67890123.cn:8088/live/nowty101.m3u8
+Now体育2,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
+东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
+中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
+中天新闻2,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
+寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw01.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
