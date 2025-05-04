@@ -594,7 +594,7 @@ HBO Hits,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbohits
 靖天卡通台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
 东森幼幼 Yoyo TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
 
-极速122,#genre#
+极速122(失效),#genre#
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 中天新闻,http://122.117.71.103:8540/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
@@ -1161,45 +1161,6 @@ Euronews,http://198.16.100.186:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655
 TLC旅游生活,http://198.16.100.186:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
 新加坡8,http://198.16.100.186:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 
-极速108,#genre#
-民视新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20097
-年代新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20033
-非凡新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20034
-闽壹新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20028
-今日新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20043
-公视,http://108.181.21.27:27347/livehttpplay?channel_id=20087
-tvbs,http://108.181.21.27:27347/livehttpplay?channel_id=20085
-tvbs欢乐,http://108.181.21.27:27347/livehttpplay?channel_id=20105
-tvbs精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20136
-三立戏剧,http://108.181.21.27:27347/livehttpplay?channel_id=10125
-中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
-八大综合,http://108.181.21.27:27347/livehttpplay?channel_id=20068
-八大第一,http://108.181.21.27:27347/livehttpplay?channel_id=20073
-八大精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20052
-东森财经,http://108.181.21.27:27347/livehttpplay?channel_id=20078
-美亚电影,http://108.181.21.27:27347/livehttpplay?channel_id=20197
-龙华电影,http://108.181.21.27:27347/livehttpplay?channel_id=10129
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-龙华洋片,http://108.181.21.27:27347/livehttpplay?channel_id=20090
-Fgm电影,http://108.181.21.27:27347/livehttpplay?channel_id=10123
-CNN新闻,http://108.181.21.27:27347/livehttpplay?channel_id=10123
-cn卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
-尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
-BBC地球,http://108.181.21.27:27347/livehttpplay?channel_id=20044
-动物星球,http://108.181.21.27:27347/livehttpplay?channel_id=2010
-五星体育,http://108.181.21.27:27347/livehttpplay?channel_id=20060
-博斯高球,http://108.181.21.27:27347/livehttpplay?channel_id=20103
-博斯高球,http://108.181.21.27:27347/livehttpplay?channel_id=20117
-博斯运动,http://108.181.21.27:27347/livehttpplay?channel_id=20311
-ElaT体育,http://108.181.21.27:27347/livehttpplay?channel_id=20129
-凤凰香港,http://108.181.21.27:27347/livehttpplay?channel_id=30016
-广东影视,http://108.181.21.27:27347/livehttpplay?channel_id=20145
-
 极速150,#genre#
 翡翠台,http://zb.xmzb.xyz/8888.php?id=be一翡翠台
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
@@ -1659,6 +1620,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东酒店,#genre#
 大湾区 卫视,http://goo.bkpcp.top/mg/dwqws
 广东影视,http://goo.bkpcp.top/mg/gdys
+广东体育,http://zb.xmzb.xyz/live_proxy.php?id=GDTIyu
 
 -大湾区卫视,http://conghua-sslp.online:3009/大湾区/易发/hls.m3u8
 -广东珠江,http://conghua-sslp.online:3009/广东珠江1/易发/hls.m3u8
