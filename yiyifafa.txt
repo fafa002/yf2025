@@ -1259,6 +1259,7 @@ ElaT体育,http://live4play.uk/livehttpplay?channel_id=20129
 广东湾区,http://live4play.uk/livehttpplay?channel_id=20083
 
 晴天,#genre#
+要开启原力,1
 凤凰中文,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8
 凤凰资讯,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8
 凤凰资讯,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8
