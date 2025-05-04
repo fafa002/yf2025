@@ -1302,25 +1302,6 @@ ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
 纬来日本,http://108.181.20.197/livehttpplay?channel_id=20303
 FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
 
-极速100,#genre#
-娛樂新聞台,http://100.061833.xyz/stream/mytv/null-14/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-無線新聞台,http://100.061833.xyz/stream/mytv/null-11/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-PopC,http://100.061833.xyz/stream/mytv/popc/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-中國電影頻道,http://100.061833.xyz/stream/mytv/null-6/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-亞洲劇台,http://100.061833.xyz/stream/mytv/null-13/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-TVB功夫台,http://100.061833.xyz/stream/mytv/null-17/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-千禧經典台,http://100.061833.xyz/stream/mytv/null-3/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-天映经典,http://100.061833.xyz/stream/mytv/null-1/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-戲曲台,http://100.061833.xyz/stream/mytv/null-15/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-明珠台,http://100.061833.xyz/stream/mytv/null-12/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-星河频道,http://100.061833.xyz/stream/mytv/null-7/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-粵語片台,http://100.061833.xyz/stream/mytv/null-10/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-美亞電影台,http://100.061833.xyz/stream/mytv/null-5/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-翡翠台,http://100.061833.xyz/stream/mytv/null/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-華語劇台,http://100.061833.xyz/stream/mytv/null-4/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-黄金翡翠台,http://100.061833.xyz/stream/mytv/null-2/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-黄金华剧台,http://100.061833.xyz/stream/mytv/null-9/master.m3u8?u=xxoo&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-
 广告极速61,#genre#
 中视,http://61.163.58.168:2005/play/forward/5?tvid=ctvtwhd&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
 中视,http://61.163.58.168:2005/play/forward/5?tvid=ctvhdlm&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5IjoiMCIsImlwIjoiMTA5LjgxLjIxOC45NiIsInR2aWQiOiIyMjA0MTQ0MCIsImVjb25vbWl6ZSI6IjAiLCJleHAiOjE3NDUwMDQzMzcsIm5iZiI6MTc0NDk4NjMzNywiaWF0IjoxNzQ0OTg2MzM3fQ.epCAYnkrQ0dom1tw6JHikm9kNSFN2cv30Ij9gIsPJ6s
