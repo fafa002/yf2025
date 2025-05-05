@@ -1263,9 +1263,9 @@ FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
 
 今日影视,#genre#
 1,http://23.247.129.207/HK/smt473435.php?id=1
-2,http://23.247.129.207/HK/smt473435.php?id=2
-3,http://23.247.129.207/HK/smt473435.php?id=3
-4,http://23.247.129.207/HK/smt473435.php?id=4
+凤凰资讯,http://23.247.129.207/HK/smt473435.php?id=2
+凤凰香港,http://23.247.129.207/HK/smt473435.php?id=3
+翡翠,http://23.247.129.207/HK/smt473435.php?id=4
 5,http://23.247.129.207/HK/smt473435.php?id=5
 6,http://23.247.129.207/HK/smt473435.php?id=6
 7,http://23.247.129.207/HK/smt473435.php?id=7
@@ -1296,10 +1296,10 @@ FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
 32,http://23.247.129.207/HK/smt473435.php?id=32
 33,http://23.247.129.207/HK/smt473435.php?id=33
 34,http://23.247.129.207/HK/smt473435.php?id=34
-35,http://23.247.129.207/HK/smt473435.php?id=35
+无线新闻,http://23.247.129.207/HK/smt473435.php?id=35
 36,http://23.247.129.207/HK/smt473435.php?id=36
 37,http://23.247.129.207/HK/smt473435.php?id=37
-38,http://23.247.129.207/HK/smt473435.php?id=38
+popc,http://23.247.129.207/HK/smt473435.php?id=38
 39,http://23.247.129.207/HK/smt473435.php?id=39
 40,http://23.247.129.207/HK/smt473435.php?id=40
 41,http://23.247.129.207/HK/smt473435.php?id=41
