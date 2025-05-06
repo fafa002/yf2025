@@ -608,6 +608,7 @@ HBO Hits,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbohits
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 mytv18,http://120.234.104.188:8080/live/mytv18.m3u8
 Hoy77,http://120.234.104.188:8080/live/hoy77.m3u8
+广电翡翠,https://gdfire2.67890123.cn:8088/live/gdfc.m3u8
 Tvbplus,https://gdfire2.67890123.cn:8088/live/tvbplus01.m3u8
 Hoy78,https://gdfire2.67890123.cn:8088/live/hoy7801.m3u8
 Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
