@@ -746,7 +746,7 @@ PopC电影台,http://150.138.77.132:10037/150.php?id=POPC
 AMC电影台,http://150.138.77.132:10037/150.php?id=AMC电影台
 华纳电影台,http://150.138.77.132:10037/150.php?id=华纳电影
 
-极速haotv免ua,#genre#
+haotv免ua,#genre#
 凤凰卫视中文台,http://www.kaniptv.cn/ts1.php?ua=aGFvdHY=&hls=aHR0cDovLzE1MC4xMzguNzcuMTMyOjEwMDM3LzE1MC5waHA/aWQ95Yek5Yew5Lit5paH
 凤凰卫视资讯台,http://www.kaniptv.cn/ts1.php?ua=aGFvdHY=&hls=aHR0cDovLzE1MC4xMzguNzcuMTMyOjEwMDM3LzE1MC5waHA/aWQ95Yek5Yew6LWE6K6v
 凤凰卫视香港台,http://www.kaniptv.cn/ts1.php?ua=aGFvdHY=&hls=aHR0cDovLzE1MC4xMzguNzcuMTMyOjEwMDM3LzE1MC5waHA/aWQ95Yek5Yew6aaZ5riv5Y+w
