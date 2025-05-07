@@ -651,6 +651,34 @@ TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
 寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
 東森新聞,http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
 
+极速hstv,#genre#
+直播地址,1
+User地址,1
+都输入:haotv,1
+确定再勾选,1
+重新打开,1
+Now爆谷台,http://150.138.77.132:10037/tvs.php?id=Now爆谷台
+Now星影台,http://150.138.77.132:10037/tvs.php?id=Now星影台
+HBO HD,http://150.138.77.132:10037/tvs.php?id=HBO HD
+HBO hits,http://150.138.77.132:10037/tvs.php?id=HBO hits
+HBO family,http://150.138.77.132:10037/tvs.php?id=HBO family
+CineMax HD,http://150.138.77.132:10037/tvs.php?id=CineMax HD
+AXN HD,http://150.138.77.132:10037/tvs.php?id=AXN HD
+TVBS新闻台,http://150.138.77.132:10037/tvs.php?id=TVBS新闻台
+中天新闻台,http://150.138.77.132:10037/tvs.php?id=中天新闻台
+中天新闻2台,http://150.138.77.132:10037/tvs.php?id=中天新闻2台
+中视新闻台,http://150.138.77.132:10037/tvs.php?id=中视新闻台
+台视新闻台,http://150.138.77.132:10037/tvs.php?id=台视新闻台
+龙祥电影台,http://150.138.77.132:10037/tvs.php?id=龙祥电影台
+东森电影台,http://150.138.77.132:10037/tvs.php?id=东森电影台
+东森洋片台,http://150.138.77.132:10037/tvs.php?id=东森洋片台
+东森戏剧台,http://150.138.77.132:10037/tvs.php?id=东森戏剧台
+亚洲剧台,http://150.138.77.132:10037/tvs.php?id=亚洲剧台
+美亚电影台,http://150.138.77.132:10037/tvs.php?id=美亚电影台
+综合娱乐台,http://150.138.77.132:10037/tvs.php?id=综合娱乐台
+黄金华剧台,http://150.138.77.132:10037/tvs.php?id=黄金华剧台
+PoPc电影台,http://150.138.77.132:10037/tvs.php?id=POPC电影台
+
 极速haotv,#genre#
 直播地址,1
 User地址,1
