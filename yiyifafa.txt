@@ -494,7 +494,7 @@ tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
 tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 popc,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 
-极速148,#genre#
+极速148(失效),#genre#
 中天新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
 中天亚洲,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8
 TVBS新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
@@ -679,7 +679,7 @@ TVBS新闻台,http://150.138.77.132:10037/tvs.php?id=TVBS新闻台
 黄金华剧台,http://150.138.77.132:10037/tvs.php?id=黄金华剧台
 PoPc电影台,http://150.138.77.132:10037/tvs.php?id=POPC电影台
 
-极速haotv,#genre#
+极速haotv(失效),#genre#
 直播地址,1
 User地址,1
 都输入:haotv,1
@@ -774,7 +774,7 @@ PopC电影台,http://150.138.77.132:10037/150.php?id=POPC
 AMC电影台,http://150.138.77.132:10037/150.php?id=AMC电影台
 华纳电影台,http://150.138.77.132:10037/150.php?id=华纳电影
 
-haotv免ua,#genre#
+haotv免ua(失效),#genre#
 凤凰卫视中文台,http://www.kaniptv.cn/ts1.php?ua=aGFvdHY=&hls=aHR0cDovLzE1MC4xMzguNzcuMTMyOjEwMDM3LzE1MC5waHA/aWQ95Yek5Yew5Lit5paH
 凤凰卫视资讯台,http://www.kaniptv.cn/ts1.php?ua=aGFvdHY=&hls=aHR0cDovLzE1MC4xMzguNzcuMTMyOjEwMDM3LzE1MC5waHA/aWQ95Yek5Yew6LWE6K6v
 凤凰卫视香港台,http://www.kaniptv.cn/ts1.php?ua=aGFvdHY=&hls=aHR0cDovLzE1MC4xMzguNzcuMTMyOjEwMDM3LzE1MC5waHA/aWQ95Yek5Yew6aaZ5riv5Y+w
@@ -1356,7 +1356,7 @@ Now爆谷台,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8
 明珠台,P2p://80.251.220.91:7999/5e208d730000eef3097b609e7dab4938.m3u8
 澳门资讯,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8
 
-极速108,#genre#
+极速108(失效),#genre#
 台视,http://108.181.20.197/livehttpplay?channel_id=20076
 公视,http://108.181.20.197/livehttpplay?channel_id=20087
 中视,http://108.181.20.197/livehttpplay?channel_id=20088
