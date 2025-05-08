@@ -1144,6 +1144,7 @@ TLC旅游生活,http://198.16.100.186:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082
 极速150,#genre#
 翡翠台,http://zb.xmzb.xyz/8888.php?id=be一翡翠台
 翡翠台(备),http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 now新闻,http://mytv.cdn.com.mp/live/now/stream.m3u8
 龙祥时代,http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
