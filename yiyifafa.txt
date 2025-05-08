@@ -1174,7 +1174,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 广东酒店,#genre#
 盗源狗si全家 全家下地狱
-哆啦A梦,http://live.iill.top/douyin/56411012678
 大湾区 卫视,http://goo.bkpcp.top/mg/dwqws
 广东影视,http://goo.bkpcp.top/mg/gdys
 广东民生(晚7点),http://live.iill.top/douyin/gdtvdvxc
