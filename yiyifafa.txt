@@ -494,114 +494,6 @@ tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
 tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 popc,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 
-极速148(失效),#genre#
-中天新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
-中天亚洲,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8
-TVBS新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
-TVBSNews,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
-寰宇新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
-东森新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8
-台视新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
-中视新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshinews_twn/playlist.m3u8
-民视新闻台 FTV News,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvnew_taiwan/playlist.m3u8
-民视台湾台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvtaiwan_twn/playlist.m3u8
-非凡新闻台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/playlist.m3u8
-年代新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
-TVBS 欢乐台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbshuanle_twn/playlist.m3u8
-TVBS HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs/playlist.m3u8
-中天娱乐 CTI Entertaiment,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctient/playlist.m3u8
-中天综合 CTI Metro,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctizhonghe/playlist.m3u8
-台视 TTV HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttv_taiwan/playlist.m3u8
-台视综合台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvzhonghe_twn/playlist.m3u8
-中视 HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshihd_twn/playlist.m3u8
-民视 HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
-华视 CTS HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctshd_twn/playlist.m3u8
-公视 CTV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctv_taiwan/playlist.m3u8
-八大第一 GTV First,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badafirst/playlist.m3u8
-八大综合 GTV Metro,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badazhonghe/playlist.m3u8
-八大戏剧 GTV Drama,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badadrama/playlist.m3u8
-八大娱乐 GTV Entertainment,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badaentertain/playlist.m3u8
-HBO_HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
-HBO_HITS,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohits_twn/playlist.m3u8
-Hollywood Movies,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hollywoodmovies_twn/playlist.m3u8
-三立台湾 Sanli Taiwan,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
-三立戏剧台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
-三立综合 Sanli Metro,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlizhonghe/playlist.m3u8
-三立都会台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlidouhui/playlist.m3u8
-CINEMAX,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cinemax_twn/playlist.m3u8
-东森综合 ETTV Metro,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvzhonghe/playlist.m3u8
-东森戏剧 ETTV Drama,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvdrama/playlist.m3u8
-东森超视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvsuper/playlist.m3u8
-东森财经新闻 ETTV Business,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvcaijing_twn/playlist.m3u8
-寰宇财经,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyutaiwan_twn/playlist.m3u8
-大爱1台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/daai_twn/playlist.m3u8
-龙华戏剧 Lunghua Drama,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
-龙华戏剧台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
-龙华经典台,http://148.135.34.95/mn.php?playurl=http://148.135/lunghuajingdian_twn/playlist.m3u8
-龙华偶像,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaidol_twn/playlist.m3u8
-AXN Taiwan,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/playlist.m3u8
-靖天国际台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtianintl_twn/playlist.m3u8
-纬来日本台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandjapan/playlist.m3u8
-纬来电影台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandmovie_twn/playlist.m3u8
-纬来体育台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
-纬来综合台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandzonghe/playlist.m3u8
-纬来育乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandyule/playlist.m3u8
-纬来精彩,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandspecial_twn/playlist.m3u8
-好消息 2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/goods_twn/playlist.m3u8
-大爱2台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
-亚洲美食,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/afc_twn/playlist.m3u8
-美食星球,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8
-亚洲旅游 TLC Asia,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8
-东森电影 ETTV Movie,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
-阿里郎 Arirang,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/arirang_twn/playlist.m3u8
-博斯运动 1,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport1_twn/playlist.m3u8
-博斯运动 2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8
-博斯高球2 HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosigolf2_twn/playlist.m3u8
-博斯网球 HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bositennis_twn/playlist.m3u8
-东森洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8
-龙华洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8
-博斯无限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosiunlimited_twn/playlist.m3u8
-MTV Live,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
-龙详时代,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8/playlist.m3u8
-EYETV 旅游,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eyetvtravel_twn/playlist.m3u8
-靖天卡通台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
-EYETV 戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eyetvxiju_twn/playlist.m3u8
-卫视中文台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishichinese_twn/playlist.m3u8
-东森幼幼 Yoyo TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
-卫视电影台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishimovie_twn/playlist.m3u8
-美亚电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
-爱尔达影剧台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltayingju_twn/playlist.m3u8
-爱尔达综合台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltazonghe_twn/playlist.m3u8
-星卫电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
-爱尔达影剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltayingju_twn/playlist.m3u8
-爱尔达体育2台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport2_twn/playlist.m3u8
-爱尔达体育3台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport3_twn/playlist.m3u8
-AFC 亚洲旅游台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8
-大爱2台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
-东森电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
-东森洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8
-龙华洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8
-龙详时代,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8/playlist.m3u8
-Animax,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Animax/playlist.m3u8
-Movies Now HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/moviesnow_raj/playlist.m3u8
-Star Movies HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/starmovies_raj/playlist.m3u8
-卫视中文台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishichinese_twn/playlist.m3u8
-HBO Family,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
-卫视电影台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishimovie_twn/playlist.m3u8
-HBO HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
-Hits,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hits/playlist.m3u8
-Warner TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/WarnerTV/playlist.m3u8
-美亚电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
-星卫电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
-HBO Signature,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbosignature/playlist.m3u8
-HBO Hits,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbohits/playlist.m3u8
-亚洲美食,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/afc_twn/playlist.m3u8
-美食星球,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8
-亚洲旅游 TLC Asia,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8
-亚洲旅游台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8
-靖天卡通台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
-东森幼幼 Yoyo TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
-
 极速169,#genre#
 盗源狗si全家 全家下地狱
 翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
@@ -1251,8 +1143,7 @@ TLC旅游生活,http://198.16.100.186:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082
 
 极速150,#genre#
 翡翠台,http://zb.xmzb.xyz/8888.php?id=be一翡翠台
-中天新闻,http://ali.hlspull.yximgs.com/live/_______CTI__HD_dffgfhd.flv
-中天新闻2,http://ali.hlspull.yximgs.com/live/_______CTI_2_HD_sgfffdgf.flv
+翡翠台(备),http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 now新闻,http://mytv.cdn.com.mp/live/now/stream.m3u8
 龙祥时代,http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
@@ -1384,55 +1275,55 @@ ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
 FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
 
 DIYP极速,#genre#
-CHC家庭电影,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=3
-TVB星河频道,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=4
-TVB星河频道国语,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=5
-CM+,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat14&id=1
-戏曲台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=8
-粤语片台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=9
-Now爆谷台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=10
-Now星影台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=11
-Now星影台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=12
-Now华剧台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=13
-Now新闻台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=14
-Now Sport1,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=15
-Now英超1台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=16
-Now sport641Now sport641,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat1&id=17
-鳳凰中文,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=2
-鳳凰資訊,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=3
-鳳凰香港,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=4
-Now英超1,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=5
-爆谷星影台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=6
-爆谷台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=7
-戲曲台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=13
-粵語片台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=14
-緯來體育,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=8
-ELTA體育1,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=9
-ELTA體育2,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=10
-ELTA體育3,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=11
-ELTA體育4,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=12
-翡翠4K,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat11&id=1
-翡翠台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=1
-翡翠台(美加·东岸时区),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=2
-翡翠台(美加·西岸时区),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=3
-翡翠台(欧·新时区),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=4
-翡翠台(英国时区),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=5
-娱家台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=9
-都会台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=10
-Now華劇台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=17
-TVB星河频道(粤),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=20
-TVB星河频道(国),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=21
-TVB功夫台(粤),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=12
-TVB功夫台(国),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=11
-美亚电影（EN),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=13
-美亚电影（CN),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=14
-美亚电影（TW),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=18
-美亚电影（WW),http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=19
-POPC,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=15
-星空卫视,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=16
-凤凰中文台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=6
-凤凰资讯台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=7
-凤凰香港台,http://iptv.diyp.site/2EIZn415LQ_公众号【DIYP】.php?key=gat10&id=8
+CHC家庭电影,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=3
+TVB星河频道,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=4
+TVB星河频道国语,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=5
+CM+,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat14&id=1
+戏曲台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=8
+粤语片台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=9
+Now爆谷台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=10
+Now星影台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=11
+Now星影台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=12
+Now华剧台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=13
+Now新闻台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=14
+Now Sport1,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=15
+Now英超1台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=16
+Now sport641Now sport641,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat1&id=17
+鳳凰中文,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=2
+鳳凰資訊,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=3
+鳳凰香港,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=4
+Now英超1,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=5
+爆谷星影台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=6
+爆谷台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=7
+戲曲台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=13
+粵語片台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=14
+緯來體育,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=8
+ELTA體育1,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=9
+ELTA體育2,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=10
+ELTA體育3,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=11
+ELTA體育4,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=12
+翡翠4K,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat11&id=1
+翡翠台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=1
+翡翠台(美加·东岸时区),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=2
+翡翠台(美加·西岸时区),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=3
+翡翠台(欧·新时区),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=4
+翡翠台(英国时区),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=5
+娱家台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=9
+都会台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=10
+Now華劇台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=17
+TVB星河频道(粤),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=20
+TVB星河频道(国),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=21
+TVB功夫台(粤),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=12
+TVB功夫台(国),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=11
+美亚电影（EN),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=13
+美亚电影（CN),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=14
+美亚电影（TW),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=18
+美亚电影（WW),http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=19
+POPC,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=15
+星空卫视,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=16
+凤凰中文台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=6
+凤凰资讯台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=7
+凤凰香港台,http://iptv.diyp.site/0o9L7Vpcvt_公众号【DIYP】.php?key=gat10&id=8
 
 ⚽️🏀直播,#genre#
 ⚽️🏀波妞,https://new-live.jnyyoa.com/live/1744267.m3u8
@@ -2120,238 +2011,6 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 茶频道,http://111.29.9.33:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 纯享4K,http://111.29.9.33:6610/000000001000/1000000004000011651/index.m3u8?channel-id=bestzb&Contentid=1000000004000011651&livemode=1&stbId=3
 乐游,http://111.29.9.33:6610/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-
-北京移动v6,#genre#
-4K超清(北京IPTV),http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
-咪咕4K0,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
-咪咕4K1,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8?
-BRTV international ,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?
-BRTV财经,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
-BRTV纪实科教,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8?
-BRTV生活,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8?
-BRTV体育休闲,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
-BRTV文艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?
-BRTV新闻,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?
-BRTV影视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?
-CCTV1,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8?
-CCTV1,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8?
-CCTV1,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
-CCTV1,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226933/1.m3u8?
-CCTV2,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?
-CCTV2,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8?
-CCTV2,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8?
-CCTV2,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
-CCTV2,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8?
-CCTV2,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8?
-CCTV3,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
-CCTV4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?
-CCTV4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227026/1.m3u8?
-CCTV5,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
-CCTV5+,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8?
-CCTV5+,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
-CCTV5+,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226929/1.m3u8?
-CCTV6,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
-CCTV7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?
-CCTV7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8?
-CCTV7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
-CCTV7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227019/1.m3u8?
-CCTV8,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
-CCTV9,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?
-CCTV9,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?
-CCTV9,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
-CCTV9,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227037/1.m3u8?
-CCTV10,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8?
-CCTV10,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
-CCTV11,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
-CCTV11,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?
-CCTV12,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?
-CCTV12,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?
-CCTV12,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
-CCTV13,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
-CCTV13,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226568/1.m3u8?
-CCTV13,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227041/1.m3u8?
-CCTV14,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?
-CCTV14,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8?
-CCTV14,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
-CCTV14,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227036/1.m3u8?
-CCTV15,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
-CCTV15,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8?
-CCTV16,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?
-CCTV16,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8?
-CCTV16,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8?
-CCTV16,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
-CCTV17,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
-CCTV17,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8?
-CETV1,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
-CETV1,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?
-CETV4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8?
-安徽卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8?
-安徽卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226902/1.m3u8?
-安徽卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?
-北京卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?
-北京卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?
-北京卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8?
-北京卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?
-北京卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226936/1.m3u8?
-北京卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?
-东方卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?
-东方卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8?
-东方卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226505/1.m3u8?
-东方卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?
-东方卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8?
-东方卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226983/1.m3u8?
-东南卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?
-东南卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?
-青海卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?
-山东卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?
-山东卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226501/1.m3u8?
-山东卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?
-深圳卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?
-深圳卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8?
-深圳卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?
-四川卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?
-辽宁卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8?
-辽宁卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?
-云南卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?
-浙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?
-浙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8?
-浙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226504/1.m3u8?
-浙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?
-浙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226964/1.m3u8?
-浙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226998/1.m3u8?
-甘肃卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?
-广东卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8?
-广东卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8?
-广东卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?
-广西卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?
-贵州卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8?
-贵州卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?
-海南卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?
-河北卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8?
-河北卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?
-黑龙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?
-黑龙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/1.m3u8?
-黑龙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?
-湖北卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?
-湖北卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8?
-湖北卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?
-湖南卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?
-湖南卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227044/1.m3u8?
-吉林卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226886/1.m3u8?
-吉林卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?
-江苏卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?
-江苏卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8?
-江苏卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226506/1.m3u8?
-江苏卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?
-江苏卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8?
-江苏卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227009/1.m3u8?
-江西卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?
-江西卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226570/1.m3u8?
-江西卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?
-天津卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8?
-天津卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8?
-天津卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?
-重庆卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8?
-重庆卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?
-西藏卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?
-延边卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?
-重温经典,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?
-黑莓电影,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?
-黑莓动画,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?
-金鹰纪实,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8?
-卡酷少儿,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8?
-茶频道,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?
-古装剧场,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8?
-古装剧场,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?
-欢乐剧场,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8?
-爱情喜剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8?
-爱情喜剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?
-家庭剧场,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8?
-家庭剧场,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?
-惊悚悬疑,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?
-超级电视剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8?
-超级电视剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8?
-超级电视剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?
-超级电影,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?
-超级电影,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8?
-超级电影,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226949/1.m3u8?
-超级电影,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?
-超级体育,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?
-超级体育,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?
-超级体育,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226945/1.m3u8?
-超级综艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?
-超级综艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8?
-超级综艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226940/1.m3u8?
-超级综艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?
-潮妈辣婆,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8?
-潮妈辣婆,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?
-金牌综艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?
-金牌综艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8?
-睛彩广场舞,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226567/1.m3u8?
-睛彩广场舞,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227040/1.m3u8?
-睛彩竞技,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?
-睛彩篮球,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?
-睛彩青少,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?
-精品大剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8?
-精品大剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?
-精品纪录,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8?
-精品纪录,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?
-精品萌宠,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?
-精品体育,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8?
-精品体育,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?
-军旅剧场,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8?
-军旅剧场,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?
-快乐垂钓,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?
-萌宠TV,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?
-淘BABY,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?
-淘电影,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
-淘剧场,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?
-淘娱乐,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226341/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226342/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226343/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226993/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227001/1.m3u8?
-央广购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226971/1.m3u8?
-优购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8?
-优购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8?
-优购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8?
-优购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227032/1.m3u8?
-家有购物,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226996/1.m3u8?
-中国功夫,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8?
-中国功夫,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?
-中国交通,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8?
-哒啵电竞,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?
-哒啵赛事,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?
-咪咕视频1,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8?
-咪咕视频2,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8?
-咪咕视频3,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8?
-咪咕视频4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8?
-咪咕视频5,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8?
-咪咕视频6,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8?
-咪咕视频7,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8?
-咪咕视频8,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8?
-咪咕视频9,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8?
-咪咕视频10,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8?
-咪咕视频11,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8?
-咪咕视频12,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8?
-咪咕视频13,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8?
-咪咕视频14,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8?
-咪咕视频15,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8?
-咪咕视频16,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8?
-咪咕视频17,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8?
-咪咕视频18,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8?
-咪咕视频19,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8?
-咪咕视频20,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8?
-咪咕视频21,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8?
-咪咕视频22,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8?
-咪咕视频23,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8?
-怡伴健康,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8?
-怡伴健康,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?
-炫舞未来,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8?
 
 广东联通(内),#genre#
 广东综艺4K,http://120.87.4.5:80/PLTV/88888973/224/3221226174/10000100000000060000000001154677_0.smil/01.m3u8?fmt=ts2hls,83,01.m3u8,0,28893,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowks7JFSNmqxY+Vs2cx118+R:20181110091937,END&GuardEncType=2
