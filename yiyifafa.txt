@@ -1050,49 +1050,6 @@ ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
 纬来日本,http://108.181.20.197/livehttpplay?channel_id=20303
 FGM电影,http://108.181.20.197/livehttpplay?channel_id=10123
 
-DIYP极速,#genre#
-CHC家庭电影,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=3
-TVB星河频道,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=4
-TVB星河频道国语,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=5
-CM+,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat14&id=1
-戏曲台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=8
-粤语片台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=9
-鳳凰中文,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=2
-鳳凰資訊,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=3
-鳳凰香港,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=4
-Now英超1,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=5
-爆谷星影台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=6
-爆谷台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=7
-戲曲台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=13
-粵語片台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=14
-緯來體育,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=8
-ELTA體育1,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=9
-ELTA體育2,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=10
-ELTA體育3,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=11
-ELTA體育4,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=12
-翡翠4K,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=1
-翡翠台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=1
-翡翠台(美加·东岸时区),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=2
-翡翠台(美加·西岸时区),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=3
-翡翠台(欧·新时区),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=4
-翡翠台(英国时区),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=5
-娱家台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=9
-都会台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=10
-Now華劇台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=17
-TVB星河频道(粤),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=20
-TVB星河频道(国),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=21
-TVB功夫台(粤),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=12
-TVB功夫台(国),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=11
-美亚电影（EN),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=13
-美亚电影（CN),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=14
-美亚电影（TW),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=18
-美亚电影（WW),http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=19
-POPC,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=15
-星空卫视,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=16
-凤凰中文台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=6
-凤凰资讯台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=7
-凤凰香港台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat10&id=8
-
 ⚽️🏀直播,#genre#
 ⚽️🏀波妞,https://new-live.jnyyoa.com/live/1744267.m3u8
 ⚽️🏀陆宝儿,https://new-live.jnyyoa.com/live/7468974.m3u8
