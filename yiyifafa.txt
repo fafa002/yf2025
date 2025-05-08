@@ -437,18 +437,6 @@ TVBS NEWS02,http://live.iill.top/youtube/@TVBSNEWS02/live
 中视经典,http://live.iill.top/youtube/@ctvent_classic
 戏说台湾,http://live.iill.top/youtube/@TWStoryTV
 ANNnews,http://live.iill.top/youtube/@ANNnewsCH
-POPC,http://go1.bkpcp.top/tl/popc
-天映经典,http://go1.bkpcp.top/tl/null-1
-无线华剧,http://go1.bkpcp.top/tl/null-2
-无线亚综,http://go1.bkpcp.top/tl/null-3
-无线娱乐,http://go1.bkpcp.top/tl/null-4
-美亚电影,http://go1.bkpcp.top/tl/null-5
-TVB星河,http://go1.bkpcp.top/tl/null-7
-黄金华剧,http://go1.bkpcp.top/tl/null-9
-无线新闻,http://go1.bkpcp.top/tl/null-11
-明珠台,http://go1.bkpcp.top/tl/null-12
-无线亚剧,http://go1.bkpcp.top/tl/null-13
-娱乐新闻,http://go1.bkpcp.top/tl/null-14
 好消息1,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 好消息2,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
 
