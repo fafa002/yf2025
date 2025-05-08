@@ -1282,14 +1282,6 @@ TVB星河频道国语,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?k
 CM+,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat14&id=1
 戏曲台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=8
 粤语片台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=9
-Now爆谷台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=10
-Now星影台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=11
-Now星影台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=12
-Now华剧台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=13
-Now新闻台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=14
-Now Sport1,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=15
-Now英超1台,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=16
-Now sport641Now sport641,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat1&id=17
 鳳凰中文,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=2
 鳳凰資訊,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=3
 鳳凰香港,http://iptv.diyp.site/gcxwxJGXuo_公众号【DIYP】.php?key=gat11&id=4
