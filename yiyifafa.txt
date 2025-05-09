@@ -492,7 +492,7 @@ Hoy77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
 tvbplus,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
 Hoy78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
-Now体育1,https://ali.hlspull.yximgs.com/live/xiangjiaogenowty301.flv
+Now体育1,http://erp.giihgtidg.com:8080/live/nowxw01.m3u8
 Now体育2,https://gdfire2.67890123.cn:8088/live/nowty101.m3u8
 Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
