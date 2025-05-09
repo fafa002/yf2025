@@ -512,23 +512,12 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 翡翠台(备),http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 凤凰中文,https://ali.hlspull.yximgs.com/live/xiangjiaog16131131131.flv
-凤凰资讯,https://ali.hlspull.yximgs.com/live/xiangjiaog61616631311.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/xiangjiaoge14531616.flv
 爱尔达影剧,https://ali.hlspull.yximgs.com/live/xiangjiaoge13154649461613131.flv
-爱尔达综合,https://ali.hlspull.yximgs.com/live/xiangjiaoge4861516116.flv
 民视,https://ali.hlspull.yximgs.com/live/xiangjiaoge79131110.flv
-华视,https://ali.hlspull.yximgs.com/live/xiangjiaoge791163131.flv
-中视,https://ali.hlspull.yximgs.com/live/xiangjiaoge49613151631.flv
 民视台湾,https://ali.hlspull.yximgs.com/live/xiangjiaoge7913151761.flv
-民视第一,https://ali.hlspull.yximgs.com/live/xiangjiaoge791631513.flv
 三立综合,https://ali.hlspull.yximgs.com/live/xiangjiaoge4613163134.flv
-三立戏剧,https://ali.hlspull.yximgs.com/live/xiangjiaoge364134165.flv
-中天综合,https://ali.hlspull.yximgs.com/live/xiangjiaoge631651461.flv
-中天娱乐,https://ali.hlspull.yximgs.com/live/xiangjiaoge564131531.flv
-八大第一,https://ali.hlspull.yximgs.com/live/xiangjiaoge49384343.flv
-八大综合,https://ali.hlspull.yximgs.com/live/xiangjiaoge69716151.flv
 八大戏剧,https://ali.hlspull.yximgs.com/live/xiangjiaoge934534843.flv
-东森戏剧,https://ali.hlspull.yximgs.com/live/xiangjiaoge679646131.flv
 东森综合,https://ali.hlspull.yximgs.com/live/xiangjiaoge9816161.flv
 
 AK极速(失效),#genre#
