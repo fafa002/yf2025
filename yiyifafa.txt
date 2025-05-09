@@ -486,8 +486,8 @@ popc,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 盗源狗si全家 全家下地狱
 翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-mytv18,https://ali.hlspull.yximgs.com/live/xiangjiaogemytv18.flv
-Hoy77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77.flv
+mytv18,https://ali.hlspull.yximgs.com/live/xiangjiaogemytv0318.flv
+Hoy77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
 广电翡翠,https://gdfire2.67890123.cn:8088/live/gdfc.m3u8
 tvbplus,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
 Hoy78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
