@@ -1162,8 +1162,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东民生(晚7点),http://live.iill.top/douyin/gdtvdvxc
 广东珠江(晚6点),http://live.iill.top/douyin/gdtvzjpd
 广东体育,https://ali.hlspull.yximgs.com/live/xaigjiaoge461551461313.flv
-广东珠江,https://ali.hlspull.yximgs.com/live/xiangjiaogegdjz113151.flv
-大湾区卫视,https://ali.hlspull.yximgs.com/live/xiangjiaogedwq.flv
+广东珠江,https://ali.hlspull.yximgs.com/live/xiangjiaoge165415313.flv
+大湾区卫视,https://ali.hlspull.yximgs.com/live/xiangjiaoge6466147116.flv
 
 -大湾区卫视,http://conghua-sslp.online:3009/大湾区/易发/hls.m3u8
 -广东珠江,http://conghua-sslp.online:3009/广东珠江1/易发/hls.m3u8
