@@ -542,7 +542,7 @@ now体育prime,http://ali.hlspull.yximgs.com/live/xiangjiaoge68416415.flv
 八大综合,http://ali.hlspull.yximgs.com/live/xiangjiaoge5166165135.flv
 
 极速小曾,#genre#
-TVB综合台,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
+TVBPlus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
 TVB翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
 PopC电影台,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
