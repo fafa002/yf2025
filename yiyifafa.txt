@@ -517,7 +517,7 @@ tvbplus,http://ali.hlspull.yximgs.com/live/xiangjiaoge131f31311.flv
 hoy77,http://ali.hlspull.yximgs.com/live/xiangjiaoge31131df131.flv
 hoy78,http://ali.hlspull.yximgs.com/live/xiangjiaoge313f1d4s6.flv
 星河,http://ali.hlspull.yximgs.com/live/xiangjiaoge41df1df131f.flv
-now新闻,http://ali.hlspull.yximgs.com/live/xiangjiaoge41df1df131f.flv
+now新闻,http://ali.hlspull.yximgs.com/live/xiangjiaoge6436443454.flv
 now体育prime,http://ali.hlspull.yximgs.com/live/xiangjiaoge68416415.flv
 中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 中天综合,http://ali.hlspull.yximgs.com/live/xiangjiaoge1631131113.flv
