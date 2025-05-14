@@ -518,11 +518,20 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 
 -中天新闻2,http://ali.hlspull.yximgs.com/live/awei_ztxw2.flv
 -中天亚洲,http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
+-中天综合,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
 -翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv
 -重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 -tvbplus,http://ali.hlspull.yximgs.com/live/awei_j2.flv
--民视第一,http://ali.hlspull.yximgs.com/live/xiangjiaoge1bfkbfksb131.flv
--民视台湾,http://ali.hlspull.yximgs.com/live/xiangjiaoge413f1sa3f13s.flv
+-民视第一,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
+-民视台湾,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
+-HOY77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
+-HOY78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
+-美亚电影,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
+-东森超视,http://ali.hlspull.yximgs.com/live/awei_dscs.flv
+-东森综合,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
+-八大第一,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
+-八大综合,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
+-爱尔达娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 
 极速老许,#genre#
 TVBPlus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
