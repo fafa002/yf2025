@@ -533,28 +533,12 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 -八大综合,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
 -爱尔达娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 
-极速老许,#genre#
+极速mytv,#genre#
 TVBPlus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
 TVB翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
 PopC电影台,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
-
-台视,http://150.138.77.132:10037/西瓜/台视.php
-壹电影,http://150.138.77.132:10037/西瓜/壹电影.php
-Tvn HD,http://150.138.77.132:10037/西瓜/Tvn.php
-HBO HD,http://150.138.77.132:10037/西瓜/HBO.php
-东森戏剧台,http://150.138.77.132:10037/西瓜/东森戏剧台.php
-美亚电影台,http://150.138.77.132:10037/西瓜/美亚电影台.php
-龙翔电影台,http://150.138.77.132:10037/西瓜/龙翔电影台.php
-CN卡通频道,http://150.138.77.132:10037/西瓜/CN卡通频道.php
-Now星影台,http://150.138.77.132:10037/西瓜/Now星影台.php
-Now爆谷台,http://150.138.77.132:10037/西瓜/Now爆谷台.php
-韩国娱乐台,http://150.138.77.132:10037/西瓜/韩国娱乐台.php
-中天娱乐台,http://150.138.77.132:10037/西瓜/中天娱乐台.php
-中天新闻台,http://150.138.77.132:10037/西瓜/中天新闻台.php
-中天新闻台+,http://150.138.77.132:10037/西瓜/中天新闻台+.php
-TVB黄金华剧台,http://150.138.77.132:10037/西瓜/黄金华剧台.php
 
 极速108,#genre#
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
