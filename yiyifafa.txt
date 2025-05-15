@@ -540,6 +540,16 @@ PopC电影台,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 
+TVB生活,http://euhnp.avtk.cn/23
+TVB功夫,http://euhns.avtk.cn/f6
+Now爆谷,http://euhn7.ensl.cn/6f
+Now星影,http://euhn0.avtk.cn/a6
+Now华剧,http://euhnf.ensl.cn/2a
+Now紫金,http://euh3b.avtk.cn/f1
+CM+,http://euh32.ensl.cn/f2
+佳乐台,http://euh39.ensl.cn/cf
+E乐台,http://euh3a.avtk.cn/33
+
 极速108,#genre#
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
