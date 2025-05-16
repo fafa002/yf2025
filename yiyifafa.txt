@@ -540,16 +540,6 @@ PopC电影台,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 
-TVB生活,https://ali.hlspull.yximgs.com/live/4e0db6495e07a5e4c8a75acbe19e7816.flv
-TVB功夫,https://ali.hlspull.yximgs.com/live/6060b3873108281b88e2dfa20a166e16.flv
-Now爆谷,https://ali.hlspull.yximgs.com/live/a4e6a5335e7f8e132d3e0da6e2b8efcc.flv
-Now星影,https://ali.hlspull.yximgs.com/live/8543e959a3c89ea4aca8e5e386fbb6c0.flv
-Now华剧,https://ali.hlspull.yximgs.com/live/70295be8e42d91150c87e1c52df1a647.flv
-Now紫金,https://ali.hlspull.yximgs.com/live/e1f142d73f75933cc217df602ad5fc7d.flv
-CM+,https://ali.hlspull.yximgs.com/live/eccee6247ce7719ed2524edd6913ae37.flv
-佳乐台,https://ali.hlspull.yximgs.com/live/4cf7b778314c08f1112ebccb128b46ea.flv
-E乐台,https://ali.hlspull.yximgs.com/live/1400f385084ac6e76aebe4baf44a1833.flv
-
 极速108,#genre#
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
