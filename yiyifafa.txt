@@ -586,9 +586,9 @@ NOW新闻,https://ali.hlspull.yximgs.com/live/channel_1747455047524.flv
 凤凰资讯,https://ali.hlspull.yximgs.com/live/channel_1747457711173.flv
 星空卫视,https://ali.hlspull.yximgs.com/live/channel_1747457726230.flv
 POPC电影,https://ali.hlspull.yximgs.com/live/channel_1747457756538.flv
-爆谷,https://ali.hlspull.yximgs.com/live/channel_1747457904491.flv
-星影,https://ali.hlspull.yximgs.com/live/channel_1747458060222.flv
-翡翠,https://ali.hlspull.yximgs.com/live/channel_1747459165747.flv
+NOW爆谷,https://ali.hlspull.yximgs.com/live/channel_1747457904491.flv
+NOW星影,https://ali.hlspull.yximgs.com/live/channel_1747458060222.flv
+翡翠台,https://ali.hlspull.yximgs.com/live/channel_1747459165747.flv
 中天新闻,https://ali.hlspull.yximgs.com/live/channel_1747459998493.flv
 TVBS,https://ali.hlspull.yximgs.com/live/channel_1747473338325.flv
 广东体育,https://ali.hlspull.yximgs.com/live/channel_1747473988369.flv
