@@ -581,18 +581,23 @@ PopC电影台,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 
 CM+,https://ali.hlspull.yximgs.com/live/lve-cm.flv
-NOW新闻,https://ali.hlspull.yximgs.com/live/channel_1747455047524.flv
-凤凰中文,https://ali.hlspull.yximgs.com/live/channel_1747457576312.flv
-凤凰资讯,https://ali.hlspull.yximgs.com/live/channel_1747457711173.flv
-星空卫视,https://ali.hlspull.yximgs.com/live/channel_1747457726230.flv
-POPC电影,https://ali.hlspull.yximgs.com/live/channel_1747457756538.flv
-NOW爆谷,https://ali.hlspull.yximgs.com/live/channel_1747457904491.flv
-NOW星影,https://ali.hlspull.yximgs.com/live/channel_1747458060222.flv
-翡翠台,https://ali.hlspull.yximgs.com/live/channel_1747459165747.flv
-中天新闻,https://ali.hlspull.yximgs.com/live/channel_1747459998493.flv
-TVBS,https://ali.hlspull.yximgs.com/live/channel_1747473338325.flv
-广东体育,https://ali.hlspull.yximgs.com/live/channel_1747473988369.flv
-广东新闻,https://ali.hlspull.yximgs.com/live/channel_1747474019983.flv
+凤凰卫视中文台,https://gat.tv12.xyz/164.m3u8 
+凤凰卫视中文台,https://gat.tv12.xyz/165.m3u8 
+凤凰卫视中文台,https://gat.tv12.xyz/166.m3u8 
+凤凰卫视资讯台,https://gat.tv12.xyz/167.m3u8 
+凤凰卫视资讯台,https://gat.tv12.xyz/168.m3u8 
+凤凰卫视资讯台,https://gat.tv12.xyz/169.m3u8 
+凤凰卫视香港台,https://gat.tv12.xyz/170.m3u8 
+凤凰卫视香港台,https://gat.tv12.xyz/171.m3u8 
+亚洲卫视,https://gat.tv12.xyz/173.m3u8 
+TVB翡翠台,https://gat.tv12.xyz/174.m3u8 
+澳视澳门台,https://gat.tv12.xyz/181.m3u8 
+澳视葡文台,https://gat.tv12.xyz/182.m3u8 
+澳视卫星台,https://gat.tv12.xyz/183.m3u8 
+澳视体育台,https://gat.tv12.xyz/184.m3u8 
+澳视资讯台,https://gat.tv12.xyz/185.m3u8 
+澳视综艺台,https://gat.tv12.xyz/186.m3u8 
+莲花卫视,https://gat.tv12.xyz/187.m3u8
 
 极速108,#genre#
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
