@@ -327,11 +327,6 @@ QQ群,1
 重温经典,http://36.108.172.237:10005/stream/channelid/1658622386?ticket=cee7f3f6fd238a746e4e7a2b018ee411947ffe3d&profile=pass
 北京卫视4K,http://150.138.77.132:10037/北京卫视.php
 
-2025春节电影,#genre#
-哪吒2高清,http://c1.7bbffvip.com/video/nazhazhimotongnaohai/%E4%BF%AE%E5%A4%8D%E7%89%88/index.m3u8
-哪吒2,http://v.cdnlz3.com/20250130/32951_7aff9de8/index.m3u8
-唐探1990,http://v.cdnlz3.com/20250130/32952_451ad4b5/index.m3u8
-
 极速港台2,#genre#
 盗源狗si全家 全家下地狱
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -540,7 +535,10 @@ PopC电影台,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 
-CM+,https://ali.hlspull.yximgs.com/live/lve-cm.flv
+翡翠台㊀,http://139.155.148.244:41022/tsfile/live/1004_1.m3u8?key=e8916os1
+东森电影㊀,http://139.155.148.244:41022/tsfile/live/5001_1.m3u8?key=ceshi
+广东珠江㊀,https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
+
 凤凰卫视中文台,https://gat.tv12.xyz/164.m3u8 
 凤凰卫视中文台,https://gat.tv12.xyz/165.m3u8 
 凤凰卫视中文台,https://gat.tv12.xyz/166.m3u8 
