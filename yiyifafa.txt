@@ -1341,6 +1341,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东珠江㊀,https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
 广东新闻㊀,https://ali.hlspull.yximgs.com/live/guangdong_xw.flv
 广东体育㊀,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
+广东影视㊀,https://ali.hlspull.yximgs.com/live/guangdong_ys.flv
 
 -大湾区卫视,http://conghua-sslp.online:3009/大湾区/易发/hls.m3u8
 -广东珠江,http://conghua-sslp.online:3009/广东珠江1/易发/hls.m3u8
