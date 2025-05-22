@@ -1356,6 +1356,18 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 -揭阳生活,http://conghua-sslp.online:3009/揭阳生活/易发/hls.m3u8
 -潮州民生,http://conghua-sslp.online:3009/潮州民生/易发/hls.m3u8
 
+广东酒店2,#genre#
+广东卫视,http://139.155.148.244:41022/tsfile/live/1097_1.m3u8?key=rml9smwt
+广东珠江,http://139.155.148.244:41022/tsfile/live/1098_1.m3u8?key=fjalmj21
+广东新闻,http://139.155.148.244:41022/tsfile/live/1099_1.m3u8?key=dwhrit6f
+广东影视,http://139.155.148.244:41022/tsfile/live/1100_1.m3u8?key=g9n8kepb
+广东民生,http://139.155.148.244:41022/tsfile/live/1101_1.m3u8?key=pxv4l67k
+广东体育,http://139.155.148.244:41022/tsfile/live/1102_1.m3u8?key=ooep84bz
+广东岭南戏曲,http://139.155.148.244:41022/tsfile/live/1104_1.m3u8?key=71yrfoq3
+广东少儿,http://139.155.148.244:41022/tsfile/live/1105_1.m3u8?key=znjlbje9
+嘉佳卡通,http://139.155.148.244:41022/tsfile/live/1106_1.m3u8?key=vlcylzos
+​大湾区卫视,http://139.155.148.244:41022/tsfile/live/1103_1.m3u8?key=dawanquweishi
+
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000488.m3u8
