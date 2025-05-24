@@ -1361,6 +1361,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东新闻1,https://ali.hlspull.yximgs.com/live/guangdong_xw.flv
 广东体育1,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
 广东影视1,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
+翡翠4k,https://ali.hlspull.yximgs.com/live/xianggang_fx4k.flv
+凤凰资讯,https://ali.hlspull.yximgs.com/live/xianggang_fhzx.flv
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
