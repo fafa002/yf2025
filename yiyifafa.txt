@@ -1368,6 +1368,11 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 嘉佳卡通,http://139.155.148.244:41022/tsfile/live/1106_1.m3u8?key=vlcylzos
 ​大湾区卫视,http://139.155.148.244:41022/tsfile/live/1103_1.m3u8?key=dawanquweishi
 
+广东珠江1,https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
+广东新闻1,https://ali.hlspull.yximgs.com/live/guangdong_xw.flv
+广东体育1,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
+广东影视1,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
+
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000488.m3u8
