@@ -1126,84 +1126,6 @@ EYETV旅游,http://150.138.77.132:10037/xxw/Smartv.php?id=?id=eyetvtravel_twn
 爱尔达体育2,http://150.138.77.132:10037/xxw/Smartv.php?id=eltasport2_twn
 爱尔达体育3,http://150.138.77.132:10037/xxw/Smartv.php?id=eltasport3_twn
 
-零零广告极速,#genre#
-鳳凰衛視中文,http://47.239.163.171/HDTV/QQ群1047470024.php?id=1
-鳳凰衛視资讯,http://47.239.163.171/HDTV/QQ群1047470024.php?id=3
-鳳凰衛視香港,http://47.239.163.171/HDTV/QQ群1047470024.php?id=5
-香港有线新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=6
-TVB無綫新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=8
-TVB無綫新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=9
-TVB明珠,http://47.239.163.171/HDTV/QQ群1047470024.php?id=10
-TVBplus,http://47.239.163.171/HDTV/QQ群1047470024.php?id=11
-TVB星河,http://47.239.163.171/HDTV/QQ群1047470024.php?id=12
-VIU TV,http://47.239.163.171/HDTV/QQ群1047470024.php?id=14
-VIUTV6,http://47.239.163.171/HDTV/QQ群1047470024.php?id=15
-NOW新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=16
-Now星影,http://47.239.163.171/HDTV/QQ群1047470024.php?id=17
-Now体育,http://47.239.163.171/HDTV/QQ群1047470024.php?id=18
-Now英超1,http://47.239.163.171/HDTV/QQ群1047470024.php?id=19
-HOY77,http://47.239.163.171/HDTV/QQ群1047470024.php?id=20
-TVB娛樂新聞,http://47.239.163.171/HDTV/QQ群1047470024.php?id=21
-TVB黃金翡翠,http://47.239.163.171/HDTV/QQ群1047470024.php?id=22
-TVB千禧經典,http://47.239.163.171/HDTV/QQ群1047470024.php?id=23
-TVB亞洲劇,http://47.239.163.171/HDTV/QQ群1047470024.php?id=24
-TVB華語劇,http://47.239.163.171/HDTV/QQ群1047470024.php?id=25
-TVB亚洲综合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=26
-TVB戏曲,http://47.239.163.171/HDTV/QQ群1047470024.php?id=28
-TVB粤语片,http://47.239.163.171/HDTV/QQ群1047470024.php?id=29
-MyTV儿童,http://47.239.163.171/HDTV/QQ群1047470024.php?id=30
-TVB功夫粤,http://47.239.163.171/HDTV/QQ群1047470024.php?id=31
-popc,http://47.239.163.171/HDTV/QQ群1047470024.php?id=33
-美亚电影(港),http://47.239.163.171/HDTV/QQ群1047470024.php?id=34
-美亚电影(台),http://47.239.163.171/HDTV/QQ群1047470024.php?id=35
-壹新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=36
-中天新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=37
-中天综合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=38
-中天娱乐,http://47.239.163.171/HDTV/QQ群1047470024.php?id=39
-TVBS新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=40
-TVBSHD,http://47.239.163.171/HDTV/QQ群1047470024.php?id=41
-壹新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=42
-年代新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=43
-非凡新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=44
-寰宇新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=45
-镜新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=46
-东森新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=47
-东森超视,http://47.239.163.171/HDTV/QQ群1047470024.php?id=48
-东森综合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=49
-东森戏剧,http://47.239.163.171/HDTV/QQ群1047470024.php?id=50
-东森电影,http://47.239.163.171/HDTV/QQ群1047470024.php?id=51
-东森洋片,http://47.239.163.171/HDTV/QQ群1047470024.php?id=52
-纬来电影,http://47.239.163.171/HDTV/QQ群1047470024.php?id=53
-纬来体育,http://47.239.163.171/HDTV/QQ群1047470024.php?id=54
-纬来综合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=55
-纬来戏剧,http://47.239.163.171/HDTV/QQ群1047470024.php?id=56
-龙祥时代,http://47.239.163.171/HDTV/QQ群1047470024.php?id=57
-龙华偶像,http://47.239.163.171/HDTV/QQ群1047470024.php?id=58
-龙华戏剧,http://47.239.163.171/HDTV/QQ群1047470024.php?id=59
-龙华电影,http://47.239.163.171/HDTV/QQ群1047470024.php?id=60
-龙华洋片,http://47.239.163.171/HDTV/QQ群1047470024.php?id=61
-龙华经典,http://47.239.163.171/HDTV/QQ群1047470024.php?id=62
-三立新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=63
-八大综合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=64
-八大戏剧,http://47.239.163.171/HDTV/QQ群1047470024.php?id=65
-靖天电影,http://47.239.163.171/HDTV/QQ群1047470024.php?id=66
-靖洋戏剧,http://47.239.163.171/HDTV/QQ群1047470024.php?id=67
-爱尔达影剧,http://47.239.163.171/HDTV/QQ群1047470024.php?id=68
-爱尔达综合,http://47.239.163.171/HDTV/QQ群1047470024.php?id=69
-HBOHD,http://47.239.163.171/HDTV/QQ群1047470024.php?id=70
-HBO原创,http://47.239.163.171/HDTV/QQ群1047470024.php?id=71
-HBO强档,http://47.239.163.171/HDTV/QQ群1047470024.php?id=72
-HBO家庭,http://47.239.163.171/HDTV/QQ群1047470024.php?id=73
-好莱坞电影,http://47.239.163.171/HDTV/QQ群1047470024.php?id=74
-AMC电影,http://47.239.163.171/HDTV/QQ群1047470024.php?id=75
-中视,http://47.239.163.171/HDTV/QQ群1047470024.php?id=76
-中视新闻,http://47.239.163.171/HDTV/QQ群1047470024.php?id=77
-中视经典,http://47.239.163.171/HDTV/QQ群1047470024.php?id=78
-公视,http://47.239.163.171/HDTV/QQ群1047470024.php?id=79
-公视戏剧,http://47.239.163.171/HDTV/QQ群1047470024.php?id=80
-民视,http://47.239.163.171/HDTV/QQ群1047470024.php?id=81
-民视影剧,http://47.239.163.171/HDTV/QQ群1047470024.php?id=82
-
 ⚽️🏀直播,#genre#
 ⚽️🏀波妞,https://new-live.jnyyoa.com/live/1744267.m3u8
 ⚽️🏀陆宝儿,https://new-live.jnyyoa.com/live/7468974.m3u8
@@ -1337,11 +1259,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 大湾区卫视,https://ali.hlspull.yximgs.com/live/xiangjiaoge651fs3f1313s1.flv
 广东民生,https://ali.hlspull.yximgs.com/live/xiangjiaoge5313d131d3351.flv
 
-广东珠江㊀,https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
-广东新闻㊀,https://ali.hlspull.yximgs.com/live/guangdong_xw.flv
-广东体育㊀,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
-广东影视㊀,https://ali.hlspull.yximgs.com/live/guangdong_ys.flv
-
 -大湾区卫视,http://conghua-sslp.online:3009/大湾区/易发/hls.m3u8
 -广东珠江,http://conghua-sslp.online:3009/广东珠江1/易发/hls.m3u8
 -广东影视,http://conghua-sslp.online:3009/广东影视1/易发/hls.m3u8
@@ -1356,12 +1273,11 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 -潮州民生,http://conghua-sslp.online:3009/潮州民生/易发/hls.m3u8
 
 广东酒店2,#genre#
-广东珠江1,https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
-广东新闻1,https://ali.hlspull.yximgs.com/live/guangdong_xw.flv
-广东体育1,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
-广东影视1,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
-翡翠4k,https://ali.hlspull.yximgs.com/live/xianggang_fx4k.flv
-凤凰资讯,https://ali.hlspull.yximgs.com/live/xianggang_fhzx.flv
+广东珠江㊀,https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
+广东新闻㊀,https://ali.hlspull.yximgs.com/live/guangdong_xw.flv
+广东体育㊀,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
+广东影视㊀,https://ali.hlspull.yximgs.com/live/guangdong_ys.flv
+广东民生㊀,https://ali.hlspull.yximgs.com/live/guangdong_ms.flv
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
