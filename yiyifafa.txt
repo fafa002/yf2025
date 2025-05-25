@@ -410,31 +410,6 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 
-极速限时(失效),#genre#
-中天新聞,http://live.iill.top/youtube/@中天新聞CtiNews
-中天新闻2,http://live.iill.top/youtube/@ctitalkshow
-台视新闻,http://live.iill.top/youtube/@TTV_NEWS/live
-寰宇新闻,http://live.iill.top/youtube/@globalnewstw/live
-民视新闻,http://live.iill.top/youtube/@FTV_News
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-TVBS NEWS02,http://live.iill.top/youtube/@TVBSNEWS02/live
-镜新闻,http://live.iill.top/youtube/@mnews-tw/live
-中视新闻,http://live.iill.top/youtube/@twctvnews/live
-三立新闻,http://live.iill.top/youtube/@setnews/live
-三立新闻+,http://live.iill.top/youtube/@setinews
-东森新闻,http://live.iill.top/youtube/@newsebc
-公视新闻,http://live.iill.top/youtube/@PNNPTS
-乐视视频,http://live.iill.top/youtube/@letvdramas
-甜宠追剧,http://live.iill.top/youtube/@甜宠追剧社
-饥饿游戏,http://live.iill.top/youtube/@HungerGames123
-凤凰咨询,http://live.iill.top/youtube/@phoenixtvnews7060
-凤凰卫视,http://live.iill.top/youtube/@phoenixtvhk
-中视经典,http://live.iill.top/youtube/@ctvent_classic
-戏说台湾,http://live.iill.top/youtube/@TWStoryTV
-ANNnews,http://live.iill.top/youtube/@ANNnewsCH
-好消息1,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
-好消息2,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
-
 HK DTMB,#genre#
 盗源狗si全家 全家下地狱
 -翡翠台(备),http://bziyunshao.synology.me:8889/bysid/1.m3u8
@@ -527,30 +502,28 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 -八大综合,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
 -爱尔达娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 
-极速mytv,#genre#
+极速258,#genre#
 TVBPlus,https://mysupertv.pendy.dpdns.org/TVBPlus/tvbplus.m3u8
 TVB翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
 PopC电影台,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
 美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
 天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 
-凤凰卫视中文台,https://gat.tv12.xyz/164.m3u8 
-凤凰卫视中文台,https://gat.tv12.xyz/165.m3u8 
-凤凰卫视中文台,https://gat.tv12.xyz/166.m3u8 
-凤凰卫视资讯台,https://gat.tv12.xyz/167.m3u8 
-凤凰卫视资讯台,https://gat.tv12.xyz/168.m3u8 
-凤凰卫视资讯台,https://gat.tv12.xyz/169.m3u8 
-凤凰卫视香港台,https://gat.tv12.xyz/170.m3u8 
-凤凰卫视香港台,https://gat.tv12.xyz/171.m3u8 
-亚洲卫视,https://gat.tv12.xyz/173.m3u8 
-翡翠台,https://gat.tv12.xyz/174.m3u8 
-澳视澳门台,https://gat.tv12.xyz/181.m3u8 
-澳视葡文台,https://gat.tv12.xyz/182.m3u8 
-澳视卫星台,https://gat.tv12.xyz/183.m3u8 
-澳视体育台,https://gat.tv12.xyz/184.m3u8 
-澳视资讯台,https://gat.tv12.xyz/185.m3u8 
-澳视综艺台,https://gat.tv12.xyz/186.m3u8 
-莲花卫视,https://gat.tv12.xyz/187.m3u8
+翡翠台,https://ali.hlspull.yximgs.com/live/169-jade.flv
+无线新闻,https://ali.hlspull.yximgs.com/live/169-wxxw.flv
+凤凰资讯,https://ali.hlspull.yximgs.com/live/169-fhzx.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/169-fhxg.flv
+tvbplus,https://ali.hlspull.yximgs.com/live/169-j2.flv
+明珠,https://ali.hlspull.yximgs.com/live/169-mz.flv
+viu,https://ali.hlspull.yximgs.com/live/169-viu.flv
+viu6,https://ali.hlspull.yximgs.com/live/169-viu6.flv
+爱尔达影视,https://ali.hlspull.yximgs.com/live/169-aedyj.flv
+爱尔达综合,https://ali.hlspull.yximgs.com/live/169-aedzh.flv
+台视新闻,https://ali.hlspull.yximgs.com/live/169-tsxw.flv
+中视新闻,https://ali.hlspull.yximgs.com/live/169-zsxw.flv
+民视新闻,https://ali.hlspull.yximgs.com/live/169-msxw.flv
+中天新闻,https://ali.hlspull.yximgs.com/live/169-ztxw.flv
+寰宇新闻,https://ali.hlspull.yximgs.com/live/169-hyxw.flv
 
 极速108,#genre#
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
