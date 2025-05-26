@@ -332,7 +332,6 @@ QQ群,1
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
-NOW新闻,http://mytv.cdn.com.mp/live/now/stream.m3u8
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -384,9 +383,9 @@ TVB plus备4,http://live.p2pcy.xyz:18000/hls/23df/23df_live.m3u8
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-TVB星河3,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+娱乐新闻,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 中视,rtmp://f13h.mine.nu/sat/tv091
