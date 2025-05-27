@@ -436,6 +436,7 @@ ViuTV,https://hkfa.2025link.site/43rd_HK_Film_Awards/viutv_99
 
 电视侠,#genre#
 翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
