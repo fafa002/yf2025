@@ -436,7 +436,6 @@ ViuTV,https://hkfa.2025link.site/43rd_HK_Film_Awards/viutv_99
 
 电视侠,#genre#
 翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
-翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
@@ -2813,25 +2812,6 @@ BTV-重温经典,http://jackgao.top:35455/bptv/10000100000000050000000003887494.
 北京体育休闲,http://jackgao.top:35455/bptv/10000100000000050000000004270525.m3u8
 北京体育休闲,http://jackgao.top:35455/bptv/10000100000000050000000003870779.m3u8
 北京新闻,http://jackgao.top:35455/bptv/10000100000000050000000003870780.m3u8
-
-河北有线,#genre#
-CCTV-1,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-1HD/index.m3u8
-CCTV-2,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-2HD/index.m3u8
-CCTV-3,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-3HD/index.m3u8
-CCTV-4,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-4HD/index.m3u8
-CCTV-5,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-5HD/index.m3u8
-CCTV-6,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-6HD/index.m3u8
-CCTV-7,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-7HD/index.m3u8
-CCTV-8,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-8HD/index.m3u8
-CCTV-9,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-9HD/index.m3u8
-CCTV-10,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-10HD/index.m3u8
-CCTV-11,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-11HD/index.m3u8
-CCTV-12,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-12HD/index.m3u8
-CCTV-13,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-13HD/index.m3u8
-CCTV-14,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-14HD/index.m3u8
-CCTV-15,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-15HD/index.m3u8
-CCTV-16,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
-CCTV-17,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8
 
 虎牙轮播,#genre#
 盗源狗si全家 全家下地狱
