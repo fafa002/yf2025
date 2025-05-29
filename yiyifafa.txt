@@ -502,6 +502,8 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 -爱尔达娱乐,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 
 极速258,#genre#
+翡翠台(字幕)测试,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
+明珠台(字幕)测试,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 翡翠台,https://ali.hlspull.yximgs.com/live/169-jade.flv
 无线新闻,https://ali.hlspull.yximgs.com/live/169-wxxw.flv
 凤凰资讯,https://ali.hlspull.yximgs.com/live/169-fhzx.flv
