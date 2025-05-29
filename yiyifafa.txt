@@ -618,167 +618,239 @@ Smart知識台,http://tw-ty-line-11-1-5.sudatech.store:20680/index.m3u8?pid=litv
 東森購物2台,http://tw-ty-line-11-1-5.sudatech.store:20680/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true&token=Doubebly
 
 4季台湾2,#genre#
-民視第一台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv003/index.m3u8?proxy=true
-民視台灣台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv001/index.m3u8?proxy=true
-民視,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv002/index.m3u8?proxy=true
-大愛電視,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live007/index.m3u8?proxy=true
-中視,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv040/index.m3u8?proxy=true
-中視經典台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv080/index.m3u8?proxy=true
-華視,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv041/index.m3u8?proxy=true
-龍華洋片台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn02/index.m3u8?proxy=true
-龍華卡通台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn01/index.m3u8?proxy=true
-龍華電影台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn03/index.m3u8?proxy=true
-龍華日韓台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn11/index.m3u8?proxy=true
-龍華偶像台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn12/index.m3u8?proxy=true
-龍華戲劇台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn18/index.m3u8?proxy=true
-龍華經典台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn21/index.m3u8?proxy=true
-博斯魅力台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn04/index.m3u8?proxy=true
-博斯高球台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn05/index.m3u8?proxy=true
-博斯高球二台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn06/index.m3u8?proxy=true
-博斯運動一台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn07/index.m3u8?proxy=true
-博斯運動二台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn08/index.m3u8?proxy=true
-博斯網球台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn09/index.m3u8?proxy=true
-博斯無限台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn10/index.m3u8?proxy=true
-博斯無限二台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn13/index.m3u8?proxy=true
-非凡新聞台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv010/index.m3u8?proxy=true
-非凡商業台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv048/index.m3u8?proxy=true
-台視財經,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv056/index.m3u8?proxy=true
-中天亞洲精采台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv109/index.m3u8?proxy=true
-三立新聞iNEWS,http://m3u8?proxy=truets.vip-tptv.xyz:50515/iNEWS/index.m3u8?proxy=true
-三立綜合台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live207/index.m3u8?proxy=true
-客家電視台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv043/index.m3u8?proxy=true
-八大綜藝台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv039/index.m3u8?proxy=true
-中視菁采台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv064/index.m3u8?proxy=true
-TVBS精采台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv067/index.m3u8?proxy=true
-愛爾達娛樂台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv070/index.m3u8?proxy=true
-靖天綜合台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv046/index.m3u8?proxy=true
-靖天日本台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv047/index.m3u8?proxy=true
-新唐人亞太台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live050/index.m3u8?proxy=true
-ARIRANG阿里郎頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv079/index.m3u8?proxy=true
-GlobalTrekker,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live112/index.m3u8?proxy=true
-原住民族電視台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live014/index.m3u8?proxy=true
-東森購物四台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live049/index.m3u8?proxy=true
-LiveABC互動英語頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live030/index.m3u8?proxy=true
-達文西頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv018/index.m3u8?proxy=true
-ELTV生活英語台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn20/index.m3u8?proxy=true
-NickJr.兒童頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live032/index.m3u8?proxy=true
-尼克兒童頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live105/index.m3u8?proxy=true
-DreamWorks夢工廠動畫,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live017/index.m3u8?proxy=true
-靖天卡通台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv044/index.m3u8?proxy=true
-靖洋卡通NiceBingo,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv057/index.m3u8?proxy=true
-MOMO親子台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live107/index.m3u8?proxy=true
-東森購物一台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live047/index.m3u8?proxy=true
-鏡電視新聞台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv075/index.m3u8?proxy=true
-東森新聞台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv152/index.m3u8?proxy=true
-華視新聞,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv052/index.m3u8?proxy=true
-民視新聞台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-ftv13/index.m3u8?proxy=true
-三立新聞iNEWS,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live089/index.m3u8?proxy=true
-TVBS新聞,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv072/index.m3u8?proxy=true
-東森財經新聞台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv153/index.m3u8?proxy=true
-中視新聞,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv074/index.m3u8?proxy=true
-中天新聞台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv009/index.m3u8?proxy=true
-BloombergTV,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live059/index.m3u8?proxy=true
-寰宇新聞台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn14/index.m3u8?proxy=true
-寰宇新聞台灣台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv156/index.m3u8?proxy=true
-SBN全球財經台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live060/index.m3u8?proxy=true
-寰宇財經台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv158/index.m3u8?proxy=true
-TVBS,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv073/index.m3u8?proxy=true
-東森購物二台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live046/index.m3u8?proxy=true
-民視綜藝台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv004/index.m3u8?proxy=true
-豬哥亮歌廳秀,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv006/index.m3u8?proxy=true
-靖天育樂台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv062/index.m3u8?proxy=true
-KLT-靖天國際台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv063/index.m3u8?proxy=true
-NiceTV靖天歡樂台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv054/index.m3u8?proxy=true
-靖天資訊台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv065/index.m3u8?proxy=true
-TVBS歡樂台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv068/index.m3u8?proxy=true
-韓國娛樂台KMTV,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv016/index.m3u8?proxy=true
-ROCKEntertainment,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live080/index.m3u8?proxy=true
-Lifetime娛樂頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live029/index.m3u8?proxy=true
-電影原聲台CMusic,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live031/index.m3u8?proxy=true
-TRACEUrban,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv082/index.m3u8?proxy=true
-MTVLiveHD音樂頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live025/index.m3u8?proxy=true
-MezzoLiveHD,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv083/index.m3u8?proxy=true
-CLASSICA古典樂,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv059/index.m3u8?proxy=true
-東森購物三台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live048/index.m3u8?proxy=true
-INULTRA,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live096/index.m3u8?proxy=true
-TRACESportStars,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv077/index.m3u8?proxy=true
-智林體育台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv101/index.m3u8?proxy=true
-時尚運動X,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv014/index.m3u8?proxy=true
-車迷TV,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live201/index.m3u8?proxy=true
-GINXEsportsTV,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv053/index.m3u8?proxy=true
-PetClubTV,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live110/index.m3u8?proxy=true
-民視旅遊台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-ftv07/index.m3u8?proxy=true
-滾動力rollor,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live012/index.m3u8?proxy=true
-亞洲旅遊台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv076/index.m3u8?proxy=true
-fun探索娛樂台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live011/index.m3u8?proxy=true
-幸福空間居家台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live206/index.m3u8?proxy=true
-LoveNature,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live208/index.m3u8?proxy=true
-History歷史頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live026/index.m3u8?proxy=true
-愛爾達生活旅遊台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live120/index.m3u8?proxy=true
-LUXETVChannel,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live121/index.m3u8?proxy=true
-TV5MONDESTYLEHD生活時尚,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live122/index.m3u8?proxy=true
-MagellanTV頻道(麥哲倫頻道),http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live123/index.m3u8?proxy=true
-公視戲劇,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv042/index.m3u8?proxy=true
-民視影劇台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-ftv09/index.m3u8?proxy=true
-HITS頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live620/index.m3u8?proxy=true
-八大精彩台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv034/index.m3u8?proxy=true
-霹靂布袋戲,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live145/index.m3u8?proxy=true
-靖天戲劇台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv058/index.m3u8?proxy=true
-靖洋戲劇台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv045/index.m3u8?proxy=true
-CI罪案偵查頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live027/index.m3u8?proxy=true
-視納華仁紀實頻道,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv013/index.m3u8?proxy=true
-影迷數位紀實台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-ftv15/index.m3u8?proxy=true
-金光布袋戲,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live144/index.m3u8?proxy=true
-ROCKAction,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live138/index.m3u8?proxy=true
-采昌影劇台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv049/index.m3u8?proxy=true
-靖天映畫,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv055/index.m3u8?proxy=true
-靖天電影台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv061/index.m3u8?proxy=true
-影迷數位電影台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv011/index.m3u8?proxy=true
-amc電影台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv017/index.m3u8?proxy=true
-CinemaWorld,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live069/index.m3u8?proxy=true
-MyCinemaEuropeHD我的歐洲電影,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live157/index.m3u8?proxy=true
-好消息,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-ftv16/index.m3u8?proxy=true
-好消息2台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-ftv17/index.m3u8?proxy=true
-大愛二台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live106/index.m3u8?proxy=true
-人間衛視,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live008/index.m3u8?proxy=true
-FRANCE24英文台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live146/index.m3u8?proxy=true
-半島國際新聞台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-ftv10/index.m3u8?proxy=true
-VOA美國之音,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-ftv03/index.m3u8?proxy=true
-CNBCAsia財經台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live130/index.m3u8?proxy=true
-DW德國之聲,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live071/index.m3u8?proxy=true
-國會頻道1,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv084/index.m3u8?proxy=true
-國會頻道2,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv085/index.m3u8?proxy=true
-TVBS綜藝台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live087/index.m3u8?proxy=true
-TVBS台劇台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live088/index.m3u8?proxy=true
-經典電影台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live021/index.m3u8?proxy=true
-經典卡通台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live022/index.m3u8?proxy=true
-精選動漫台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live024/index.m3u8?proxy=true
-戲劇免費看1台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-live010/index.m3u8?proxy=true
-台灣戲劇台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn22/index.m3u8?proxy=true
-Smart知識台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/litv-longturn19/index.m3u8?proxy=true
-台視新聞,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv051/index.m3u8?proxy=true
-台視,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv066/index.m3u8?proxy=true
-第1商業台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/4gtv-4gtv104/index.m3u8?proxy=true
-倪珍播新聞,http://m3u8?proxy=truets.vip-tptv.xyz:50515/nnews-zh/index.m3u8?proxy=true
-倪珍英語新聞,http://m3u8?proxy=truets.vip-tptv.xyz:50515/nnews-en/index.m3u8?proxy=true
-倪珍越南語新聞,http://m3u8?proxy=truets.vip-tptv.xyz:50515/nnews-en/index.m3u8?proxy=true
-公視金獎台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii13/index.m3u8?proxy=true
-哆啦Ａ夢台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii22/index.m3u8?proxy=true
-新哆啦A夢(中文版),http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii23/index.m3u8?proxy=true
-TVBS食尚玩家,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii31/index.m3u8?proxy=true
-東森娛樂台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii32/index.m3u8?proxy=true
-中天亞洲精采台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii36/index.m3u8?proxy=true
-經典劇場,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii38/index.m3u8?proxy=true
-Yes娛樂,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii47/index.m3u8?proxy=true
-Focus風采戲劇台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii1048/index.m3u8?proxy=true
-掏掏新聞,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii50/index.m3u8?proxy=true
-柯文哲政治風波,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii51/index.m3u8?proxy=true
-國際大小事,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii55/index.m3u8?proxy=true
-第1財經,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii64/index.m3u8?proxy=true
-Golden 強片台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii70/index.m3u8?proxy=true
-周星馳台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii73/index.m3u8?proxy=true
-歐飛電影台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii74/index.m3u8?proxy=true
-歐飛動作電影台,http://m3u8?proxy=truets.vip-tptv.xyz:50515/ofiii75/index.m3u8?proxy=true
+民視第一台,http://45.196.238.171:5000/4gtv-4gtv003/index.m3u8?proxy=true
+民視台灣台,http://45.196.238.171:5000/4gtv-4gtv001/index.m3u8?proxy=true
+民視HD,http://45.196.238.171:5000/4gtv-4gtv002/index.m3u8?proxy=true
+大愛電視,http://45.196.238.171:5000/4gtv-live007/index.m3u8?proxy=true
+中視,http://45.196.238.171:5000/4gtv-4gtv040/index.m3u8?proxy=true
+中視經典台,http://45.196.238.171:5000/4gtv-4gtv080/index.m3u8?proxy=true
+華視,http://45.196.238.171:5000/4gtv-4gtv041/index.m3u8?proxy=true
+三立綜合合,http://45.196.238.171:5000/4gtv-live207/index.m3u8?proxy=true
+客家電視,http://45.196.238.171:5000/4gtv-4gtv043/index.m3u8?proxy=true
+八大綜藝,http://45.196.238.171:5000/4gtv-4gtv039/index.m3u8?proxy=true
+中視菁采台,http://45.196.238.171:5000/4gtv-4gtv064/index.m3u8?proxy=true
+TVBS精采台,http://45.196.238.171:5000/4gtv-4gtv067/index.m3u8?proxy=true
+ELTA娛樂,http://45.196.238.171:5000/4gtv-4gtv070/index.m3u8?proxy=true
+靖天綜合,http://45.196.238.171:5000/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://45.196.238.171:5000/4gtv-4gtv047/index.m3u8?proxy=true
+新唐人亞太台,http://45.196.238.171:5000/4gtv-live050/index.m3u8?proxy=true
+Arirang TV,http://45.196.238.171:5000/4gtv-4gtv079/index.m3u8?proxy=true
+Global Trekker,http://45.196.238.171:5000/4gtv-live112/index.m3u8?proxy=true
+原住民族電視台,http://45.196.238.171:5000/4gtv-live014/index.m3u8?proxy=true
+東森購物四台,http://45.196.238.171:5000/4gtv-live049/index.m3u8?proxy=true
+LiveABC 互動英語台,http://45.196.238.171:5000/4gtv-live030/index.m3u8?proxy=true
+達文西,http://45.196.238.171:5000/4gtv-4gtv018/index.m3u8?proxy=true
+ELTV生活英語台,http://45.196.238.171:5000/litv-longturn20/index.m3u8?proxy=true
+Nick Jr.,http://45.196.238.171:5000/4gtv-live032/index.m3u8?proxy=true
+Nickelodeon,http://45.196.238.171:5000/4gtv-live105/index.m3u8?proxy=true
+DreamWorks,http://45.196.238.171:5000/4gtv-live017/index.m3u8?proxy=true
+靖天卡通台,http://45.196.238.171:5000/4gtv-4gtv044/index.m3u8?proxy=true
+靖洋卡通,http://45.196.238.171:5000/4gtv-4gtv057/index.m3u8?proxy=true
+MOMO親子,http://45.196.238.171:5000/4gtv-live107/index.m3u8?proxy=true
+東森購物一台,http://45.196.238.171:5000/4gtv-live047/index.m3u8?proxy=true
+東森購物一台,http://45.196.238.171:5000/4gtv-4gtv102/index.m3u8?proxy=true
+東森購物一台,http://45.196.238.171:5000/of-4gtv-4gtv102/index.m3u8?proxy=true
+鏡電視新聞台,http://45.196.238.171:5000/4gtv-4gtv075/index.m3u8?proxy=true
+東森新聞,http://45.196.238.171:5000/4gtv-4gtv152/index.m3u8?proxy=true
+華視新聞台,http://45.196.238.171:5000/4gtv-4gtv052/index.m3u8?proxy=true
+民視新聞,http://45.196.238.171:5000/litv-ftv13/index.m3u8?proxy=true
+三立iNEWS,http://45.196.238.171:5000/4gtv-live089/index.m3u8?proxy=true
+東森財經新聞,http://45.196.238.171:5000/4gtv-4gtv153/index.m3u8?proxy=true
+中視新聞台,http://45.196.238.171:5000/4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://45.196.238.171:5000/4gtv-4gtv009/index.m3u8?proxy=true
+BLOOMBERG TV,http://45.196.238.171:5000/4gtv-live059/index.m3u8?proxy=true
+寰宇新聞,http://45.196.238.171:5000/litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://45.196.238.171:5000/4gtv-4gtv156/index.m3u8?proxy=true
+SBN 全球財經台,http://45.196.238.171:5000/4gtv-live060/index.m3u8?proxy=true
+寰宇財經,http://45.196.238.171:5000/4gtv-4gtv158/index.m3u8?proxy=true
+TVBS HD,http://45.196.238.171:5000/4gtv-4gtv073/index.m3u8?proxy=true
+東森購物二台,http://45.196.238.171:5000/4gtv-live046/index.m3u8?proxy=true
+東森購物二台,http://45.196.238.171:5000/4gtv-4gtv103/index.m3u8?proxy=true
+東森購物二台,http://45.196.238.171:5000/of-4gtv-4gtv103/index.m3u8?proxy=true
+民視綜藝,http://45.196.238.171:5000/4gtv-4gtv004/index.m3u8?proxy=true
+豬哥亮歌廳秀,http://45.196.238.171:5000/4gtv-4gtv006/index.m3u8?proxy=true
+靖天育樂,http://45.196.238.171:5000/4gtv-4gtv062/index.m3u8?proxy=true
+靖天國際,http://45.196.238.171:5000/4gtv-4gtv063/index.m3u8?proxy=true
+靖天歡樂,http://45.196.238.171:5000/4gtv-4gtv054/index.m3u8?proxy=true
+靖天資訊,http://45.196.238.171:5000/4gtv-4gtv065/index.m3u8?proxy=true
+TVBS歡樂台,http://45.196.238.171:5000/4gtv-4gtv068/index.m3u8?proxy=true
+韓國娛樂台,http://45.196.238.171:5000/4gtv-4gtv016/index.m3u8?proxy=true
+ROCK Entertainment,http://45.196.238.171:5000/4gtv-live080/index.m3u8?proxy=true
+Lifetime,http://45.196.238.171:5000/4gtv-live029/index.m3u8?proxy=true
+電影原聲台 CMusic,http://45.196.238.171:5000/4gtv-live031/index.m3u8?proxy=true
+Trace Urban,http://45.196.238.171:5000/4gtv-4gtv082/index.m3u8?proxy=true
+MTV Live,http://45.196.238.171:5000/4gtv-live025/index.m3u8?proxy=true
+MEZZO LIVE HD,http://45.196.238.171:5000/4gtv-4gtv083/index.m3u8?proxy=true
+CLASSICA 古典樂,http://45.196.238.171:5000/4gtv-4gtv059/index.m3u8?proxy=true
+東森購物三台,http://45.196.238.171:5000/4gtv-live048/index.m3u8?proxy=true
+INULTRA,http://45.196.238.171:5000/4gtv-live096/index.m3u8?proxy=true
+TRACE Sport Stars,http://45.196.238.171:5000/4gtv-4gtv077/index.m3u8?proxy=true
+智林體育,http://45.196.238.171:5000/4gtv-4gtv101/index.m3u8?proxy=true
+時尚運動X,http://45.196.238.171:5000/4gtv-4gtv014/index.m3u8?proxy=true
+車迷 TV,http://45.196.238.171:5000/4gtv-live201/index.m3u8?proxy=true
+GINX Esports TV,http://45.196.238.171:5000/4gtv-4gtv053/index.m3u8?proxy=true
+Pet Club TV,http://45.196.238.171:5000/4gtv-live110/index.m3u8?proxy=true
+民視旅遊,http://45.196.238.171:5000/litv-ftv07/index.m3u8?proxy=true
+滾動力 Rollor,http://45.196.238.171:5000/4gtv-live012/index.m3u8?proxy=true
+亞洲旅遊,http://45.196.238.171:5000/4gtv-4gtv076/index.m3u8?proxy=true
+FUN 4K探索娛樂,http://45.196.238.171:5000/4gtv-live011/index.m3u8?proxy=true
+幸福空間居家台,http://45.196.238.171:5000/4gtv-live206/index.m3u8?proxy=true
+LOVE NATURE,http://45.196.238.171:5000/4gtv-live208/index.m3u8?proxy=true
+歷史頻道,http://45.196.238.171:5000/4gtv-live026/index.m3u8?proxy=true
+ELTA生活旅遊,http://45.196.238.171:5000/4gtv-live120/index.m3u8?proxy=true
+LUXE TV,http://45.196.238.171:5000/4gtv-live121/index.m3u8?proxy=true
+TV5MONDE Style,http://45.196.238.171:5000/4gtv-live122/index.m3u8?proxy=true
+MagellanTV頻道,http://45.196.238.171:5000/4gtv-live123/index.m3u8?proxy=true
+公視戲劇,http://45.196.238.171:5000/4gtv-4gtv042/index.m3u8?proxy=true
+民視影劇,http://45.196.238.171:5000/litv-ftv09/index.m3u8?proxy=true
+HITS,http://45.196.238.171:5000/4gtv-live620/index.m3u8?proxy=true
+八大精彩,http://45.196.238.171:5000/4gtv-4gtv034/index.m3u8?proxy=true
+霹靂布袋戲,http://45.196.238.171:5000/4gtv-live145/index.m3u8?proxy=true
+靖天戲劇,http://45.196.238.171:5000/4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇,http://45.196.238.171:5000/4gtv-4gtv045/index.m3u8?proxy=true
+CI 罪案偵查頻道,http://45.196.238.171:5000/4gtv-live027/index.m3u8?proxy=true
+視納華仁紀實頻道,http://45.196.238.171:5000/4gtv-4gtv013/index.m3u8?proxy=true
+影迷數位紀實台,http://45.196.238.171:5000/litv-ftv15/index.m3u8?proxy=true
+金光布袋戲,http://45.196.238.171:5000/4gtv-live144/index.m3u8?proxy=true
+ROCK Action,http://45.196.238.171:5000/4gtv-live138/index.m3u8?proxy=true
+采昌影劇,http://45.196.238.171:5000/4gtv-4gtv049/index.m3u8?proxy=true
+靖天映畫,http://45.196.238.171:5000/4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影,http://45.196.238.171:5000/4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影台,http://45.196.238.171:5000/4gtv-4gtv011/index.m3u8?proxy=true
+amc 電影台,http://45.196.238.171:5000/4gtv-4gtv017/index.m3u8?proxy=true
+Cinema World,http://45.196.238.171:5000/4gtv-live069/index.m3u8?proxy=true
+歐洲光影,http://45.196.238.171:5000/4gtv-live157/index.m3u8?proxy=true
+好消息,http://45.196.238.171:5000/litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://45.196.238.171:5000/litv-ftv17/index.m3u8?proxy=true
+大愛二台,http://45.196.238.171:5000/4gtv-live106/index.m3u8?proxy=true
+人間衛視,http://45.196.238.171:5000/4gtv-live008/index.m3u8?proxy=true
+FRANCE24 英文台,http://45.196.238.171:5000/4gtv-live146/index.m3u8?proxy=true
+半島國際新聞台,http://45.196.238.171:5000/litv-ftv10/index.m3u8?proxy=true
+VOA 美國之音,http://45.196.238.171:5000/litv-ftv03/index.m3u8?proxy=true
+CNBC Asia 財經台,http://45.196.238.171:5000/4gtv-live130/index.m3u8?proxy=true
+DW德國之聲,http://45.196.238.171:5000/4gtv-live071/index.m3u8?proxy=true
+國會頻道1,http://45.196.238.171:5000/4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://45.196.238.171:5000/4gtv-4gtv085/index.m3u8?proxy=true
+TVBS綜藝台,http://45.196.238.171:5000/4gtv-live087/index.m3u8?proxy=true
+TVBS台劇台,http://45.196.238.171:5000/4gtv-live088/index.m3u8?proxy=true
+經典電影台,http://45.196.238.171:5000/4gtv-live021/index.m3u8?proxy=true
+經典卡通台,http://45.196.238.171:5000/4gtv-live022/index.m3u8?proxy=true
+精選動漫台,http://45.196.238.171:5000/4gtv-live024/index.m3u8?proxy=true
+戲劇免費看1台,http://45.196.238.171:5000/4gtv-live010/index.m3u8?proxy=true
+民視第一台,http://45.196.238.171:5000/li-4gtv-4gtv003/index.m3u8?proxy=true
+民視台灣台,http://45.196.238.171:5000/li-4gtv-4gtv001/index.m3u8?proxy=true
+中視,http://45.196.238.171:5000/li-4gtv-4gtv040/index.m3u8?proxy=true
+中視經典台,http://45.196.238.171:5000/li-4gtv-4gtv080/index.m3u8?proxy=true
+華視,http://45.196.238.171:5000/li-4gtv-4gtv041/index.m3u8?proxy=true
+龍華洋片,http://45.196.238.171:5000/li-litv-longturn02/index.m3u8?proxy=true
+龍華卡通,http://45.196.238.171:5000/li-litv-longturn01/index.m3u8?proxy=true
+龍華電影,http://45.196.238.171:5000/li-litv-longturn03/index.m3u8?proxy=true
+龍華日韓,http://45.196.238.171:5000/li-litv-longturn11/index.m3u8?proxy=true
+龍華偶像,http://45.196.238.171:5000/li-litv-longturn12/index.m3u8?proxy=true
+龍華戲劇,http://45.196.238.171:5000/li-litv-longturn18/index.m3u8?proxy=true
+龍華經典,http://45.196.238.171:5000/li-litv-longturn21/index.m3u8?proxy=true
+博斯魅力,http://45.196.238.171:5000/litv-longturn04/index.m3u8?proxy=true
+博斯高球I,http://45.196.238.171:5000/litv-longturn05/index.m3u8?proxy=true
+博斯高球II,http://45.196.238.171:5000/litv-longturn06/index.m3u8?proxy=true
+博斯運動I,http://45.196.238.171:5000/litv-longturn07/index.m3u8?proxy=true
+博斯運動II,http://45.196.238.171:5000/litv-longturn08/index.m3u8?proxy=true
+博斯網球,http://45.196.238.171:5000/litv-longturn09/index.m3u8?proxy=true
+博斯無限I,http://45.196.238.171:5000/litv-longturn10/index.m3u8?proxy=true
+博斯無限II,http://45.196.238.171:5000/litv-longturn13/index.m3u8?proxy=true
+非凡新聞,http://45.196.238.171:5000/4gtv-4gtv010/index.m3u8?proxy=true
+非凡商業,http://45.196.238.171:5000/4gtv-4gtv048/index.m3u8?proxy=true
+台視財經台,http://45.196.238.171:5000/4gtv-4gtv056/index.m3u8?proxy=true
+中天亞洲台,http://45.196.238.171:5000/4gtv-4gtv109/index.m3u8?proxy=true
+三立綜合合,http://45.196.238.171:5000/4gtv-live207/index.m3u8?proxy=true
+客家電視,http://45.196.238.171:5000/4gtv-4gtv043/index.m3u8?proxy=true
+八大綜藝,http://45.196.238.171:5000/li-4gtv-4gtv039/index.m3u8?proxy=true
+中視菁采台,http://45.196.238.171:5000/li-4gtv-4gtv064/index.m3u8?proxy=true
+TVBS精采台,http://45.196.238.171:5000/li-4gtv-4gtv067/index.m3u8?proxy=true
+ELTA娛樂,http://45.196.238.171:5000/li-4gtv-4gtv070/index.m3u8?proxy=true
+靖天綜合,http://45.196.238.171:5000/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://45.196.238.171:5000/li-4gtv-4gtv047/index.m3u8?proxy=true
+Arirang TV,http://45.196.238.171:5000/li-4gtv-4gtv079/index.m3u8?proxy=true
+達文西,http://45.196.238.171:5000/li-4gtv-4gtv018/index.m3u8?proxy=true
+ELTV生活英語台,http://45.196.238.171:5000/li-litv-longturn20/index.m3u8?proxy=true
+靖天卡通台,http://45.196.238.171:5000/li-4gtv-4gtv044/index.m3u8?proxy=true
+靖洋卡通,http://45.196.238.171:5000/li-4gtv-4gtv057/index.m3u8?proxy=true
+鏡電視新聞台,http://45.196.238.171:5000/li-4gtv-4gtv075/index.m3u8?proxy=true
+東森新聞,http://45.196.238.171:5000/li-4gtv-4gtv152/index.m3u8?proxy=true
+民視新聞,http://45.196.238.171:5000/li-litv-ftv13/index.m3u8?proxy=true
+TVBS新聞台,http://45.196.238.171:5000/li-4gtv-4gtv072/index.m3u8?proxy=true
+東森財經新聞,http://45.196.238.171:5000/li-4gtv-4gtv153/index.m3u8?proxy=true
+中視新聞台,http://45.196.238.171:5000/4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://45.196.238.171:5000/li-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞,http://45.196.238.171:5000/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://45.196.238.171:5000/li-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經,http://45.196.238.171:5000/li-4gtv-4gtv158/index.m3u8?proxy=true
+TVBS HD,http://45.196.238.171:5000/li-4gtv-4gtv073/index.m3u8?proxy=true
+民視綜藝,http://45.196.238.171:5000/li-4gtv-4gtv004/index.m3u8?proxy=true
+豬哥亮歌廳秀,http://45.196.238.171:5000/li-4gtv-4gtv006/index.m3u8?proxy=true
+靖天育樂,http://45.196.238.171:5000/li-4gtv-4gtv062/index.m3u8?proxy=true
+靖天國際,http://45.196.238.171:5000/li-4gtv-4gtv063/index.m3u8?proxy=true
+靖天歡樂,http://45.196.238.171:5000/li-4gtv-4gtv054/index.m3u8?proxy=true
+靖天資訊,http://45.196.238.171:5000/li-4gtv-4gtv065/index.m3u8?proxy=true
+TVBS歡樂台,http://45.196.238.171:5000/li-4gtv-4gtv068/index.m3u8?proxy=true
+韓國娛樂台,http://45.196.238.171:5000/li-4gtv-4gtv016/index.m3u8?proxy=true
+Trace Urban,http://45.196.238.171:5000/li-4gtv-4gtv082/index.m3u8?proxy=true
+MEZZO LIVE HD,http://45.196.238.171:5000/li-4gtv-4gtv083/index.m3u8?proxy=true
+CLASSICA 古典樂,http://45.196.238.171:5000/li-4gtv-4gtv059/index.m3u8?proxy=true
+TRACE Sport Stars,http://45.196.238.171:5000/li-4gtv-4gtv077/index.m3u8?proxy=true
+智林體育,http://45.196.238.171:5000/li-4gtv-4gtv101/index.m3u8?proxy=true
+時尚運動X,http://45.196.238.171:5000/li-4gtv-4gtv014/index.m3u8?proxy=true
+GINX Esports TV,http://45.196.238.171:5000/li-4gtv-4gtv053/index.m3u8?proxy=true
+民視旅遊,http://45.196.238.171:5000/li-litv-ftv07/index.m3u8?proxy=true
+亞洲旅遊,http://45.196.238.171:5000/li-4gtv-4gtv076/index.m3u8?proxy=true
+公視戲劇,http://45.196.238.171:5000/li-4gtv-4gtv042/index.m3u8?proxy=true
+民視影劇,http://45.196.238.171:5000/li-litv-ftv09/index.m3u8?proxy=true
+八大精彩,http://45.196.238.171:5000/li-4gtv-4gtv034/index.m3u8?proxy=true
+靖天戲劇,http://45.196.238.171:5000/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇,http://45.196.238.171:5000/li-4gtv-4gtv045/index.m3u8?proxy=true
+視納華仁紀實頻道,http://45.196.238.171:5000/li-4gtv-4gtv013/index.m3u8?proxy=true
+影迷數位紀實台,http://45.196.238.171:5000/li-litv-ftv15/index.m3u8?proxy=true
+采昌影劇,http://45.196.238.171:5000/li-4gtv-4gtv049/index.m3u8?proxy=true
+靖天映畫,http://45.196.238.171:5000/li-4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影,http://45.196.238.171:5000/li-4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影台,http://45.196.238.171:5000/li-4gtv-4gtv011/index.m3u8?proxy=true
+amc 電影台,http://45.196.238.171:5000/li-4gtv-4gtv017/index.m3u8?proxy=true
+好消息,http://45.196.238.171:5000/li-litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://45.196.238.171:5000/li-litv-ftv17/index.m3u8?proxy=true
+半島國際新聞台,http://45.196.238.171:5000/li-litv-ftv10/index.m3u8?proxy=true
+VOA 美國之音,http://45.196.238.171:5000/li-litv-ftv03/index.m3u8?proxy=true
+國會頻道1,http://45.196.238.171:5000/li-4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://45.196.238.171:5000/li-4gtv-4gtv085/index.m3u8?proxy=true
+台灣戲劇台,http://45.196.238.171:5000/li-litv-longturn22/index.m3u8?proxy=true
+Smart知識台,http://45.196.238.171:5000/li-litv-longturn19/index.m3u8?proxy=true
+台視新聞台,http://45.196.238.171:5000/li-4gtv-4gtv051/index.m3u8?proxy=true
+台視HD,http://45.196.238.171:5000/li-4gtv-4gtv066/index.m3u8?proxy=true
+第1商業台,http://45.196.238.171:5000/li-4gtv-4gtv104/index.m3u8?proxy=true
+台視新聞台,http://45.196.238.171:5000/4gtv-4gtv051/index.m3u8?proxy=true
+台視HD,http://45.196.238.171:5000/4gtv-4gtv066/index.m3u8?proxy=true
+中視,http://45.196.238.171:5000/of-4gtv-4gtv040/index.m3u8?proxy=true
+中視新聞台,http://45.196.238.171:5000/of-4gtv-4gtv074/index.m3u8?proxy=true
+華視,http://45.196.238.171:5000/of-4gtv-4gtv041/index.m3u8?proxy=true
+中天新聞台,http://45.196.238.171:5000/of-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞,http://45.196.238.171:5000/of-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://45.196.238.171:5000/of-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經,http://45.196.238.171:5000/of-4gtv-4gtv158/index.m3u8?proxy=true
+亞洲旅遊,http://45.196.238.171:5000/of-4gtv-4gtv076/index.m3u8?proxy=true
+好消息,http://45.196.238.171:5000/of-litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://45.196.238.171:5000/of-litv-ftv17/index.m3u8?proxy=true
+國會頻道1,http://45.196.238.171:5000/of-4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://45.196.238.171:5000/of-4gtv-4gtv085/index.m3u8?proxy=true
+台灣戲劇台,http://45.196.238.171:5000/litv-longturn22/index.m3u8?proxy=true
+Smart知識台,http://45.196.238.171:5000/litv-longturn19/index.m3u8?proxy=true
+第1商業台,http://45.196.238.171:5000/4gtv-4gtv104/index.m3u8?proxy=true
+三立iNEWS,http://45.196.238.171:5000/iNEWS/index.m3u8?proxy=true
+ELTV生活英語台,http://45.196.238.171:5000/of-litv-longturn20/index.m3u8?proxy=true
+龍華洋片,http://45.196.238.171:5000/litv-longturn02/index.m3u8?proxy=true
+龍華卡通,http://45.196.238.171:5000/litv-longturn01/index.m3u8?proxy=true
+龍華電影,http://45.196.238.171:5000/litv-longturn03/index.m3u8?proxy=true
+龍華日韓,http://45.196.238.171:5000/litv-longturn11/index.m3u8?proxy=true
+龍華偶像,http://45.196.238.171:5000/litv-longturn12/index.m3u8?proxy=true
+龍華戲劇,http://45.196.238.171:5000/litv-longturn18/index.m3u8?proxy=true
+龍華經典,http://45.196.238.171:5000/litv-longturn21/index.m3u8?proxy=true
 
 极速50,#genre#
 翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
