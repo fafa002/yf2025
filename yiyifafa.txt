@@ -480,7 +480,6 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 
 极速阿威,#genre#
-翡翠台,http://zb.xmzb.xyz/8888.php?id=be一翡翠台
 中天娱乐,https://ali.hlspull.yximgs.com/live/167ztyl.flv
 中天亚洲,https://ali.hlspull.yximgs.com/live/167ztyz.flv
 中天新闻2,https://ali.hlspull.yximgs.com/live/167ztxw2.flv
