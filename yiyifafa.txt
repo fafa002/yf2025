@@ -1102,13 +1102,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 大湾区卫视,https://ali.hlspull.yximgs.com/live/xiangjiaoge651fs3f1313s1.flv
 广东民生,https://ali.hlspull.yximgs.com/live/xiangjiaoge5313d131d3351.flv
 
--大湾区卫视,http://conghua-sslp.online:3009/大湾区/易发/hls.m3u8
--广东珠江,http://conghua-sslp.online:3009/广东珠江1/易发/hls.m3u8
--广东影视,http://conghua-sslp.online:3009/广东影视1/易发/hls.m3u8
--广东经济,http://conghua-sslp.online:3009/广东经济/易发/hls.m3u8
--广东民生,http://conghua-sslp.online:3009/广东民生1/易发/hls.m3u8
--广东体育,http://conghua-sslp.online:3009/广东体育/易发/hls.m3u8
--广东新闻,http://conghua-sslp.online:3009/广东新闻/易发/hls.m3u8
 -汕头综合,http://conghua-sslp.online:3009/汕头综合/易发/hls.m3u8
 -汕头生活,http://conghua-sslp.online:3009/汕头生活/易发/hls.m3u8
 -揭阳综合,http://conghua-sslp.online:3009/揭阳综合/易发/hls.m3u8
