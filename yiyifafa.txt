@@ -502,6 +502,8 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 极速258,#genre#
 翡翠台(字幕)测试,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 明珠台(字幕)测试,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/baogu.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/jade.flv
 
 极速qwt,#genre#
 勿信广告,1
