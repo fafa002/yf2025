@@ -1063,54 +1063,54 @@ TLC旅游生活,http://198.16.100.186:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082
 新加坡8,http://198.16.100.186:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 
 ⚽️🏀直播,#genre#
-⚽️🏀波妞,https://new-live.jnyyoa.com/live/1744267.m3u8
-⚽️🏀陆宝儿,https://new-live.jnyyoa.com/live/7468974.m3u8
-⚽️🏀红漆工,https://new-live.jnyyoa.com/live/3669452.m3u8
-⚽️🏀叶指导,https://new-live.jnyyoa.com/live/5108083.m3u8
-⚽️🏀牛哥,https://new-live.jnyyoa.com/live/3975253.m3u8
-⚽️🏀付航,https://new-live.jnyyoa.com/live/4871232.m3u8
-⚽️🏀老丁,https://new-live.jnyyoa.com/live/9399302.m3u8
-⚽️🏀金牌,https://new-live.jnyyoa.com/live/5255366.m3u8
-⚽️🏀喜喜,https://new-live.jnyyoa.com/live/9149158.m3u8
-⚽️🏀桃乐斯,https://new-live.jnyyoa.com/live/4148654.m3u8
-🏀曼巴,https://new-live.jnyyoa.com/live/1492206.m3u8
-🏀山川,https://new-live.jnyyoa.com/live/6851255.m3u8
-🏀小朵朵,https://new-live.jnyyoa.com/live/8286544.m3u8
-🏀宾利,https://new-live.jnyyoa.com/live/4745554.m3u8
-🏀加贝,https://new-live.jnyyoa.com/live/4043126.m3u8
-🏀粤语广佬,https://new-live.jnyyoa.com/live/1016531.m3u8
-🏀艾米,https://new-live.jnyyoa.com/live/2644198.m3u8
-🏀宁宁,https://new-live.jnyyoa.com/live/8129974.m3u8
-🏀大壮,https://new-live.jnyyoa.com/live/5692582.m3u8
-🏀勾手,https://new-live.jnyyoa.com/live/7412291.m3u8
-🏀鸡仔,https://new-live.jnyyoa.com/live/4096487.m3u8
-🏀萌七,https://new-live.jnyyoa.com/live/1586711.m3u8
-⚽️乐乐,https://new-live.jnyyoa.com/live/1162211.m3u8
-⚽️苪苪,https://new-live.jnyyoa.com/live/4741575.m3u8
-⚽️枫哥,https://new-live.jnyyoa.com/live/9890343.m3u8
-⚽️米雪儿,https://new-live.jnyyoa.com/live/5089605.m3u8
-⚽️小楠,https://new-live.jnyyoa.com/live/5616501.m3u8
-⚽️韩苏,https://new-live.jnyyoa.com/live/8241870.m3u8
-⚽️绿茵,https://new-live.jnyyoa.com/live/7952584.m3u8
-⚽️老徐,https://new-live.jnyyoa.com/live/9590091.m3u8
-⚽️沙加,https://new-live.jnyyoa.com/live/4869054.m3u8
-⚽️守望者,https://new-live.jnyyoa.com/live/8933226.m3u8
-⚽️机长,https://new-live.jnyyoa.com/live/8943378.m3u8
-⚽️洛里,https://new-live.jnyyoa.com/live/3505299.m3u8
-⚽️抢手,https://new-live.jnyyoa.com/live/3052931.m3u8
-⚽️小白白,https://new-live.jnyyoa.com/live/4697949.m3u8
-⚽️憨憨,https://new-live.jnyyoa.com/live/7396523.m3u8
-⚽️海龟,https://new-live.jnyyoa.com/live/7843553.m3u8
-⚽️妲己,https://new-live.jnyyoa.com/live/4074032.m3u8
-⚽️玖玖,https://new-live.jnyyoa.com/live/7273522.m3u8
-⚽️老乡,https://new-live.jnyyoa.com/live/5983085.m3u8
-⚽️柚子,https://new-live.jnyyoa.com/live/9578537.m3u8
-⚽️诸葛,https://new-live.jnyyoa.com/live/5882816.m3u8
-⚽️李白,https://new-live.jnyyoa.com/live/6969510.m3u8
-⚽️迦娜,https://new-live.jnyyoa.com/live/2400161.m3u8
-⚽️大奈奈,https://new-live.jnyyoa.com/live/2268034.m3u8
-⚽️老汉,https://new-live.jnyyoa.com/live/3851257.m3u8
-⚽️艾萨,https://new-live.jnyyoa.com/live/8649962.m3u8
+⚽️🏀波妞,https://new-live.jnyyoa.com/notlive/1744267.m3u8
+⚽️🏀陆宝儿,https://new-live.jnyyoa.com/notlive/7468974.m3u8
+⚽️🏀红漆工,https://new-live.jnyyoa.com/notlive/3669452.m3u8
+⚽️🏀叶指导,https://new-live.jnyyoa.com/notlive/5108083.m3u8
+⚽️🏀牛哥,https://new-live.jnyyoa.com/notlive/3975253.m3u8
+⚽️🏀付航,https://new-live.jnyyoa.com/notlive/4871232.m3u8
+⚽️🏀老丁,https://new-live.jnyyoa.com/notlive/9399302.m3u8
+⚽️🏀金牌,https://new-live.jnyyoa.com/notlive/5255366.m3u8
+⚽️🏀喜喜,https://new-live.jnyyoa.com/notlive/9149158.m3u8
+⚽️🏀桃乐斯,https://new-live.jnyyoa.com/notlive/4148654.m3u8
+🏀曼巴,https://new-live.jnyyoa.com/notlive/1492206.m3u8
+🏀山川,https://new-live.jnyyoa.com/notlive/6851255.m3u8
+🏀小朵朵,https://new-live.jnyyoa.com/notlive/8286544.m3u8
+🏀宾利,https://new-live.jnyyoa.com/notlive/4745554.m3u8
+🏀加贝,https://new-live.jnyyoa.com/notlive/4043126.m3u8
+🏀粤语广佬,https://new-live.jnyyoa.com/notlive/1016531.m3u8
+🏀艾米,https://new-live.jnyyoa.com/notlive/2644198.m3u8
+🏀宁宁,https://new-live.jnyyoa.com/notlive/8129974.m3u8
+🏀大壮,https://new-live.jnyyoa.com/notlive/5692582.m3u8
+🏀勾手,https://new-live.jnyyoa.com/notlive/7412291.m3u8
+🏀鸡仔,https://new-live.jnyyoa.com/notlive/4096487.m3u8
+🏀萌七,https://new-live.jnyyoa.com/notlive/1586711.m3u8
+⚽️乐乐,https://new-live.jnyyoa.com/notlive/1162211.m3u8
+⚽️苪苪,https://new-live.jnyyoa.com/notlive/4741575.m3u8
+⚽️枫哥,https://new-live.jnyyoa.com/notlive/9890343.m3u8
+⚽️米雪儿,https://new-live.jnyyoa.com/notlive/5089605.m3u8
+⚽️小楠,https://new-live.jnyyoa.com/notlive/5616501.m3u8
+⚽️韩苏,https://new-live.jnyyoa.com/notlive/8241870.m3u8
+⚽️绿茵,https://new-live.jnyyoa.com/notlive/7952584.m3u8
+⚽️老徐,https://new-live.jnyyoa.com/notlive/9590091.m3u8
+⚽️沙加,https://new-live.jnyyoa.com/notlive/4869054.m3u8
+⚽️守望者,https://new-live.jnyyoa.com/notlive/8933226.m3u8
+⚽️机长,https://new-live.jnyyoa.com/notlive/8943378.m3u8
+⚽️洛里,https://new-live.jnyyoa.com/notlive/3505299.m3u8
+⚽️抢手,https://new-live.jnyyoa.com/notlive/3052931.m3u8
+⚽️小白白,https://new-live.jnyyoa.com/notlive/4697949.m3u8
+⚽️憨憨,https://new-live.jnyyoa.com/notlive/7396523.m3u8
+⚽️海龟,https://new-live.jnyyoa.com/notlive/7843553.m3u8
+⚽️妲己,https://new-live.jnyyoa.com/notlive/4074032.m3u8
+⚽️玖玖,https://new-live.jnyyoa.com/notlive/7273522.m3u8
+⚽️老乡,https://new-live.jnyyoa.com/notlive/5983085.m3u8
+⚽️柚子,https://new-live.jnyyoa.com/notlive/9578537.m3u8
+⚽️诸葛,https://new-live.jnyyoa.com/notlive/5882816.m3u8
+⚽️李白,https://new-live.jnyyoa.com/notlive/6969510.m3u8
+⚽️迦娜,https://new-live.jnyyoa.com/notlive/2400161.m3u8
+⚽️大奈奈,https://new-live.jnyyoa.com/notlive/2268034.m3u8
+⚽️老汉,https://new-live.jnyyoa.com/notlive/3851257.m3u8
+⚽️艾萨,https://new-live.jnyyoa.com/notlive/8649962.m3u8
 
 广东本地,#genre#
 盗源狗si全家 全家下地狱
