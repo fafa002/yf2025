@@ -463,7 +463,7 @@ Hoy78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 Now爆谷,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
 Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
-Now体育1,http://erp.giihgtidg.com:8080/live/nowxw01.m3u8
+Now体育1,http://erp.giihgtidg.com:8080/live/nowty01.m3u8
 Now体育2,https://gdfire2.67890123.cn:8088/live/nowty101.m3u8
 Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 东森新闻,https://gdfire2.67890123.cn:8088/live/dsxw01.m3u8
@@ -511,7 +511,7 @@ NOW英超1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty1.flv
 NOW体育1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty11.flv
 NOW体育2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty2.flv
 NOW体育3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty3.flv
-NOW体育4,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty3.flv
+NOW体育4,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty4.flv
 NOW体育prime,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
 
 极速qwt,#genre#
