@@ -462,6 +462,7 @@ tvbplus,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
 Hoy78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
 Now爆谷,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
 Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
+NOW体育prime,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
 Now新闻,https://gdfire2.67890123.cn:8088/live/nowxw01.m3u8
 Now体育1,http://erp.giihgtidg.com:8080/live/nowty01.m3u8
 Now体育2,https://gdfire2.67890123.cn:8088/live/nowty101.m3u8
@@ -505,17 +506,7 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 NOW有线,#genre#
 翡翠台测试,http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
 明珠台测试,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-jade.flv
-NOW爆谷,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-baogu1.flv
-NOW星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-xingying1.flv
-NOW华剧,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-nowhj.flv
-NOW紫金,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-nowzj.flv
-NOW英超1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty1.flv
-NOW体育1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty11.flv
-NOW体育2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty2.flv
-NOW体育3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty3.flv
-NOW体育4,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-ty4.flv
-NOW体育prime,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
+tvbplus测试,http://161.81.105.163:8088/hls/TVBplus.m3u8
 
 极速qwt,#genre#
 勿信广告,1
