@@ -460,7 +460,6 @@ mytv18,https://ali.hlspull.yximgs.com/live/xiangjiaogemytv0318.flv
 tvbplus,https://ali.hlspull.yximgs.com/live/xaigjiaogetvbplus01.flv
 Hoy77,https://ali.hlspull.yximgs.com/live/xiangjiaogehoy77511.flv
 Hoy78,https://ali.hlspull.yximgs.com/live/xaigjiaogehoy7801.flv
-Now爆谷(备),http://erp.giihgtidg.com:8080/live/xiangjiaoge-nowbg.m3u8
 Now爆谷,https://ali.hlspull.yximgs.com/live/xiangjiaoge1116163133.flv
 Now星影,https://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 NOW体育prime,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge-prime.flv
