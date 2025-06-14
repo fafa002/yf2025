@@ -659,6 +659,82 @@ MTVLIVE,http://xn--94q.xn--0p5a.top/0405smt.php?id=mtvhd_twn
 爱尔达影剧,http://xn--94q.xn--0p5a.top/0405smt.php?id=eltayingju_twn
 AFC亚洲旅游台,http://xn--94q.xn--0p5a.top/0405smt.php?id=asiatravel_twn
 
+秒开湾湾,#genre#
+台視HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1047
+中視HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1048
+華視HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1049
+民視HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1050
+公視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1201
+人間衛視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1198
+大愛電視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1216
+好消息GOOD TV,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1669
+Trace Sport Stars,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1003
+DISCOVERY,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1002
+旅遊生活,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1005
+動物星球,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1004
+亞洲旅遊,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1219
+MOMO親子台,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1007
+東森幼幼HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1008
+龍華卡通台,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1670
+緯來綜合HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1044
+八大第一HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1043
+八大綜合HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1019
+三立台灣HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1021
+三立都會HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1020
+韓國娛樂台,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1024
+東森綜合HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1041
+超視HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1180
+中天綜合HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1022
+中天娛樂HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1023
+東風衛視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1195
+MUCH TV,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1189
+東森戲劇HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1042
+八大戲劇HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1057
+TVBS歡樂HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1018
+緯來戲劇,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1186
+龍華戲劇台,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1671
+龍華日韓劇,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1672
+龍華偶像劇,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1673
+緯來日本HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1026
+Taiwan Plus,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1674
+年代新聞,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1192
+東森新聞HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1014
+中天新聞,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1675
+民視新聞,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1204
+三立新聞HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1016
+TVBS新聞HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1052
+TVBS HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1668
+非凡新聞HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1013
+非凡商業HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1012
+東森財經HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1017
+寰宇新聞,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1222
+壹新聞,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1676
+Bloomberg News,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1066
+NHK世界HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1027
+鏡電視新聞台,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1031
+好萊塢電影HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1025
+緯來電影HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1183
+龍華電影台,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1677
+HBO,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1029
+AXN,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1054
+CINEMAX HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1030
+AMC 電影台,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1032
+寵物頻道,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1040
+緯來育樂HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1045
+緯來體育HD,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1011
+博斯運動一,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1678
+momo綜合台,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1225
+DAZN 1,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1069
+DAZN 2,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1072
+廈門衛視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1033
+CCTV4-中央衛視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1034
+海峽衛視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1035
+浙江衛視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1036
+東方衛視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1037
+湖南衛視,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1038
+鳯凰衛視資訊,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1666
+鳯凰衛視中文,http://kaniptv.com/mk.php?ip=61.216.180.81:1888&id=live1213
+
 极速50,#genre#
 翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 tvbplus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
