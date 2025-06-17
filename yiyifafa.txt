@@ -616,6 +616,78 @@ AK极速,#genre#
 📺 TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 📺 中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 
+matv极速,#genre#
+鳳凰衛視,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0y
+鳳凰資訊,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0z
+鳳凰香港,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00
+TVB翡翠台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yMA==
+TVB明珠台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yMg==
+TVBPlus台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yMw==
+TVB星河台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yNQ==
+黃金翡翠台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yMQ==
+娛樂新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yNA==
+無線新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0xNg==
+無線18台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yNg==
+HOY76台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0zNg==
+HOY77台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0zNw==
+HOY78台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02
+HOY78台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0zOA==
+有線18台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD05
+有線18台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0xMg==
+now新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0zMQ==
+now財經台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0zMg==
+now直播台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0zMA==
+now体育台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0zMw==
+viuTV,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yOA==
+viuTV6,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0yOQ==
+RTHK31,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00MA==
+RTHK32,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00MQ==
+民視HD,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02NQ==
+台視HD,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02Ng==
+中視HD,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02Nw==
+華視HD,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02OA==
+民視第一台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD01OQ==
+民視台灣台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02MA==
+民視影劇台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02MQ==
+民視旅遊台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02Mg==
+民視綜藝台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD02Mw==
+民視新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD01OA==
+中天新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00Mw==
+東森新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00NA==
+東森財經台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00NQ==
+東森超視台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD05NQ==
+年代新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00Ng==
+寰宇新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00Nw==
+寰宇台灣台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00OA==
+台視新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD00OQ==
+中視新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD01MA==
+華視新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD01MQ==
+三立新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD01Mw==
+非凡新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD01Ng==
+鏡新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD01NQ==
+TVBS新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD01Mg==
+TVBS HD,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD03MA==
+TVBS歡樂台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD03MQ==
+TVBS精彩台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD03Mg==
+三立台灣台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD03NQ==
+中天亞洲台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD03OA==
+緯來體育台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD03OQ==
+緯來日本台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD04MA==
+緯來育樂台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD04MQ==
+ELEVEN 1,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD04Mg==
+ELEVEN 2,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD04Mw==
+愛爾達體育1台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD04Ng==
+愛爾達體育2台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD04Nw==
+愛爾達體育3台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD04OA==
+愛爾達體育4台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD04OQ==
+大愛一台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD05MQ==
+大愛二台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD05Mg==
+MOMO綜合台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD05NA==
+HBO HD,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0xMDQ=
+FOX新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0xMDc=
+CNN新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0xMDg=
+BBC新聞台,http://www.kaniptv.cn/ts1.php?ua=bWF0dg==&hls=aHR0cDovL3h0di54aXR2LnRvcC9R576kMjQ0OTU5ODYzLnBocD9pZD0xMDk=
+
 斯玛特,#genre#
 翡翠台,http://xn--94q.xn--0p5a.top/0405smt.php?id=jade_twn
 翡翠台,http://xn--94q.xn--0p5a.top/0405smt.php?id=Jade_xue
