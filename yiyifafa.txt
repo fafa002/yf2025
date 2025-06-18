@@ -1355,25 +1355,18 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东影视,http://goo.bkpcp.top/mg/gdys
 广东民生(晚7点),http://live.iill.top/douyin/gdtvdvxc
 广东珠江(晚6点),http://live.iill.top/douyin/gdtvzjpd
-广东体育,https://ali.hlspull.yximgs.com/live/xaigjiaoge461551461313.flv
-广东珠江,https://ali.hlspull.yximgs.com/live/xiangjiaoge5316131613161.flv
-大湾区卫视,https://ali.hlspull.yximgs.com/live/xiangjiaoge651fs3f1313s1.flv
-广东民生,https://ali.hlspull.yximgs.com/live/xiangjiaoge5313d131d3351.flv
-
--汕头综合,http://conghua-sslp.online:3009/汕头综合/易发/hls.m3u8
--汕头生活,http://conghua-sslp.online:3009/汕头生活/易发/hls.m3u8
--揭阳综合,http://conghua-sslp.online:3009/揭阳综合/易发/hls.m3u8
--揭阳生活,http://conghua-sslp.online:3009/揭阳生活/易发/hls.m3u8
--潮州民生,http://conghua-sslp.online:3009/潮州民生/易发/hls.m3u8
-
-广东酒店2,#genre#
-盗源狗si全家 全家下地狱
 广东珠江㊀,https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
 广东新闻㊀,https://ali.hlspull.yximgs.com/live/guangdong_xw.flv
 广东体育㊀,https://ali.hlspull.yximgs.com/live/guangdong_ty.flv
 广东影视㊀,https://ali.hlspull.yximgs.com/live/guangdong_ys.flv
 广东民生㊀,https://ali.hlspull.yximgs.com/live/guangdong_ms.flv
 大湾区卫视㊀,https://ali.hlspull.yximgs.com/live/guangdong_dwq.flv
+
+-汕头综合,http://conghua-sslp.online:3009/汕头综合/易发/hls.m3u8
+-汕头生活,http://conghua-sslp.online:3009/汕头生活/易发/hls.m3u8
+-揭阳综合,http://conghua-sslp.online:3009/揭阳综合/易发/hls.m3u8
+-揭阳生活,http://conghua-sslp.online:3009/揭阳生活/易发/hls.m3u8
+-潮州民生,http://conghua-sslp.online:3009/潮州民生/易发/hls.m3u8
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
