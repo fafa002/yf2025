@@ -515,6 +515,7 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 
 极速167,#genre#
 盗源狗si全家 全家下地狱
+勿信广告,1
 翡翠台(1),https://012v4.pendy.dpdns.org/hls/a46a302c-3984-490c-847b-0ead582269e4/playlist.m3u8
 明珠台(1),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 中天娱乐,https://ali.hlspull.yximgs.com/live/167ztyl.flv
@@ -527,6 +528,9 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 凤凰香港,https://ali.hlspull.yximgs.com/live/167_fhxg.flv
 中天新闻,https://ali.hlspull.yximgs.com/live/167_ztxw.flv
 寰宇新闻,https://ali.hlspull.yximgs.com/live/167_hyxw.flv
+mytvsuperfree,https://ali.hlspull.yximgs.com/live/167_mytvsuperfree.flv
+黃金翡翠台,https://ali.hlspull.yximgs.com/live/167_mytvnull-3.flv
+創世電視,https://ali.hlspull.yximgs.com/live/167_mytvnull-6.flv
 
 极速qwt,#genre#
 勿信广告,1
