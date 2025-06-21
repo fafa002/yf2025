@@ -515,8 +515,7 @@ Now体育3,https://gdfire2.67890123.cn:8088/live/nowty201.m3u8
 
 极速167,#genre#
 盗源狗si全家 全家下地狱
-翡翠台(1),http://mytv.cdn.com.mp/hls/fct/playlist.m3u8
-翡翠台(2),https://012v4.pendy.dpdns.org/hls/a46a302c-3984-490c-847b-0ead582269e4/playlist.m3u8
+翡翠台(1),https://012v4.pendy.dpdns.org/hls/a46a302c-3984-490c-847b-0ead582269e4/playlist.m3u8
 明珠台(1),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 中天娱乐,https://ali.hlspull.yximgs.com/live/167ztyl.flv
 中天亚洲,https://ali.hlspull.yximgs.com/live/167ztyz.flv
@@ -625,17 +624,6 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 📺 TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 📺 中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 📺 東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
-
-极速2053,#genre#
-翡翠台,http://tvb.hmysapp.cn:2053/stream/iptv/null-4/master.m3u8
-无线新闻,http://tvb.hmysapp.cn:2053/stream/iptv/null-3/master.m3u8
-TVB Plus,http://tvb.hmysapp.cn:2053/stream/iptv/tvbplus/master.m3u8
-三立iNEWS,http://154.219.126.106:2053/stream/iptv/inews/master.m3u8
-三立綜合台,http://154.219.126.106:2053/stream/iptv/null-16/master.m3u8
-中視,http://154.219.126.106:2053/stream/iptv/null-22/master.m3u8
-中視新聞台,http://154.219.126.106:2053/stream/iptv/null-23/master.m3u8
-台視,http://154.219.126.106:2053/stream/iptv/null-24/master.m3u8
-台視新聞台,http://154.219.126.106:2053/stream/iptv/null-25/master.m3u8
 
 斯玛特,#genre#
 翡翠台,http://xn--94q.xn--0p5a.top/0405smt.php?id=jade_twn
