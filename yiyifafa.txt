@@ -1227,11 +1227,12 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东民生㊀,https://ali.hlspull.yximgs.com/live/guangdong_ms.flv
 大湾区卫视㊀,https://ali.hlspull.yximgs.com/live/guangdong_dwq.flv
 
--汕头综合,http://conghua-sslp.online:3009/汕头综合/易发/hls.m3u8
--汕头生活,http://conghua-sslp.online:3009/汕头生活/易发/hls.m3u8
--揭阳综合,http://conghua-sslp.online:3009/揭阳综合/易发/hls.m3u8
--揭阳生活,http://conghua-sslp.online:3009/揭阳生活/易发/hls.m3u8
--潮州民生,http://conghua-sslp.online:3009/潮州民生/易发/hls.m3u8
+-汕头综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_stzh.flv
+-汕头生活,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_stsh.flv
+-揭阳综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_jyzh.flv
+-揭阳生活,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_jysh.flv
+-潮州综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_czzh.flv
+-潮州民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_czms.flv
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
