@@ -534,6 +534,7 @@ mytvsuperfree,https://ali.hlspull.yximgs.com/live/167_mytvsuperfree.flv
 創世電視,https://ali.hlspull.yximgs.com/live/167_mytvnull-6.flv
 
 极速bx代理,#genre#
+勿信广告,1
 鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
 鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
 鳳凰香港,http://bx.757888.xyz/api.php?id=fhhk
