@@ -398,17 +398,22 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
-八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-49号,http://61.221.215.25:8800/hls/49/index.m3u8
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+tvbs欢乐,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
+东森超视,http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
+民视闽南,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+八大第一,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
+八大综合,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
+年代综合,http://61.216.11.93:49981/stream/channelid/644357774.m3u8
+纬来综合,http://61.216.11.93:49981/stream/channelid/106481234.m3u8
+纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
+好莱电影,http://61.216.11.93:49981/stream/channelid/286389561.m3u8
+CINeMax,http://61.216.11.93:49981/stream/channelid/207378916.m3u8
+CINeMax,http://61.216.11.93:49981/stream/channelid/1222093986.m3u8
+TLC'综合,http://61.216.11.93:49981/stream/channelid/458490002.m3u8
+Nick少儿,http://61.216.11.93:49981/stream/channelid/580636100.m3u8
+NHk日本,http://61.216.11.93:49981/stream/channelid/797583403.m3u8
+cNN新闻,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
+信吉电视,http://61.216.11.93:49981/stream/channelid/166215564.m3u8
 
 HK DTMB,#genre#
 盗源狗si全家 全家下地狱
@@ -547,6 +552,21 @@ TVBplus,http://bx.757888.xyz/mytv/mytvts1.1.php?id=tvbplus
 天映经典,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-4
 东森电影,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-10
 龙华电影,http://bx.757888.xyz/mytv/mytvts1.1.php?id=null-12
+-无线星河,http://tl.061833.xyz/tl/null-7
+-无线功夫,http://tl.061833.xyz/tl/null-17
+-无线娱乐,http://tl.061833.xyz/tl/null-14
+-无线综合,http://tl.061833.xyz/tl/null-3
+-无线戏曲,http://tl.061833.xyz/tl/null-15
+-无线粤片,http://tl.061833.xyz/tl/null-10
+-无线华剧,http://tl.061833.xyz/tl/null-4
+-无线亚剧,http://tl.061833.xyz/tl/null-13
+-黄金翡翠,http://tl.061833.xyz/tl/null-2
+-黄金华剧,http://tl.061833.xyz/tl/null-9
+-天映经典,http://tl.061833.xyz/tl/null-1
+-美亚电影,http://tl.061833.xyz/tl/null-5
+-中国电影,http://tl.061833.xyz/tl/null-6
+-无线新闻,http://tl.061833.xyz/tl/null-11
+-无线明珠,http://tl.061833.xyz/tl/null-12
 
 极速qwt,#genre#
 勿信广告,1
