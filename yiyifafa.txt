@@ -537,6 +537,16 @@ mytvsuperfree,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167_mytvsuperfree.fl
 
 极速bx代理,#genre#
 勿信广告,1
+18台,http://bx.757888.xyz/api.php?id=18
+TVBPlus,http://bx.757888.xyz/api.php?id=tvbp
+天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
+明珠台,http://bx.757888.xyz/api.php?id=mz
+無線新聞台,http://bx.757888.xyz/api.php?id=wxxw
+美亞電影台,http://bx.757888.xyz/api.php?id=meiya
+翡翠台,http://bx.757888.xyz/api.php?id=fct
+中國電影頻道,http://bx.757888.xyz/api.php?id=zgdy
+東森電影,http://bx.757888.xyz/api.php?id=dsdy
+龍華電影,http://bx.757888.xyz/api.php?id=lhdy
 鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
 鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
 鳳凰香港,http://bx.757888.xyz/api.php?id=fhhk
