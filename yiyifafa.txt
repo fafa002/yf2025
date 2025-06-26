@@ -575,6 +575,15 @@ TVBplus,http://bx.757888.xyz/mytv/mytvts1.1.php?id=tvbplus
 -无线新闻,http://tl.061833.xyz/tl/null-11
 -无线明珠,http://tl.061833.xyz/tl/null-12
 
+NOW有线,#genre#
+星空卫视(国际),http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889901.flv
+天映经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889902.flv
+Now爆谷台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889903.flv
+Now星影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889904.flv
+戏说台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889908.flv
+Now紫金国际,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889905.flv
+Now华剧台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889909.flv
+
 极速qwt,#genre#
 勿信广告,1
 凤凰中文台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
