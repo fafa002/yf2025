@@ -592,6 +592,8 @@ TVB功夫(国),http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889928.flv
 TVBS HD,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889913.flv
 猪歌亮歌秀厅,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889927.flv
 极限电影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889918.flv
+美国城市卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889929.flv
+高点综合台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/77889930.flv
 
 极速qwt,#genre#
 勿信广告,1
