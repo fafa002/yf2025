@@ -2737,6 +2737,8 @@ CCTV15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-cctv15.flv
 CCTV16,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-cctv16.flv
 CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-cctv17.flv
 东方卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-dfws.flv
+北京卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-bjws.flv
+天津卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-tjws.flv
 重庆卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-cqws.flv
 吉林卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-jlws.flv
 辽宁卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-lnws.flv
@@ -2761,6 +2763,8 @@ CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-cctv17.flv
 海南卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hinws.flv
 深圳卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-szws.flv
 四川卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-scws.flv
+安徽卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-ahws.flv
+浙江卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-zjws.flv
 
 珠江宽频,#genre#
 无线翡翠高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
