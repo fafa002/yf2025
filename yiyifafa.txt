@@ -1424,7 +1424,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 盗源狗si全家 全家下地狱
 大湾区 卫视,http://goo.bkpcp.top/mg/dwqws
 广东影视,http://goo.bkpcp.top/mg/gdys
-广东珠江,https://hls-gateway.vpstv.net/streams/476221.m3u8
 广东民生(晚7点),http://live.iill.top/douyin/gdtvdvxc
 广东珠江(晚6点),http://live.iill.top/douyin/gdtvzjpd
 广东珠江㊀,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
