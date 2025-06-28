@@ -2750,6 +2750,7 @@ CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-cctv17.flv
 山东卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-sdws.flv
 山西卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-sxxws.flv
 河南卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hnws.flv
+河北卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hbews.flv
 湖北卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hubws.flv
 湖南卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-hunws.flv
 江西卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-jxws.flv
