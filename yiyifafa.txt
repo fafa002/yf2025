@@ -572,7 +572,7 @@ TVBPlus,http://bx.757888.xyz/api.php?id=tvbp
 -无线翡翠,http://tl.061833.xyz/tl/null
 
 极速qwt,#genre#
-勿信广告,1
+请不要打赏,1
 凤凰中文台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰资讯台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰香港台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
@@ -669,6 +669,7 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
 📺 東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 超速qwt,#genre#
+请不要打赏,1
 凤凰中文台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
 凤凰资讯台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
 凤凰香港台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
@@ -888,6 +889,7 @@ SPOTV,http://api.mytv666.top/api/qwt.php?t=国外频道&id=SPOTV
 JTBCGOLF,http://api.mytv666.top/api/qwt.php?t=国外频道&id=JTBCGOLF
 
 极速凤凰,#genre#
+请不要打赏,1
 凤凰中文台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰中文台
 凤凰资讯台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰资讯台
 凤凰香港台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=凤凰香港台
