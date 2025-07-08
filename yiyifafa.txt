@@ -1161,6 +1161,32 @@ TLC'旅游,http://122.117.71.103:8628/TLC旅游.m3u8
 亚洲旅游,http://122.117.71.103:8634/亚洲旅游.m3u8
 动物星球,http://122.117.71.103:8633/动物星球.m3u8
 
+极速kkk,#genre#
+TVB生活台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gP6Xlz&tk=7nKsRYZnGsPb
+TVB星河台(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DP7e9I&tk=7nKsRYZnGsPb
+TVB功夫台(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XhIGtU&tk=7nKsRYZnGsPb
+Now星影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=47kgXS&tk=7nKsRYZnGsPb
+Now爆谷台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zjEagn&tk=7nKsRYZnGsPb
+港版美亚(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wHfRLB&tk=7nKsRYZnGsPb
+PopC电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=emyTjG&tk=7nKsRYZnGsPb
+龙华电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ydfner&tk=7nKsRYZnGsPb
+龙华经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N5mw2Q&tk=7nKsRYZnGsPb
+龙华卡通,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AVqBFh&tk=7nKsRYZnGsPb
+龙华偶像,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=r9DYxn&tk=7nKsRYZnGsPb
+龙华日韩,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mFDgkB&tk=7nKsRYZnGsPb
+龙华戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TwgSiA&tk=7nKsRYZnGsPb
+八度空间,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fWq9d9&tk=7nKsRYZnGsPb
+新加CHU,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yeI8fE&tk=7nKsRYZnGsPb
+新加CH5,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CFomcO&tk=7nKsRYZnGsPb
+新加CH8,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UKC9gx&tk=7nKsRYZnGsPb
+星空卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bW3cSp&tk=7nKsRYZnGsPb
+星空音乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sKWKGM&tk=7nKsRYZnGsPb
+凤凰电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=f4dv10&tk=7nKsRYZnGsPb
+台视综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8tCuBZ&tk=7nKsRYZnGsPb
+寰宇新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AZfZOr&tk=7nKsRYZnGsPb
+中天新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iVP2CW&tk=7nKsRYZnGsPb
+TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BemdOQ&tk=7nKsRYZnGsPb
+
 斯玛特,#genre#
 华丽翡翠,http://live.catvod.com/smart.php?id=Tvbjade
 翡翠台,http://live.catvod.com/smart.php?id=Jade_xue
