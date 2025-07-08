@@ -1162,30 +1162,43 @@ TLC'旅游,http://122.117.71.103:8628/TLC旅游.m3u8
 动物星球,http://122.117.71.103:8633/动物星球.m3u8
 
 极速kkk,#genre#
-TVB生活台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gP6Xlz&tk=7nKsRYZnGsPb
-TVB星河台(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DP7e9I&tk=7nKsRYZnGsPb
-TVB功夫台(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XhIGtU&tk=7nKsRYZnGsPb
-Now星影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=47kgXS&tk=7nKsRYZnGsPb
-Now爆谷台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zjEagn&tk=7nKsRYZnGsPb
-港版美亚(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wHfRLB&tk=7nKsRYZnGsPb
-PopC电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=emyTjG&tk=7nKsRYZnGsPb
-龙华电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ydfner&tk=7nKsRYZnGsPb
-龙华经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N5mw2Q&tk=7nKsRYZnGsPb
-龙华卡通,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AVqBFh&tk=7nKsRYZnGsPb
-龙华偶像,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=r9DYxn&tk=7nKsRYZnGsPb
-龙华日韩,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mFDgkB&tk=7nKsRYZnGsPb
-龙华戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TwgSiA&tk=7nKsRYZnGsPb
-八度空间,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fWq9d9&tk=7nKsRYZnGsPb
-新加CHU,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yeI8fE&tk=7nKsRYZnGsPb
-新加CH5,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CFomcO&tk=7nKsRYZnGsPb
-新加CH8,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UKC9gx&tk=7nKsRYZnGsPb
-星空卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bW3cSp&tk=7nKsRYZnGsPb
-星空音乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sKWKGM&tk=7nKsRYZnGsPb
-凤凰电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=f4dv10&tk=7nKsRYZnGsPb
-台视综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8tCuBZ&tk=7nKsRYZnGsPb
-寰宇新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AZfZOr&tk=7nKsRYZnGsPb
-中天新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iVP2CW&tk=7nKsRYZnGsPb
-TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BemdOQ&tk=7nKsRYZnGsPb
+凤凰中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ThOg1o&tk=jUDQY0PAY8EB
+凤凰资讯台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G2H1gi&tk=jUDQY0PAY8EB
+凤凰香港台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=14uM4M&tk=jUDQY0PAY8EB
+翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3FUPo5&tk=jUDQY0PAY8EB
+明珠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=POvHFB&tk=jUDQY0PAY8EB
+TVB Plus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RMInLS&tk=jUDQY0PAY8EB
+无线新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZUdcRv&tk=jUDQY0PAY8EB
+TVB生活台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dI8dOU&tk=jUDQY0PAY8EB
+TVB星河台(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VG3Axo&tk=jUDQY0PAY8EB
+TVB功夫台(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KaXaXb&tk=jUDQY0PAY8EB
+Now星影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hzhDdD&tk=jUDQY0PAY8EB
+Now爆谷台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fHFpep&tk=jUDQY0PAY8EB
+黄金华剧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gc7FLc&tk=jUDQY0PAY8EB
+港版美亚(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DNcHt5&tk=jUDQY0PAY8EB
+港版美亚(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GCCoTp&tk=jUDQY0PAY8EB
+PopC电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=788lOE&tk=jUDQY0PAY8EB
+美亚电影(台),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kq7A0W&tk=jUDQY0PAY8EB
+东森电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ma053Z&tk=jUDQY0PAY8EB
+东森洋片台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yxwrdZ&tk=jUDQY0PAY8EB
+纬来电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ddazGa&tk=jUDQY0PAY8EB
+龙华电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=t9rntb&tk=jUDQY0PAY8EB
+龙华经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vHWop9&tk=jUDQY0PAY8EB
+龙华卡通,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oEDdVx&tk=jUDQY0PAY8EB
+龙华偶像,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DFWnEx&tk=jUDQY0PAY8EB
+龙华日韩,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VasmsM&tk=jUDQY0PAY8EB
+龙华戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=knVdOw&tk=jUDQY0PAY8EB
+八度空间,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JFNpzz&tk=jUDQY0PAY8EB
+新加CHU,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3zxcHO&tk=jUDQY0PAY8EB
+新加CH5,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G5iVbZ&tk=jUDQY0PAY8EB
+新加CH8,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vSWJE3&tk=jUDQY0PAY8EB
+星空卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UKgyuq&tk=jUDQY0PAY8EB
+星空音乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NSd6xA&tk=jUDQY0PAY8EB
+凤凰电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PnFFrm&tk=jUDQY0PAY8EB
+台视综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=v4Fmct&tk=jUDQY0PAY8EB
+寰宇新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dl0GtR&tk=jUDQY0PAY8EB
+中天新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KAQLN2&tk=jUDQY0PAY8EB
+TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PNyLsJ&tk=jUDQY0PAY8EB
 
 斯玛特,#genre#
 华丽翡翠,http://live.catvod.com/smart.php?id=Tvbjade
