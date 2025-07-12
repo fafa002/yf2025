@@ -512,8 +512,6 @@ Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 -HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
 -HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 -娱乐新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ylxw.flv
--TVB星河,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_tvbxh.flv
--亚洲武侠,rtmp://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_yzwx.flv
 -now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_nowxw.flv
 -重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 -民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ms.flv
