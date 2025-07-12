@@ -326,6 +326,7 @@ QQ群,1
 如果看不了,6
 换安卓9盒子,7
 深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
+深圳卫视4K(备),http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogeszws4k.flv
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -529,6 +530,8 @@ Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 极速167,#genre#
 盗源狗si全家 全家下地狱
 明珠台(1),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+中天娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyl.flv
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyz.flv
 
 极速bx,#genre#
 18台,http://bx.757888.xyz/api.php?id=18
