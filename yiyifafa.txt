@@ -532,7 +532,8 @@ Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 
 极速167,#genre#
 盗源狗si全家 全家下地狱
-明珠台(1),http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+翡翠台,http://api.mg.itv888.cn:8080/streams/031a43f0d54/index.m3u8
 中天娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyl.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyz.flv
 
