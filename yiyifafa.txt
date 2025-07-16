@@ -567,24 +567,6 @@ TVBPlus,http://bx.757888.xyz/api.php?id=tvbp
 鳳凰香港,http://bx.757888.xyz/api.php?id=fhhk
 中天新聞台,http://bx.757888.xyz/api.php?id=ztxw
 
-台視,http://bx.757888.xyz/api.php?id=台視
-台視新聞,http://bx.757888.xyz/api.php?id=台視新聞
-中視,http://bx.757888.xyz/api.php?id=中視
-中視新聞,http://bx.757888.xyz/api.php?id=中視新聞
-華視,http://bx.757888.xyz/api.php?id=華視
-華視新聞,http://bx.757888.xyz/api.php?id=華視新聞
-三立新聞iNEWS,http://bx.757888.xyz/api.php?id=三立新聞iNEWS
-中天新聞台,http://bx.757888.xyz/api.php?id=中天新聞
-寰宇新聞台,http://bx.757888.xyz/api.php?id=寰宇新聞
-寰宇財經台,http://bx.757888.xyz/api.php?id=寰宇財經
-龍華卡通台,http://bx.757888.xyz/api.php?id=龍華卡通
-龍華戲劇台,http://bx.757888.xyz/api.php?id=龍華戲劇
-龍華偶像台,http://bx.757888.xyz/api.php?id=龍華偶像
-龍華日韓台,http://bx.757888.xyz/api.php?id=龍華日韓
-龍華經典台,http://bx.757888.xyz/api.php?id=龍華經典
-龍華電影台,http://bx.757888.xyz/api.php?id=龍華電影
-龍華洋片台,http://bx.757888.xyz/api.php?id=龍華洋片
-
 -无线星河,http://tl.061833.xyz/tl/null-7
 -无线功夫,http://tl.061833.xyz/tl/null-17
 -无线娱乐,http://tl.061833.xyz/tl/null-14
