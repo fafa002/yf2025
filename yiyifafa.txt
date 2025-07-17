@@ -486,7 +486,7 @@ tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogetvbplus02.flv
 Hoy77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
 Hoy78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xaigjiaogehoy7801.flv
 Now爆谷,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
-Now星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogef31fdg31g1gdg.flv
+Now星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
 Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 东森新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
