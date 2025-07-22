@@ -406,7 +406,7 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 tvbs欢乐,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
 东森超视,http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
-民视闽南,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
+民视,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
 八大第一,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
 八大综合,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
 年代综合,http://61.216.11.93:49981/stream/channelid/644357774.m3u8
