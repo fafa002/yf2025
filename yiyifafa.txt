@@ -490,7 +490,7 @@ Now星影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.
 Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 东森新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-中天新闻2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
+中天新闻2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw202.flv
 寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
@@ -506,7 +506,7 @@ Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 -凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 -中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
 -中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
--中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw1.flv
 -翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 -无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 -明珠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mz.flv
