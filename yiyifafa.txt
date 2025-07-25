@@ -1495,7 +1495,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 -汕头生活,http://szb.zxwj.cn:8081/live/guangdong_stsh.m3u8
 -揭阳综合,http://szb.zxwj.cn:8081/live/guangdong_jyzh.m3u8
 -揭阳生活,http://szb.zxwj.cn:8081/live/guangdong_jysh.m3u8
--潮州综合,http://szb.zxwj.cn:8081/live/live/guangdong_czzh.m3u8
+-潮州综合,http://szb.zxwj.cn:8081/live/guangdong_czzh.m3u8
 -潮州民生,http://szb.zxwj.cn:8081/live/guangdong_czms.m3u8
 -汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 -汕尾生活,https://iswtv.swrtv.com/live/whshpd.m3u8
