@@ -532,7 +532,7 @@ Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 -八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
 -爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 
-极速888,#genre#
+极速itv888,#genre#
 盗源狗si全家 全家下地狱
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 明珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
@@ -550,7 +550,7 @@ RHK32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
 viutv,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
 viutv6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
 
-极速bx,#genre#
+极速bxtv,#genre#
 myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 明珠台,http://bxtv.3a.ink/api.php?id=mz
@@ -580,7 +580,7 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 龍華電影台,http://bxtv.3a.ink/api.php?id=龍華電影
 龍華洋片台,http://bxtv.3a.ink/api.php?id=龍華洋片
 
-极速0618,#genre#
+极速061899,#genre#
 翡翠台,http://t.061899.xyz/tl/168.php?id=fct
 无线新聞台,http://t.061899.xyz/tl/168.php?id=wxxwt
 明珠台,http://t.061899.xyz/tl/168.php?id=zzt
@@ -680,7 +680,7 @@ ROCK綜藝娛樂,http://tl.061833.xyz/tl/rock
 SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 ZooMoo,http://tl.061833.xyz/tl/zoomoo
 
-极速AK,#genre#
+极速AKTV,#genre#
 天映經典(1080),http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 明珠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
 明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
@@ -731,7 +731,7 @@ TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
 TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 
-斯玛特,#genre#
+斯玛特520761,#genre#
 华丽翡翠,https://smt.520761.xyz/Smart.php?id=Tvbjade
 翡翠台,https://smt.520761.xyz/Smart.php?id=Jade_xue
 翡翠台,https://smt.520761.xyz/Smart.php?id=jade_twn
