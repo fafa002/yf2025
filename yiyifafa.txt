@@ -1787,9 +1787,19 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 湛江新闻综合,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
 湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
 韶关新闻综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=sgxwzh&zy.m3u8
+韶关综合,https://live.sgmsw.cn/hls/lhx1FUeZg/playlist.m3u8
+韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 河源综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=hyzh&zy.m3u8
+河源综合1,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共1,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 揭阳综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=jyzh&zy.m3u8
 揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
+揭阳生活,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
+潮州综合1,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
+潮州民生1,http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250301
+番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+丰顺综合,https://p2.vzan.com/701678271/024926084736123670/live.m3u8
+深圳龙岗,http://zhfw-t.szlg.com:8080/live/television1.m3u8
 
 广东酒店,#genre#
 盗源狗si全家 全家下地狱
