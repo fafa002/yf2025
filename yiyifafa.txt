@@ -2951,6 +2951,9 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 新疆卫视,http://go.bkpcp.top/mg/xjws
 西藏卫视,http://go.bkpcp.top/mg/xzws
 兵团卫视,http://go.bkpcp.top/mg/btws
+CHC动作电影,http://go.bkpcp.top/mg/dzdy
+CHC影迷电影,http://go.bkpcp.top/mg/ymdy
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 
 咪咕体育9,#genre#
 咪咕视频_8M1080_咪视通-1,http://124.235.225.122:2284/itv/3000000001000005308.m3u8?cdn=FifastbLive
