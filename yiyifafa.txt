@@ -346,6 +346,7 @@ QQ群,1
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
+Now新闻,http://cdn.163189.xyz/163189/now 
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
