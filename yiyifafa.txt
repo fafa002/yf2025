@@ -1791,10 +1791,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 阳江-2,https://live.yjtvw.com:8081/live/yjtv2.m3u8
 湛江新闻综合,http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
 湛江公共,http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
-韶关新闻综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=sgxwzh&zy.m3u8
 韶关综合,https://live.sgmsw.cn/hls/lhx1FUeZg/playlist.m3u8
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-河源综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=hyzh&zy.m3u8
 河源综合1,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共1,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 汕头综合,http://124.222.114.206/sxtv.php?id=st1
