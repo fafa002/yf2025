@@ -1811,8 +1811,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 河源综合1,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共1,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 汕头综合,http://124.222.114.206/sxtv.php?id=st1
-汕头生活,http://124.222.114.206/sxtv.php?id=st1
-揭阳综合,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=jyzh&zy.m3u8
+汕头生活,http://124.222.114.206/sxtv.php?id=st2
 揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 揭阳生活,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
 潮州综合1,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
