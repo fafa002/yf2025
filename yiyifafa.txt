@@ -579,25 +579,11 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
 鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
 鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
 緯來體育,http://bxtv.3a.ink/api.php?id=wlty
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
-台視,http://bxtv.3a.ink/api.php?id=台視
-台視新聞,http://bxtv.3a.ink/api.php?id=台視新聞
-中視,http://bxtv.3a.ink/api.php?id=中視
-中視新聞,http://bxtv.3a.ink/api.php?id=中視新聞
-華視,http://bxtv.3a.ink/api.php?id=華視
-華視新聞,http://bxtv.3a.ink/api.php?id=華視新聞
-三立新聞iNEWS,http://bxtv.3a.ink/api.php?id=三立新聞iNEWS
-中天新聞台,http://bxtv.3a.ink/api.php?id=中天新聞
-寰宇新聞台,http://bxtv.3a.ink/api.php?id=寰宇新聞
-寰宇財經台,http://bxtv.3a.ink/api.php?id=寰宇財經
-龍華卡通台,http://bxtv.3a.ink/api.php?id=龍華卡通
-龍華戲劇台,http://bxtv.3a.ink/api.php?id=龍華戲劇
-龍華偶像台,http://bxtv.3a.ink/api.php?id=龍華偶像
-龍華日韓台,http://bxtv.3a.ink/api.php?id=龍華日韓
-龍華經典台,http://bxtv.3a.ink/api.php?id=龍華經典
-龍華電影台,http://bxtv.3a.ink/api.php?id=龍華電影
-龍華洋片台,http://bxtv.3a.ink/api.php?id=龍華洋片
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 
 极速061899,#genre#
 盗源狗si全家 全家下地狱
