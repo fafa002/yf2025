@@ -510,6 +510,8 @@ Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
 中天新闻2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw202.flv
 寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
+娱家,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-hub01.flv
+都会,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-hub02.flv
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
