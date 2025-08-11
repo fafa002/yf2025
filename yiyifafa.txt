@@ -589,6 +589,9 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 明珠台,http://bxtv.3a.ink/api.php?id=mz
 無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
 美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+PopC,http://bxtv.3a.ink/api.php?id=popc
+VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
 翡翠台,http://bxtv.3a.ink/api.php?id=fct
 鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
 鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
@@ -596,6 +599,24 @@ TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 NOW新闻,http://bxtv.3a.ink/api.php?id=now
 緯來體育,http://bxtv.3a.ink/api.php?id=wlty
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+中天亞洲台,http://bxtv.3a.ink/api.php?id=ztyz
+台視,http://bxtv.3a.ink/api.php?id=taishi
+台視新聞台,http://bxtv.3a.ink/api.php?id=tsxw
+中視,http://bxtv.3a.ink/api.php?id=zhongshi
+中視新聞台,http://bxtv.3a.ink/api.php?id=zsxw
+民視,http://bxtv.3a.ink/api.php?id=minshi
+民視新聞台,http://bxtv.3a.ink/api.php?id=msxw
+民視台灣台,http://bxtv.3a.ink/api.php?id=mstw
+華視,http://bxtv.3a.ink/api.php?id=huashi
+八大第一,http://bxtv.3a.ink/api.php?id=bddy
+八大綜合,http://bxtv.3a.ink/api.php?id=bdzh
+HBO,http://bxtv.3a.ink/api.php?id=hbo
+寰宇新聞台,http://bxtv.3a.ink/api.php?id=hyxw
+緯來電影,http://bxtv.3a.ink/api.php?id=wldy
+東森電影,http://bxtv.3a.ink/api.php?id=dsdy
+東森幼幼,http://bxtv.3a.ink/api.php?id=dsyy
+台灣美亞電影,http://bxtv.3a.ink/api.php?id=twmeiya
+TVBS,http://bxtv.3a.ink/api.php?id=tvbs
 广东体育,http://bxtv.3a.ink/api.php?id=gdty
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 
@@ -702,50 +723,64 @@ ZooMoo,http://tl.061833.xyz/tl/zoomoo
 
 极速AKTV,#genre#
 盗源狗si全家 全家下地狱
+TVB Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
 天映經典(1080),http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 明珠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
 明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+翡翠一台(北美),http://s1.an94tv.cfd/aktv/CH-8/AKTV.m3u8
 翡翠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+翡翠娛樂台(北美),http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
 翡翠综合台(北美),http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
 鳳凰衛視中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 鳳凰衛視資訊台,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 鳳凰衛視香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 黃金翡翠台,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+Viu6,http://s1.an94tv.cfd/aktv2/viu6/AKTV.m3u8
+VIUTV1,http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8
+好萊塢電影台,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+東森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+緯來電影台,http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
+緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+華視,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+RTHK32,http://s1.an94tv.cfd/aktv3/rthk32/AKTV.m3u8
 中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+CinemaWorld,http://s1.an94tv.cfd/taiwan/cinemaworld/AKTV.m3u8
+HITS,http://s1.an94tv.cfd/taiwan/hits/AKTV.m3u8
 KLT-靖天國際台,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+MagellanTV頻道,http://s1.an94tv.cfd/taiwan/magellantv/AKTV.m3u8
 TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+TVBS新聞,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 民視,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 龍華日韓台,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
 TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+三立LIVE,http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
+中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+国际空间站 (NASA),http://s1.an94tv.cfd/zhongtian/nasa/AKTV.m3u8
+寰宇新聞台,http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-好萊塢電影台,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-東森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
 AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 Channel 5 HD,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 Channel U HD,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
 Love Nature HD,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
 Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 CNA,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+F1,http://s1.an94tv.cfd/aktv3/f1/AKTV.m3u8
 朝鲜恩情台,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
 Japan News 24H LIVE,http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
 日テレNEWS LIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
 8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
 Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
 Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+Celestial Movies,http://s1.an94tv.cfd/astro/celestialmovies/AKTV.m3u8
 EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
 EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
 TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
@@ -1827,6 +1862,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东珠江,http://go.bkpcp.top/mg/gdzj
 广东体育,http://go.bkpcp.top/mg/gdty
 广东民生,http://go.bkpcp.top/mg/gdms
+广东新闻,,http://go.bkpcp.top/mg/gdxw
 
 广东民生(晚7点),http://live.iill.top/douyin/gdtvdvxc
 广东珠江(晚6点),http://live.iill.top/douyin/gdtvzjpd
