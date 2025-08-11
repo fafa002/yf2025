@@ -326,10 +326,13 @@ fire,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f7e0000bt9epjpk950
 Cry On My Shoulder,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f560000bt8c31an6tf9cl2gpmsg&ratio=720p&line=0
 Dance Monkey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8c334lftubd6erba3g&ratio=720p&line=0
 
-8月电影,#genre#
+抗战80周年,#genre#
+(铭记历史).1
 南京照片馆,https://cdn.yzzy29-play.com/20250728/431_66368270/index.m3u8
 南京照片馆-1,https://v10.gggread.com/wjv10/202507/29/9w4i64k6HK82/video/index.m3u8
 南京照片馆-2,https://hn.bfvvs.com/play/NbW28moa/index.m3u8
+东极岛,https://v13.yuglf.com/202508/09/72E1NKiAGU22/video/index.m3u8
+东极岛-1,https://v11.gggread.com/wjv11/202508/09/6h1cDP7Yey83/video/index.m3u8
 
 加入易發群,#genre#
 盗源狗si全家 全家下地狱
