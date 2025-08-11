@@ -1868,7 +1868,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东珠江,http://go.bkpcp.top/mg/gdzj
 广东体育,http://go.bkpcp.top/mg/gdty
 广东民生,http://go.bkpcp.top/mg/gdms
-广东新闻,,http://go.bkpcp.top/mg/gdxw
+广东新闻,http://go.bkpcp.top/mg/gdxw
 
 广东民生(晚7点),http://live.iill.top/douyin/gdtvdvxc
 广东珠江(晚6点),http://live.iill.top/douyin/gdtvzjpd
