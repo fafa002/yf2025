@@ -355,6 +355,7 @@ QQ群,1
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+重温经典,http://live-gitv-nx-yh.189smarthome.com/gitv_live/G_CWJD-HQ/G_CWJD-HQ.m3u8
 
 极速港台2,#genre#
 盗源狗si全家 全家下地狱
