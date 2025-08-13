@@ -3238,46 +3238,6 @@ CCTV17,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBX
 兵团卫视,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC4xOTYuMjMyLjEyNDo4MDg4LzAwMDAwMDAwMTAwMVBMVFYvNjUxLzIyNC8zMjIxMjI3NjA1LzEubTN1OD9IbHNQcm9maWxlSWQ9
 中国教育3台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyMC4xOTYuMjMyLjEyNDo4MDg4LzAwMDAwMDAwMTAwMVBMVFYvNjUxLzIyNC8zMjIxMjI3NjAzLzEubTN1OD9IbHNQcm9maWxlSWQ9
 
-全网通iptv,#genre#
-CCTV1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv1.flv
-CCTV2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv2.flv
-CCTV3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv3.flv
-CCTV4,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv4.flv
-CCTV5,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5.flv
-CCTV5+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv
-CCTV6,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv6.flv
-CCTV7,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv7.flv
-CCTV8,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv8.flv
-CCTV9,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv9.flv
-CCTV10,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv10.flv
-CCTV11,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv11.flv
-CCTV12,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv12.flv
-CCTV13,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv13.flv
-CCTV14,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv14.flv
-CCTV15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv15.flv
-CCTV16,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv16.flv
-CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv17.flv
-
-CCTV1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv1.flv
-CCTV2,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv2.flv
-CCTV3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv3.flv
-CCTV4,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv4.flv
-CCTV4美洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv4m.flv
-CCTV4欧洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv4o.flv
-CCTV5,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv5.flv
-CCTV5+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv5p.flv
-CCTV6,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv6.flv
-CCTV7,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv7.flv
-CCTV8,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv8.flv
-CCTV9,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv9.flv
-CCTV10,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv10.flv
-CCTV11,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv11.flv
-CCTV12,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv12.flv
-CCTV13,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv13.flv
-CCTV14,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv14.flv
-CCTV15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv15.flv
-CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-cctv17.flv
-
 虎牙轮播,#genre#
 盗源狗si全家 全家下地狱
 埋堆堆 𝟙,https://live.iill.top/huya/23740156
