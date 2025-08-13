@@ -3873,12 +3873,12 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 浙江音乐,https://lhttp.qingting.fm/live/4866/64k.mp3
 
 私密频道_169169,#genre#
-椹氳壏,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
-娼樻湹鎷夊畬缇�,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
-棣欒晧 http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/87.ts
-鏉捐1鍙�,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
-鏉捐2鍙�,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
-鏉捐3鍙癶ttp://15.204.105.50:25461/live-G2s9zK2n9m/ezvrFwxGfA/90.ts
+彩虹台,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/85
+潘朵拉,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/86
+香蕉台,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/87
+松視1台,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/88
+松視2台,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/89
+松視3台,http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/90
 极限电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-jstv.flv
 极限,http://live.urren.net:80/live/846d5173716f12c2016e6d6241a46870.flv
 happy,http://live.urren.net:80/live/4337bcff00a7ccf9ea77583e003b95ba.flv
