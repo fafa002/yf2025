@@ -516,7 +516,6 @@ Now新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxw01.flv
 寰宇新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
 娱家,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-hub01.flv
 都会,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-hub02.flv
-极限电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-jstv.flv
 戏说台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-xstw.flv
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
@@ -3892,6 +3891,7 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 鏉捐1鍙�,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
 鏉捐2鍙�,http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
 鏉捐3鍙癶ttp://15.204.105.50:25461/live-G2s9zK2n9m/ezvrFwxGfA/90.ts
+极限电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-jstv.flv
 极限,http://live.urren.net:80/live/846d5173716f12c2016e6d6241a46870.flv
 happy,http://live.urren.net:80/live/4337bcff00a7ccf9ea77583e003b95ba.flv
 香蕉,http://live.urren.net:80/live/e23d2a2f02a70bda12d910f46dca8246.flv
