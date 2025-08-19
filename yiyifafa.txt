@@ -3426,6 +3426,66 @@ CCTV17,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv17.flv
 
 虎牙轮播,#genre#
 盗源狗si全家 全家下地狱
+成龙,http://cfss.cc/cdn/hy/11342386.m3u8
+黄渤,http://cfss.cc/cdn/hy/11352876.m3u8
+沈腾,http://cfss.cc/cdn/hy/11601968.m3u8
+王晶,http://cfss.cc/cdn/hy/11602058.m3u8
+周星驰,http://cfss.cc/cdn/hy/11336587.m3u8
+李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
+刘德华,http://cfss.cc/cdn/hy/11342424.m3u8
+李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
+周润发,http://cfss.cc/cdn/hy/11342387.m3u8
+庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
+陈情令,http://cfss.cc/cdn/hy/29465862.m3u8
+古天乐,http://cfss.cc/cdn/hy/29982675.m3u8
+甄子丹,http://cfss.cc/cdn/hy/11352935.m3u8
+封神榜,http://cfss.cc/cdn/hy/23749096.m3u8
+鹿鼎记,http://cfss.cc/cdn/hy/23865080.m3u8
+寻秦记,http://cfss.cc/cdn/hy/23864973.m3u8
+洗冤录,http://cfss.cc/cdn/hy/23903130.m3u8
+创世纪,http://cfss.cc/cdn/hy/23749083.m3u8
+大时代,http://cfss.cc/cdn/hy/23865161.m3u8
+柳舟计,http://cfss.cc/cdn/hy/23860039.m3u8
+大秦赋,http://cfss.cc/cdn/hy/23903130.m3u8
+封神榜,http://cfss.cc/cdn/hy/29465849.m3u8
+寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
+洗冤录,http://cfss.cc/cdn/hy/29465851.m3u8
+创世纪,http://cfss.cc/cdn/hy/23749083.m3u8
+大时代,http://cfss.cc/cdn/hy/23865161.m3u8
+柳舟计,http://cfss.cc/cdn/hy/23860039.m3u8
+大秦赋,http://cfss.cc/cdn/hy/23903130.m3u8
+封神榜,http://cfss.cc/cdn/hy/29465849.m3u8
+寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
+洗冤录,http://cfss.cc/cdn/hy/29465851.m3u8
+创世纪,http://cfss.cc/cdn/hy/29465852.m3u8
+刘德华,http://cfss.cc/cdn/hy/11342424.m3u8
+洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
+埋堆堆,http://cfss.cc/cdn/hy/23903123.m3u8
+埋堆堆2,http://cfss.cc/cdn/hy/23864973.m3u8
+王晶电影,http://cfss.cc/cdn/hy/11602058.m3u8
+功夫电影,http://cfss.cc/cdn/hy/11352941.m3u8
+猫和老鼠,http://cfss.cc/cdn/hy/11352879.m3u8
+强森电影,http://cfss.cc/cdn/hy/21059581.m3u8
+金庸武侠,http://cfss.cc/cdn/hy/11342435.m3u8
+永夜星河,http://cfss.cc/cdn/hy/23734169.m3u8
+电影_武侠,http://cfss.cc/cdn/hy/11342427.m3u8
+电影_玄幻,http://cfss.cc/cdn/hy/11342414.m3u8
+电影_国产,http://cfss.cc/cdn/hy/11352973.m3u8
+电影_洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
+电影_斯坦森,http://cfss.cc/cdn/hy/21059588.m3u8
+电影_功夫片,http://cfss.cc/cdn/hy/11352941.m3u8
+剧集_老三国,http://cfss.cc/cdn/hy/11602081.m3u8
+猫和老鼠动漫,http://cfss.cc/cdn/hy/11352879.m3u8
+电影_不挤影院,http://cfss.cc/cdn/hy/11352897.m3u8
+电影_许氏三杰,http://cfss.cc/cdn/hy/11602033.m3u8
+电影_高分动作,http://cfss.cc/cdn/hy/11352884.m3u8
+电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.m3u8
+电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.m3u8
+电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.m3u8
+电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.m3u8
+亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
+雪豹,http://cfss.cc/cdn/hy/29580970.m3u8
+
 埋堆堆 𝟙,https://live.iill.top/huya/23740156
 埋堆堆 𝟚,https://live.iill.top/huya/23749096
 埋堆堆 𝟛,https://live.iill.top/huya/23735126
