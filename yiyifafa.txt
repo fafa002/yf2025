@@ -988,6 +988,26 @@ MAX电影,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h26
 纬来体育,http://61.216.11.93:49981/stream/channelid/1043018929?profile=webtv-h264-aac-mpegts
 ELEVEN 体育,http://61.216.11.93:49981/stream/channelid/1943512210?profile=webtv-h264-aac-mpegts
 
+东森财经,http://1.165.33.250:9080/hls/dscjxw.m3u8
+华视新闻,http://1.165.33.250:9080/hls/hsxwt.m3u8
+寰宇新闻,http://1.165.33.250:9080/hls/hyxwt.m3u8
+寰宇新闻台湾,http://1.165.33.250:9080/hls/hyxwttw.m3u8
+民视台湾,http://1.165.33.250:9080/hls/mstwt.m3u8
+民视新闻,http://1.165.33.250:9080/hls/msxwt.m3u8
+民视综艺,http://1.165.33.250:9080/hls/mszyt.m3u8
+三立新闻,http://1.165.33.250:9080/hls/slxwt.m3u8
+三立综合,http://1.165.33.250:9080/hls/slzht.m3u8
+台视新闻http://1.165.33.250:9080/hls/tsxwt.m3u8
+tvbs新闻,http://1.165.33.250:9080/hls/tvbsxwt.m3u8
+东森新闻,http://1.165.33.250:9080/hls/twdsxw.m3u8
+华视,http://1.165.33.250:9080/hls/twhst.m3u8
+民视第一,http://1.165.33.250:9080/hls/twmsdyt.m3u8
+民视,http://1.165.33.250:9080/hls/twmst.m3u8
+中视新闻,http://1.165.33.250:9080/hls/twzst.m3u8
+中视新闻,http://1.165.33.250:9080/hls/twzsxw.m3u8
+中天新闻,http://1.165.33.250:9080/hls/ztxwt.m3u8
+中天亚洲,http://1.165.33.250:9080/hls/ztyzt.m3u8
+
 土拨鼠,#genre#
 请不要打赏,1
 广东珠江频道,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
