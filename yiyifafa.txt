@@ -3298,6 +3298,7 @@ CGTN,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42N
 青海卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzE4My4yNDkuNzguNDQ6MTA4MDAvbmV3bGl2ZS9saXZlL2hscy80NS9saXZlLm0zdTg=
 
 全网通央视,#genre#
+请不要打赏,1
 CCTV1,http://live.jnjyapp.cn/live/cctv1.flv
 CCTV2,http://live.jnjyapp.cn/live/cctv2.flv
 CCTV3,http://live.jnjyapp.cn/live/cctv3.flv
