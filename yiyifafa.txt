@@ -483,9 +483,6 @@ popc,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 POPC,http://103.217.184.104:8080/live/xiangjiaogepopc.m3u8
 有线18,http://103.217.184.104:8080/live/xiangjiaogemytv0318.m3u8
 广电翡翠,http://103.217.184.104:8080/live/xiangjiaoge15131132145.m3u8
-tvbplus,http://103.217.184.104:8080/live/xaigjiaogetvbplus02.m3u8
-Hoy77,http://103.217.184.104:8080/live/xiangjiaogehoy77511.m3u8
-Hoy78,http://103.217.184.104:8080/live/xaigjiaogehoy7801.m3u8
 Now爆谷,http://103.217.184.104:8080/live/xiangjiaoge1116163133.m3u8
 Now星影,http://103.217.184.104:8080/live/xiangjiaoge1f3s131fs3f1.m3u8
 东森新闻,http://103.217.184.104:8080/live/dsxw01.m3u8
@@ -498,38 +495,6 @@ Now星影,http://103.217.184.104:8080/live/xiangjiaoge1f3s131fs3f1.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-
-极速awei,#genre#
-盗源狗si全家 全家下地狱
--凤凰中文,http://103.217.184.104:8080/live/awei_fhzw.m3u8
--凤凰资讯,http://103.217.184.104:8080/live/awei_fhzx.m3u8
--凤凰香港,http://103.217.184.104:8080/live/awei_fhxg.m3u8
--中天娱乐,http://103.217.184.104:8080/live/167ztyl.m3u8
--中天亚洲,http://103.217.184.104:8080/live/awei_ztyz.m3u8
--中天综合,http://103.217.184.104:8080/live/awei_ztzh.m3u8
--中天新闻,http://103.217.184.104:8080/live/awei_ztxw1.m3u8
--翡翠台,http://103.217.184.104:8080/live/awei_jade.m3u8
--无线新闻,http://103.217.184.104:8080/live/awei_wxxw.m3u8
--明珠台,http://103.217.184.104:8080/live/awei_mz.m3u8
--viuTV,http://103.217.184.104:8080/live/awei_viu.m3u8
--viuTV6,http://103.217.184.104:8080/live/awei_viutv6.m3u8
--tvbplus,http://103.217.184.104:8080/live/awei_j2.m3u8
--HOY77,http://103.217.184.104:8080/live/awei_hoy77.m3u8
--HOY78,http://103.217.184.104:8080/live/awei_hoy78.m3u8
--娱乐新闻,http://103.217.184.104:8080/live/awei_ylxw.m3u8
--now新闻,http://103.217.184.104:8080/live/awei_nowxw.m3u8
--重温经典,http://103.217.184.104:8080/live/awei_cwjd.m3u8
--民视,http://103.217.184.104:8080/live/awei_ms.m3u8
--民视第一,http://103.217.184.104:8080/live/awei_msdy.m3u8
--民视台湾,http://103.217.184.104:8080/live/awei_mstw.m3u8
--台视,http://103.217.184.104:8080/live/awei_ts.m3u8
--中视,http://103.217.184.104:8080/live/awei_zs.m3u8
--美亚电影,http://103.217.184.104:8080/live/awei_mydy.m3u8
--东森超视,http://103.217.184.104:8080/live/awei_dscs.m3u8
--东森综合,http://103.217.184.104:8080/live/awei_dszh.m3u8
--八大第一,http://103.217.184.104:8080/live/awei_bddy.m3u8
--八大综合,http://103.217.184.104:8080/live/awei_bdzh.m3u8
--爱尔达娱乐,http://103.217.184.104:8080/live/awei_aedyl.m3u8
 
 极速itv888,#genre#
 盗源狗si全家 全家下地狱
