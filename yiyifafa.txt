@@ -1021,38 +1021,6 @@ TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
 TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 
-极速4981,#genre#
-盗源狗si全家 全家下地狱
-TVB生活台,http://pullsstx.peiyou.eaydu.com/live/hktv-tvbzyt018.flv
-TVB星河(国),http://pullsstx.peiyou.eaydu.com/live/hktv-tvbxht018.flv
-TVB功夫(国),http://pullsstx.peiyou.eaydu.com/live/hktv-tvbgft018.flv
-Now爆谷台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowbgt20250825.flv
-Now星影台,http://pullsstx.peiyou.eaydu.com/live/hktv-nowxyt20250825.flv
-HUB娱家台,http://pullsstx.peiyou.eaydu.com/live/hktv-hub01018.flv
-HUB都会台,http://pullsstx.peiyou.eaydu.com/live/hktv-hub02018.flv
-美亚电影(台湾),http://pullsstx.peiyou.eaydu.com/live/hktv-mydy018.flv
-美亚电影(香港),http://pullsstx.peiyou.eaydu.com/live/hktv-mydyt018.flv
-黄金华剧台,http://pullsstx.peiyou.eaydu.com/live/hktv-hyhyt018.flv
-PopC电影,http://pullsstx.peiyou.eaydu.com/live/hktv-PopCt018.flv
-龙祥电影(粤),http://pullsstx.peiyou.eaydu.com/live/hktv-lstith.flv
-龙祥电影(国),http://pullsstx.peiyou.eaydu.com/live/hktv-lstitw.flv
-中天新闻,http://pullsstx.peiyou.eaydu.com/live/hktv-twztxwt018.flv
-TVBSHD,http://pullsstx.peiyou.eaydu.com/live/hktv-twtvbst018.flv
-民视,http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
-大爱,http://61.216.11.93:49981/stream/channelid/1572016406?profile=webtv-h264-aac-mpegts
-TLC旅游,http://61.216.11.93:49981/stream/channelid/458490002?profile=webtv-h264-aac-mpegts
-动物星球,http://61.216.11.93:49981/stream/channelid/1348882571?profile=webtv-h264-aac-mpegts
-东森超视,http://61.216.11.93:49981/stream/channelid/1026178460?profile=webtv-h264-aac-mpegts
-东森新闻,http://61.216.11.93:49981/stream/channelid/1254660478?profile=webtv-h264-aac-mpegts
-纬来综合,http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
-中天综合,http://61.216.11.93:49981/stream/channelid/1140193239?profile=webtv-h264-aac-mpegts
-年代综合,http://61.216.11.93:49981/stream/channelid/644357774?profile=webtv-h264-aac-mpegts
-纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
-好莱坞电影,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
-MAX电影,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
-纬来体育,http://61.216.11.93:49981/stream/channelid/1043018929?profile=webtv-h264-aac-mpegts
-ELEVEN 体育,http://61.216.11.93:49981/stream/channelid/1943512210?profile=webtv-h264-aac-mpegts
-
 土拨鼠,#genre#
 请不要打赏,1
 广东珠江频道,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
