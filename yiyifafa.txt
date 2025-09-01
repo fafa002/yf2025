@@ -4629,11 +4629,6 @@ dy荒野建造,https://live.iill.top/douyu/10039437
 
 随机点播,#genre#
 你的瑜伽女孩,http://dns.yiandrive.com:13571/douyu/10205199
-瑜伽裤直播1,http://lxajh.top/tv/douyu.php?id=30901472
-瑜伽裤直播2,http://lxajh.top/tv/douyu.php?id=18152381
-瑜伽裤直播3,http://lxajh.top/tv/douyu.php?id=30867827
-瑜伽裤直播4,http://lxajh.top/tv/douyu.php?id=30901478
-瑜伽裤直播5,http://lxajh.top/tv/douyu.php?id=30901474
 瑜伽裤直播6,https://live.iill.top/youtube/@ZenGymnastx
 瑜伽裤直播7,https://live.iill.top/youtube/@The_Flex_Girl
 小姐姐短视频,http://lxajh.top/tv/douyu.php?id=11531165
