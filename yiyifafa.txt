@@ -337,6 +337,9 @@ Dance Monkey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8
 东极岛,https://v13.yuglf.com/202508/09/72E1NKiAGU22/video/index.m3u8
 东极岛-1,https://v11.gggread.com/wjv11/202508/09/6h1cDP7Yey83/video/index.m3u8
 
+阅兵回顾,#genre#
+70周年阅兵,https://cn-jsnt-ct-01-37.bilivideo.com/upgcxcode/29/18/30903831829/30903831829_u1-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&platform=html5&trid=00008cdf03c73df5419cb797053e1cdc471h&deadline=1756798166&oi=3073695289&gen=playurlv3&os=bcache&og=cos&mid=0&nbs=1&upsig=eca48c33a53177900776a76eaaff08ac&uparams=e,uipk,platform,trid,deadline,oi,gen,os,og,mid,nbs&cdnid=14714&bvc=vod&nettype=0&bw=397882&lrs=31&f=h_0_0&agrr=0&buvid=&build=0&dl=0&orderid=0,1
+
 加入易發群,#genre#
 盗源狗si全家 全家下地狱
 QQ群,1
