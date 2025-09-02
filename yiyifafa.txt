@@ -341,7 +341,8 @@ Dance Monkey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8
 央视新闻,http://live.iill.top/douyin/cctvnews
 央视网,http://live.iill.top/douyin/cctv.com
 小央视频,http://live.iill.top/douyin/cctv_video
-央视财经,http://live.iill.top/douyin/nuanxinnengl
+CCTV2,http://live.iill.top/douyin/nuanxinnengl
+CCTV6,http://live.iill.top/douyin/cctv6media.
 
 加入易發群,#genre#
 盗源狗si全家 全家下地狱
