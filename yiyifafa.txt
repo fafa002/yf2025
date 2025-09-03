@@ -337,13 +337,15 @@ Dance Monkey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8
 东极岛,https://v13.yuglf.com/202508/09/72E1NKiAGU22/video/index.m3u8
 东极岛-1,https://v11.gggread.com/wjv11/202508/09/6h1cDP7Yey83/video/index.m3u8
 
-阅兵直播,#genre#
+80周大阅兵,#genre#
 央视新闻,http://live.iill.top/douyin/cctvnews
 央视网,http://live.iill.top/douyin/cctv.com
 小央视频,http://live.iill.top/douyin/cctv_video
 CCTV2,http://live.iill.top/douyin/nuanxinnengl
 CCTV6,http://live.iill.top/douyin/cctv6media.
 80周年阅兵回放,https://vd3.bdstatic.com/mda-ri24zxxrst8trduf/576p/h264/1756872226406839383/mda-ri24zxxrst8trduf.mp4?v_from_s=bdapp-resbox-hbf
+80周年阅兵回放1,https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
+80周年阅兵回放2,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
 
 加入易發群,#genre#
 盗源狗si全家 全家下地狱
