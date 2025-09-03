@@ -343,6 +343,7 @@ Dance Monkey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8
 小央视频,http://live.iill.top/douyin/cctv_video
 CCTV2,http://live.iill.top/douyin/nuanxinnengl
 CCTV6,http://live.iill.top/douyin/cctv6media.
+80周年阅兵回放,https://vd3.bdstatic.com/mda-ri24zxxrst8trduf/576p/h264/1756872226406839383/mda-ri24zxxrst8trduf.mp4?v_from_s=bdapp-resbox-hbf
 
 加入易發群,#genre#
 盗源狗si全家 全家下地狱
