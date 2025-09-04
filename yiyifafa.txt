@@ -344,8 +344,12 @@ Dance Monkey,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f310000bt8
 CCTV2,http://live.iill.top/douyin/nuanxinnengl
 CCTV6,http://live.iill.top/douyin/cctv6media.
 80周年阅兵回放,https://vd3.bdstatic.com/mda-ri24zxxrst8trduf/576p/h264/1756872226406839383/mda-ri24zxxrst8trduf.mp4?v_from_s=bdapp-resbox-hbf
-80周年阅兵回放1,https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
-80周年阅兵回放2,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
+80周年阅兵回放1,https://vd3.bdstatic.com/mda-ri283wyxe135szm5/576p/h264/1756880513304056354/mda-ri283wyxe135szm5.mp4
+80周年阅兵回放2,https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
+80周年阅兵回放3,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
+80周年阅兵回放4,https://ltshsy.gtimg.com/B_3k--xdVBUHYl1q0K2jODe5kA7tLHvV6cMOPIuM8LkzmhUv6fna2VBWsqgie8FT5fPU6zL5Z_CJiBmKXuDTFUVmhQQgLec7SCWEYlODP4o96pZqW-YJv_5ZDP_zPCUyLSVZ7lgxoWtALAoyzQclZwEQ/svp_50001/dmbeK32WNIdWon9AvpnSFgQ1-B1du7mg7gudRr9UZ9-rJ2Upmhyg_GxLMH1AWmbJstxSZu9DsS0i9WEWdxJd5epz6Wi9qz15BgDzgi55geNf4eGocFtJS0VKIvv_KP-l3jQzLpKSQ76SH70Gb_fe3Z6k0mCxAI2QR3XwkXVZP1lNTH4ROzDVU258PrbsC-35kAqzFQEWfMVbe9ie5vxPXTNZZevu-kQWT1ytMNC3juc/szg_5851_50001_0b53s4cbwaae2eaocd5t7zuflf6ddolqig2a.f304110.ts.m3u8?ver=4
+80周年阅兵回放5,https://m.douyin.com/aweme/v1/playwm/?video_id=v0200fg10000d2rtbv7og65occl7sv6g&ratio=720p&line=0
+80周年阅兵回放6,https://videon.img.ria.ru/Out/Flv/direct/2025_09_03_recording_xp0nzjnu.xwp.mp4
 
 加入易發群,#genre#
 盗源狗si全家 全家下地狱
