@@ -461,6 +461,9 @@ cNN新闻,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
 极速港台3,#genre#
 TVB翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+凤凰中文,https://migu.188766.xyz/?migutoken=42da77bdf8be3231d1f9a85678965047&id=fhzw&pp=1
+凤凰资讯,https://migu.188766.xyz/?migutoken=148632f006c6df23064069eeeef15209&id=fhzx&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=cbf8f4f16f7ccdc07d7ccd8f9b012692&id=fhhk&pp=1
 天映经典,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialclassic/master.m3u8
 天映频道,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialmovies/master.m3u8
 TLC,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tlc/master.m3u8
@@ -470,6 +473,22 @@ BBC Earth,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbcearth/master.m
 BBC Lifestyle,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbclifestyle/master.m3u8
 tvN Movies,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tvnmovies/master.m3u8
 
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台2,http://r.jdshipin.com/qrfbg
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,http://r.jdshipin.com/NfC0f
+澳视澳门,http://r.jdshipin.com/n2YZI
+ 
 电视侠,#genre#
 翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
 tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
@@ -551,9 +570,6 @@ TVBS,http://bxtv.3a.ink/api.php?id=tvbs
 鳳凰資訊,http://j.s.bkpcp.top/js/fhzx
 鳳凰香港,http://j.s.bkpcp.top/js/fhxg
 PopC,http://tl.061833.xyz/tl/popc
-PopC,http://fr-us7.jdiptv.cc/live/popc.m3u8
-美亚电影,http://fr-us7.jdiptv.cc/live/xgmydygy.m3u8
-天映经典,http://fr-us7.jdiptv.cc/live/xgtyjdgy.m3u8
 
 凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
@@ -730,6 +746,15 @@ SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 ZooMoo,http://tl.061833.xyz/tl/zoomoo
 
 极速46688,#genre#
+TVB翡翠,http://iptv.4666888.xyz/iptv.php?id=20066
+TVB翡翠(新加坡),http://iptv.4666888.xyz/iptv.php?id=20067
+TVB翡翠(马来),http://iptv.4666888.xyz/iptv.php?id=20068
+凤凰中文SD,http://iptv.4666888.xyz/iptv.php?id=20060
+凤凰资讯SD,http://iptv.4666888.xyz/iptv.php?id=20061
+凤凰香港SD,http://iptv.4666888.xyz/iptv.php?id=20062
+凤凰中文HD,http://iptv.4666888.xyz/iptv.php?id=20063
+凤凰资讯HD,http://iptv.4666888.xyz/iptv.php?id=20064
+凤凰香港HD,http://iptv.4666888.xyz/iptv.php?id=20065
 TVB无线新闻,http://iptv.4666888.xyz/iptv.php?id=20069
 TVB无线新闻(北美),http://iptv.4666888.xyz/iptv.php?id=20070
 TVB明珠,http://iptv.4666888.xyz/iptv.php?id=20071
@@ -3736,6 +3761,54 @@ CCTV-17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+
+全网通ITV2,#genre#
+CCTV1,http://iptv.4666888.xyz/iptv.php?id=20000
+CCTV2,http://iptv.4666888.xyz/iptv.php?id=20001
+CCTV3,http://iptv.4666888.xyz/iptv.php?id=20002
+CCTV4,http://iptv.4666888.xyz/iptv.php?id=20003
+CCTV5,http://iptv.4666888.xyz/iptv.php?id=20004
+CCTV5+,http://iptv.4666888.xyz/iptv.php?id=20005
+CCTV6,http://iptv.4666888.xyz/iptv.php?id=20006
+CCTV7,http://iptv.4666888.xyz/iptv.php?id=20007
+CCTV8,http://iptv.4666888.xyz/iptv.php?id=20008
+CCTV9,http://iptv.4666888.xyz/iptv.php?id=20009
+CCTV10,http://iptv.4666888.xyz/iptv.php?id=20010
+CCTV11,http://iptv.4666888.xyz/iptv.php?id=20011
+CCTV12,http://iptv.4666888.xyz/iptv.php?id=20012
+CCTV13,http://iptv.4666888.xyz/iptv.php?id=20013
+CCTV14,http://iptv.4666888.xyz/iptv.php?id=20014
+CCTV15,http://iptv.4666888.xyz/iptv.php?id=20015
+CCTV16,http://iptv.4666888.xyz/iptv.php?id=20016
+CCTV17,http://iptv.4666888.xyz/iptv.php?id=20017
+重庆卫视,http://iptv.4666888.xyz/iptv.php?id=20028
+浙江卫视,http://iptv.4666888.xyz/iptv.php?id=20033
+江苏卫视,http://iptv.4666888.xyz/iptv.php?id=20024
+东方卫视,http://iptv.4666888.xyz/iptv.php?id=20025
+湖南卫视,http://iptv.4666888.xyz/iptv.php?id=20031
+东南卫视,http://iptv.4666888.xyz/iptv.php?id=20026
+安徽卫视,http://iptv.4666888.xyz/iptv.php?id=20039
+广东卫视,http://iptv.4666888.xyz/iptv.php?id=20020
+贵州卫视,http://iptv.4666888.xyz/iptv.php?id=20044
+大湾区卫视,http://iptv.4666888.xyz/iptv.php?id=20052
+山东卫视,http://iptv.4666888.xyz/iptv.php?id=20030
+陕西卫视,http://iptv.4666888.xyz/iptv.php?id=20045
+天津卫视,http://iptv.4666888.xyz/iptv.php?id=20037
+河南卫视,http://iptv.4666888.xyz/iptv.php?id=20043
+河北卫视,http://iptv.4666888.xyz/iptv.php?id=20042
+青海卫视,http://iptv.4666888.xyz/iptv.php?id=20046
+广西卫视,http://iptv.4666888.xyz/iptv.php?id=20036
+湖北卫视,http://iptv.4666888.xyz/iptv.php?id=20032
+四川卫视,http://iptv.4666888.xyz/iptv.php?id=20029
+江西卫视,http://iptv.4666888.xyz/iptv.php?id=20041
+深圳卫视,http://iptv.4666888.xyz/iptv.php?id=20022
+海南卫视,http://iptv.4666888.xyz/iptv.php?id=20035
+吉林卫视,http://iptv.4666888.xyz/iptv.php?id=20040
+兵团卫视,http://iptv.4666888.xyz/iptv.php?id=20051
+海峡卫视,http://iptv.4666888.xyz/iptv.php?id=20053
+三沙卫视,http://iptv.4666888.xyz/iptv.php?id=20055
+农业卫视,http://iptv.4666888.xyz/iptv.php?id=20058
+厦门卫视,http://iptv.4666888.xyz/iptv.php?id=20059
 
 易视腾V6,#genre#
 CCTV1,http://[2409:8087:5e08:25::4]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$8M%20FHD
