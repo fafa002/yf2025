@@ -1230,12 +1230,12 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 广东本地2,#genre#
 盗源狗si全家 全家下地狱
-大湾区卫视,http://119.123.78.216:8086/hls/29/index.m3u8
-广东民生,http://119.123.78.216:8086/hls/39/index.m3u8
-广东珠江,http://119.123.78.216:8086/hls/47/index.m3u8
-广东影视,http://119.123.78.216:8086/hls/46/index.m3u8
-广东体育,http://119.123.78.216:8086/hls/42/index.m3u8
-广东少儿,http://119.123.78.216:8086/hls/40/index.m3u8
+大湾区卫视,http://119.123.178.142:8086/hls/29/index.m3u8
+广东民生,http://119.123.178.142:8086/hls/39/index.m3u8
+广东珠江,http://119.123.178.142:8086/hls/47/index.m3u8
+广东影视,http://119.123.178.142:8086/hls/46/index.m3u8
+广东体育,http://119.123.178.142:8086/hls/42/index.m3u8
+广东少儿,http://119.123.178.142:8086/hls/40/index.m3u8
 
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/ce834303bb1a4459a3ea8c4c01d3ae84.m3u8
 深圳都市,http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
@@ -1281,20 +1281,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 -汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 -汕尾生活,https://iswtv.swrtv.com/live/whshpd.m3u8
-
-广东荔枝网,#genre#
-深圳卫视,http://www.kaniptv.cn/zy/cd.php?id=1206
-广东少儿,http://www.kaniptv.cn/zy/cd.php?id=1200
-广东影视,http://www.kaniptv.cn/zy/cd.php?id=1199
-广东4K超高清,http://www.kaniptv.cn/zy/cd.php?id=1198
-大湾区卫视,http://www.kaniptv.cn/zy/cd.php?id=1197
-大湾区卫视1,http://www.kaniptv.cn/zy/cd.php?id=1191
-嘉佳卡通,http://www.kaniptv.cn/zy/cd.php?id=1187
-广东新闻,http://www.kaniptv.cn/zy/cd.php?id=1186
-广东民生,http://www.kaniptv.cn/zy/cd.php?id=1185
-广东体育,http://www.kaniptv.cn/zy/cd.php?id=1184
-广东珠江,http://www.kaniptv.cn/zy/cd.php?id=1183
-广东卫视,http://www.kaniptv.cn/zy/cd.php?id=1182
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
