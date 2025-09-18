@@ -461,7 +461,8 @@ cNN新闻,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
 极速港台3,#genre#
 TVB翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-中天新聞台,rtmp://hc.siqianginfo.com/live/live/ztxw01
+中天新聞台,rtmp://hc.siqianginfo.com/live/live/yifatv-ztxw01
+中天新聞台2,rtmp://hc.siqianginfo.com/live/live/yifatv-ztxw02
 天映经典,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialclassic/master.m3u8
 天映频道,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialmovies/master.m3u8
 TLC,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tlc/master.m3u8
