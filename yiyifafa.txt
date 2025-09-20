@@ -1225,6 +1225,20 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东民生2,http://m.061899.xyz/mg/gdms
 广东体育2,http://m.061899.xyz/mg/gdty
 
+广东荔枝网2,#genre#
+深圳卫视,http://www.kaniptv.cn/zy/cd.php?id=1206
+广东少儿,http://www.kaniptv.cn/zy/cd.php?id=1200
+广东影视,http://www.kaniptv.cn/zy/cd.php?id=1199
+广东4K超高清,http://www.kaniptv.cn/zy/cd.php?id=1198
+大湾区卫视,http://www.kaniptv.cn/zy/cd.php?id=1197
+大湾区卫视1,http://www.kaniptv.cn/zy/cd.php?id=1191
+嘉佳卡通,http://www.kaniptv.cn/zy/cd.php?id=1187
+广东新闻,http://www.kaniptv.cn/zy/cd.php?id=1186
+广东民生,http://www.kaniptv.cn/zy/cd.php?id=1185
+广东体育,http://www.kaniptv.cn/zy/cd.php?id=1184
+广东珠江,http://www.kaniptv.cn/zy/cd.php?id=1183
+广东卫视,http://www.kaniptv.cn/zy/cd.php?id=1182
+
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000488.m3u8
