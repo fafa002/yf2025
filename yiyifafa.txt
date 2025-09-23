@@ -468,14 +468,6 @@ TVB翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 中天新聞台,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 中天新聞台2,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
-天映经典,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialclassic/master.m3u8
-天映频道,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialmovies/master.m3u8
-TLC,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tlc/master.m3u8
-AXN,https://pull-hls-live.jr365m.cc/stream/astromalaysia/axn/master.m3u8
-DiscoveryAsia,https://pull-hls-live.jr365m.cc/stream/astromalaysia/discoveryasia/master.m3u8
-BBC Earth,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbcearth/master.m3u8
-BBC Lifestyle,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbclifestyle/master.m3u8
-tvN Movies,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tvnmovies/master.m3u8
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
@@ -492,6 +484,15 @@ ViuTV,http://r.jdshipin.com/vSJvl
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
+
+天映经典,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialclassic/master.m3u8
+天映频道,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialmovies/master.m3u8
+TLC,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tlc/master.m3u8
+AXN,https://pull-hls-live.jr365m.cc/stream/astromalaysia/axn/master.m3u8
+DiscoveryAsia,https://pull-hls-live.jr365m.cc/stream/astromalaysia/discoveryasia/master.m3u8
+BBC Earth,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbcearth/master.m3u8
+BBC Lifestyle,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbclifestyle/master.m3u8
+tvN Movies,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tvnmovies/master.m3u8
  
 电视侠,#genre#
 翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
