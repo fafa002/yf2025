@@ -771,235 +771,160 @@ ZooMoo,http://tl.061833.xyz/tl/zoomoo
 中视经典,http://123.51.136.80:8321/0.ts
 中视菁采,http://123.51.136.80:8322/0.ts
 
-今日影视,#genre#
-TVB-EYT,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ID7Mlq&tk=VQVwDVIhyrKE
-TVB-Music,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tu7hkt&tk=VQVwDVIhyrKE
-TVB-Sports,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=X8tn0Q&tk=VQVwDVIhyrKE
-TVB-劇場,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9jhPXw&tk=VQVwDVIhyrKE
-TVB-煲劇,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T5z1CF&tk=VQVwDVIhyrKE
-TVB-獎門人,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MIfIMu&tk=VQVwDVIhyrKE
-TVB-話當年,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FCUBz0&tk=VQVwDVIhyrKE
-TVB-識嘆,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LWsVpn&tk=VQVwDVIhyrKE
-TVB-識食,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LEpCZr&tk=VQVwDVIhyrKE
-TVB-金曲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WARMkI&tk=VQVwDVIhyrKE
-澳视澳门,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4faa8A&tk=VQVwDVIhyrKE
-澳门Macau,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=15Rren&tk=VQVwDVIhyrKE
-澳门资讯,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zFhzev&tk=VQVwDVIhyrKE
-澳门莲花,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kcgEQa&tk=VQVwDVIhyrKE
-澳门体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Hj312d&tk=VQVwDVIhyrKE
-澳门综艺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RJRN3F&tk=VQVwDVIhyrKE
-凤凰中文,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i6m4bx&tk=VQVwDVIhyrKE
-凤凰资讯,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5oAWTy&tk=VQVwDVIhyrKE
-凤凰香港,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qxmnrs&tk=VQVwDVIhyrKE
-星空卫视(国际),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Wr7U2m&tk=VQVwDVIhyrKE
-星空卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=26tQM3&tk=VQVwDVIhyrKE
-高清HD剧场,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=24l5wd&tk=VQVwDVIhyrKE
-TVB翡翠,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4GHp8s&tk=VQVwDVIhyrKE
-华丽翡翠,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PrpCDT&tk=VQVwDVIhyrKE
-TVB翡翠(马来),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UYVKyA&tk=VQVwDVIhyrKE
-TVB无线新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ceNfqo&tk=VQVwDVIhyrKE
-TVB明珠,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=v8kECF&tk=VQVwDVIhyrKE
-TVB_Plus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j5f8qH&tk=VQVwDVIhyrKE
-TVB娱乐新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QjqCcR&tk=VQVwDVIhyrKE
-TVB越南,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JzLPzR&tk=VQVwDVIhyrKE
-TVB生活台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h0jkY6&tk=VQVwDVIhyrKE
-ViuTV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kfrrVt&tk=VQVwDVIhyrKE
-ViuTV6,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ynS1oG&tk=VQVwDVIhyrKE
-HOY76,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Zfno6K&tk=VQVwDVIhyrKE
-HOY77,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0y7VBw&tk=VQVwDVIhyrKE
-HOY78,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q7VSxZ&tk=VQVwDVIhyrKE
-RTHK31,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9A6RMK&tk=VQVwDVIhyrKE
-RTHK32,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=scTYBu&tk=VQVwDVIhyrKE
-Now新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZLoMsc&tk=VQVwDVIhyrKE
-Now财经,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Dg9kW8&tk=VQVwDVIhyrKE
-Now星影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WlD5nc&tk=VQVwDVIhyrKE
-Now爆谷台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yLuuNN&tk=VQVwDVIhyrKE
-Now紫金国际,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eIapJ0&tk=VQVwDVIhyrKE
-Now华剧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=l6UMJG&tk=VQVwDVIhyrKE
-Now剧集台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sxfSKx&tk=VQVwDVIhyrKE
-Now英超1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A7JJun&tk=VQVwDVIhyrKE
-Now668赛马,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aJxvRP&tk=VQVwDVIhyrKE
-TVB1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jQb9vJ&tk=VQVwDVIhyrKE
-TVBJ1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kovQT3&tk=VQVwDVIhyrKE
-TVBE,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E5gosS&tk=VQVwDVIhyrKE
-TVB翡翠剧集,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4fNmHL&tk=VQVwDVIhyrKE
-TVB黄金华剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wbyU3o&tk=VQVwDVIhyrKE
-TVB星河(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2QfOqN&tk=VQVwDVIhyrKE
-TVB星河(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XMs9e0&tk=VQVwDVIhyrKE
-TVB功夫(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T5bLn2&tk=VQVwDVIhyrKE
-TVB功夫(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I52Es0&tk=VQVwDVIhyrKE
-TVB千禧经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Yz4G0S&tk=VQVwDVIhyrKE
-MYTV_SUPER黄金翡翠,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gB4EK8&tk=VQVwDVIhyrKE
-MYTV_SUPER经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T7Vufc&tk=VQVwDVIhyrKE
-MYTV_SUPER黄金华剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VSDUka&tk=VQVwDVIhyrKE
-MYTV_SUPER亚洲剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ouMfFO&tk=VQVwDVIhyrKE
-MYTV_SUPER粤语片,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mfbZA6&tk=VQVwDVIhyrKE
-MYTV_SUPER戏曲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kUkfrD&tk=VQVwDVIhyrKE
-天映经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VyXYLc&tk=VQVwDVIhyrKE
-天映经典(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=al0qnd&tk=VQVwDVIhyrKE
-天映频道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UZu3Cn&tk=VQVwDVIhyrKE
-天映频道(印),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EfUGBp&tk=VQVwDVIhyrKE
-中国电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9T8FFm&tk=VQVwDVIhyrKE
-PopC电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e52aIi&tk=VQVwDVIhyrKE
-创世电视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zAcwW8&tk=VQVwDVIhyrKE
-港版美亚电影(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ERpGm0&tk=VQVwDVIhyrKE
-港版美亚电影(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UoRCj8&tk=VQVwDVIhyrKE
-台版美亚电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TG0hOl&tk=VQVwDVIhyrKE
-龙祥时代,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0DxVcQ&tk=VQVwDVIhyrKE
-新加坡MU,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PDGUj2&tk=VQVwDVIhyrKE
-新加坡M5,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vO9XJb&tk=VQVwDVIhyrKE
-新加坡M8,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8PsQ8K&tk=VQVwDVIhyrKE
-HUB娱家,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8sn80v&tk=VQVwDVIhyrKE
-HUB都会,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QZCmWe&tk=VQVwDVIhyrKE
-CM+,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AE1Kfa&tk=VQVwDVIhyrKE
-剧乐酷,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uHXGKE&tk=VQVwDVIhyrKE
-E乐台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rWK9l9&tk=VQVwDVIhyrKE
-佳乐台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N2zmFn&tk=VQVwDVIhyrKE
-新时代1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EWrgCS&tk=VQVwDVIhyrKE
-新时代2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wjA15c&tk=VQVwDVIhyrKE
-中天新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qeVOy0&tk=VQVwDVIhyrKE
-中天CTI+,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=g6hiVK&tk=VQVwDVIhyrKE
-TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tJGulW&tk=VQVwDVIhyrKE
-台视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cFe0UB&tk=VQVwDVIhyrKE
-公视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2ggga2&tk=VQVwDVIhyrKE
-东森新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iSppKc&tk=VQVwDVIhyrKE
-三立iNews,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OlvBuj&tk=VQVwDVIhyrKE
-TVBS新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qZXct5&tk=VQVwDVIhyrKE
-华视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2VOqa8&tk=VQVwDVIhyrKE
-寰宇新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vrm5Dc&tk=VQVwDVIhyrKE
-寰宇新闻台湾台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=u5JZ9s&tk=VQVwDVIhyrKE
-中视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Kg3J67&tk=VQVwDVIhyrKE
-民视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bI8hFO&tk=VQVwDVIhyrKE
-镜新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LhRzIh&tk=VQVwDVIhyrKE
-年代新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=H9qr8O&tk=VQVwDVIhyrKE
-非凡新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oZNWix&tk=VQVwDVIhyrKE
-LIVE三立,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AOUo3g&tk=VQVwDVIhyrKE
-东森LIVE,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4IX5WR&tk=VQVwDVIhyrKE
-戏说台湾,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nPfbzI&tk=VQVwDVIhyrKE
-综艺玩最大,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wpKqDT&tk=VQVwDVIhyrKE
-TVBS台剧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EDFBaS&tk=VQVwDVIhyrKE
-TVBS综艺台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9XiCsC&tk=VQVwDVIhyrKE
-民视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PAxdov&tk=VQVwDVIhyrKE
-中视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xB1mfe&tk=VQVwDVIhyrKE
-华视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5EDGd1&tk=VQVwDVIhyrKE
-公视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3wprJq&tk=VQVwDVIhyrKE
-台视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xAzDv0&tk=VQVwDVIhyrKE
-中旺电视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hahYdB&tk=VQVwDVIhyrKE
-TVBS欢乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=C9anjz&tk=VQVwDVIhyrKE
-TVBS亚洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=446vYT&tk=VQVwDVIhyrKE
-中天娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VXL8FW&tk=VQVwDVIhyrKE
-中天综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=y9680F&tk=VQVwDVIhyrKE
-中天亚洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MrXFxa&tk=VQVwDVIhyrKE
-八大第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=O0c3kg&tk=VQVwDVIhyrKE
-八大综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oqJmbF&tk=VQVwDVIhyrKE
-八大戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hpDlUy&tk=VQVwDVIhyrKE
-八大娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IZTsN9&tk=VQVwDVIhyrKE
-八大精采,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kdh9Zf&tk=VQVwDVIhyrKE
-三立台湾,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mVYxWO&tk=VQVwDVIhyrKE
-三立综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ULpnDa&tk=VQVwDVIhyrKE
-东森综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7KPnJq&tk=VQVwDVIhyrKE
-东森戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=15qOhR&tk=VQVwDVIhyrKE
-东森超视34.5,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Cbmyjd&tk=VQVwDVIhyrKE
-东森美洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OhfKIm&tk=VQVwDVIhyrKE
-东森电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WDMh8W&tk=VQVwDVIhyrKE
-东森洋片,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LOXgmj&tk=VQVwDVIhyrKE
-东森Yoyo,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c5NqYr&tk=VQVwDVIhyrKE
-民视台湾,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Z06OOp&tk=VQVwDVIhyrKE
-华艺中文,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pxKCA0&tk=VQVwDVIhyrKE
-纬来日本,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=v7lKBF&tk=VQVwDVIhyrKE
-纬来电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VfpoJU&tk=VQVwDVIhyrKE
-纬来综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FjDPwv&tk=VQVwDVIhyrKE
-纬来精采,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vGIpAm&tk=VQVwDVIhyrKE
-爱尔达综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UtNcXk&tk=VQVwDVIhyrKE
-爱奇艺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JKxYK8&tk=VQVwDVIhyrKE
-美亚电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ux565K&tk=VQVwDVIhyrKE
-龙华电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ivAeFH&tk=VQVwDVIhyrKE
-龙华戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BMOcTK&tk=VQVwDVIhyrKE
-龙华洋片,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lBMgrb&tk=VQVwDVIhyrKE
-龙华偶像,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2ZTAJJ&tk=VQVwDVIhyrKE
-龙华日韩,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=86lZHC&tk=VQVwDVIhyrKE
-龙华经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HWHiIk&tk=VQVwDVIhyrKE
-龙华卡通,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ms8vYB&tk=VQVwDVIhyrKE
-龙祥时代,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DyhVDB&tk=VQVwDVIhyrKE
-好莱乌电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yzqkRm&tk=VQVwDVIhyrKE
-采昌影剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8AtMVF&tk=VQVwDVIhyrKE
-欢喜台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6jJfaJ&tk=VQVwDVIhyrKE
-CN卡通,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I0hEjN&tk=VQVwDVIhyrKE
-經典卡通,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=97kCks&tk=VQVwDVIhyrKE
-Animaxa动漫,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=byux7t&tk=VQVwDVIhyrKE
-DAZN1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6wdr7z&tk=VQVwDVIhyrKE
-DAZN2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=POwqw8&tk=VQVwDVIhyrKE
-HOP_Sports,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FBnyK7&tk=VQVwDVIhyrKE
-爱尔达体育1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=raw1Iw&tk=VQVwDVIhyrKE
-爱尔达体育2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aXJXH2&tk=VQVwDVIhyrKE
-爱尔达体育3,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=shRIoP&tk=VQVwDVIhyrKE
-爱尔达体育4,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8H6aNB&tk=VQVwDVIhyrKE
-博斯运动1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qpjjNi&tk=VQVwDVIhyrKE
-博斯运动2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3ctbSU&tk=VQVwDVIhyrKE
-博斯高球2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WlL8Dk&tk=VQVwDVIhyrKE
-博斯高球1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EGckGJ&tk=VQVwDVIhyrKE
-博斯网球,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SKstx8&tk=VQVwDVIhyrKE
-博斯无限,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ioeDMV&tk=VQVwDVIhyrKE
-WWE摔胶,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RZnVYL&tk=VQVwDVIhyrKE
-台湾霹靂,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=C1DKsE&tk=VQVwDVIhyrKE
-Global Trekker,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=86fEvo&tk=VQVwDVIhyrKE
-爱尔达生活旅游,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mfXMsq&tk=VQVwDVIhyrKE
-幸福空间居家,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0FQHI3&tk=VQVwDVIhyrKE
-ROCK_Entertainment,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HTsiJy&tk=VQVwDVIhyrKE
-ROCK_Action,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=btHGts&tk=VQVwDVIhyrKE
-MTV_Livea,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YLp0IL&tk=VQVwDVIhyrKE
-动物星球,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=E9yH0V&tk=VQVwDVIhyrKE
-滾動力Rollor,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DiJaa2&tk=VQVwDVIhyrKE
-BBC_Earth,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Xc72dL&tk=VQVwDVIhyrKE
-BBC_Lifestyle,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=y5Soe7&tk=VQVwDVIhyrKE
-LOVE_NATURE,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AILi0Z&tk=VQVwDVIhyrKE
-MagellanTV頻道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=49Y7bK&tk=VQVwDVIhyrKE
-HITS,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZFYDMT&tk=VQVwDVIhyrKE
-HISTORY历史,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VpHZjY&tk=VQVwDVIhyrKE
-中視經典戲劇,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lPfg7X&tk=VQVwDVIhyrKE
-爱尔达体育1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AO9Kxn&tk=VQVwDVIhyrKE
-爱尔达体育2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uoZvsZ&tk=VQVwDVIhyrKE
-爱尔达体育3,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3IIEQC&tk=VQVwDVIhyrKE
-爱尔达体育4,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9MO7vm&tk=VQVwDVIhyrKE
-博斯运动1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GHD6Hj&tk=VQVwDVIhyrKE
-博斯运动2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kh9qm7&tk=VQVwDVIhyrKE
-博斯高球2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=as6xZ5&tk=VQVwDVIhyrKE
-博斯高球1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oOXYb6&tk=VQVwDVIhyrKE
-博斯网球,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NXgnQV&tk=VQVwDVIhyrKE
-博斯无限,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WbH0Mk&tk=VQVwDVIhyrKE
-WWE摔胶,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Jtbngz&tk=VQVwDVIhyrKE
-天映经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=g94Z5g&tk=VQVwDVIhyrKE
-天映经典(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tu4FKv&tk=VQVwDVIhyrKE
-天映频道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2l3MW2&tk=VQVwDVIhyrKE
-天映频道(印),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rdRblb&tk=VQVwDVIhyrKE
-中国电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Tcweet&tk=VQVwDVIhyrKE
-PopC电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SPZckQ&tk=VQVwDVIhyrKE
-港版美亚电影(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MUf38e&tk=VQVwDVIhyrKE
-港版美亚电影(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VUPfCd&tk=VQVwDVIhyrKE
-台版美亚电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8e97ax&tk=VQVwDVIhyrKE
-龙祥时代,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SAmKrJ&tk=VQVwDVIhyrKE
-龙祥电影(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OySiZN&tk=VQVwDVIhyrKE
-龙祥时代(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VK4jaY&tk=VQVwDVIhyrKE
-东森电影(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oBr9QJ&tk=VQVwDVIhyrKE
-极限电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=f9H01T&tk=VQVwDVIhyrKE
-私人影院,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oljpQZ&tk=VQVwDVIhyrKE
-重温经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Aytrpy&tk=VQVwDVIhyrKE
-美亚电影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Sr1WYe&tk=VQVwDVIhyrKE
-HBO family,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RGWr51&tk=VQVwDVIhyrKE
-HBO HiTS,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PEFRQk&tk=VQVwDVIhyrKE
-HBO,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SDEkpu&tk=VQVwDVIhyrKE
-HBO lgnalure,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wwD8h2&tk=VQVwDVIhyrKE
-龙华电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZdsHDl&tk=VQVwDVIhyrKE
-龙华戏剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3NrxN8&tk=VQVwDVIhyrKE
-龙华洋片,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=unJh5Z&tk=VQVwDVIhyrKE
-龙华偶像,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wWo7UF&tk=VQVwDVIhyrKE
-龙华日韩,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EsMevl&tk=VQVwDVIhyrKE
-龙华经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SBnMmm&tk=VQVwDVIhyrKE
-龙华卡通,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bSUtGu&tk=VQVwDVIhyrKE
-龙祥时代,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZTQbuh&tk=VQVwDVIhyrKE
-好莱乌电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fHDYuk&tk=VQVwDVIhyrKE
-采昌影剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Md5cYz&tk=VQVwDVIhyrKE
-欢喜台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CrwZBB&tk=VQVwDVIhyrKE
+极速风云,#genre#
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=60
+凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=61
+凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=62
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=63
+TVB_PULS,http://iptv.4666888.xyz/iptv2A.php?id=64
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=66
+TVB无线新闻,http://iptv.4666888.xyz/iptv2A.php?id=65
+TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=67
+TVB星河(粤),http://iptv.4666888.xyz/iptv2A.php?id=68
+TVB星河(国),http://iptv.4666888.xyz/iptv2A.php?id=69
+TVB武侠粤,http://iptv.4666888.xyz/iptv2A.php?id=9
+TVB武侠国,http://iptv.4666888.xyz/iptv2A.php?id=10
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=70
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=71
+TVBE,http://iptv.4666888.xyz/iptv2A.php?id=75
+TVB翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=72
+TVB明珠剧集,http://iptv.4666888.xyz/iptv2A.php?id=73
+TVB新闻娱乐,http://iptv.4666888.xyz/iptv2A.php?id=74
+TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=76
+TVB黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=80
+Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=81
+Now财经,http://iptv.4666888.xyz/iptv2A.php?id=82
+Now财经,http://iptv.4666888.xyz/iptv2A.php?id=83
+Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
+VIU剧集,http://iptv.4666888.xyz/iptv2A.php?id=85
+Now爆谷,http://iptv.4666888.xyz/iptv2A.php?id=6
+Now星影,http://iptv.4666888.xyz/iptv2A.php?id=7
+HOY76,http://iptv.4666888.xyz/iptv2A.php?id=87
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=88
+HOY78,http://iptv.4666888.xyz/iptv2A.php?id=89
+VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=90
+viutv6,http://iptv.4666888.xyz/iptv2A.php?id=91
+RHK31,http://iptv.4666888.xyz/iptv2A.php?id=92
+RHK32,http://iptv.4666888.xyz/iptv2A.php?id=93
+mytvsuper亚洲剧,http://iptv.4666888.xyz/iptv2A.php?id=94
+mytvsuper黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=95
+mytvsuper黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=96
+mytvsuper经典,http://iptv.4666888.xyz/iptv2A.php?id=97
+mytvsuper华剧,http://iptv.4666888.xyz/iptv2A.php?id=98
+mytvsuper少儿,http://iptv.4666888.xyz/iptv2A.php?id=99
+mytvsuper戏典,http://iptv.4666888.xyz/iptv2A.php?id=100
+mytvsuper粤语片,http://iptv.4666888.xyz/iptv2A.php?id=101
+mytvsuper华剧,http://iptv.4666888.xyz/iptv2A.php?id=102
+天映经典,http://iptv.4666888.xyz/iptv2A.php?id=77
+天映经典,http://iptv.4666888.xyz/iptv2A.php?id=78
+PopC,http://iptv.4666888.xyz/iptv2A.php?id=5
+美亚电影国,http://iptv.4666888.xyz/iptv2A.php?id=11
+美亚电影粤,http://iptv.4666888.xyz/iptv2A.php?id=12
+中国电影,http://iptv.4666888.xyz/iptv2A.php?id=13
+有线18,http://iptv.4666888.xyz/iptv2A.php?id=29
+无线18,http://iptv.4666888.xyz/iptv2A.php?id=37
+88赛马,http://iptv.4666888.xyz/iptv2A.php?id=38
+astro aod,http://iptv.4666888.xyz/iptv2A.php?id=174
+astro欢喜,http://iptv.4666888.xyz/iptv2A.php?id=175
+HUB娱家,http://iptv.4666888.xyz/iptv2A.php?id=176
+HUB都会,http://iptv.4666888.xyz/iptv2A.php?id=177
+新时代1,http://iptv.4666888.xyz/iptv2A.php?id=178
+新时代2,http://iptv.4666888.xyz/iptv2A.php?id=179
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=145
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=141
+非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=122
+寰宇新闻,http://iptv.4666888.xyz/iptv2A.php?id=123
+华视新闻,http://iptv.4666888.xyz/iptv2A.php?id=117
+民视新闻,http://iptv.4666888.xyz/iptv2A.php?id=109
+公视,http://iptv.4666888.xyz/iptv2A.php?id=107
+民视,http://iptv.4666888.xyz/iptv2A.php?id=108
+台视,http://iptv.4666888.xyz/iptv2A.php?id=113
+华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=156
+八八第一,http://iptv.4666888.xyz/iptv2A.php?id=143
+八大精彩,http://iptv.4666888.xyz/iptv2A.php?id=144
+TVBS精彩,http://iptv.4666888.xyz/iptv2A.php?id=146
+TVBS欢乐,http://iptv.4666888.xyz/iptv2A.php?id=147
+中视经典,http://iptv.4666888.xyz/iptv2A.php?id=103
+民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=110
+民视旅游,http://iptv.4666888.xyz/iptv2A.php?id=111
+民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=112
+台视综合,http://iptv.4666888.xyz/iptv2A.php?id=114
+台视财经,http://iptv.4666888.xyz/iptv2A.php?id=115
+年代MUCH,http://iptv.4666888.xyz/iptv2A.php?id=121
+东森LIVE,http://iptv.4666888.xyz/iptv2A.php?id=140
+东森超视34.5,http://iptv.4666888.xyz/iptv2A.php?id=125
+东森美洲,http://iptv.4666888.xyz/iptv2A.php?id=126
+东森超视,http://iptv.4666888.xyz/iptv2A.php?id=128
+momo亲子,http://iptv.4666888.xyz/iptv2A.php?id=129
+国兴卫视,http://iptv.4666888.xyz/iptv2A.php?id=130
+公视戏剧,http://iptv.4666888.xyz/iptv2A.php?id=106
+壹电影,http://iptv.4666888.xyz/iptv2A.php?id=120
+龙华日韩,http://iptv.4666888.xyz/iptv2A.php?id=131
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=132
+龙华影剧,http://iptv.4666888.xyz/iptv2A.php?id=133
+龙华卡通,http://iptv.4666888.xyz/iptv2A.php?id=135
+龙华经典,http://iptv.4666888.xyz/iptv2A.php?id=136
+台湾戏剧,http://iptv.4666888.xyz/iptv2A.php?id=116
+台湾霹雳,http://iptv.4666888.xyz/iptv2A.php?id=118
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=15
+东森洋片,http://iptv.4666888.xyz/iptv2A.php?id=16
+三立都会,http://iptv.4666888.xyz/iptv2A.php?id=137
+三立综合,http://iptv.4666888.xyz/iptv2A.php?id=138
+三立国际,http://iptv.4666888.xyz/iptv2A.php?id=139
+靖天综合,http://iptv.4666888.xyz/iptv2A.php?id=148
+靖天日本,http://iptv.4666888.xyz/iptv2A.php?id=149
+靖天卡通,http://iptv.4666888.xyz/iptv2A.php?id=150
+靖洋卡通,http://iptv.4666888.xyz/iptv2A.php?id=151
+靖天国际,http://iptv.4666888.xyz/iptv2A.php?id=152
+靖天育乐,http://iptv.4666888.xyz/iptv2A.php?id=153
+靖天映画,http://iptv.4666888.xyz/iptv2A.php?id=154
+靖天欢乐,http://iptv.4666888.xyz/iptv2A.php?id=155
+采昌影剧,http://iptv.4666888.xyz/iptv2A.php?id=168
+HakkATV客家电视,http://iptv.4666888.xyz/iptv2A.php?id=169
+TITV原住民,http://iptv.4666888.xyz/iptv2A.php?id=170
+MTV live,http://iptv.4666888.xyz/iptv2A.php?id=171
+猪哥亮哥厅秀,http://iptv.4666888.xyz/iptv2A.php?id=173
+亚洲旅游,http://iptv.4666888.xyz/iptv2A.php?id=158
+EYETV旅游,http://iptv.4666888.xyz/iptv2A.php?id=160
+EYETV戏剧,http://iptv.4666888.xyz/iptv2A.php?id=161
+爱尔达日韩,http://iptv.4666888.xyz/iptv2A.php?id=162
+爱尔达影剧,http://iptv.4666888.xyz/iptv2A.php?id=163
+爱尔达综合,http://iptv.4666888.xyz/iptv2A.php?id=164
+爱尔达娱乐,http://iptv.4666888.xyz/iptv2A.php?id=165
+爱尔达生活旅游,http://iptv.4666888.xyz/iptv2A.php?id=166
+小公视,http://iptv.4666888.xyz/iptv2A.php?id=105
+MytvZooMoo,http://iptv.4666888.xyz/iptv2A.php?id=1
+Nickeledeon,http://iptv.4666888.xyz/iptv2A.php?id=2
+MytvNickJr,http://iptv.4666888.xyz/iptv2A.php?id=3
+ifunanime,http://iptv.4666888.xyz/iptv2A.php?id=4
+TVN,http://iptv.4666888.xyz/iptv2A.php?id=17
+KIX,http://iptv.4666888.xyz/iptv2A.php?id=18
+RockAction,http://iptv.4666888.xyz/iptv2A.php?id=19
+RockEntertainment,http://iptv.4666888.xyz/iptv2A.php?id=20
+AXN,http://iptv.4666888.xyz/iptv2A.php?id=21
+AnimaxC,http://iptv.4666888.xyz/iptv2A.php?id=22
+warnertv华纳,http://iptv.4666888.xyz/iptv2A.php?id=23
+cinemaxwj,http://iptv.4666888.xyz/iptv2A.php?id=24
+HBOHD,http://iptv.4666888.xyz/iptv2A.php?id=25
+amcmovies,http://iptv.4666888.xyz/iptv2A.php?id=27
+Thrill,http://iptv.4666888.xyz/iptv2A.php?id=183
+taiwan+,http://iptv.4666888.xyz/iptv2A.php?id=159
+智林体育,http://iptv.4666888.xyz/iptv2A.php?id=58
+Z频道,http://iptv.4666888.xyz/iptv2A.php?id=167
+GINXEsportsTV,http://iptv.4666888.xyz/iptv2A.php?id=49
+爱尔达体育1,http://iptv.4666888.xyz/iptv2A.php?id=45
+爱尔达体育2,http://iptv.4666888.xyz/iptv2A.php?id=46
+爱尔达体育3,http://iptv.4666888.xyz/iptv2A.php?id=47
+爱尔达体育4,http://iptv.4666888.xyz/iptv2A.php?id=48
+搏斯运动1,http://iptv.4666888.xyz/iptv2A.php?id=50
+搏斯运动2,http://iptv.4666888.xyz/iptv2A.php?id=51
+搏斯高球1,http://iptv.4666888.xyz/iptv2A.php?id=52
+搏斯高球2,http://iptv.4666888.xyz/iptv2A.php?id=53
+搏斯网球,http://iptv.4666888.xyz/iptv2A.php?id=54
+搏斯无限,http://iptv.4666888.xyz/iptv2A.php?id=55
+搏斯无限2,http://iptv.4666888.xyz/iptv2A.php?id=56
+搏斯魅力,http://iptv.4666888.xyz/iptv2A.php?id=57
+TRACESportStars,,http://iptv.4666888.xyz/iptv2A.php?id=59
 
 ⚽️🏀直播,#genre#
 盗源狗si全家 全家下地狱
