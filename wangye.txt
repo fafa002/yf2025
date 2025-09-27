@@ -64,7 +64,7 @@ CCTV-17,webview://https://yangshipin.cn/tv/home?pid=600001810
 CCTV-17,video://https://m.iptv807.com/?act=play&token=4b8fbfc73993ec4ce520b69523d20538&tid=ys&id=18
 CCTV-4 中文国际 (欧),webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4 中文国际 (美),webview://https://tv.cctv.com/live/cctvamerica/index.shtml
-CCTV-4K,video://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=2127841942201075403&channelId=1215&ban=1
+CCTV-4K,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=2127841942201075403&channelId=1215&ban=1
 CCTV-4K,video://https://m.iptv807.com/?act=play&token=677aa6192962f8a1efb9e2bd41f0079e&tid=ys&id=19
 CCTV-4K,video://https://m.iptv807.com/?act=play&token=6c02cb94776537bb87123f534e2b04e5&tid=ys&id=20
 CCTV-风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
