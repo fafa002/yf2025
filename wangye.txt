@@ -202,9 +202,8 @@ GRTN教育频道,webview://http://gdtv.cn/tvChannelDetail/104
 江门综合,webview://http://nettvpro.xyz/embed/jiangmen.html?id=jmzh
 
 广州综合,webview://http://p.ytelc.com/169l/gd/gztv.php?id=gzzh
-南方都市4K,webview://http://p.ytelc.com/169l/gd/gztv.php?id=gzys
+南方都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
 广州新闻,webview://http://p.ytelc.com/169l/gd/gztv.php?id=gzxw
-广州影视,webview://http://p.ytelc.com/169l/gd/gztv.php?id=gzjs
 广州法治,webview://http://p.ytelc.com/169l/gd/gztv.php?id=gzfz
 
 东莞综合,webview://http://p.ytelc.com/169l/gd/dongguan.php?rate=sd&id=4
