@@ -1103,4 +1103,4 @@ cctv4,video://https://v.douyin.com/r5GLmphtRSM/
 
 悟空快播,#genre#
 点播,video://https://4563.a7g6.com/douyin/douyin.html?v=1
-点播2,video://https://zh.mycamtv.tv/Yaya--728
+点播2,webview://https://zh.mycamtv.tv/Yaya--728
