@@ -4,14 +4,14 @@ CCTV-1,webview://https://tv.cctv.com/live/cctv1/
 CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV-1,webview://https://app.hfbtc.cn/shows/2/6.html
-CCTV-1,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvNmFmZmMyMzc2OWI5Yjk4YWUyYWVmNGEwMzA2MDNkOGIubTN1OD90eFNlY3JldD00NjRmMWI0OTJjMWYzY2JlZmRjMzc0NDJkMGNmYzM4ZiZ0eFRpbWU9NjhkOTQ4YTU=
+CCTV-1,video://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvNmFmZmMyMzc2OWI5Yjk4YWUyYWVmNGEwMzA2MDNkOGIubTN1OD90eFNlY3JldD00NjRmMWI0OTJjMWYzY2JlZmRjMzc0NDJkMGNmYzM4ZiZ0eFRpbWU9NjhkOTQ4YTU=
 CCTV-2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=12030532124776958103&channelId=1215&ban=1
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-2,video://https://v.douyin.com/FqEYZdJSVJw/
 CCTV-2,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv2L
 CCTV-2,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv2M
-CCTV-2,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvODRlMjE5ODgyODAwNzg3MGE0ZThmNTQ5OTk2NDg4OGMubTN1OD90eFNlY3JldD02ZjUxNmUwNGZiMjlkMDkwOTNiYWMwNDQ4OTZhMzVhMSZ0eFRpbWU9NjhkOTRhZmY=
+CCTV-2,video://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvODRlMjE5ODgyODAwNzg3MGE0ZThmNTQ5OTk2NDg4OGMubTN1OD90eFNlY3JldD02ZjUxNmUwNGZiMjlkMDkwOTNiYWMwNDQ4OTZhMzVhMSZ0eFRpbWU9NjhkOTRhZmY=
 CCTV-3,webview://https://tv.cctv.com/live/cctv3/
 CCTV-3,webview://https://m.yangshipin.cn/static/m/tv/detail/?pid=600001801
 CCTV-3,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvMDJiMDRlZTg5YTdiZWEyNWI3Nzc4YzE4MTI4NWZkMGIubTN1OD90eFNlY3JldD0yNGZiZjc2Y2Y5NmQ5YmI4NWQyN2YxMWQyZmQ5ZDg2NyZ0eFRpbWU9NjhkOTRiMjA=
