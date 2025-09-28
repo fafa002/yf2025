@@ -84,6 +84,7 @@ CCTV-怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
 重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
 深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
+深圳卫视4K,webview://http://nettvpro.xyz/embed/shenzhen.php?id=szws4k
 四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
 河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
 东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
