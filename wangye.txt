@@ -11,12 +11,15 @@ CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-2,video://https://v.douyin.com/FqEYZdJSVJw/
 CCTV-2,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv2L
 CCTV-2,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv2M
+CCTV-2,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvODRlMjE5ODgyODAwNzg3MGE0ZThmNTQ5OTk2NDg4OGMubTN1OD90eFNlY3JldD02ZjUxNmUwNGZiMjlkMDkwOTNiYWMwNDQ4OTZhMzVhMSZ0eFRpbWU9NjhkOTRhZmY=
 CCTV-3,webview://https://tv.cctv.com/live/cctv3/
 CCTV-3,webview://https://m.yangshipin.cn/static/m/tv/detail/?pid=600001801
+CCTV-3,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvMDJiMDRlZTg5YTdiZWEyNWI3Nzc4YzE4MTI4NWZkMGIubTN1OD90eFNlY3JldD0yNGZiZjc2Y2Y5NmQ5YmI4NWQyN2YxMWQyZmQ5ZDg2NyZ0eFRpbWU9NjhkOTRiMjA=
 CCTV-4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=10620168294224708952&channelId=1215&ban=1
 CCTV-4,webview://https://tv.cctv.com/live/cctv4/
 CCTV-4,webview://https://yangshipin.cn/tv/home?pid=600001814
 CCTV-4,video://https://v.douyin.com/S1OmaRp-jgE/
+CCTV-4,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvMzc0NzZkYjIzMjYzOWY1OTk1OGNjMDU0ODc3ZTY1NDgubTN1OD90eFNlY3JldD0zMDc3MWM0OTViZmE1MDllOWY5NzkxZDg2NjYwZTgzOCZ0eFRpbWU9NjhkOTRiM2M=
 CCTV-5,webview://https://tv.cctv.com/live/cctv5/
 CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
 CCTV-5,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5L
