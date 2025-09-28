@@ -213,6 +213,7 @@ GRTN教育频道,webview://http://gdtv.cn/tvChannelDetail/104
 潮州综合,webview://https://liveshowapp.kanchaozhou.com/web/fslivemobile/index.html?id=1101&domain=https://app.kanchaozhou.com
 潮州民生,webview://https://liveshowapp.kanchaozhou.com/web/fslivemobile/index.html?id=1102&domain=https://app.kanchaozhou.com
 汕头综合,webview://http://nettvpro.xyz/embed/shantou.php
+汕头综合,webview://http://p.ytelc.com/169l/gd/shantou.html
 深圳少儿,webview://https://www.sztv.com.cn/dianshi.shtml?id=7881
 深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
 深圳影视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
