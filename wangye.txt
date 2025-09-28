@@ -54,6 +54,7 @@ CCTV-11,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGw
 CCTV-12,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=13180385922471124325&channelId=1215&ban=1
 CCTV-12,webview://https://tv.cctv.com/live/cctv12/
 CCTV-12,webview://https://yangshipin.cn/tv/home?pid=600001807
+CCTV-12,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvZTNjMjc2MjllMjA3NDBjZTg5Y2I3NWU1ZmJmYzAyYzkubTN1OD90eFNlY3JldD02ZTBhYjYyNjE5NzliMjVhNjdiNzJiN2YzNTQ1MGNlOSZ0eFRpbWU9NjhkOTRlMTQ=
 CCTV-13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=16265686808730585228&channelId=1215&ban=1
 CCTV-13,webview://https://tv.cctv.com/live/cctv13/
 CCTV-13,webview://https://yangshipin.cn/tv/home?pid=600001811
