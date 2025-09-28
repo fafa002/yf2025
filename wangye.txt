@@ -43,11 +43,14 @@ CCTV-8,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwu
 CCTV-9,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=7252237247689203957&channelId=1215&ban=1
 CCTV-9,webview://https://tv.cctv.com/live/cctvjilu/
 CCTV-9,webview://https://yangshipin.cn/tv/home?pid=600004078
+CCTV-9,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvYjcyOWZlNzAxNDM0MGI0NjcwYTk0YTY5YmZmYzI1MTUubTN1OD90eFNlY3JldD0wMWJiMDM0NGFjMzEwOTc1OTZkODNjMDcyNzI2YjlkYiZ0eFRpbWU9NjhkOTRkMGQ=
 CCTV-10,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=14589146016461298119&channelId=1215&ban=1
 CCTV-10,webview://https://tv.cctv.com/live/cctv10/
 CCTV-10,webview://https://yangshipin.cn/tv/home?pid=600001805
+CCTV-10,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvYmJjYWU3ZTI4MzY2YjA0ZmI2MDIyMzE2ZmZmODgxNmEubTN1OD90eFNlY3JldD0xMDk0ZjY4MTgwNWUzNTc1NjMwMzI2MmRkZWJhNmM2MCZ0eFRpbWU9NjhkOTRkN2Q=
 CCTV-11,webview://https://tv.cctv.com/live/cctv11/
 CCTV-11,webview://https://yangshipin.cn/tv/home?pid=600001806
+CCTV-11,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvYzM4ZjBmZDE4ODM4MmI3YmMwMjU3MjQwMzNlNjk4ODIubTN1OD90eFNlY3JldD1mZmM3MWRmM2EzZTM0MmJhYTM2NDdhNmQ2NGZlYjExNSZ0eFRpbWU9NjhkOTRkOWM=
 CCTV-12,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=13180385922471124325&channelId=1215&ban=1
 CCTV-12,webview://https://tv.cctv.com/live/cctv12/
 CCTV-12,webview://https://yangshipin.cn/tv/home?pid=600001807
