@@ -1,10 +1,10 @@
 央视频,#genre#
 CCTV-1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1,webview://https://tv.cctv.com/live/cctv1/
-CCTV-1,video://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-1,webview://https://iptv345.com/?act=play&token=ce6ae5a41b997bf7d7872d2859ee40f3&tid=ys&id=1
 CCTV-1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=12030532124776958103&channelId=1215&ban=1
+CCTV-1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-2,video://https://m.iptv807.com/?act=play&token=4944e5e37206b838b14bd15149846c0e&tid=ys&id=2
@@ -48,9 +48,9 @@ CCTV-12,webview://https://yangshipin.cn/tv/home?pid=600001807
 CCTV-12,video://https://m.iptv807.com/?act=play&token=48948061d458c108235ae9ec41019b64&tid=ys&id=13
 CCTV-13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=16265686808730585228&channelId=1215&ban=1
 CCTV-13,webview://https://tv.cctv.com/live/cctv13/
-CCTV-13,video://https://v.lib.tju.edu.cn/tv-show-detail/42
 CCTV-13,webview://https://yangshipin.cn/tv/home?pid=600001811
 CCTV-13,video://https://m.iptv807.com/?act=play&token=f9a9461d6d7fcad94fd4cc442931b8e4&tid=ys&id=14
+CCTV-13,webview://https://v.lib.tju.edu.cn/tv-show-detail/42
 CCTV-14,webview://https://tv.cctv.com/live/cctvchild/
 CCTV-14,webview://https://yangshipin.cn/tv/home?pid=600001809
 CCTV-14,video://https://m.iptv807.com/?act=play&token=8b43f998e65a0e8ca2a5eaab88570fe5&tid=ys&id=15
