@@ -3,8 +3,8 @@ CCTV-1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNu
 CCTV-1,webview://https://tv.cctv.com/live/cctv1/
 CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-1,webview://https://iptv345.com/?act=play&token=ce6ae5a41b997bf7d7872d2859ee40f3&tid=ys&id=1
-CCTV-1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=12030532124776958103&channelId=1215&ban=1
 CCTV-1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
+CCTV-2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=12030532124776958103&channelId=1215&ban=1
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-2,video://https://m.iptv807.com/?act=play&token=4944e5e37206b838b14bd15149846c0e&tid=ys&id=2
