@@ -363,6 +363,7 @@ QQ群,1
 谨防被骗,4
 如果看不了,6
 换安卓9盒子,7
+四川卫视4K,https://hcmmslivef.scgczm.com/live/2345_4k265hdr1080.m3u8
 北京卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=btv4k
 广东卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
 深圳卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=sz4k
