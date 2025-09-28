@@ -16,6 +16,7 @@ CCTV-4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_
 CCTV-4,webview://https://tv.cctv.com/live/cctv4/
 CCTV-4,webview://https://yangshipin.cn/tv/home?pid=600001814
 CCTV-4,video://https://m.iptv807.com/?act=play&token=a7efb77ce866990b19f3bbedbb6a967e&tid=ys&id=4
+CCTV-4,video://https://v.douyin.com/S1OmaRp-jgE/
 CCTV-5,webview://https://tv.cctv.com/live/cctv5/
 CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
 CCTV-5,video://https://m.iptv807.com/?act=play&token=b57e500d4ec9129ea926cbf275f40dbc&tid=ys&id=5
@@ -1085,18 +1086,18 @@ UP主DJC,webview://https://www.douyu.com/9429545
 厦门海峡,webview://https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8
 
 抖音新闻,#genre#
-小央视频,webview://https://v.douyin.com/BYo9353pcyI/
-cctv4,webview://https://v.douyin.com/r5GLmphtRSM/
-央视网快看,webview://https://v.douyin.com/bOcxYCYYnaM/
-央视网,webview://https://v.douyin.com/l8WZE2gKcM4/
-直新闻,webview://https://v.douyin.com/88ShgYQFfYU/
-新闻正前方,webview://https://v.douyin.com/KTmoxcbm3gc/
-央视频,webview://https://v.douyin.com/1lP6PTJyxSQ/
-江西新闻广播,webview://https://v.douyin.com/_BEcyFoMQlE/
-每日经济新闻,webview://https://v.douyin.com/QjJ4j19IAvM/
-新华社,webview://https://v.douyin.com/Aofv9YuSH1A/
-极目新闻,webview://https://v.douyin.com/hZVQKPIjvWw/
-新闻连连看,webview://https://v.douyin.com/7sm8IRB7ZUw/
+小央视频,video://https://v.douyin.com/BYo9353pcyI/
+cctv4,video://https://v.douyin.com/r5GLmphtRSM/
+央视网快看,video://https://v.douyin.com/bOcxYCYYnaM/
+央视网,video://https://v.douyin.com/l8WZE2gKcM4/
+直新闻,video://https://v.douyin.com/88ShgYQFfYU/
+新闻正前方,video://https://v.douyin.com/KTmoxcbm3gc/
+央视频,video://https://v.douyin.com/1lP6PTJyxSQ/
+江西新闻广播,video://https://v.douyin.com/_BEcyFoMQlE/
+每日经济新闻,video://https://v.douyin.com/QjJ4j19IAvM/
+新华社,video://https://v.douyin.com/Aofv9YuSH1A/
+极目新闻,video://https://v.douyin.com/hZVQKPIjvWw/
+新闻连连看,video://https://v.douyin.com/7sm8IRB7ZUw/
 
 悟空快播,#genre#
 点播,video://https://4563.a7g6.com/douyin/douyin.html?v=1
