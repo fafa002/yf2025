@@ -5,7 +5,7 @@ CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-1,webview://https://iptv345.com/?act=play&token=ce6ae5a41b997bf7d7872d2859ee40f3&tid=ys&id=1
 CCTV-1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
 CCTV-1,webview://https://app.hfbtc.cn/shows/2/6.html
-CCTV-1,webview://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv1
+CCTV-1,webview://http://tv.zimtv.cn/tv/player/64player/?url=aHR0cHM6Ly90dnB1bGwuY2FyZXJ5dW4uY29tL2xpdmUvNmFmZmMyMzc2OWI5Yjk4YWUyYWVmNGEwMzA2MDNkOGIubTN1OD90eFNlY3JldD00NjRmMWI0OTJjMWYzY2JlZmRjMzc0NDJkMGNmYzM4ZiZ0eFRpbWU9NjhkOTQ4YTU=
 CCTV-2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=12030532124776958103&channelId=1215&ban=1
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
