@@ -22,13 +22,13 @@ CCTV-4,video://https://v.douyin.com/S1OmaRp-jgE/
 CCTV-4,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv4
 CCTV-5,webview://https://tv.cctv.com/live/cctv5/
 CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
-CCTV-5,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5L
-CCTV-5,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5M
+CCTV-5,video://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5L
+CCTV-5,video://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5M
 CCTV-5,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv5
 CCTV-5+,webview://https://tv.cctv.com/live/cctv5plus/
 CCTV-5+,webview://https://yangshipin.cn/tv/home?pid=600001817
-CCTV-5+,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5pL
-CCTV-5+,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5pM
+CCTV-5+,video://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5pL
+CCTV-5+,video://http://p.ytelc.com/169l/00/cctv2.php?id=cctv5pM
 CCTV-5+,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv5p
 CCTV-6,webview://https://tv.cctv.com/live/cctv6/
 CCTV-6,webview://https://yangshipin.cn/tv/home?pid=600108442
@@ -59,15 +59,20 @@ CCTV-13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style
 CCTV-13,webview://https://tv.cctv.com/live/cctv13/
 CCTV-13,webview://https://yangshipin.cn/tv/home?pid=600001811
 CCTV-13,webview://https://v.lib.tju.edu.cn/tv-show-detail/42
+CCTV-13,video://https://v.douyin.com/BYo9353pcyI/
+CCTV-13,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv13
 CCTV-14,webview://https://tv.cctv.com/live/cctvchild/
 CCTV-14,webview://https://yangshipin.cn/tv/home?pid=600001809
+CCTV-14,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv14
 CCTV-15,webview://https://tv.cctv.com/live/cctv15/
 CCTV-15,webview://https://yangshipin.cn/tv/home?pid=600001815
+CCTV-15,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv15
 CCTV-16,webview://https://tv.cctv.com/live/cctv16/
 CCTV-16,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV-17,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=4496917190172866934&channelId=1215&ban=1
 CCTV-17,webview://https://tv.cctv.com/live/cctv17/
 CCTV-17,webview://https://yangshipin.cn/tv/home?pid=600001810
+CCTV-17,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv17
 CCTV-4 中文国际 (欧),webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV-4 中文国际 (美),webview://https://tv.cctv.com/live/cctvamerica/index.shtml
 CCTV-4K,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_id=feeds_only_back&liveRoomNumber=2127841942201075403&channelId=1215&ban=1
