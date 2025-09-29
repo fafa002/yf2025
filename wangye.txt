@@ -9,8 +9,8 @@ CCTV-2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?toc_style_
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/
 CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV-2,video://https://v.douyin.com/FqEYZdJSVJw/
-CCTV-2,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv2L
-CCTV-2,webview://http://p.ytelc.com/169l/00/cctv2.php?id=cctv2M
+CCTV-2,video://http://p.ytelc.com/169l/00/cctv2.php?id=cctv2L
+CCTV-2,video://http://p.ytelc.com/169l/00/cctv2.php?id=cctv2M
 CCTV-2,video://http://tv.zimtv.cn/tv/player/api/bdtv.php?id=cctv2
 CCTV-3,webview://https://tv.cctv.com/live/cctv3/
 CCTV-3,webview://https://m.yangshipin.cn/static/m/tv/detail/?pid=600001801
