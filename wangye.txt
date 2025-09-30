@@ -1,5 +1,5 @@
 央视频,#genre#
-CCTV-1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+CCTV-1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
 CCTV-1,webview://https://tv.cctv.com/live/cctv1/
 CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV-1,webview://https://v.lib.tju.edu.cn/tv-show-detail/3
