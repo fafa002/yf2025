@@ -498,23 +498,6 @@ BBC Earth,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbcearth/master.m
 BBC Lifestyle,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbclifestyle/master.m3u8
 tvN Movies,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tvnmovies/master.m3u8
  
-电视侠,#genre#
-翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
-tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
-明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
-娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰咨询,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
-凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
-18赛马,https://live.tvfix.org/live/c18/4/v200000/index.m3u8
-28赛马,https://live.tvfix.org/live/c28/2/v200000/index.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
-tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
-popc,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
-
 极速itv888,#genre#
 盗源狗si全家 全家下地狱
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
@@ -776,159 +759,25 @@ ZooMoo,http://tl.061833.xyz/tl/zoomoo
 中视菁采,http://123.51.136.80:8322/0.ts
 
 极速风云,#genre#
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=60
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=61
-凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=62
-TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=63
-TVB_PULS,http://iptv.4666888.xyz/iptv2A.php?id=64
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=66
-TVB无线新闻,http://iptv.4666888.xyz/iptv2A.php?id=65
-TVB生活,http://iptv.4666888.xyz/iptv2A.php?id=67
-TVB星河(粤),http://iptv.4666888.xyz/iptv2A.php?id=68
-TVB星河(国),http://iptv.4666888.xyz/iptv2A.php?id=69
-TVB武侠粤,http://iptv.4666888.xyz/iptv2A.php?id=9
-TVB武侠国,http://iptv.4666888.xyz/iptv2A.php?id=10
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=70
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=71
-TVBE,http://iptv.4666888.xyz/iptv2A.php?id=75
-TVB翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=72
-TVB明珠剧集,http://iptv.4666888.xyz/iptv2A.php?id=73
-TVB新闻娱乐,http://iptv.4666888.xyz/iptv2A.php?id=74
-TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=76
-TVB黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=80
-Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=81
-Now财经,http://iptv.4666888.xyz/iptv2A.php?id=82
-Now财经,http://iptv.4666888.xyz/iptv2A.php?id=83
-Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
-VIU剧集,http://iptv.4666888.xyz/iptv2A.php?id=85
-Now爆谷,http://iptv.4666888.xyz/iptv2A.php?id=6
-Now星影,http://iptv.4666888.xyz/iptv2A.php?id=7
-HOY76,http://iptv.4666888.xyz/iptv2A.php?id=87
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=88
-HOY78,http://iptv.4666888.xyz/iptv2A.php?id=89
-VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=90
-viutv6,http://iptv.4666888.xyz/iptv2A.php?id=91
-RHK31,http://iptv.4666888.xyz/iptv2A.php?id=92
-RHK32,http://iptv.4666888.xyz/iptv2A.php?id=93
-mytvsuper亚洲剧,http://iptv.4666888.xyz/iptv2A.php?id=94
-mytvsuper黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=95
-mytvsuper黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=96
-mytvsuper经典,http://iptv.4666888.xyz/iptv2A.php?id=97
-mytvsuper华剧,http://iptv.4666888.xyz/iptv2A.php?id=98
-mytvsuper少儿,http://iptv.4666888.xyz/iptv2A.php?id=99
-mytvsuper戏典,http://iptv.4666888.xyz/iptv2A.php?id=100
-mytvsuper粤语片,http://iptv.4666888.xyz/iptv2A.php?id=101
-mytvsuper华剧,http://iptv.4666888.xyz/iptv2A.php?id=102
-天映经典,http://iptv.4666888.xyz/iptv2A.php?id=77
-天映经典,http://iptv.4666888.xyz/iptv2A.php?id=78
-PopC,http://iptv.4666888.xyz/iptv2A.php?id=5
-美亚电影国,http://iptv.4666888.xyz/iptv2A.php?id=11
-美亚电影粤,http://iptv.4666888.xyz/iptv2A.php?id=12
-中国电影,http://iptv.4666888.xyz/iptv2A.php?id=13
-有线18,http://iptv.4666888.xyz/iptv2A.php?id=29
-无线18,http://iptv.4666888.xyz/iptv2A.php?id=37
-88赛马,http://iptv.4666888.xyz/iptv2A.php?id=38
-astro aod,http://iptv.4666888.xyz/iptv2A.php?id=174
-astro欢喜,http://iptv.4666888.xyz/iptv2A.php?id=175
-HUB娱家,http://iptv.4666888.xyz/iptv2A.php?id=176
-HUB都会,http://iptv.4666888.xyz/iptv2A.php?id=177
-新时代1,http://iptv.4666888.xyz/iptv2A.php?id=178
-新时代2,http://iptv.4666888.xyz/iptv2A.php?id=179
-TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=145
-中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=141
-非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=122
-寰宇新闻,http://iptv.4666888.xyz/iptv2A.php?id=123
-华视新闻,http://iptv.4666888.xyz/iptv2A.php?id=117
-民视新闻,http://iptv.4666888.xyz/iptv2A.php?id=109
-公视,http://iptv.4666888.xyz/iptv2A.php?id=107
-民视,http://iptv.4666888.xyz/iptv2A.php?id=108
-台视,http://iptv.4666888.xyz/iptv2A.php?id=113
-华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=156
-八八第一,http://iptv.4666888.xyz/iptv2A.php?id=143
-八大精彩,http://iptv.4666888.xyz/iptv2A.php?id=144
-TVBS精彩,http://iptv.4666888.xyz/iptv2A.php?id=146
-TVBS欢乐,http://iptv.4666888.xyz/iptv2A.php?id=147
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=103
-民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=110
-民视旅游,http://iptv.4666888.xyz/iptv2A.php?id=111
-民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=112
-台视综合,http://iptv.4666888.xyz/iptv2A.php?id=114
-台视财经,http://iptv.4666888.xyz/iptv2A.php?id=115
-年代MUCH,http://iptv.4666888.xyz/iptv2A.php?id=121
-东森LIVE,http://iptv.4666888.xyz/iptv2A.php?id=140
-东森超视34.5,http://iptv.4666888.xyz/iptv2A.php?id=125
-东森美洲,http://iptv.4666888.xyz/iptv2A.php?id=126
-东森超视,http://iptv.4666888.xyz/iptv2A.php?id=128
-momo亲子,http://iptv.4666888.xyz/iptv2A.php?id=129
-国兴卫视,http://iptv.4666888.xyz/iptv2A.php?id=130
-公视戏剧,http://iptv.4666888.xyz/iptv2A.php?id=106
-壹电影,http://iptv.4666888.xyz/iptv2A.php?id=120
-龙华日韩,http://iptv.4666888.xyz/iptv2A.php?id=131
-龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=132
-龙华影剧,http://iptv.4666888.xyz/iptv2A.php?id=133
-龙华卡通,http://iptv.4666888.xyz/iptv2A.php?id=135
-龙华经典,http://iptv.4666888.xyz/iptv2A.php?id=136
-台湾戏剧,http://iptv.4666888.xyz/iptv2A.php?id=116
-台湾霹雳,http://iptv.4666888.xyz/iptv2A.php?id=118
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=15
-东森洋片,http://iptv.4666888.xyz/iptv2A.php?id=16
-三立都会,http://iptv.4666888.xyz/iptv2A.php?id=137
-三立综合,http://iptv.4666888.xyz/iptv2A.php?id=138
-三立国际,http://iptv.4666888.xyz/iptv2A.php?id=139
-靖天综合,http://iptv.4666888.xyz/iptv2A.php?id=148
-靖天日本,http://iptv.4666888.xyz/iptv2A.php?id=149
-靖天卡通,http://iptv.4666888.xyz/iptv2A.php?id=150
-靖洋卡通,http://iptv.4666888.xyz/iptv2A.php?id=151
-靖天国际,http://iptv.4666888.xyz/iptv2A.php?id=152
-靖天育乐,http://iptv.4666888.xyz/iptv2A.php?id=153
-靖天映画,http://iptv.4666888.xyz/iptv2A.php?id=154
-靖天欢乐,http://iptv.4666888.xyz/iptv2A.php?id=155
-采昌影剧,http://iptv.4666888.xyz/iptv2A.php?id=168
-HakkATV客家电视,http://iptv.4666888.xyz/iptv2A.php?id=169
-TITV原住民,http://iptv.4666888.xyz/iptv2A.php?id=170
-MTV live,http://iptv.4666888.xyz/iptv2A.php?id=171
-猪哥亮哥厅秀,http://iptv.4666888.xyz/iptv2A.php?id=173
-亚洲旅游,http://iptv.4666888.xyz/iptv2A.php?id=158
-EYETV旅游,http://iptv.4666888.xyz/iptv2A.php?id=160
-EYETV戏剧,http://iptv.4666888.xyz/iptv2A.php?id=161
-爱尔达日韩,http://iptv.4666888.xyz/iptv2A.php?id=162
-爱尔达影剧,http://iptv.4666888.xyz/iptv2A.php?id=163
-爱尔达综合,http://iptv.4666888.xyz/iptv2A.php?id=164
-爱尔达娱乐,http://iptv.4666888.xyz/iptv2A.php?id=165
-爱尔达生活旅游,http://iptv.4666888.xyz/iptv2A.php?id=166
-小公视,http://iptv.4666888.xyz/iptv2A.php?id=105
-MytvZooMoo,http://iptv.4666888.xyz/iptv2A.php?id=1
-Nickeledeon,http://iptv.4666888.xyz/iptv2A.php?id=2
-MytvNickJr,http://iptv.4666888.xyz/iptv2A.php?id=3
-ifunanime,http://iptv.4666888.xyz/iptv2A.php?id=4
-TVN,http://iptv.4666888.xyz/iptv2A.php?id=17
-KIX,http://iptv.4666888.xyz/iptv2A.php?id=18
-RockAction,http://iptv.4666888.xyz/iptv2A.php?id=19
-RockEntertainment,http://iptv.4666888.xyz/iptv2A.php?id=20
-AXN,http://iptv.4666888.xyz/iptv2A.php?id=21
-AnimaxC,http://iptv.4666888.xyz/iptv2A.php?id=22
-warnertv华纳,http://iptv.4666888.xyz/iptv2A.php?id=23
-cinemaxwj,http://iptv.4666888.xyz/iptv2A.php?id=24
-HBOHD,http://iptv.4666888.xyz/iptv2A.php?id=25
-amcmovies,http://iptv.4666888.xyz/iptv2A.php?id=27
-Thrill,http://iptv.4666888.xyz/iptv2A.php?id=183
-taiwan+,http://iptv.4666888.xyz/iptv2A.php?id=159
-智林体育,http://iptv.4666888.xyz/iptv2A.php?id=58
-Z频道,http://iptv.4666888.xyz/iptv2A.php?id=167
-GINXEsportsTV,http://iptv.4666888.xyz/iptv2A.php?id=49
-爱尔达体育1,http://iptv.4666888.xyz/iptv2A.php?id=45
-爱尔达体育2,http://iptv.4666888.xyz/iptv2A.php?id=46
-爱尔达体育3,http://iptv.4666888.xyz/iptv2A.php?id=47
-爱尔达体育4,http://iptv.4666888.xyz/iptv2A.php?id=48
-搏斯运动1,http://iptv.4666888.xyz/iptv2A.php?id=50
-搏斯运动2,http://iptv.4666888.xyz/iptv2A.php?id=51
-搏斯高球1,http://iptv.4666888.xyz/iptv2A.php?id=52
-搏斯高球2,http://iptv.4666888.xyz/iptv2A.php?id=53
-搏斯网球,http://iptv.4666888.xyz/iptv2A.php?id=54
-搏斯无限,http://iptv.4666888.xyz/iptv2A.php?id=55
-搏斯无限2,http://iptv.4666888.xyz/iptv2A.php?id=56
-搏斯魅力,http://iptv.4666888.xyz/iptv2A.php?id=57
-TRACESportStars,,http://iptv.4666888.xyz/iptv2A.php?id=59
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
+凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
+TVBPLUS,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
+NOW新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
+VIUTV,http://iptv.4666888.xyz/iptv2A.php?id=VIUTV
+TVB千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
+星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视
+重温经典,http://iptv.4666888.xyz/iptv2A.php?id=重温经典
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
+综艺玩很大,http://iptv.4666888.xyz/iptv2A.php?id=综艺玩很大
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
+TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
+纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
 
 ⚽️🏀直播,#genre#
 盗源狗si全家 全家下地狱
