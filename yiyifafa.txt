@@ -6166,6 +6166,11 @@ SONE-225-丸最稀,https://cdn3.hdys01.com/videos/2024/06/13/666a80ee16fc1609704
 DASS-726-丸最稀,https://hua4.hdys01.com/videos/2025/08/26/68ad3bb542400cb90bbdbfea/7b71a4/index.m3u8
 HOMA-157-丸最稀,https://hua4.hdys01.com/videos/2025/10/01/68dc3f3a7debe03094390d24/900b80/index.m3u8
 IENF-413-凉风忧,https://hua4.hdys01.com/videos/2025/10/01/68dc3e407debe03094390d1f/c3292d/index.m3u8
+DASS-772-凉风忧,https://hua4.hdys01.com/videos/2025/09/25/68d40ba67debe0309438ce0e/7g3bg5/index.m3u8
+EBWH-250-凉风忧、天羽梨梨花,https://hua4.hdys01.com/videos/2025/07/15/6875ba3797065b515bdb6be0/4g6bab/index.m3u8
+EBWH-206-凉风忧,https://cdn3.hdys01.com/videos/2025/03/18/67d8e269c1faa9983e685b76/b06042/index.m3u8
+EBWH-198-凉风忧,https://cdn3.hdys01.com/videos/2025/02/17/67b3fa942df4a27b62393cb5/218e44/index.m3u8
+CLUB-830-有冈美羽,https://cdn3.hdys01.com/videos/2024/02/06/65c1979f03d3401331a2df80/d5da3d/index.m3u8
 糖心Vlog-菠萝啤,https://hua4.hdys01.com/videos/2025/10/02/68de8976ab6359d6597b69e7/879fcf/index.m3u8
 
 nalfnf,https://v2.catcast.tv/content/40381/index.m3u8
