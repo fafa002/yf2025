@@ -6161,6 +6161,13 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 松2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
+BOBB-432-丸最稀,https://cdn3.hdys01.com/videos/2025/04/06/67f2057d359016f65ee739ba/fb4b92/index.m3u8
+SONE-225-丸最稀,https://cdn3.hdys01.com/videos/2024/06/13/666a80ee16fc160970438f60/g69b28/index.m3u8
+DASS-726-丸最稀,https://hua4.hdys01.com/videos/2025/08/26/68ad3bb542400cb90bbdbfea/7b71a4/index.m3u8
+HOMA-157-丸最稀,https://hua4.hdys01.com/videos/2025/10/01/68dc3f3a7debe03094390d24/900b80/index.m3u8
+IENF-413-凉风忧,https://hua4.hdys01.com/videos/2025/10/01/68dc3e407debe03094390d1f/c3292d/index.m3u8
+糖心Vlog-菠萝啤,https://hua4.hdys01.com/videos/2025/10/02/68de8976ab6359d6597b69e7/879fcf/index.m3u8
+
 nalfnf,https://v2.catcast.tv/content/40381/index.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Arab Girls,http://live.mycamtv.com/arab.m3u8
