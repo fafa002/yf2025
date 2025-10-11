@@ -746,6 +746,16 @@ SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 ZooMoo,http://tl.061833.xyz/tl/zoomoo
 
 极速125,#genre#
+hoy76,http://hls.168.us.kg/u/76/master.m3u8
+hoy77,http://hls.168.us.kg/u/77/master.m3u8
+hoy78,http://hls.168.us.kg/u/78/master.m3u8
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+tvbplus,http://hls.168.us.kg/u/82/master.m3u8
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
+now直播,http://hls.168.us.kg/u/331/master.m3u8
+now新闻,http://hls.168.us.kg/u/332/master.m3u8
+now财经,http://hls.168.us.kg/u/333/master.m3u8
+
 中视,http://123.51.136.80:8301/0.ts
 中视新闻,http://123.51.136.80:8302/0.ts
 原住民卫视,http://123.51.136.80:8303/0.ts
