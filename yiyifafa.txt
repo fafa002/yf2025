@@ -923,12 +923,12 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 广东本地2,#genre#
 盗源狗si全家 全家下地狱
-大湾区卫视,http://119.123.177.93:8086/hls/29/index.m3u8
-广东民生,http://119.123.177.93:8086/hls/39/index.m3u8
-广东珠江,http://119.123.177.93:8086/hls/47/index.m3u8
-广东影视,http://119.123.177.93:8086/hls/46/index.m3u8
-广东体育,http://119.123.177.93:8086/hls/42/index.m3u8
-广东少儿,http://119.123.177.93:8086/hls/40/index.m3u8
+大湾区卫视,http://tcl33.xrk.top:8086/hls/29/index.m3u8
+广东民生,http://tcl33.xrk.top:8086/hls/39/index.m3u8
+广东珠江,http://tcl33.xrk.top:8086/hls/47/index.m3u8
+广东影视,http://tcl33.xrk.top:8086/hls/46/index.m3u8
+广东体育,http://tcl33.xrk.top:8086/hls/42/index.m3u8
+广东少儿,http://tcl33.xrk.top:8086/hls/40/index.m3u8
 
 广东经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/ce834303bb1a4459a3ea8c4c01d3ae84.m3u8
 深圳都市,http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
