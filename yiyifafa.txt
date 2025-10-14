@@ -976,7 +976,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 -汕尾生活,https://iswtv.swrtv.com/live/whshpd.m3u8
 
 广东荔枝网,#genre#
-勿信二维码,
+勿信二维码,1
 广东珠江,rtmp://116.63.53.136/live/gdzj
 广东民生,rtmp://116.63.53.136/live/gdms
 大湾区卫视,rtmp://116.63.53.136/live/dwqws
