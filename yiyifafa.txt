@@ -6420,7 +6420,6 @@ White Girls,http://live.mycamtv.com/white.m3u8
 Skinny Girls,http://live.mycamtv.com/skinny.m3u8
 Medium Girls,http://live.mycamtv.com/medium.m3u8
 
-私密频道2_169169,#genre#
 资源来自暗网,1
 厕所1,https://hls.obmoti.cn/videos5/124180417743c545d652f9b5f8888e28/124180417743c545d652f9b5f8888e28.m3u8
 厕所2,https://hls.obmoti.cn/videos5/d8847f8b179247516c073040c8491ab8/d8847f8b179247516c073040c8491ab8.m3u8
@@ -6437,3 +6436,5 @@ Medium Girls,http://live.mycamtv.com/medium.m3u8
 厕所13,https://hls.obmoti.cn/videos4/0e4e27afb8ffca462f18f9f650a5220b/0e4e27afb8ffca462f18f9f650a5220b.m3u8
 厕所14,https://hls.obmoti.cn/videos4/be45bfa12bd5acb4af18b60e2e0477c9/be45bfa12bd5acb4af18b60e2e0477c9.m3u8
 厕所15,https://hls.obmoti.cn/videos4/39076f39a64ef77b9d768d6c1fadb8e6/39076f39a64ef77b9d768d6c1fadb8e6.m3u8
+厕所16,https://hls.obmoti.cn/videos3/1cb98ded8a5df2e753f48abe998cda68/1cb98ded8a5df2e753f48abe998cda68.m3u8
+厕所17,https://hls.obmoti.cn/videos3/379d2d1ac888322a1705d18a06e4b193/379d2d1ac888322a1705d18a06e4b193.m3u8
