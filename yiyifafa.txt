@@ -475,15 +475,6 @@ TVB翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 中天新聞台,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 中天新聞台2,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 
-Now爆谷台,http://stream-ali1.csslcloud.net/live/hktv-09ali20.flv
-Now星影台,http://stream-ali1.csslcloud.net/live/hktv-09ali21.flv
-PopC电影,http://stream-ali1.csslcloud.net/live/hktv-09ali22.flv
-TVB生活台,http://stream-ali1.csslcloud.net/live/hktv-10ali0.00.3.flv
-TVB功夫(国),http://stream-ali1.csslcloud.net/live/hktv-10ali0.00.2.flv
-HUB如意台,http://stream-ali1.csslcloud.net/live/hktv-10ali2.flv
-HUB娱家台,http://stream-ali1.csslcloud.net/live/hktv-10ali3.flv
-HUB都会台,http://stream-ali1.csslcloud.net/live/hktv-10ali4.flv
-
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
