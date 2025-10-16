@@ -9853,7 +9853,6 @@ l🐸12传媒01,https://10j991.cdnedge.live/file/avple-asserts/hls/639985bd2c279
 画面比例,1
 改为默认,1
 巨茹,http://krevonix.com/20240520/DN1ccCOX/index.m3u8
-青旅,http://krevonix.com/20230227/6VnCmW6n/index.m3u8
 双仁,http://t26.cdn2020.com/video/m3u8/2022/01/19/56a11163/index.m3u8
 jufe-131,http://t33.cdn2020.com/video/m3u8/2025/09/09/25fc50e8/index.m3u8
 喜枣,http://krevonix.com/20240520/qnbmFYrc/index.m3u8
