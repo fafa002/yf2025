@@ -475,6 +475,14 @@ TVB翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 中天新聞台,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 中天新聞台2,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 
+翡翠,http://play-ali.cloudvdn.com/live/00987tp0031.flv
+凤凰资讯,http://play-ali.cloudvdn.com/live/00987tp0032.flv
+凤凰香港,http://play-ali.cloudvdn.com/live/00987tp0033.flv
+CCM,http://play-ali.cloudvdn.com/live/00987tp0035.flv
+爆谷,http://play-ali.cloudvdn.com/live/00987tp0038.flv
+星影,http://play-ali.cloudvdn.com/live/00987tp0039.flv
+美亚电影,http://play-ali.cloudvdn.com/live/00987tp0045.flv
+
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
