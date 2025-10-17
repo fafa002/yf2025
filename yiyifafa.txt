@@ -365,15 +365,9 @@ QQ群,1
 换安卓9盒子,7
 重温经典,https://cc06.tv12.xyz/35.m3u8
 重温经典,https://cc06.tv12.xyz/36.m3u8
-北京卫视4K,http://itv.809899.xyz/4k.php?id=btv4k
-上海卫视4K,http://itv.809899.xyz/4k.php?id=sh4k
-江苏卫视4K,http://itv.809899.xyz/4k.php?id=js4k
-浙江卫视4K,http://itv.809899.xyz/4k.php?id=zj4k
-山东卫视4K,http://itv.809899.xyz/4k.php?id=sd4k
-湖南卫视4K,http://itv.809899.xyz/4k.php?id=hn4k
-广东卫视4K,http://itv.809899.xyz/4k.php?id=gd4k
-四川卫视4K,http://itv.809899.xyz/4k.php?id=sc4k
-深圳卫视4K,http://itv.809899.xyz/4k.php?id=sz4k
+浙江卫视4K,https://4k.11cn.dpdns.org/20.m3u8
+北京卫视4K,https://4k.11cn.dpdns.org/21.m3u8
+深圳卫视4K,https://4k.11cn.dpdns.org/22.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -499,14 +493,65 @@ ViuTV,http://r.jdshipin.com/vSJvl
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
 
-天映经典,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialclassic/master.m3u8
-天映频道,https://pull-hls-live.jr365m.cc/stream/astromalaysia/celestialmovies/master.m3u8
-TLC,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tlc/master.m3u8
-AXN,https://pull-hls-live.jr365m.cc/stream/astromalaysia/axn/master.m3u8
-DiscoveryAsia,https://pull-hls-live.jr365m.cc/stream/astromalaysia/discoveryasia/master.m3u8
-BBC Earth,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbcearth/master.m3u8
-BBC Lifestyle,https://pull-hls-live.jr365m.cc/stream/astromalaysia/bbclifestyle/master.m3u8
-tvN Movies,https://pull-hls-live.jr365m.cc/stream/astromalaysia/tvnmovies/master.m3u8
+TVBPlus,http://vallest.uk/livehttpplay?channel_id=30023
+TVBPlus,http://vallest.uk/livehttpplay?channel_id=20122
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=20065
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=20066
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
+有线综合台,http://vallest.uk/livehttpplay?channel_id=20152
+无线新闻台,http://vallest.uk/livehttpplay?channel_id=30024
+翡翠台,http://vallest.uk/livehttpplay?channel_id=20124
+明珠台,http://vallest.uk/livehttpplay?channel_id=30026
+明珠台,http://vallest.uk/livehttpplay?channel_id=20125
+VIUTV,http://vallest.uk/livehttpplay?channel_id=30032
+VIUTV,http://vallest.uk/livehttpplay?channel_id=20131
+VIU6TV,http://vallest.uk/livehttpplay?channel_id=30033
+VIU6TV,http://vallest.uk/livehttpplay?channel_id=20132
+RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=20203
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=30028
+
+CCTV-1 综合,https://4k.11cn.dpdns.org/1.m3u8
+CCTV-2 财经,https://4k.11cn.dpdns.org/2.m3u8
+CCTV-3 综艺,https://4k.11cn.dpdns.org/3.m3u8
+CCTV-4 中文国际,https://4k.11cn.dpdns.org/4.m3u8
+CCTV-5 体育,https://4k.11cn.dpdns.org/5.m3u8
+CCTV-5+ 体育赛事,https://4k.11cn.dpdns.org/6.m3u8
+CCTV-6 电影,https://4k.11cn.dpdns.org/7.m3u8
+CCTV-7 国防军事,https://4k.11cn.dpdns.org/8.m3u8
+CCTV-8 电视剧,https://4k.11cn.dpdns.org/9.m3u8
+CCTV-9 纪录,https://4k.11cn.dpdns.org/10.m3u8
+CCTV-10 科教,https://4k.11cn.dpdns.org/11.m3u8
+CCTV-11 戏曲,https://4k.11cn.dpdns.org/12.m3u8
+CCTV-12 社会与法,https://4k.11cn.dpdns.org/13.m3u8
+CCTV-13 新闻,https://4k.11cn.dpdns.org/14.m3u8
+CCTV-14 少儿,https://4k.11cn.dpdns.org/15.m3u8
+CCTV-15 音乐,https://4k.11cn.dpdns.org/16.m3u8
+CCTV-17 农业农村,https://4k.11cn.dpdns.org/17.m3u8
+CCTV-4 中文国际 欧洲,https://4k.11cn.dpdns.org/18.m3u8
+CCTV-4 中文国际 美洲,https://4k.11cn.dpdns.org/19.m3u8
+浙江卫视4K,https://4k.11cn.dpdns.org/20.m3u8
+北京卫视4K,https://4k.11cn.dpdns.org/21.m3u8
+深圳卫视4K,https://4k.11cn.dpdns.org/22.m3u8
+凤凰中文,https://4k.11cn.dpdns.org/23.m3u8
+凤凰资讯,https://4k.11cn.dpdns.org/24.m3u8
+凤凰香港,https://4k.11cn.dpdns.org/25.m3u8
+翡翠台,https://4k.11cn.dpdns.org/26.m3u8
+无线新闻,https://4k.11cn.dpdns.org/27.m3u8
+TVB星河,https://4k.11cn.dpdns.org/28.m3u8
+明珠台,https://4k.11cn.dpdns.org/29.m3u8
+华丽翡翠台,https://4k.11cn.dpdns.org/30.m3u8
+千禧经典,https://4k.11cn.dpdns.org/31.m3u8
+天映经典,https://4k.11cn.dpdns.org/32.m3u8
+天映电影,https://4k.11cn.dpdns.org/33.m3u8
+Astro AOD,https://4k.11cn.dpdns.org/34.m3u8
+Astro AEC,https://4k.11cn.dpdns.org/35.m3u8
+Astro QJ,https://4k.11cn.dpdns.org/36.m3u8
+Astro 欢喜,https://4k.11cn.dpdns.org/37.m3u8
  
 极速itv888,#genre#
 盗源狗si全家 全家下地狱
