@@ -446,36 +446,12 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-tvbs欢乐,http://61.216.11.93:49981/stream/channelid/1607444205.m3u8
-东森超视,http://61.216.11.93:49981/stream/channelid/1026178460.m3u8
-民视,http://61.216.11.93:49981/stream/channelid/1736257299.m3u8
-八大第一,http://61.216.11.93:49981/stream/channelid/2021000694.m3u8
-八大综合,http://61.216.11.93:49981/stream/channelid/1339557876.m3u8
-年代综合,http://61.216.11.93:49981/stream/channelid/644357774.m3u8
-纬来综合,http://61.216.11.93:49981/stream/channelid/106481234.m3u8
-纬来电影,http://61.216.11.93:49981/stream/channelid/1914405885.m3u8
-好莱电影,http://61.216.11.93:49981/stream/channelid/286389561.m3u8
-CINeMax,http://61.216.11.93:49981/stream/channelid/207378916.m3u8
-CINeMax,http://61.216.11.93:49981/stream/channelid/1222093986.m3u8
-TLC'综合,http://61.216.11.93:49981/stream/channelid/458490002.m3u8
-Nick少儿,http://61.216.11.93:49981/stream/channelid/580636100.m3u8
-NHk日本,http://61.216.11.93:49981/stream/channelid/797583403.m3u8
-cNN新闻,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
-信吉电视,http://61.216.11.93:49981/stream/channelid/166215564.m3u8
 
 极速港台3,#genre#
 TVB翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 中天新聞台,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 中天新聞台2,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
-
-翡翠,http://play-ali.cloudvdn.com/live/00987tp0031.flv
-凤凰资讯,http://play-ali.cloudvdn.com/live/00987tp0032.flv
-凤凰香港,http://play-ali.cloudvdn.com/live/00987tp0033.flv
-CCM,http://play-ali.cloudvdn.com/live/00987tp0035.flv
-爆谷,http://play-ali.cloudvdn.com/live/00987tp0038.flv
-星影,http://play-ali.cloudvdn.com/live/00987tp0039.flv
-美亚电影,http://play-ali.cloudvdn.com/live/00987tp0045.flv
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
