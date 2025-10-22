@@ -4413,6 +4413,7 @@ CCTV11-GQ,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&
 西安4,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=live1210
 
 央视频,#genre#
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 深圳卫视4K,http://2099.tv12.xyz/276_1761099102823.m3u8
 北京卫视4K,http://2099.tv12.xyz/277_1761099102823.m3u8
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
