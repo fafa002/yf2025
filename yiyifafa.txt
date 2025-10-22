@@ -444,8 +444,8 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 极速港台3,#genre#
-TVB翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
-无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+TVB翡翠台,rtmp://183.56.161.51/live/yifatv-jade01
+无线新闻台,rtmp://183.56.161.51/live/yifatv-wxxw01
 中天新聞台,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
 中天新聞台2,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 
