@@ -4545,7 +4545,7 @@ CCTV怀旧剧场,http://b.tvbox6.icu/tv/ysp.php?id=23
 兵团卫视,http://b.tvbox6.icu/tv/ysp.php?id=65
 CGTN,http://b.tvbox6.icu/tv/ysp.php?id=66
 
-央视频2,#genre#
+央视频3,#genre#
 cctv1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1
 cctv2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2
 cctv4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4
