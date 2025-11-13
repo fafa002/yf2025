@@ -6653,6 +6653,19 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 河北音乐,https://lhttp.qingting.fm/live/1649/64k.mp3
 浙江音乐,https://lhttp.qingting.fm/live/4866/64k.mp3
 
+2025韩剧,#genre#
+亲爱的X第01集,https://play.modujx11.com/20251106/7CqDpmwU/4435kb/hls/index.m3u8
+亲爱的X第02集,https://play.modujx11.com/20251106/FkyykWWn/4099kb/hls/index.m3u8
+亲爱的X第03集,https://play.modujx11.com/20251106/9nftKURV/4613kb/hls/index.m3u8
+亲爱的X第03集,https://play.modujx11.com/20251106/itXwpyiW/3559kb/hls/index.m3u8
+
+操控游戏第01集,https://play.modujx11.com/20251105/fihExB8i/3725kb/hls/index.m3u8
+操控游戏第02集,https://play.modujx11.com/20251105/Oyy28fsu/3812kb/hls/index.m3u8
+操控游戏第03集,https://play.modujx11.com/20251105/LiXHnF6f/3448kb/hls/index.m3u8
+操控游戏第04集,https://play.modujx11.com/20251105/R0TG95xf/3714kb/hls/index.m3u8
+操控游戏第05集,https://play.modujx11.com/20251112/5YqJ42YP/4016kb/hls/index.m3u8
+操控游戏第06集,https://play.modujx11.com/20251112/ROHHfXan/4356kb/hls/index.m3u8
+
 私密频道_169169,#genre#
 移动网专用,1
 惊艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
@@ -10076,11 +10089,4 @@ jufe-131,http://t33.cdn2020.com/video/m3u8/2025/09/09/25fc50e8/index.m3u8
 铁锁15,http://bfaskbwerve.com/20221002/PYTRu7RD/index.m3u8
 铁锁16,http://krevonix.com/20250730/zLnjXkxp/index.m3u8
 铁锁17,http://krevonix.com/20240520/xYrik8ak/index.m3u8
-铜锁1(EXO解码),https://eu-v.cdn10.com/33451253.mp4?verify=1760624492-Eh6srTWDV41RDflE7VPIAAbrps9eJBmk%2FjHy3FgbbI8%3D
-铜锁2(EXO解码),https://eu-v.cdn10.com/105718366.mp4?verify=1760624567-6uFmSpQ2xABpsEX%2Fe6cvDvobI5tI0yCSrhy1R2qsfzM%3D
-铜锁3(EXO解码),https://eu-v.cdn10.com/67238429.mp4?verify=1760624721-pZ2CnuLdacmZHoipkrzjR48EEpFJcWFm7Gm0gSYeDl4%3D
-铜锁4(EXO解码),https://eu-v.cdn10.com/63781853.mp4?verify=1760624865-tdeP16uWP%2Fskce2R0yhA4TUfLDrmmHiLwQM5uPC8E6I%3D
-铜锁5(EXO解码),https://eu-v.cdn10.com/61084187.mp4?verify=1760624884-HeDhapu2M9jg3eir5J7BBC6GpMedo4TosJW6jiA7jEc%3D
-铜锁6(EXO解码),https://eu-v.cdn10.com/78210882.mp4?verify=1760624911-TtF0ls9sF7CA%2BEvwAZ%2FojJvHonqpv%2BcYUduCs6xAsIg%3D
-铜锁7(EXO解码),https://eu-v.cdn10.com/74237472.mp4?verify=1760625129-wF%2Bqqwyv8amaCEEOpn1VqQBLb3AlabN2aG2VxZdIjpo%3D
 
