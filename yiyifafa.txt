@@ -4545,6 +4545,18 @@ CCTV怀旧剧场,http://b.tvbox6.icu/tv/ysp.php?id=23
 兵团卫视,http://b.tvbox6.icu/tv/ysp.php?id=65
 CGTN,http://b.tvbox6.icu/tv/ysp.php?id=66
 
+央视频2,#genre#
+cctv1,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1
+cctv2,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2
+cctv4,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4
+cctv7,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7
+cctv9,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9
+cctv10,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10
+cctv12,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12
+cctv13,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13
+cctv17,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17
+cctv4k,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k
+
 虎牙轮播,#genre#
 盗源狗si全家 全家下地狱
 名侦探柯南剧场版,http://cfss.cc/cdn/hy/30080236.m3u8
