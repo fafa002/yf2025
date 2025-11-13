@@ -4415,6 +4415,37 @@ CCTV-14,https://www.qiushui.vip/gj/mk.php?ip_port=119.136.114.65:8014&id=cctv14
 CCTV-7,https://www.qiushui.vip/gj/mk.php?ip_port=119.136.114.65:8014&id=live1013
 四川卫视,https://www.qiushui.vip/gj/mk.php?ip_port=119.136.114.65:8014&id=live1019
 
+吉林秒开,#genre#
+CCTV1综合,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv1
+CCTV2-财经,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv2
+CCTV5-体育,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv5
+CCTV6-电影,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv6
+CCTV7-军事农业,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv7
+CCTV8-电视剧,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv8
+CCTV9-记录,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv9
+CCTV-10,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv10
+CCTV11-戏曲,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv11
+CCTV12-社会与法,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv12
+CCTV13-新闻,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv13
+CCTV14-少儿,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cctv14
+黑龙江卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=hljws
+辽宁卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=lnws
+宁夏卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=linxws
+安徽卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=ahws
+山东卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=sdws
+河南卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=hnws
+内蒙古卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=neimenggu
+新疆卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=xjws
+重庆卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=cqws
+贵州卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=gzws
+江西卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=jxws
+山西卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=sxws
+天津卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=tjws
+湖南卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=hunanws
+甘肃卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=gsws
+北京卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=bjws
+深圳卫视,https://www.qiushui.vip/gj/mk.php?ip_port=222.162.183.251:8014&id=szws
+
 央视频,#genre#
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -6555,13 +6586,6 @@ YUKI雨淇,http://tv.ximix.us/yy/1382735545
 鸟叔江南style,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfqqvubc77u1shdk2990&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 
 随机点播,#genre#
-你的瑜伽女孩,http://dns.yiandrive.com:13571/douyu/10205199
-瑜伽裤直播6,https://live.iill.top/youtube/@ZenGymnastx
-瑜伽裤直播7,https://live.iill.top/youtube/@The_Flex_Girl
-小姐姐短视频,http://lxajh.top/tv/douyu.php?id=11531165
-小姐姐舞蹈,http://lxajh.top/tv/douyu.php?id=10308225
-小姐姐热舞,http://lxajh.top/tv/douyu.php?id=10308312
-
 🔄韩国歌曲[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 🔄DJ舞曲[刷新就是新内容],http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
 🔄网络热曲[刷新就是新内容],https://188sp.711888.xyz/188/video.php
