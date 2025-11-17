@@ -4871,7 +4871,7 @@ CHC家庭影院,http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/
 犍为新闻,http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/qwxwzh_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 筠连,http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ylyt_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 
-北京移动2#genre#
+北京移动2,#genre#
 咪咕4K 31M2160HDR,http://183.234.97.47:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
 北京冬奥纪实4K33M2160HDR,http://183.234.97.47:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226563/1.m3u8
 北京冬奥纪实4K26M2160SDR,http://183.234.97.47:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226564/1.m3u8
