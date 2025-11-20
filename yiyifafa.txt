@@ -727,6 +727,413 @@ ELTA体育2台,http://orz.jkun.cf/smt.php?id=eltasport2_twn
 ELTA体育3台,http://orz.jkun.cf/smt.php?id=eltasport3_twn
 ELTA体育4台,http://orz.jkun.cf/smt.php?id=natgeowild_twn
 
+秒开湾湾1,#genre#
+飯店介紹-藍山大飯店,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=custom19
+台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1047
+中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1048
+華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1049
+民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1050
+公視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1201
+人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1198
+大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1216
+好消息頻道,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1231
+Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1003
+DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1002
+旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1005
+動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1004
+亞洲旅遊,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1219
+momo親子台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1007
+東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1008
+ANIMAX 卡通動畫頻道,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1060
+龍華卡通台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=custom29
+緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1044
+八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1043
+八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1019
+三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1021
+三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1020
+韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1024
+東森綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1041
+超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1180
+中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1022
+中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1023
+東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1195
+MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1189
+東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1042
+八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1057
+TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1018
+緯來戲劇,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1186
+龍華戲劇台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1009
+龍華日韓劇,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1010
+龍華偶像劇,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1235
+緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1026
+Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1238
+年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1192
+東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1014
+中天新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1015
+民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1204
+三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1016
+TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1051
+TVBS HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1251
+非凡新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1013
+非凡商業,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1012
+東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1017
+寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1222
+壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1242
+CNBC,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1063
+Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1066
+NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1027
+鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1031
+好萊塢電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1025
+緯來電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1183
+龍華電影台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1245
+HBO,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1029
+AXN,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1054
+CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1030
+AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1032
+寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1040
+緯來育樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1045
+緯來體育HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1011
+博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1225
+momo 綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1248
+DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1069
+DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1072
+廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1033
+CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1034
+海峽衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1035
+浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1036
+東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1037
+湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1038
+鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1210
+鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1213
+
+秒开湾湾2,#genre#
+飯店介紹-藍山大飯店,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=custom19
+台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1047
+中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1048
+華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1049
+民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1050
+公視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1201
+人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1198
+大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1216
+好消息頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1231
+Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1003
+DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1002
+旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1005
+動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1004
+亞洲旅遊,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1219
+momo親子台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1007
+東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1008
+ANIMAX 卡通動畫頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1060
+龍華卡通台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=custom29
+緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1044
+八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1043
+八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1019
+三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1021
+三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1020
+韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1024
+東森綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1041
+超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1180
+中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1022
+中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1023
+東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1195
+MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1189
+東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1042
+八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1057
+TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1018
+緯來戲劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1186
+龍華戲劇台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1009
+龍華日韓劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1010
+龍華偶像劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1235
+緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1026
+Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1238
+年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1192
+東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1014
+中天新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1015
+民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1204
+三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1016
+TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1051
+TVBS HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1254
+非凡新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1013
+非凡商業,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1012
+東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1017
+寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1222
+壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1242
+CNBC,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1063
+Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1066
+NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1027
+鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1031
+好萊塢電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1025
+緯來電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1183
+龍華電影台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1245
+HBO,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1029
+AXN,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1054
+CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1030
+AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1032
+寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1040
+緯來育樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1045
+緯來體育HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1011
+博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1225
+momo 綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1248
+DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1069
+DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1072
+廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1033
+CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1034
+海峽衛視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1035
+浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1036
+東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1037
+湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1038
+鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1210
+鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1213
+國家地理,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1257
+衛視電影,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1260
+STAR MOVIES GOLD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1263
+Star World,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1266
+
+秒开湾湾3,#genre#
+飯店介紹-藍山大飯店,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=custom19
+台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1047
+中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1048
+華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1049
+民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1050
+公視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1201
+人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1198
+大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1216
+好消息頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1231
+Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1003
+DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1002
+旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1005
+動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1004
+亞洲旅遊,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1219
+momo親子台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1007
+東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1008
+ANIMAX 卡通動畫頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1060
+龍華卡通台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=custom29
+緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1044
+八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1043
+八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1019
+三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1021
+三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1020
+韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1024
+東森綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1041
+超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1180
+中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1022
+中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1023
+東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1195
+MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1189
+東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1042
+八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1057
+TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1018
+緯來戲劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1186
+龍華戲劇台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1009
+龍華日韓劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1010
+龍華偶像劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1235
+緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1026
+Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1238
+年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1192
+東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1014
+中天新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1015
+民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1204
+三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1016
+TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1051
+TVBS HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1251
+非凡新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1013
+非凡商業,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1012
+東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1017
+寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1222
+壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1242
+CNBC,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1063
+Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1066
+NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1027
+鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1031
+好萊塢電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1025
+緯來電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1183
+龍華電影台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1245
+HBO,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1029
+AXN,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1054
+CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1030
+AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1032
+寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1040
+緯來育樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1045
+緯來體育HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1011
+博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1225
+momo 綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1248
+DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1069
+DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1072
+廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1033
+CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1034
+海峽衛視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1035
+浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1036
+東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1037
+湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1038
+鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1210
+鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1213
+探索世界頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1257
+華藝中文台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1266
+愛自然頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1263
+搖滾娛樂頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1260
+搖滾電影頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1254
+DreamWorks ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1269
+MTV Live音樂頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1272
+
+秒开湾湾4,#genre#
+台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1047
+中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1048
+華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1049
+民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1050
+公視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1201
+人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1198
+大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1216
+Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1003
+DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1002
+旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1005
+動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1004
+momo親子台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1007
+東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1008
+緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1044
+八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1043
+八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1019
+三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1021
+三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1020
+韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1024
+超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1180
+中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1022
+中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1023
+MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2002
+東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1042
+八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1057
+TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1018
+Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1238
+年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1192
+東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1014
+中天新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1015
+三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1016
+TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1080
+TVBS,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1081
+東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1017
+寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1222
+壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1242
+CNBC,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1063
+Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1066
+NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1228
+鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1031
+HBO,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1029
+AXN,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1054
+CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1030
+AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1032
+寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1040
+博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1225
+momo 綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1248
+DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1069
+DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1072
+廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1033
+CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1034
+海峽衛視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1035
+浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1036
+東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1037
+湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1038
+鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1210
+鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1213
+寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2024
+AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2023
+Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2025
+韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2021
+鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2022
+三立台灣,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1061
+年代新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1077
+三立新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1079
+尼克兒童頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1139
+nickjr.小尼克,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1138
+MTV Live音樂頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1140
+達文西頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1136
+寵物頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1137
+DreamWorks,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2892
+國家地理HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2890
+搖滾電影頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2894
+探索世界頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2895
+搖滾娛樂頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2896
+愛自然頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2897
+華藝中文台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2898
+緯來體育,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2899
+民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2900
+緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2901
+東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2902
+
+秒开湾湾5,#genre#
+台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1047
+中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1048
+華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1049
+民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1050
+公視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1201
+人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1198
+大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1216
+好消息GOOD TV,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1669
+Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1003
+DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1002
+旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1005
+動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1004
+亞洲旅遊,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1219
+MOMO親子台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1007
+東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1008
+龍華卡通台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1670
+緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1044
+八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1043
+八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1019
+三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1021
+三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1020
+韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1024
+東森綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1041
+超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1180
+中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1022
+中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1023
+東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1195
+MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1189
+東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1042
+八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1057
+TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1018
+緯來戲劇,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1186
+龍華戲劇台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1671
+龍華日韓劇,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1672
+龍華偶像劇,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1673
+緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1026
+Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1674
+年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1192
+東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1014
+中天新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1675
+民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1204
+三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1016
+TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1052
+TVBS HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1668
+非凡新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1013
+非凡商業HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1012
+東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1017
+寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1222
+壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1676
+Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1066
+NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1027
+鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1031
+好萊塢電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1025
+緯來電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1183
+龍華電影台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1677
+HBO,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1029
+AXN,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1054
+CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1030
+AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1032
+寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1040
+緯來育樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1045
+緯來體育HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1011
+博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1678
+momo綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1225
+DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1069
+DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1072
+廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1033
+CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1034
+海峽衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1035
+浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1036
+東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1037
+湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1038
+鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1666
+鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1213
+
 ⚽️🏀直播,#genre#
 盗源狗si全家 全家下地狱
 ⚽️🏀波妞,https://new-live.jnyyoa.com/notlive/1744267.m3u8
