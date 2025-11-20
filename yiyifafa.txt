@@ -6914,6 +6914,8 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 操控游戏第04集,http://play.modujx11.com/20251105/R0TG95xf/3714kb/hls/index.m3u8
 操控游戏第05集,http://play.modujx11.com/20251112/5YqJ42YP/4016kb/hls/index.m3u8
 操控游戏第06集,http://play.modujx11.com/20251112/ROHHfXan/4356kb/hls/index.m3u8
+操控游戏第07集,http://play.modujx11.com/20251119/S9cAYpNy/3723kb/hls/index.m3u8
+操控游戏第08集,https://play.modujx11.com/20251119/lOlK40or/3275kb/hls/index.m3u8
 
 私密频道_169169,#genre#
 移动网专用,1
