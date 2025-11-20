@@ -4828,7 +4828,7 @@ CHC家庭影院,http://183.214.23.58:2380/hw1live.rxip.sc96655.com.huan.tv/live/
 北京IPTV淘娱乐 8M1080,http://183.214.23.58:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 北京IPTV淘电影 8M1080,http://183.214.23.58:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV萌宠TV 8M1080,http://183.214.23.58:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-北京大健康 8M1080,http://183.214.23.58:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
+重温经典 8M1080,http://183.214.23.58:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 凤凰中文 10M720,http://183.214.23.58:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰中文 10M720,http://183.214.23.58:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
 凤凰资讯 10M720,http://183.214.23.58:2380/ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
