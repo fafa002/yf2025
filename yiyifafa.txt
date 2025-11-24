@@ -403,8 +403,9 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+VIUTV6,http://php.jdshipin.com/smt.php?id=viusix_twn
+HOYTV77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOYTV78,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -412,6 +413,7 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影2,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
@@ -423,8 +425,6 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 TVB plus备2,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB plus备4,http://live.p2pcy.xyz:18000/hls/23df/23df_live.m3u8
-无线体育财经A,https://live2.xmqkx.com/live/24a96922238e45f7ab7b3157cd8b0298.flv
-18台,https://live2.xmqkx.com/live/24a96922238e45f7ab7b3157cd8b0051.flv
 
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
