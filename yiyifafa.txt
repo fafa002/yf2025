@@ -7655,10 +7655,10 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 亲爱的X第02集,http://play.modujx11.com/20251106/FkyykWWn/4099kb/hls/index.m3u8
 亲爱的X第03集,http://play.modujx11.com/20251106/9nftKURV/4613kb/hls/index.m3u8
 亲爱的X第04集,http://play.modujx11.com/20251106/itXwpyiW/3559kb/hls/index.m3u8
-亲爱的X第05集,https://play.modujx11.com/20251113/vAM85dnB/3582kb/hls/index.m3u8
-亲爱的X第06集,https://play.modujx11.com/20251113/JGy6rBRS/3530kb/hls/index.m3u8
-亲爱的X第07集,https://play.modujx11.com/20251120/ldFsgrxp/4086kb/hls/index.m3u8
-亲爱的X第08集,https://play.modujx11.com/20251120/pREJti05/3050kb/hls/index.m3u8
+亲爱的X第05集,http://play.modujx11.com/20251113/vAM85dnB/3582kb/hls/index.m3u8
+亲爱的X第06集,http://play.modujx11.com/20251113/JGy6rBRS/3530kb/hls/index.m3u8
+亲爱的X第07集,http://play.modujx11.com/20251120/ldFsgrxp/4086kb/hls/index.m3u8
+亲爱的X第08集,http://play.modujx11.com/20251120/pREJti05/3050kb/hls/index.m3u8
 
 操控游戏第01集,http://play.modujx11.com/20251105/fihExB8i/3725kb/hls/index.m3u8
 操控游戏第02集,http://play.modujx11.com/20251105/Oyy28fsu/3812kb/hls/index.m3u8
@@ -7667,7 +7667,7 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 操控游戏第05集,http://play.modujx11.com/20251112/5YqJ42YP/4016kb/hls/index.m3u8
 操控游戏第06集,http://play.modujx11.com/20251112/ROHHfXan/4356kb/hls/index.m3u8
 操控游戏第07集,http://play.modujx11.com/20251119/S9cAYpNy/3723kb/hls/index.m3u8
-操控游戏第08集,https://play.modujx11.com/20251119/lOlK40or/3275kb/hls/index.m3u8
+操控游戏第08集,http://play.modujx11.com/20251119/lOlK40or/3275kb/hls/index.m3u8
 
 私密频道_169169,#genre#
 移动网专用,1
