@@ -453,13 +453,24 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 中天新聞台2,http://dungou.szius.com:8080/live/yifatv-ztxw02.flv
 
 翡翠台,http://pull.spphj.com/live/tvbfct.flv
-Now紫金国际,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow03kkhk.flv
-Now星影台,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow01kkhk.flv
-Now爆谷台,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow02kkhk.flv
-Now华剧台,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow04kkhk.flv
-Now剧集台,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow05kkhk.flv
-中天新闻,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
-TVBS,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagtvbskks.flv
+
+Plus综合,http://rihou.cc:8/Plus综合
+凤凰香港,http://rihou.cc:8/凤凰香港
+中天新闻,http://rihou.cc:8/中天新闻
+无线新闻,http://rihou.cc:8/无线新闻
+无线翡翠,http://rihou.cc:8/无线翡翠
+无线明珠,http://rihou.cc:8/无线明珠
+Now星影,http://rihou.cc:8/Now星影
+Now爆谷,http://rihou.cc:8/Now爆谷
+Now英超,http://rihou.cc:8/Now英超
+tvbs闽南,http://rihou.cc:8/tvbs闽南
+tvbs新话,http://rihou.cc:8/tvbs新话
+VIUTV粤,http://rihou.cc:8/VIUTV粤
+VIUTV英,http://rihou.cc:8/VIUTV英
+RTHK-31,http://rihou.cc:8/RTHK-31
+RTHK-32,http://rihou.cc:8/RTHK-32
+RTHK-33,http://rihou.cc:8/RTHK-33
+RTHK-34,http://rihou.cc:8/RTHK-34
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
