@@ -1014,117 +1014,94 @@ CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live10
 鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1213
 
 四季台湾,#genre#
-中天新聞台,http://2099.tv12.xyz/1_1764401683011.m3u8
-TVBS新聞,http://2099.tv12.xyz/2_1764401683011.m3u8
-民視新聞台,http://2099.tv12.xyz/3_1764401683011.m3u8
-東森新聞台,http://2099.tv12.xyz/4_1764401683011.m3u8
-華視新聞,http://2099.tv12.xyz/5_1764401683011.m3u8
-鏡電視新聞台,http://2099.tv12.xyz/6_1764401683011.m3u8
-東森財經新聞台,http://2099.tv12.xyz/7_1764401683011.m3u8
-中視新聞,http://2099.tv12.xyz/8_1764401683011.m3u8
-寰宇新聞台,http://2099.tv12.xyz/9_1764401683011.m3u8
-寰宇新聞台灣台,http://2099.tv12.xyz/10_1764401683011.m3u8
-三立新聞iNEWS,http://2099.tv12.xyz/11_1764401683011.m3u8
-Bloomberg TV,http://2099.tv12.xyz/12_1764401683011.m3u8
-SBN全球財經台,http://2099.tv12.xyz/13_1764401683011.m3u8
-FRANCE24 英文台,http://2099.tv12.xyz/14_1764401683011.m3u8
-半島國際新聞台,http://2099.tv12.xyz/15_1764401683011.m3u8
-NHK WORLD-JAPAN,http://2099.tv12.xyz/16_1764401683011.m3u8
-CNBC Asia 財經台,http://2099.tv12.xyz/17_1764401683011.m3u8
-DW德國之聲,http://2099.tv12.xyz/18_1764401683011.m3u8
-民視第一台,http://2099.tv12.xyz/19_1764401683011.m3u8
-民視台灣台,http://2099.tv12.xyz/20_1764401683011.m3u8
-民視,http://2099.tv12.xyz/21_1764401683011.m3u8
-三立綜合台,http://2099.tv12.xyz/22_1764401683011.m3u8
-華視,http://2099.tv12.xyz/23_1764401683011.m3u8
-中視,http://2099.tv12.xyz/24_1764401683011.m3u8
-中視經典台,http://2099.tv12.xyz/25_1764401683011.m3u8
-中視菁采台,http://2099.tv12.xyz/26_1764401683011.m3u8
-八大綜藝台,http://2099.tv12.xyz/27_1764401683011.m3u8
-TVBS精采台,http://2099.tv12.xyz/28_1764401683011.m3u8
-民視綜藝台,http://2099.tv12.xyz/29_1764401683011.m3u8
-TVBS,http://2099.tv12.xyz/30_1764401683011.m3u8
-TVBS歡樂台,http://2099.tv12.xyz/31_1764401683011.m3u8
-TVBS綜藝台,http://2099.tv12.xyz/32_1764401683011.m3u8
-TVBS台劇台,http://2099.tv12.xyz/33_1764401683011.m3u8
-靖天綜合台,http://2099.tv12.xyz/34_1764401683011.m3u8
-靖天日本台,http://2099.tv12.xyz/35_1764401683011.m3u8
-KLT-靖天國際台,http://2099.tv12.xyz/36_1764401683011.m3u8
-靖天資訊台,http://2099.tv12.xyz/37_1764401683011.m3u8
-Nice TV 靖天歡樂台,http://2099.tv12.xyz/38_1764401683011.m3u8
-新唐人亞太台,http://2099.tv12.xyz/39_1764401683011.m3u8
-ARIRANG阿里郎頻道,http://2099.tv12.xyz/40_1764401683011.m3u8
-Global Trekker,http://2099.tv12.xyz/41_1764401683011.m3u8
-原住民族電視台,http://2099.tv12.xyz/42_1764401683011.m3u8
-客家電視台,http://2099.tv12.xyz/43_1764401683011.m3u8
-國會頻道1,http://2099.tv12.xyz/44_1764401683011.m3u8
-國會頻道2,http://2099.tv12.xyz/45_1764401683011.m3u8
-好消息,http://2099.tv12.xyz/46_1764401683011.m3u8
-好消息2台,http://2099.tv12.xyz/47_1764401683011.m3u8
-大愛電視,http://2099.tv12.xyz/48_1764401683011.m3u8
-大愛二台,http://2099.tv12.xyz/49_1764401683011.m3u8
-人間衛視,http://2099.tv12.xyz/50_1764401683011.m3u8
-民視旅遊台,http://2099.tv12.xyz/51_1764401683011.m3u8
-亞洲旅遊台,http://2099.tv12.xyz/52_1764401683011.m3u8
-愛爾達生活旅遊台,http://2099.tv12.xyz/53_1764401683011.m3u8
-fun探索娛樂台,http://2099.tv12.xyz/54_1764401683011.m3u8
-幸福空間居家台,http://2099.tv12.xyz/55_1764401683011.m3u8
-Love Nature,http://2099.tv12.xyz/56_1764401683011.m3u8
-History 歷史頻道,http://2099.tv12.xyz/57_1764401683011.m3u8
-LUXE TV Channel,http://2099.tv12.xyz/58_1764401683011.m3u8
-TV5MONDE STYLE HD 生活時尚,http://2099.tv12.xyz/59_1764401683011.m3u8
-MagellanTV頻道 (麥哲倫頻道),http://2099.tv12.xyz/60_1764401683011.m3u8
-Lifetime 娛樂頻道,http://2099.tv12.xyz/61_1764401683011.m3u8
-ROCK Entertainment,http://2099.tv12.xyz/62_1764401683011.m3u8
-八大精彩台,http://2099.tv12.xyz/63_1764401683011.m3u8
-靖天育樂台,http://2099.tv12.xyz/64_1764401683011.m3u8
-豬哥亮歌廳秀,http://2099.tv12.xyz/65_1764401683011.m3u8
-韓國娛樂台 KMTV,http://2099.tv12.xyz/66_1764401683011.m3u8
-愛爾達娛樂台,http://2099.tv12.xyz/67_1764401683011.m3u8
-民視影劇台,http://2099.tv12.xyz/68_1764401683011.m3u8
-公視戲劇,http://2099.tv12.xyz/69_1764401683011.m3u8
-采昌影劇台,http://2099.tv12.xyz/70_1764401683011.m3u8
-靖天戲劇台,http://2099.tv12.xyz/71_1764401683011.m3u8
-靖洋戲劇台,http://2099.tv12.xyz/72_1764401683011.m3u8
-靖天映畫,http://2099.tv12.xyz/73_1764401683011.m3u8
-靖天電影台,http://2099.tv12.xyz/74_1764401683011.m3u8
-影迷數位電影台,http://2099.tv12.xyz/75_1764401683011.m3u8
-amc電影台,http://2099.tv12.xyz/76_1764401683011.m3u8
-CinemaWorld,http://2099.tv12.xyz/77_1764401683011.m3u8
-My Cinema Europe HD 我的歐洲電影,http://2099.tv12.xyz/78_1764401683011.m3u8
-經典電影台,http://2099.tv12.xyz/79_1764401683011.m3u8
-電影原聲台CMusic,http://2099.tv12.xyz/80_1764401683011.m3u8
-CI 罪案偵查頻道,http://2099.tv12.xyz/81_1764401683011.m3u8
-視納華仁紀實頻道,http://2099.tv12.xyz/82_1764401683011.m3u8
-影迷數位紀實台,http://2099.tv12.xyz/83_1764401683011.m3u8
-戲劇免費看 1台,http://2099.tv12.xyz/84_1764401683011.m3u8
-LiveABC互動英語頻道,http://2099.tv12.xyz/85_1764401683011.m3u8
-ELTV生活英語台,http://2099.tv12.xyz/86_1764401683011.m3u8
-MOMO親子台,http://2099.tv12.xyz/87_1764401683011.m3u8
-Nick Jr. 兒童頻道,http://2099.tv12.xyz/88_1764401683011.m3u8
-尼克兒童頻道,http://2099.tv12.xyz/89_1764401683011.m3u8
-DreamWorks 夢工廠動畫,http://2099.tv12.xyz/90_1764401683011.m3u8
-靖天卡通台,http://2099.tv12.xyz/91_1764401683011.m3u8
-靖洋卡通Nice Bingo,http://2099.tv12.xyz/92_1764401683011.m3u8
-金光布袋戲,http://2099.tv12.xyz/93_1764401683011.m3u8
-霹靂布袋戲,http://2099.tv12.xyz/94_1764401683011.m3u8
-經典卡通台,http://2099.tv12.xyz/95_1764401683011.m3u8
-精選動漫台,http://2099.tv12.xyz/96_1764401683011.m3u8
-MTV Live HD 音樂頻道,http://2099.tv12.xyz/97_1764401683011.m3u8
-Mezzo Live HD,http://2099.tv12.xyz/98_1764401683011.m3u8
-CLASSICA 古典樂,http://2099.tv12.xyz/99_1764401683011.m3u8
-INULTRA,http://2099.tv12.xyz/100_1764401683011.m3u8
-TRACE Urban,http://2099.tv12.xyz/101_1764401683011.m3u8
-TRACE Sport Stars,http://2099.tv12.xyz/102_1764401683011.m3u8
-ROCK Action,http://2099.tv12.xyz/103_1764401683011.m3u8
-HITS頻道,http://2099.tv12.xyz/104_1764401683011.m3u8
-車迷TV,http://2099.tv12.xyz/105_1764401683011.m3u8
-GINX Esports TV,http://2099.tv12.xyz/106_1764401683011.m3u8
-Pet Club TV,http://2099.tv12.xyz/107_1764401683011.m3u8
-滾動力rollor,http://2099.tv12.xyz/108_1764401683011.m3u8
-達文西頻道,http://2099.tv12.xyz/109_1764401683011.m3u8
-智林體育台,http://2099.tv12.xyz/110_1764401683011.m3u8
-時尚運動X,http://2099.tv12.xyz/111_1764401683011.m3u8
+中天新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中天新聞台
+TVBS新聞,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS新聞
+民視新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視新聞台
+東森新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=東森新聞台
+華視新聞,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=華視新聞
+鏡電視新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=鏡電視新聞台
+東森財經新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=東森財經新聞台
+中視新聞,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中視新聞
+寰宇新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=寰宇新聞台
+寰宇新聞台灣台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=寰宇新聞台灣台
+三立新聞iNEWS,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=三立新聞iNEWS
+民視第一台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視第一台
+民視台灣台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視台灣台
+民視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視
+三立綜合台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=三立綜合台
+華視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=華視
+中視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中視
+中視經典台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中視經典台
+中視菁采台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中視菁采台
+八大綜藝台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=八大綜藝台
+TVBS精采台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS精采台
+民視綜藝台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視綜藝台
+TVBS,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
+TVBS歡樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS歡樂台
+TVBS綜藝台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS綜藝台
+TVBS台劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS台劇台
+靖天綜合台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天綜合台
+靖天日本台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天日本台
+KLT-靖天國際台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=KLT-靖天國際台
+靖天資訊台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天資訊台
+Nice TV 靖天歡樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=Nice TV 靖天歡樂台
+新唐人亞太台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=新唐人亞太台
+原住民族電視台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=原住民族電視台
+客家電視台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=客家電視台
+國會頻道1,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=國會頻道1
+國會頻道2,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=國會頻道2
+好消息,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=好消息
+好消息2台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=好消息2台
+大愛電視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=大愛電視
+大愛二台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=大愛二台
+人間衛視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=人間衛視
+民視旅遊台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視旅遊台
+亞洲旅遊台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=亞洲旅遊台
+愛爾達生活旅遊台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=愛爾達生活旅遊台
+fun探索娛樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=fun探索娛樂台
+幸福空間居家台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=幸福空間居家台
+History 歷史頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=History 歷史頻道
+TV5MONDE STYLE HD 生活時尚,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE STYLE HD 生活時尚
+MagellanTV頻道 (麥哲倫頻道),http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV頻道 (麥哲倫頻道)
+Lifetime 娛樂頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime 娛樂頻道
+八大精彩台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=八大精彩台
+靖天育樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天育樂台
+豬哥亮歌廳秀,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=豬哥亮歌廳秀
+韓國娛樂台 KMTV,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=韓國娛樂台 KMTV
+愛爾達娛樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=愛爾達娛樂台
+民視影劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視影劇台
+公視戲劇,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=公視戲劇
+采昌影劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=采昌影劇台
+靖天戲劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天戲劇台
+靖洋戲劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖洋戲劇台
+靖天映畫,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天映畫
+靖天電影台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天電影台
+影迷數位電影台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=影迷數位電影台
+amc電影台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=amc電影台
+經典電影台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=經典電影台
+電影原聲台CMusic,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=電影原聲台CMusic
+CI 罪案偵查頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=CI 罪案偵查頻道
+視納華仁紀實頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=視納華仁紀實頻道
+影迷數位紀實台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=影迷數位紀實台
+戲劇免費看 1台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=戲劇免費看 1台
+LiveABC互動英語頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=LiveABC互動英語頻道
+ELTV生活英語台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV生活英語台
+MOMO親子台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=MOMO親子台
+Nick Jr. 兒童頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=Nick Jr. 兒童頻道
+尼克兒童頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=尼克兒童頻道
+DreamWorks 夢工廠動畫,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks 夢工廠動畫
+靖天卡通台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天卡通台
+靖洋卡通Nice Bingo,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖洋卡通Nice Bingo
+金光布袋戲,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=金光布袋戲
+霹靂布袋戲,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=霹靂布袋戲
+經典卡通台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=經典卡通台
+精選動漫台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=精選動漫台
+HITS頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=HITS頻道
+車迷TV,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=車迷TV
+滾動力rollor,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=滾動力rollor
+達文西頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=達文西頻道
+智林體育台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=智林體育台
+時尚運動X,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=時尚運動X
 
 ⚽️🏀直播,#genre#
 盗源狗si全家 全家下地狱
