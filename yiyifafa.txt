@@ -452,7 +452,8 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 中天新聞台,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 中天新聞台2,http://dungou.szius.com:8080/live/yifatv-ztxw02.flv
 
-翡翠台,http://pull.spphj.com/live/tvbfct.flv
+凤凰资讯,http://zhong9527.dpdns.org/fhzx66666.m3u8
+中天新闻,http://zhong9527.dpdns.org/zhongtian66666.m3u8
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
