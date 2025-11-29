@@ -367,7 +367,6 @@ QQ群,1
 换安卓9盒子,7
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
@@ -563,6 +562,22 @@ ROCKAction,http://tl.061833.xyz/tl/rockaction
 ROCK綜藝娛樂,http://tl.061833.xyz/tl/rock
 SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 ZooMoo,http://tl.061833.xyz/tl/zoomoo
+
+极速168,#genre#
+HOY76,http://hls.168.us.kg/u/76/master.m3u8
+HOY77,http://hls.168.us.kg/u/77/master.m3u8
+HOY78,http://hls.168.us.kg/u/78/master.m3u8
+HOY78,http://hls.168.us.kg/u/78/master.m3u8
+无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
+Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
+ViuTVsix,http://hls.168.us.kg/u/96/master.m3u8
+ViuTV,http://hls.168.us.kg/u/99/master.m3u8
+Now華劇台,http://hls.168.us.kg/u/105/master.m3u8
+熊貓TV,http://hls.168.us.kg/u/200/master.m3u8
+Now直播台,http://hls.168.us.kg/u/331/master.m3u8
+Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
+Now財經台,http://hls.168.us.kg/u/333/master.m3u8
+Now Sports 精選,http://hls.168.us.kg/u/630/master.m3u8
 
 极速风云,#genre#
 SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
