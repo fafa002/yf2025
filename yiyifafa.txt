@@ -571,7 +571,10 @@ HOY76,http://hls.168.us.kg/u/76/master.m3u8
 HOY77,http://hls.168.us.kg/u/77/master.m3u8
 HOY78,http://hls.168.us.kg/u/78/master.m3u8
 HOY78,http://hls.168.us.kg/u/78/master.m3u8
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
 无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
+明珠台,http://hls.168.us.kg/u/84/master.m3u8
 Now新聞台,http://hls.168.us.kg/u/332/master.m3u8
 ViuTVsix,http://hls.168.us.kg/u/96/master.m3u8
 ViuTV,http://hls.168.us.kg/u/99/master.m3u8
