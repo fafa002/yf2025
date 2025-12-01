@@ -602,412 +602,481 @@ JET综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 
-秒开湾湾1,#genre#
-飯店介紹-藍山大飯店,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=custom19
-台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1047
-中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1048
-華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1049
-民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1050
-公視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1201
-人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1198
-大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1216
-好消息頻道,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1231
-Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1003
-DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1002
-旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1005
-動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1004
-亞洲旅遊,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1219
-momo親子台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1007
-東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1008
-ANIMAX 卡通動畫頻道,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1060
-龍華卡通台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=custom29
-緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1044
-八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1043
-八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1019
-三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1021
-三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1020
-韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1024
-東森綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1041
-超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1180
-中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1022
-中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1023
-東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1195
-MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1189
-東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1042
-八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1057
-TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1018
-緯來戲劇,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1186
-龍華戲劇台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1009
-龍華日韓劇,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1010
-龍華偶像劇,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1235
-緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1026
-Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1238
-年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1192
-東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1014
-中天新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1015
-民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1204
-三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1016
-TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1051
-TVBS HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1251
-非凡新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1013
-非凡商業,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1012
-東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1017
-寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1222
-壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1242
-CNBC,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1063
-Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1066
-NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1027
-鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1031
-好萊塢電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1025
-緯來電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1183
-龍華電影台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1245
-HBO,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1029
-AXN,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1054
-CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1030
-AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1032
-寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1040
-緯來育樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1045
-緯來體育HD,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1011
-博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1225
-momo 綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1248
-DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1069
-DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1072
-廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1033
-CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1034
-海峽衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1035
-浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1036
-東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1037
-湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1038
-鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1210
-鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=60.250.121.103:1888&id=live1213
+四季台湾,#genre#
+民視第一台,http://tw.qquu.bid:21172/4gtv-4gtv003/index.m3u8?proxy=true
+民視台灣台,http://tw.qquu.bid:21172/4gtv-4gtv001/index.m3u8?proxy=true
+民視HD,http://tw.qquu.bid:21172/4gtv-4gtv002/index.m3u8?proxy=true
+大愛電視,http://tw.qquu.bid:21172/4gtv-live007/index.m3u8?proxy=true
+中視,http://tw.qquu.bid:21172/4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://tw.qquu.bid:21172/4gtv-4gtv041/index.m3u8?proxy=true
+三立綜合合,http://tw.qquu.bid:21172/4gtv-live207/index.m3u8?proxy=true
+客家電視,http://tw.qquu.bid:21172/4gtv-4gtv043/index.m3u8?proxy=true
+中視菁采台,http://tw.qquu.bid:21172/4gtv-4gtv064/index.m3u8?proxy=true
+靖天綜合,http://tw.qquu.bid:21172/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://tw.qquu.bid:21172/4gtv-4gtv047/index.m3u8?proxy=true
+新唐人亞太台,http://tw.qquu.bid:21172/4gtv-live050/index.m3u8?proxy=true
+Arirang TV,http://tw.qquu.bid:21172/4gtv-4gtv079/index.m3u8?proxy=true
+原住民族電視台,http://tw.qquu.bid:21172/4gtv-live014/index.m3u8?proxy=true
+東森購物四台,http://tw.qquu.bid:21172/4gtv-live049/index.m3u8?proxy=true
+東森購物一台,http://tw.qquu.bid:21172/4gtv-live047/index.m3u8?proxy=true
+東森購物一台,http://tw.qquu.bid:21172/4gtv-4gtv102/index.m3u8?proxy=true
+東森購物一台,http://tw.qquu.bid:21172/of-4gtv-4gtv102/index.m3u8?proxy=true
+TVBS HD,http://tw.qquu.bid:21172/4gtv-4gtv073/index.m3u8?proxy=true
+東森購物二台,http://tw.qquu.bid:21172/4gtv-live046/index.m3u8?proxy=true
+東森購物二台,http://tw.qquu.bid:21172/4gtv-4gtv103/index.m3u8?proxy=true
+東森購物二台,http://tw.qquu.bid:21172/of-4gtv-4gtv103/index.m3u8?proxy=true
+靖天育樂,http://tw.qquu.bid:21172/4gtv-4gtv062/index.m3u8?proxy=true
+靖天國際,http://tw.qquu.bid:21172/4gtv-4gtv063/index.m3u8?proxy=true
+靖天歡樂,http://tw.qquu.bid:21172/4gtv-4gtv054/index.m3u8?proxy=true
+靖天資訊,http://tw.qquu.bid:21172/4gtv-4gtv065/index.m3u8?proxy=true
+韓國娛樂台,http://tw.qquu.bid:21172/4gtv-4gtv016/index.m3u8?proxy=true
+東森購物三台,http://tw.qquu.bid:21172/4gtv-live048/index.m3u8?proxy=true
+好消息,http://tw.qquu.bid:21172/litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://tw.qquu.bid:21172/litv-ftv17/index.m3u8?proxy=true
+大愛二台,http://tw.qquu.bid:21172/4gtv-live106/index.m3u8?proxy=true
+人間衛視,http://tw.qquu.bid:21172/4gtv-live008/index.m3u8?proxy=true
+國會頻道1,http://tw.qquu.bid:21172/4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://tw.qquu.bid:21172/4gtv-4gtv085/index.m3u8?proxy=true
+民視第一台,http://tw.qquu.bid:21172/li-4gtv-4gtv003/index.m3u8?proxy=true
+民視台灣台,http://tw.qquu.bid:21172/li-4gtv-4gtv001/index.m3u8?proxy=true
+中視,http://tw.qquu.bid:21172/li-4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://tw.qquu.bid:21172/li-4gtv-4gtv041/index.m3u8?proxy=true
+中天亞洲台,http://tw.qquu.bid:21172/4gtv-4gtv109/index.m3u8?proxy=true
+三立綜合合,http://tw.qquu.bid:21172/4gtv-live207/index.m3u8?proxy=true
+客家電視,http://tw.qquu.bid:21172/4gtv-4gtv043/index.m3u8?proxy=true
+中視菁采台,http://tw.qquu.bid:21172/li-4gtv-4gtv064/index.m3u8?proxy=true
+靖天綜合,http://tw.qquu.bid:21172/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://tw.qquu.bid:21172/li-4gtv-4gtv047/index.m3u8?proxy=true
+Arirang TV,http://tw.qquu.bid:21172/li-4gtv-4gtv079/index.m3u8?proxy=true
+TVBS HD,http://tw.qquu.bid:21172/li-4gtv-4gtv073/index.m3u8?proxy=true
+靖天育樂,http://tw.qquu.bid:21172/li-4gtv-4gtv062/index.m3u8?proxy=true
+靖天國際,http://tw.qquu.bid:21172/li-4gtv-4gtv063/index.m3u8?proxy=true
+靖天歡樂,http://tw.qquu.bid:21172/li-4gtv-4gtv054/index.m3u8?proxy=true
+靖天資訊,http://tw.qquu.bid:21172/li-4gtv-4gtv065/index.m3u8?proxy=true
+韓國娛樂台,http://tw.qquu.bid:21172/li-4gtv-4gtv016/index.m3u8?proxy=true
+好消息,http://tw.qquu.bid:21172/li-litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://tw.qquu.bid:21172/li-litv-ftv17/index.m3u8?proxy=true
+國會頻道1,http://tw.qquu.bid:21172/li-4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://tw.qquu.bid:21172/li-4gtv-4gtv085/index.m3u8?proxy=true
+台視HD,http://tw.qquu.bid:21172/li-4gtv-4gtv066/index.m3u8?proxy=true
+台視HD,http://tw.qquu.bid:21172/4gtv-4gtv066/index.m3u8?proxy=true
+中視,http://tw.qquu.bid:21172/of-4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://tw.qquu.bid:21172/of-4gtv-4gtv041/index.m3u8?proxy=true
+好消息,http://tw.qquu.bid:21172/of-litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://tw.qquu.bid:21172/of-litv-ftv17/index.m3u8?proxy=true
+國會頻道1,http://tw.qquu.bid:21172/of-4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://tw.qquu.bid:21172/of-4gtv-4gtv085/index.m3u8?proxy=true
+中視經典台,http://tw.qquu.bid:21172/4gtv-4gtv080/index.m3u8?proxy=true
+ROCK Entertainment,http://tw.qquu.bid:21172/4gtv-live080/index.m3u8?proxy=true
+公視戲劇,http://tw.qquu.bid:21172/4gtv-4gtv042/index.m3u8?proxy=true
+民視影劇,http://tw.qquu.bid:21172/litv-ftv09/index.m3u8?proxy=true
+HITS,http://tw.qquu.bid:21172/4gtv-live620/index.m3u8?proxy=true
+霹靂布袋戲,http://tw.qquu.bid:21172/4gtv-live145/index.m3u8?proxy=true
+靖天戲劇,http://tw.qquu.bid:21172/4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇,http://tw.qquu.bid:21172/4gtv-4gtv045/index.m3u8?proxy=true
+金光布袋戲,http://tw.qquu.bid:21172/4gtv-live144/index.m3u8?proxy=true
+ROCK Action,http://tw.qquu.bid:21172/4gtv-live138/index.m3u8?proxy=true
+采昌影劇,http://tw.qquu.bid:21172/4gtv-4gtv049/index.m3u8?proxy=true
+靖天映畫,http://tw.qquu.bid:21172/4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影,http://tw.qquu.bid:21172/4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影台,http://tw.qquu.bid:21172/4gtv-4gtv011/index.m3u8?proxy=true
+amc 電影台,http://tw.qquu.bid:21172/4gtv-4gtv017/index.m3u8?proxy=true
+Cinema World,http://tw.qquu.bid:21172/4gtv-live069/index.m3u8?proxy=true
+歐洲光影,http://tw.qquu.bid:21172/4gtv-live157/index.m3u8?proxy=true
+TVBS台劇台,http://tw.qquu.bid:21172/4gtv-live088/index.m3u8?proxy=true
+經典電影台,http://tw.qquu.bid:21172/4gtv-live021/index.m3u8?proxy=true
+戲劇免費看1台,http://tw.qquu.bid:21172/4gtv-live010/index.m3u8?proxy=true
+中視經典台,http://tw.qquu.bid:21172/li-4gtv-4gtv080/index.m3u8?proxy=true
+龍華洋片,http://tw.qquu.bid:21172/li-litv-longturn02/index.m3u8?proxy=true
+龍華電影,http://tw.qquu.bid:21172/li-litv-longturn03/index.m3u8?proxy=true
+龍華日韓,http://tw.qquu.bid:21172/li-litv-longturn11/index.m3u8?proxy=true
+龍華偶像,http://tw.qquu.bid:21172/li-litv-longturn12/index.m3u8?proxy=true
+龍華戲劇,http://tw.qquu.bid:21172/li-litv-longturn18/index.m3u8?proxy=true
+龍華經典,http://tw.qquu.bid:21172/li-litv-longturn21/index.m3u8?proxy=true
+公視戲劇,http://tw.qquu.bid:21172/li-4gtv-4gtv042/index.m3u8?proxy=true
+民視影劇,http://tw.qquu.bid:21172/li-litv-ftv09/index.m3u8?proxy=true
+靖天戲劇,http://tw.qquu.bid:21172/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇,http://tw.qquu.bid:21172/li-4gtv-4gtv045/index.m3u8?proxy=true
+采昌影劇,http://tw.qquu.bid:21172/li-4gtv-4gtv049/index.m3u8?proxy=true
+靖天映畫,http://tw.qquu.bid:21172/li-4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影,http://tw.qquu.bid:21172/li-4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影台,http://tw.qquu.bid:21172/li-4gtv-4gtv011/index.m3u8?proxy=true
+amc 電影台,http://tw.qquu.bid:21172/li-4gtv-4gtv017/index.m3u8?proxy=true
+台灣戲劇台,http://tw.qquu.bid:21172/li-litv-longturn22/index.m3u8?proxy=true
+台灣戲劇台,http://tw.qquu.bid:21172/litv-longturn22/index.m3u8?proxy=true
+龍華洋片,http://tw.qquu.bid:21172/litv-longturn02/index.m3u8?proxy=true
+龍華電影,http://tw.qquu.bid:21172/litv-longturn03/index.m3u8?proxy=true
+龍華日韓,http://tw.qquu.bid:21172/litv-longturn11/index.m3u8?proxy=true
+龍華偶像,http://tw.qquu.bid:21172/litv-longturn12/index.m3u8?proxy=true
+龍華戲劇,http://tw.qquu.bid:21172/litv-longturn18/index.m3u8?proxy=true
+龍華經典,http://tw.qquu.bid:21172/litv-longturn21/index.m3u8?proxy=true
+八大綜藝,http://tw.qquu.bid:21172/4gtv-4gtv039/index.m3u8?proxy=true
+TVBS精采台,http://tw.qquu.bid:21172/4gtv-4gtv067/index.m3u8?proxy=true
+ELTA娛樂,http://tw.qquu.bid:21172/4gtv-4gtv070/index.m3u8?proxy=true
+民視綜藝,http://tw.qquu.bid:21172/4gtv-4gtv004/index.m3u8?proxy=true
+豬哥亮歌廳秀,http://tw.qquu.bid:21172/4gtv-4gtv006/index.m3u8?proxy=true
+TVBS歡樂台,http://tw.qquu.bid:21172/4gtv-4gtv068/index.m3u8?proxy=true
+電影原聲台 CMusic,http://tw.qquu.bid:21172/4gtv-live031/index.m3u8?proxy=true
+Trace Urban,http://tw.qquu.bid:21172/4gtv-4gtv082/index.m3u8?proxy=true
+MTV Live,http://tw.qquu.bid:21172/4gtv-live025/index.m3u8?proxy=true
+MEZZO LIVE HD,http://tw.qquu.bid:21172/4gtv-4gtv083/index.m3u8?proxy=true
+CLASSICA 古典樂,http://tw.qquu.bid:21172/4gtv-4gtv059/index.m3u8?proxy=true
+八大精彩,http://tw.qquu.bid:21172/4gtv-4gtv034/index.m3u8?proxy=true
+TVBS綜藝台,http://tw.qquu.bid:21172/4gtv-live087/index.m3u8?proxy=true
+八大綜藝,http://tw.qquu.bid:21172/li-4gtv-4gtv039/index.m3u8?proxy=true
+TVBS精采台,http://tw.qquu.bid:21172/li-4gtv-4gtv067/index.m3u8?proxy=true
+ELTA娛樂,http://tw.qquu.bid:21172/li-4gtv-4gtv070/index.m3u8?proxy=true
+民視綜藝,http://tw.qquu.bid:21172/li-4gtv-4gtv004/index.m3u8?proxy=true
+豬哥亮歌廳秀,http://tw.qquu.bid:21172/li-4gtv-4gtv006/index.m3u8?proxy=true
+TVBS歡樂台,http://tw.qquu.bid:21172/li-4gtv-4gtv068/index.m3u8?proxy=true
+Trace Urban,http://tw.qquu.bid:21172/li-4gtv-4gtv082/index.m3u8?proxy=true
+MEZZO LIVE HD,http://tw.qquu.bid:21172/li-4gtv-4gtv083/index.m3u8?proxy=true
+CLASSICA 古典樂,http://tw.qquu.bid:21172/li-4gtv-4gtv059/index.m3u8?proxy=true
+八大精彩,http://tw.qquu.bid:21172/li-4gtv-4gtv034/index.m3u8?proxy=true
+Global Trekker,http://tw.qquu.bid:21172/4gtv-live112/index.m3u8?proxy=true
+Lifetime,http://tw.qquu.bid:21172/4gtv-live029/index.m3u8?proxy=true
+INULTRA,http://tw.qquu.bid:21172/4gtv-live096/index.m3u8?proxy=true
+Pet Club TV,http://tw.qquu.bid:21172/4gtv-live110/index.m3u8?proxy=true
+民視旅遊,http://tw.qquu.bid:21172/litv-ftv07/index.m3u8?proxy=true
+滾動力 Rollor,http://tw.qquu.bid:21172/4gtv-live012/index.m3u8?proxy=true
+亞洲旅遊,http://tw.qquu.bid:21172/4gtv-4gtv076/index.m3u8?proxy=true
+FUN 4K探索娛樂,http://tw.qquu.bid:21172/4gtv-live011/index.m3u8?proxy=true
+幸福空間居家台,http://tw.qquu.bid:21172/4gtv-live206/index.m3u8?proxy=true
+LOVE NATURE,http://tw.qquu.bid:21172/4gtv-live208/index.m3u8?proxy=true
+ELTA生活旅遊,http://tw.qquu.bid:21172/4gtv-live120/index.m3u8?proxy=true
+LUXE TV,http://tw.qquu.bid:21172/4gtv-live121/index.m3u8?proxy=true
+TV5MONDE Style,http://tw.qquu.bid:21172/4gtv-live122/index.m3u8?proxy=true
+MagellanTV頻道,http://tw.qquu.bid:21172/4gtv-live123/index.m3u8?proxy=true
+民視旅遊,http://tw.qquu.bid:21172/li-litv-ftv07/index.m3u8?proxy=true
+亞洲旅遊,http://tw.qquu.bid:21172/li-4gtv-4gtv076/index.m3u8?proxy=true
+Smart知識台,http://tw.qquu.bid:21172/li-litv-longturn19/index.m3u8?proxy=true
+亞洲旅遊,http://tw.qquu.bid:21172/of-4gtv-4gtv076/index.m3u8?proxy=true
+Smart知識台,http://tw.qquu.bid:21172/litv-longturn19/index.m3u8?proxy=true
+LiveABC 互動英語台,http://tw.qquu.bid:21172/4gtv-live030/index.m3u8?proxy=true
+達文西,http://tw.qquu.bid:21172/4gtv-4gtv018/index.m3u8?proxy=true
+ELTV生活英語台,http://tw.qquu.bid:21172/litv-longturn20/index.m3u8?proxy=true
+Nick Jr.,http://tw.qquu.bid:21172/4gtv-live032/index.m3u8?proxy=true
+Nickelodeon,http://tw.qquu.bid:21172/4gtv-live105/index.m3u8?proxy=true
+DreamWorks,http://tw.qquu.bid:21172/4gtv-live017/index.m3u8?proxy=true
+靖天卡通台,http://tw.qquu.bid:21172/4gtv-4gtv044/index.m3u8?proxy=true
+靖洋卡通,http://tw.qquu.bid:21172/4gtv-4gtv057/index.m3u8?proxy=true
+MOMO親子,http://tw.qquu.bid:21172/4gtv-live107/index.m3u8?proxy=true
+經典卡通台,http://tw.qquu.bid:21172/4gtv-live022/index.m3u8?proxy=true
+精選動漫台,http://tw.qquu.bid:21172/4gtv-live024/index.m3u8?proxy=true
+龍華卡通,http://tw.qquu.bid:21172/li-litv-longturn01/index.m3u8?proxy=true
+達文西,http://tw.qquu.bid:21172/li-4gtv-4gtv018/index.m3u8?proxy=true
+ELTV生活英語台,http://tw.qquu.bid:21172/li-litv-longturn20/index.m3u8?proxy=true
+靖天卡通台,http://tw.qquu.bid:21172/li-4gtv-4gtv044/index.m3u8?proxy=true
+靖洋卡通,http://tw.qquu.bid:21172/li-4gtv-4gtv057/index.m3u8?proxy=true
+ELTV生活英語台,http://tw.qquu.bid:21172/of-litv-longturn20/index.m3u8?proxy=true
+龍華卡通,http://tw.qquu.bid:21172/litv-longturn01/index.m3u8?proxy=true
+鏡電視新聞台,http://tw.qquu.bid:21172/4gtv-4gtv075/index.m3u8?proxy=true
+東森新聞,http://tw.qquu.bid:21172/4gtv-4gtv152/index.m3u8?proxy=true
+華視新聞台,http://tw.qquu.bid:21172/4gtv-4gtv052/index.m3u8?proxy=true
+民視新聞,http://tw.qquu.bid:21172/litv-ftv13/index.m3u8?proxy=true
+三立iNEWS,http://tw.qquu.bid:21172/4gtv-live089/index.m3u8?proxy=true
+東森財經新聞,http://tw.qquu.bid:21172/4gtv-4gtv153/index.m3u8?proxy=true
+中視新聞台,http://tw.qquu.bid:21172/4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://tw.qquu.bid:21172/4gtv-4gtv009/index.m3u8?proxy=true
+BLOOMBERG TV,http://tw.qquu.bid:21172/4gtv-live059/index.m3u8?proxy=true
+寰宇新聞,http://tw.qquu.bid:21172/litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://tw.qquu.bid:21172/4gtv-4gtv156/index.m3u8?proxy=true
+SBN 全球財經台,http://tw.qquu.bid:21172/4gtv-live060/index.m3u8?proxy=true
+寰宇財經,http://tw.qquu.bid:21172/4gtv-4gtv158/index.m3u8?proxy=true
+FRANCE24 英文台,http://tw.qquu.bid:21172/4gtv-live146/index.m3u8?proxy=true
+半島國際新聞台,http://tw.qquu.bid:21172/litv-ftv10/index.m3u8?proxy=true
+VOA 美國之音,http://tw.qquu.bid:21172/litv-ftv03/index.m3u8?proxy=true
+CNBC Asia 財經台,http://tw.qquu.bid:21172/4gtv-live130/index.m3u8?proxy=true
+DW德國之聲,http://tw.qquu.bid:21172/4gtv-live071/index.m3u8?proxy=true
+非凡新聞,http://tw.qquu.bid:21172/4gtv-4gtv010/index.m3u8?proxy=true
+非凡商業,http://tw.qquu.bid:21172/4gtv-4gtv048/index.m3u8?proxy=true
+台視財經台,http://tw.qquu.bid:21172/4gtv-4gtv056/index.m3u8?proxy=true
+鏡電視新聞台,http://tw.qquu.bid:21172/li-4gtv-4gtv075/index.m3u8?proxy=true
+東森新聞,http://tw.qquu.bid:21172/li-4gtv-4gtv152/index.m3u8?proxy=true
+民視新聞,http://tw.qquu.bid:21172/li-litv-ftv13/index.m3u8?proxy=true
+TVBS新聞台,http://tw.qquu.bid:21172/li-4gtv-4gtv072/index.m3u8?proxy=true
+東森財經新聞,http://tw.qquu.bid:21172/li-4gtv-4gtv153/index.m3u8?proxy=true
+中視新聞台,http://tw.qquu.bid:21172/4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://tw.qquu.bid:21172/li-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞,http://tw.qquu.bid:21172/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://tw.qquu.bid:21172/li-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經,http://tw.qquu.bid:21172/li-4gtv-4gtv158/index.m3u8?proxy=true
+半島國際新聞台,http://tw.qquu.bid:21172/li-litv-ftv10/index.m3u8?proxy=true
+VOA 美國之音,http://tw.qquu.bid:21172/li-litv-ftv03/index.m3u8?proxy=true
+台視新聞台,http://tw.qquu.bid:21172/li-4gtv-4gtv051/index.m3u8?proxy=true
+第1商業台,http://tw.qquu.bid:21172/li-4gtv-4gtv104/index.m3u8?proxy=true
+台視新聞台,http://tw.qquu.bid:21172/4gtv-4gtv051/index.m3u8?proxy=true
+中視新聞台,http://tw.qquu.bid:21172/of-4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://tw.qquu.bid:21172/of-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞,http://tw.qquu.bid:21172/of-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://tw.qquu.bid:21172/of-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經,http://tw.qquu.bid:21172/of-4gtv-4gtv158/index.m3u8?proxy=true
+第1商業台,http://tw.qquu.bid:21172/4gtv-4gtv104/index.m3u8?proxy=true
+三立iNEWS,http://tw.qquu.bid:21172/iNEWS/index.m3u8?proxy=true
+倪珍播新聞,http://tw.qquu.bid:21172/nnews-zh/index.m3u8?proxy=true
+倪珍英語新聞,http://tw.qquu.bid:21172/nnews-en/index.m3u8?proxy=true
+倪珍越語新聞,http://tw.qquu.bid:21172/nnews-vn/index.m3u8?proxy=true
+TRACE Sport Stars,http://tw.qquu.bid:21172/4gtv-4gtv077/index.m3u8?proxy=true
+智林體育,http://tw.qquu.bid:21172/4gtv-4gtv101/index.m3u8?proxy=true
+時尚運動X,http://tw.qquu.bid:21172/4gtv-4gtv014/index.m3u8?proxy=true
+車迷 TV,http://tw.qquu.bid:21172/4gtv-live201/index.m3u8?proxy=true
+GINX Esports TV,http://tw.qquu.bid:21172/4gtv-4gtv053/index.m3u8?proxy=true
+博斯魅力,http://tw.qquu.bid:21172/litv-longturn04/index.m3u8?proxy=true
+博斯高球I,http://tw.qquu.bid:21172/litv-longturn05/index.m3u8?proxy=true
+博斯高球II,http://tw.qquu.bid:21172/litv-longturn06/index.m3u8?proxy=true
+博斯運動I,http://tw.qquu.bid:21172/litv-longturn07/index.m3u8?proxy=true
+博斯運動II,http://tw.qquu.bid:21172/litv-longturn08/index.m3u8?proxy=true
+博斯網球,http://tw.qquu.bid:21172/litv-longturn09/index.m3u8?proxy=true
+博斯無限I,http://tw.qquu.bid:21172/litv-longturn10/index.m3u8?proxy=true
+博斯無限II,http://tw.qquu.bid:21172/litv-longturn13/index.m3u8?proxy=true
+TRACE Sport Stars,http://tw.qquu.bid:21172/li-4gtv-4gtv077/index.m3u8?proxy=true
+智林體育,http://tw.qquu.bid:21172/li-4gtv-4gtv101/index.m3u8?proxy=true
+時尚運動X,http://tw.qquu.bid:21172/li-4gtv-4gtv014/index.m3u8?proxy=true
+GINX Esports TV,http://tw.qquu.bid:21172/li-4gtv-4gtv053/index.m3u8?proxy=true
+歷史頻道,http://tw.qquu.bid:21172/4gtv-live026/index.m3u8?proxy=true
+CI 罪案偵查頻道,http://tw.qquu.bid:21172/4gtv-live027/index.m3u8?proxy=true
+視納華仁紀實頻道,http://tw.qquu.bid:21172/4gtv-4gtv013/index.m3u8?proxy=true
+影迷數位紀實台,http://tw.qquu.bid:21172/litv-ftv15/index.m3u8?proxy=true
+視納華仁紀實頻道,http://tw.qquu.bid:21172/li-4gtv-4gtv013/index.m3u8?proxy=true
+影迷數位紀實台,http://tw.qquu.bid:21172/li-litv-ftv15/index.m3u8?proxy=true
 
-秒开湾湾2,#genre#
-飯店介紹-藍山大飯店,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=custom19
-台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1047
-中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1048
-華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1049
-民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1050
-公視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1201
-人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1198
-大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1216
-好消息頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1231
-Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1003
-DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1002
-旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1005
-動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1004
-亞洲旅遊,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1219
-momo親子台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1007
-東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1008
-ANIMAX 卡通動畫頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1060
-龍華卡通台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=custom29
-緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1044
-八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1043
-八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1019
-三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1021
-三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1020
-韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1024
-東森綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1041
-超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1180
-中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1022
-中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1023
-東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1195
-MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1189
-東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1042
-八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1057
-TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1018
-緯來戲劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1186
-龍華戲劇台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1009
-龍華日韓劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1010
-龍華偶像劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1235
-緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1026
-Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1238
-年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1192
-東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1014
-中天新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1015
-民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1204
-三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1016
-TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1051
-TVBS HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1254
-非凡新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1013
-非凡商業,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1012
-東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1017
-寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1222
-壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1242
-CNBC,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1063
-Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1066
-NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1027
-鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1031
-好萊塢電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1025
-緯來電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1183
-龍華電影台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1245
-HBO,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1029
-AXN,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1054
-CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1030
-AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1032
-寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1040
-緯來育樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1045
-緯來體育HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1011
-博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1225
-momo 綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1248
-DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1069
-DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1072
-廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1033
-CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1034
-海峽衛視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1035
-浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1036
-東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1037
-湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1038
-鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1210
-鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1213
-國家地理,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1257
-衛視電影,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1260
-STAR MOVIES GOLD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1263
-Star World,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.229.128:1888&id=live1266
-
-秒开湾湾3,#genre#
-飯店介紹-藍山大飯店,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=custom19
-台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1047
-中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1048
-華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1049
-民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1050
-公視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1201
-人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1198
-大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1216
-好消息頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1231
-Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1003
-DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1002
-旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1005
-動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1004
-亞洲旅遊,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1219
-momo親子台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1007
-東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1008
-ANIMAX 卡通動畫頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1060
-龍華卡通台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=custom29
-緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1044
-八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1043
-八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1019
-三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1021
-三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1020
-韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1024
-東森綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1041
-超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1180
-中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1022
-中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1023
-東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1195
-MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1189
-東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1042
-八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1057
-TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1018
-緯來戲劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1186
-龍華戲劇台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1009
-龍華日韓劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1010
-龍華偶像劇,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1235
-緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1026
-Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1238
-年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1192
-東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1014
-中天新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1015
-民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1204
-三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1016
-TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1051
-TVBS HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1251
-非凡新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1013
-非凡商業,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1012
-東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1017
-寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1222
-壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1242
-CNBC,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1063
-Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1066
-NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1027
-鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1031
-好萊塢電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1025
-緯來電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1183
-龍華電影台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1245
-HBO,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1029
-AXN,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1054
-CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1030
-AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1032
-寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1040
-緯來育樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1045
-緯來體育HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1011
-博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1225
-momo 綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1248
-DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1069
-DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1072
-廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1033
-CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1034
-海峽衛視HD,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1035
-浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1036
-東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1037
-湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1038
-鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1210
-鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1213
-探索世界頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1257
-華藝中文台,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1266
-愛自然頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1263
-搖滾娛樂頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1260
-搖滾電影頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1254
-DreamWorks ,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1269
-MTV Live音樂頻道,http://nn.7x9d.cn/jd/mk11.php?ip=123.51.149.68:1888&id=live1272
-
-秒开湾湾4,#genre#
-台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1047
-中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1048
-華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1049
-民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1050
-公視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1201
-人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1198
-大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1216
-Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1003
-DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1002
-旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1005
-動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1004
-momo親子台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1007
-東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1008
-緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1044
-八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1043
-八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1019
-三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1021
-三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1020
-韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1024
-超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1180
-中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1022
-中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1023
-MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2002
-東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1042
-八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1057
-TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1018
-Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1238
-年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1192
-東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1014
-中天新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1015
-三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1016
-TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1080
-TVBS,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1081
-東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1017
-寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1222
-壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1242
-CNBC,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1063
-Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1066
-NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1228
-鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1031
-HBO,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1029
-AXN,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1054
-CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1030
-AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1032
-寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1040
-博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1225
-momo 綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1248
-DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1069
-DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1072
-廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1033
-CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1034
-海峽衛視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1035
-浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1036
-東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1037
-湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1038
-鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1210
-鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1213
-寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2024
-AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2023
-Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2025
-韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2021
-鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2022
-三立台灣,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1061
-年代新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1077
-三立新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1079
-尼克兒童頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1139
-nickjr.小尼克,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1138
-MTV Live音樂頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1140
-達文西頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1136
-寵物頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live1137
-DreamWorks,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2892
-國家地理HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2890
-搖滾電影頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2894
-探索世界頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2895
-搖滾娛樂頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2896
-愛自然頻道 ,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2897
-華藝中文台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2898
-緯來體育,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2899
-民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2900
-緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2901
-東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.26.165:1888&id=live2902
-
-秒开湾湾5,#genre#
-台視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1047
-中視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1048
-華視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1049
-民視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1050
-公視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1201
-人間衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1198
-大愛電視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1216
-好消息GOOD TV,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1669
-Trace Sport Stars,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1003
-DISCOVERY,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1002
-旅遊生活,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1005
-動物星球,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1004
-亞洲旅遊,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1219
-MOMO親子台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1007
-東森幼幼HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1008
-龍華卡通台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1670
-緯來綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1044
-八大第一HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1043
-八大綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1019
-三立台灣HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1021
-三立都會HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1020
-韓國娛樂台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1024
-東森綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1041
-超視HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1180
-中天綜合HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1022
-中天娛樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1023
-東風衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1195
-MUCH TV,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1189
-東森戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1042
-八大戲劇HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1057
-TVBS歡樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1018
-緯來戲劇,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1186
-龍華戲劇台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1671
-龍華日韓劇,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1672
-龍華偶像劇,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1673
-緯來日本HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1026
-Taiwan Plus,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1674
-年代新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1192
-東森新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1014
-中天新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1675
-民視新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1204
-三立新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1016
-TVBS新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1052
-TVBS HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1668
-非凡新聞HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1013
-非凡商業HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1012
-東森財經HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1017
-寰宇新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1222
-壹新聞,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1676
-Bloomberg News,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1066
-NHK世界HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1027
-鏡電視新聞台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1031
-好萊塢電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1025
-緯來電影HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1183
-龍華電影台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1677
-HBO,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1029
-AXN,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1054
-CINEMAX HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1030
-AMC 電影台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1032
-寵物頻道,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1040
-緯來育樂HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1045
-緯來體育HD,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1011
-博斯運動一,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1678
-momo綜合台,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1225
-DAZN 1,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1069
-DAZN 2,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1072
-廈門衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1033
-CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1034
-海峽衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1035
-浙江衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1036
-東方衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1037
-湖南衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1038
-鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1666
-鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1213
+四季台湾2,#genre#
+民視第一台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv003/index.m3u8?proxy=true
+民視台灣台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv001/index.m3u8?proxy=true
+民視HD,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv002/index.m3u8?proxy=true
+大愛電視,http://m-star.direct.quickconnect.to:7531/4gtv-live007/index.m3u8?proxy=true
+中視,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv041/index.m3u8?proxy=true
+三立綜合合,http://m-star.direct.quickconnect.to:7531/4gtv-live207/index.m3u8?proxy=true
+客家電視,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv043/index.m3u8?proxy=true
+中視菁采台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv064/index.m3u8?proxy=true
+靖天綜合,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv047/index.m3u8?proxy=true
+新唐人亞太台,http://m-star.direct.quickconnect.to:7531/4gtv-live050/index.m3u8?proxy=true
+Arirang TV,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv079/index.m3u8?proxy=true
+原住民族電視台,http://m-star.direct.quickconnect.to:7531/4gtv-live014/index.m3u8?proxy=true
+東森購物四台,http://m-star.direct.quickconnect.to:7531/4gtv-live049/index.m3u8?proxy=true
+東森購物一台,http://m-star.direct.quickconnect.to:7531/4gtv-live047/index.m3u8?proxy=true
+東森購物一台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv102/index.m3u8?proxy=true
+東森購物一台,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv102/index.m3u8?proxy=true
+TVBS HD,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv073/index.m3u8?proxy=true
+東森購物二台,http://m-star.direct.quickconnect.to:7531/4gtv-live046/index.m3u8?proxy=true
+東森購物二台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv103/index.m3u8?proxy=true
+東森購物二台,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv103/index.m3u8?proxy=true
+靖天育樂,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv062/index.m3u8?proxy=true
+靖天國際,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv063/index.m3u8?proxy=true
+靖天歡樂,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv054/index.m3u8?proxy=true
+靖天資訊,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv065/index.m3u8?proxy=true
+韓國娛樂台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv016/index.m3u8?proxy=true
+東森購物三台,http://m-star.direct.quickconnect.to:7531/4gtv-live048/index.m3u8?proxy=true
+好消息,http://m-star.direct.quickconnect.to:7531/litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://m-star.direct.quickconnect.to:7531/litv-ftv17/index.m3u8?proxy=true
+大愛二台,http://m-star.direct.quickconnect.to:7531/4gtv-live106/index.m3u8?proxy=true
+人間衛視,http://m-star.direct.quickconnect.to:7531/4gtv-live008/index.m3u8?proxy=true
+國會頻道1,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv085/index.m3u8?proxy=true
+民視第一台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv003/index.m3u8?proxy=true
+民視台灣台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv001/index.m3u8?proxy=true
+中視,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv041/index.m3u8?proxy=true
+中天亞洲台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv109/index.m3u8?proxy=true
+三立綜合合,http://m-star.direct.quickconnect.to:7531/4gtv-live207/index.m3u8?proxy=true
+客家電視,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv043/index.m3u8?proxy=true
+中視菁采台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv064/index.m3u8?proxy=true
+靖天綜合,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv047/index.m3u8?proxy=true
+Arirang TV,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv079/index.m3u8?proxy=true
+TVBS HD,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv073/index.m3u8?proxy=true
+靖天育樂,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv062/index.m3u8?proxy=true
+靖天國際,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv063/index.m3u8?proxy=true
+靖天歡樂,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv054/index.m3u8?proxy=true
+靖天資訊,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv065/index.m3u8?proxy=true
+韓國娛樂台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv016/index.m3u8?proxy=true
+好消息,http://m-star.direct.quickconnect.to:7531/li-litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://m-star.direct.quickconnect.to:7531/li-litv-ftv17/index.m3u8?proxy=true
+國會頻道1,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv085/index.m3u8?proxy=true
+台視HD,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv066/index.m3u8?proxy=true
+台視HD,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv066/index.m3u8?proxy=true
+中視,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv040/index.m3u8?proxy=true
+華視,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv041/index.m3u8?proxy=true
+好消息,http://m-star.direct.quickconnect.to:7531/of-litv-ftv16/index.m3u8?proxy=true
+好消息2台,http://m-star.direct.quickconnect.to:7531/of-litv-ftv17/index.m3u8?proxy=true
+國會頻道1,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv084/index.m3u8?proxy=true
+國會頻道2,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv085/index.m3u8?proxy=true
+中視經典台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv080/index.m3u8?proxy=true
+ROCK Entertainment,http://m-star.direct.quickconnect.to:7531/4gtv-live080/index.m3u8?proxy=true
+公視戲劇,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv042/index.m3u8?proxy=true
+民視影劇,http://m-star.direct.quickconnect.to:7531/litv-ftv09/index.m3u8?proxy=true
+HITS,http://m-star.direct.quickconnect.to:7531/4gtv-live620/index.m3u8?proxy=true
+霹靂布袋戲,http://m-star.direct.quickconnect.to:7531/4gtv-live145/index.m3u8?proxy=true
+靖天戲劇,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv045/index.m3u8?proxy=true
+金光布袋戲,http://m-star.direct.quickconnect.to:7531/4gtv-live144/index.m3u8?proxy=true
+ROCK Action,http://m-star.direct.quickconnect.to:7531/4gtv-live138/index.m3u8?proxy=true
+采昌影劇,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv049/index.m3u8?proxy=true
+靖天映畫,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv011/index.m3u8?proxy=true
+amc 電影台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv017/index.m3u8?proxy=true
+Cinema World,http://m-star.direct.quickconnect.to:7531/4gtv-live069/index.m3u8?proxy=true
+歐洲光影,http://m-star.direct.quickconnect.to:7531/4gtv-live157/index.m3u8?proxy=true
+TVBS台劇台,http://m-star.direct.quickconnect.to:7531/4gtv-live088/index.m3u8?proxy=true
+經典電影台,http://m-star.direct.quickconnect.to:7531/4gtv-live021/index.m3u8?proxy=true
+戲劇免費看1台,http://m-star.direct.quickconnect.to:7531/4gtv-live010/index.m3u8?proxy=true
+中視經典台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv080/index.m3u8?proxy=true
+龍華洋片,http://m-star.direct.quickconnect.to:7531/li-litv-longturn02/index.m3u8?proxy=true
+龍華電影,http://m-star.direct.quickconnect.to:7531/li-litv-longturn03/index.m3u8?proxy=true
+龍華日韓,http://m-star.direct.quickconnect.to:7531/li-litv-longturn11/index.m3u8?proxy=true
+龍華偶像,http://m-star.direct.quickconnect.to:7531/li-litv-longturn12/index.m3u8?proxy=true
+龍華戲劇,http://m-star.direct.quickconnect.to:7531/li-litv-longturn18/index.m3u8?proxy=true
+龍華經典,http://m-star.direct.quickconnect.to:7531/li-litv-longturn21/index.m3u8?proxy=true
+公視戲劇,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv042/index.m3u8?proxy=true
+民視影劇,http://m-star.direct.quickconnect.to:7531/li-litv-ftv09/index.m3u8?proxy=true
+靖天戲劇,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖洋戲劇,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv045/index.m3u8?proxy=true
+采昌影劇,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv049/index.m3u8?proxy=true
+靖天映畫,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv055/index.m3u8?proxy=true
+靖天電影,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv061/index.m3u8?proxy=true
+影迷數位電影台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv011/index.m3u8?proxy=true
+amc 電影台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv017/index.m3u8?proxy=true
+台灣戲劇台,http://m-star.direct.quickconnect.to:7531/li-litv-longturn22/index.m3u8?proxy=true
+台灣戲劇台,http://m-star.direct.quickconnect.to:7531/litv-longturn22/index.m3u8?proxy=true
+龍華洋片,http://m-star.direct.quickconnect.to:7531/litv-longturn02/index.m3u8?proxy=true
+龍華電影,http://m-star.direct.quickconnect.to:7531/litv-longturn03/index.m3u8?proxy=true
+龍華日韓,http://m-star.direct.quickconnect.to:7531/litv-longturn11/index.m3u8?proxy=true
+龍華偶像,http://m-star.direct.quickconnect.to:7531/litv-longturn12/index.m3u8?proxy=true
+龍華戲劇,http://m-star.direct.quickconnect.to:7531/litv-longturn18/index.m3u8?proxy=true
+龍華經典,http://m-star.direct.quickconnect.to:7531/litv-longturn21/index.m3u8?proxy=true
+八大綜藝,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv039/index.m3u8?proxy=true
+TVBS精采台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv067/index.m3u8?proxy=true
+ELTA娛樂,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv070/index.m3u8?proxy=true
+民視綜藝,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv004/index.m3u8?proxy=true
+豬哥亮歌廳秀,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv006/index.m3u8?proxy=true
+TVBS歡樂台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv068/index.m3u8?proxy=true
+電影原聲台 CMusic,http://m-star.direct.quickconnect.to:7531/4gtv-live031/index.m3u8?proxy=true
+Trace Urban,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv082/index.m3u8?proxy=true
+MTV Live,http://m-star.direct.quickconnect.to:7531/4gtv-live025/index.m3u8?proxy=true
+MEZZO LIVE HD,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv083/index.m3u8?proxy=true
+CLASSICA 古典樂,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv059/index.m3u8?proxy=true
+八大精彩,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv034/index.m3u8?proxy=true
+TVBS綜藝台,http://m-star.direct.quickconnect.to:7531/4gtv-live087/index.m3u8?proxy=true
+八大綜藝,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv039/index.m3u8?proxy=true
+TVBS精采台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv067/index.m3u8?proxy=true
+ELTA娛樂,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv070/index.m3u8?proxy=true
+民視綜藝,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv004/index.m3u8?proxy=true
+豬哥亮歌廳秀,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv006/index.m3u8?proxy=true
+TVBS歡樂台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv068/index.m3u8?proxy=true
+Trace Urban,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv082/index.m3u8?proxy=true
+MEZZO LIVE HD,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv083/index.m3u8?proxy=true
+CLASSICA 古典樂,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv059/index.m3u8?proxy=true
+八大精彩,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv034/index.m3u8?proxy=true
+Global Trekker,http://m-star.direct.quickconnect.to:7531/4gtv-live112/index.m3u8?proxy=true
+Lifetime,http://m-star.direct.quickconnect.to:7531/4gtv-live029/index.m3u8?proxy=true
+INULTRA,http://m-star.direct.quickconnect.to:7531/4gtv-live096/index.m3u8?proxy=true
+Pet Club TV,http://m-star.direct.quickconnect.to:7531/4gtv-live110/index.m3u8?proxy=true
+民視旅遊,http://m-star.direct.quickconnect.to:7531/litv-ftv07/index.m3u8?proxy=true
+滾動力 Rollor,http://m-star.direct.quickconnect.to:7531/4gtv-live012/index.m3u8?proxy=true
+亞洲旅遊,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv076/index.m3u8?proxy=true
+FUN 4K探索娛樂,http://m-star.direct.quickconnect.to:7531/4gtv-live011/index.m3u8?proxy=true
+幸福空間居家台,http://m-star.direct.quickconnect.to:7531/4gtv-live206/index.m3u8?proxy=true
+LOVE NATURE,http://m-star.direct.quickconnect.to:7531/4gtv-live208/index.m3u8?proxy=true
+ELTA生活旅遊,http://m-star.direct.quickconnect.to:7531/4gtv-live120/index.m3u8?proxy=true
+LUXE TV,http://m-star.direct.quickconnect.to:7531/4gtv-live121/index.m3u8?proxy=true
+TV5MONDE Style,http://m-star.direct.quickconnect.to:7531/4gtv-live122/index.m3u8?proxy=true
+MagellanTV頻道,http://m-star.direct.quickconnect.to:7531/4gtv-live123/index.m3u8?proxy=true
+民視旅遊,http://m-star.direct.quickconnect.to:7531/li-litv-ftv07/index.m3u8?proxy=true
+亞洲旅遊,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv076/index.m3u8?proxy=true
+Smart知識台,http://m-star.direct.quickconnect.to:7531/li-litv-longturn19/index.m3u8?proxy=true
+亞洲旅遊,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv076/index.m3u8?proxy=true
+Smart知識台,http://m-star.direct.quickconnect.to:7531/litv-longturn19/index.m3u8?proxy=true
+LiveABC 互動英語台,http://m-star.direct.quickconnect.to:7531/4gtv-live030/index.m3u8?proxy=true
+達文西,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv018/index.m3u8?proxy=true
+ELTV生活英語台,http://m-star.direct.quickconnect.to:7531/litv-longturn20/index.m3u8?proxy=true
+Nick Jr.,http://m-star.direct.quickconnect.to:7531/4gtv-live032/index.m3u8?proxy=true
+Nickelodeon,http://m-star.direct.quickconnect.to:7531/4gtv-live105/index.m3u8?proxy=true
+DreamWorks,http://m-star.direct.quickconnect.to:7531/4gtv-live017/index.m3u8?proxy=true
+靖天卡通台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv044/index.m3u8?proxy=true
+靖洋卡通,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv057/index.m3u8?proxy=true
+MOMO親子,http://m-star.direct.quickconnect.to:7531/4gtv-live107/index.m3u8?proxy=true
+經典卡通台,http://m-star.direct.quickconnect.to:7531/4gtv-live022/index.m3u8?proxy=true
+精選動漫台,http://m-star.direct.quickconnect.to:7531/4gtv-live024/index.m3u8?proxy=true
+龍華卡通,http://m-star.direct.quickconnect.to:7531/li-litv-longturn01/index.m3u8?proxy=true
+達文西,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv018/index.m3u8?proxy=true
+ELTV生活英語台,http://m-star.direct.quickconnect.to:7531/li-litv-longturn20/index.m3u8?proxy=true
+靖天卡通台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv044/index.m3u8?proxy=true
+靖洋卡通,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv057/index.m3u8?proxy=true
+ELTV生活英語台,http://m-star.direct.quickconnect.to:7531/of-litv-longturn20/index.m3u8?proxy=true
+龍華卡通,http://m-star.direct.quickconnect.to:7531/litv-longturn01/index.m3u8?proxy=true
+鏡電視新聞台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv075/index.m3u8?proxy=true
+東森新聞,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv152/index.m3u8?proxy=true
+華視新聞台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv052/index.m3u8?proxy=true
+民視新聞,http://m-star.direct.quickconnect.to:7531/litv-ftv13/index.m3u8?proxy=true
+三立iNEWS,http://m-star.direct.quickconnect.to:7531/4gtv-live089/index.m3u8?proxy=true
+東森財經新聞,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv153/index.m3u8?proxy=true
+中視新聞台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv009/index.m3u8?proxy=true
+BLOOMBERG TV,http://m-star.direct.quickconnect.to:7531/4gtv-live059/index.m3u8?proxy=true
+寰宇新聞,http://m-star.direct.quickconnect.to:7531/litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv156/index.m3u8?proxy=true
+SBN 全球財經台,http://m-star.direct.quickconnect.to:7531/4gtv-live060/index.m3u8?proxy=true
+寰宇財經,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv158/index.m3u8?proxy=true
+FRANCE24 英文台,http://m-star.direct.quickconnect.to:7531/4gtv-live146/index.m3u8?proxy=true
+半島國際新聞台,http://m-star.direct.quickconnect.to:7531/litv-ftv10/index.m3u8?proxy=true
+VOA 美國之音,http://m-star.direct.quickconnect.to:7531/litv-ftv03/index.m3u8?proxy=true
+CNBC Asia 財經台,http://m-star.direct.quickconnect.to:7531/4gtv-live130/index.m3u8?proxy=true
+DW德國之聲,http://m-star.direct.quickconnect.to:7531/4gtv-live071/index.m3u8?proxy=true
+非凡新聞,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv010/index.m3u8?proxy=true
+非凡商業,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv048/index.m3u8?proxy=true
+台視財經台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv056/index.m3u8?proxy=true
+鏡電視新聞台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv075/index.m3u8?proxy=true
+東森新聞,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv152/index.m3u8?proxy=true
+民視新聞,http://m-star.direct.quickconnect.to:7531/li-litv-ftv13/index.m3u8?proxy=true
+TVBS新聞台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv072/index.m3u8?proxy=true
+東森財經新聞,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv153/index.m3u8?proxy=true
+中視新聞台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞,http://m-star.direct.quickconnect.to:7531/li-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv158/index.m3u8?proxy=true
+半島國際新聞台,http://m-star.direct.quickconnect.to:7531/li-litv-ftv10/index.m3u8?proxy=true
+VOA 美國之音,http://m-star.direct.quickconnect.to:7531/li-litv-ftv03/index.m3u8?proxy=true
+台視新聞台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv051/index.m3u8?proxy=true
+第1商業台,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv104/index.m3u8?proxy=true
+台視新聞台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv051/index.m3u8?proxy=true
+中視新聞台,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv074/index.m3u8?proxy=true
+中天新聞台,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv009/index.m3u8?proxy=true
+寰宇新聞,http://m-star.direct.quickconnect.to:7531/of-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣台,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv156/index.m3u8?proxy=true
+寰宇財經,http://m-star.direct.quickconnect.to:7531/of-4gtv-4gtv158/index.m3u8?proxy=true
+第1商業台,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv104/index.m3u8?proxy=true
+三立iNEWS,http://m-star.direct.quickconnect.to:7531/iNEWS/index.m3u8?proxy=true
+倪珍播新聞,http://m-star.direct.quickconnect.to:7531/nnews-zh/index.m3u8?proxy=true
+倪珍英語新聞,http://m-star.direct.quickconnect.to:7531/nnews-en/index.m3u8?proxy=true
+倪珍越語新聞,http://m-star.direct.quickconnect.to:7531/nnews-vn/index.m3u8?proxy=true
+TRACE Sport Stars,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv077/index.m3u8?proxy=true
+智林體育,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv101/index.m3u8?proxy=true
+時尚運動X,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv014/index.m3u8?proxy=true
+車迷 TV,http://m-star.direct.quickconnect.to:7531/4gtv-live201/index.m3u8?proxy=true
+GINX Esports TV,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv053/index.m3u8?proxy=true
+博斯魅力,http://m-star.direct.quickconnect.to:7531/litv-longturn04/index.m3u8?proxy=true
+博斯高球I,http://m-star.direct.quickconnect.to:7531/litv-longturn05/index.m3u8?proxy=true
+博斯高球II,http://m-star.direct.quickconnect.to:7531/litv-longturn06/index.m3u8?proxy=true
+博斯運動I,http://m-star.direct.quickconnect.to:7531/litv-longturn07/index.m3u8?proxy=true
+博斯運動II,http://m-star.direct.quickconnect.to:7531/litv-longturn08/index.m3u8?proxy=true
+博斯網球,http://m-star.direct.quickconnect.to:7531/litv-longturn09/index.m3u8?proxy=true
+博斯無限I,http://m-star.direct.quickconnect.to:7531/litv-longturn10/index.m3u8?proxy=true
+博斯無限II,http://m-star.direct.quickconnect.to:7531/litv-longturn13/index.m3u8?proxy=true
+TRACE Sport Stars,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv077/index.m3u8?proxy=true
+智林體育,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv101/index.m3u8?proxy=true
+時尚運動X,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv014/index.m3u8?proxy=true
+GINX Esports TV,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv053/index.m3u8?proxy=true
+歷史頻道,http://m-star.direct.quickconnect.to:7531/4gtv-live026/index.m3u8?proxy=true
+CI 罪案偵查頻道,http://m-star.direct.quickconnect.to:7531/4gtv-live027/index.m3u8?proxy=true
+視納華仁紀實頻道,http://m-star.direct.quickconnect.to:7531/4gtv-4gtv013/index.m3u8?proxy=true
+影迷數位紀實台,http://m-star.direct.quickconnect.to:7531/litv-ftv15/index.m3u8?proxy=true
+視納華仁紀實頻道,http://m-star.direct.quickconnect.to:7531/li-4gtv-4gtv013/index.m3u8?proxy=true
+影迷數位紀實台,http://m-star.direct.quickconnect.to:7531/li-litv-ftv15/index.m3u8?proxy=true
 
 ⚽️🏀直播,#genre#
 盗源狗si全家 全家下地狱
