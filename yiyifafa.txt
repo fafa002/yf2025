@@ -451,9 +451,6 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 中天新聞台,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 中天新聞台2,http://dungou.szius.com:8080/live/yifatv-ztxw02.flv
 
-凤凰资讯,http://zhong9527.dpdns.org/fhzx66666.m3u8
-中天新闻,http://zhong9527.dpdns.org/zhongtian66666.m3u8
-
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -476,28 +473,6 @@ VIUTV,https://yang-1989.eu.org/live/ViuTV
 VIUTVsix,https://yang-1989.eu.org/live/ViuTVsix
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 tvN,https://yang-1989.eu.org/live/tvN
-
-TVBPlus,http://vallest.uk/livehttpplay?channel_id=30023
-TVBPlus,http://vallest.uk/livehttpplay?channel_id=20122
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=20065
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=20066
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-有线综合台,http://vallest.uk/livehttpplay?channel_id=20152
-无线新闻台,http://vallest.uk/livehttpplay?channel_id=30024
-翡翠台,http://vallest.uk/livehttpplay?channel_id=20124
-明珠台,http://vallest.uk/livehttpplay?channel_id=30026
-明珠台,http://vallest.uk/livehttpplay?channel_id=20125
-VIUTV,http://vallest.uk/livehttpplay?channel_id=30032
-VIUTV,http://vallest.uk/livehttpplay?channel_id=20131
-VIU6TV,http://vallest.uk/livehttpplay?channel_id=30033
-VIU6TV,http://vallest.uk/livehttpplay?channel_id=20132
-RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=20203
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30028
  
 极速bxtv,#genre#
 盗源狗si全家 全家下地狱
@@ -1034,96 +1009,6 @@ CCTV4-中央衛視,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live10
 鳯凰衛視資訊,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1666
 鳯凰衛視中文,http://nn.7x9d.cn/jd/mk11.php?ip=61.216.180.81:1888&id=live1213
 
-四季台湾,#genre#
-中天新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中天新聞台
-TVBS新聞,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS新聞
-民視新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視新聞台
-東森新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=東森新聞台
-華視新聞,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=華視新聞
-鏡電視新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=鏡電視新聞台
-東森財經新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=東森財經新聞台
-中視新聞,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中視新聞
-寰宇新聞台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=寰宇新聞台
-寰宇新聞台灣台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=寰宇新聞台灣台
-三立新聞iNEWS,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=三立新聞iNEWS
-民視第一台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視第一台
-民視台灣台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視台灣台
-民視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視
-三立綜合台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=三立綜合台
-華視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=華視
-中視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中視
-中視經典台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中視經典台
-中視菁采台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=中視菁采台
-八大綜藝台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=八大綜藝台
-TVBS精采台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS精采台
-民視綜藝台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視綜藝台
-TVBS,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS
-TVBS歡樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS歡樂台
-TVBS綜藝台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS綜藝台
-TVBS台劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TVBS台劇台
-靖天綜合台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天綜合台
-靖天日本台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天日本台
-KLT-靖天國際台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=KLT-靖天國際台
-靖天資訊台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天資訊台
-Nice TV 靖天歡樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=Nice TV 靖天歡樂台
-新唐人亞太台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=新唐人亞太台
-原住民族電視台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=原住民族電視台
-客家電視台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=客家電視台
-國會頻道1,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=國會頻道1
-國會頻道2,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=國會頻道2
-好消息,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=好消息
-好消息2台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=好消息2台
-大愛電視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=大愛電視
-大愛二台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=大愛二台
-人間衛視,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=人間衛視
-民視旅遊台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視旅遊台
-亞洲旅遊台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=亞洲旅遊台
-愛爾達生活旅遊台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=愛爾達生活旅遊台
-fun探索娛樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=fun探索娛樂台
-幸福空間居家台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=幸福空間居家台
-History 歷史頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=History 歷史頻道
-TV5MONDE STYLE HD 生活時尚,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE STYLE HD 生活時尚
-MagellanTV頻道 (麥哲倫頻道),http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=MagellanTV頻道 (麥哲倫頻道)
-Lifetime 娛樂頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=Lifetime 娛樂頻道
-八大精彩台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=八大精彩台
-靖天育樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天育樂台
-豬哥亮歌廳秀,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=豬哥亮歌廳秀
-韓國娛樂台 KMTV,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=韓國娛樂台 KMTV
-愛爾達娛樂台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=愛爾達娛樂台
-民視影劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=民視影劇台
-公視戲劇,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=公視戲劇
-采昌影劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=采昌影劇台
-靖天戲劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天戲劇台
-靖洋戲劇台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖洋戲劇台
-靖天映畫,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天映畫
-靖天電影台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天電影台
-影迷數位電影台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=影迷數位電影台
-amc電影台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=amc電影台
-經典電影台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=經典電影台
-電影原聲台CMusic,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=電影原聲台CMusic
-CI 罪案偵查頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=CI 罪案偵查頻道
-視納華仁紀實頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=視納華仁紀實頻道
-影迷數位紀實台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=影迷數位紀實台
-戲劇免費看 1台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=戲劇免費看 1台
-LiveABC互動英語頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=LiveABC互動英語頻道
-ELTV生活英語台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=ELTV生活英語台
-MOMO親子台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=MOMO親子台
-Nick Jr. 兒童頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=Nick Jr. 兒童頻道
-尼克兒童頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=尼克兒童頻道
-DreamWorks 夢工廠動畫,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=DreamWorks 夢工廠動畫
-靖天卡通台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖天卡通台
-靖洋卡通Nice Bingo,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=靖洋卡通Nice Bingo
-金光布袋戲,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=金光布袋戲
-霹靂布袋戲,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=霹靂布袋戲
-經典卡通台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=經典卡通台
-精選動漫台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=精選動漫台
-HITS頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=HITS頻道
-車迷TV,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=車迷TV
-滾動力rollor,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=滾動力rollor
-達文西頻道,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=達文西頻道
-智林體育台,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=智林體育台
-時尚運動X,http://156.238.248.80:5001/proxy?url=https://4gtv.946985.filegear-sg.me/playlist?channel=時尚運動X
-
 ⚽️🏀直播,#genre#
 盗源狗si全家 全家下地狱
 ⚽️🏀波妞,https://new-live.jnyyoa.com/notlive/1744267.m3u8
@@ -1320,101 +1205,101 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东体育2,http://m.061899.xyz/mg/gdty
 
 东莞酒店,#genre#
-广东体育高清,http://183.57.248.230:8183/tsfile/live/1000_1.m3u8
-广东卫视高清,http://183.57.248.230:8183/tsfile/live/0125_1.m3u8
-广东珠江高清,http://183.57.248.230:8183/tsfile/live/1001_1.m3u8
-大湾区卫视高清,http://183.57.248.230:8183/tsfile/live/1002_1.m3u8
-广东影视高清,http://183.57.248.230:8183/tsfile/live/1004_1.m3u8
-CCTV-1高清,http://183.57.248.230:8183/tsfile/live/0001_1.m3u8
-CCTV-2高清,http://183.57.248.230:8183/tsfile/live/0002_1.m3u8
-CCTV-3高清,http://183.57.248.230:8183/tsfile/live/0003_1.m3u8
-CCTV-4高清,http://183.57.248.230:8183/tsfile/live/0004_1.m3u8
-CCTV-5高清,http://183.57.248.230:8183/tsfile/live/0005_1.m3u8
-CCTV-6高清,http://183.57.248.230:8183/tsfile/live/0006_1.m3u8
-CCTV-7高清,http://183.57.248.230:8183/tsfile/live/0007_1.m3u8
-CCTV-8高清,http://183.57.248.230:8183/tsfile/live/0008_1.m3u8
-CCTV-9高清,http://183.57.248.230:8183/tsfile/live/0009_1.m3u8
-CCTV-10高清,http://183.57.248.230:8183/tsfile/live/0010_1.m3u8
-CCTV11-戏曲,http://183.57.248.230:8183/tsfile/live/0011_1.m3u8
-CCTV-12高清,http://183.57.248.230:8183/tsfile/live/0012_1.m3u8
-CCTV13-新闻,http://183.57.248.230:8183/tsfile/live/0013_1.m3u8
-CCTV-14高清,http://183.57.248.230:8183/tsfile/live/0014_1.m3u8
-CCTV-15高清,http://183.57.248.230:8183/tsfile/live/0015_1.m3u8
-CCTV17农业农村,http://183.57.248.230:8183/tsfile/live/0016_1.m3u8
-安徽卫视,http://183.57.248.230:8183/tsfile/live/0130_1.m3u8
-湖南卫视高清,http://183.57.248.230:8183/tsfile/live/1007_1.m3u8
-浙江卫视高清,http://183.57.248.230:8183/tsfile/live/1008_1.m3u8
-江苏卫视高清,http://183.57.248.230:8183/tsfile/live/1009_1.m3u8
-东方卫视高清,http://183.57.248.230:8183/tsfile/live/1010_1.m3u8
-金鹰卡通,http://183.57.248.230:8183/tsfile/live/0123_1.m3u8
-卡酷动画,http://183.57.248.230:8183/tsfile/live/1003_1.m3u8
-风云足球,http://183.57.248.230:8183/tsfile/live/0120_1.m3u8
-世界地理,http://183.57.248.230:8183/tsfile/live/1011_1.m3u8
-风云剧场,http://183.57.248.230:8183/tsfile/live/1005_1.m3u8
-河南卫视,http://183.57.248.230:8183/tsfile/live/0139_1.m3u8
-黑龙江卫视,http://183.57.248.230:8183/tsfile/live/0143_1.m3u8
-江西卫视,http://183.57.248.230:8183/tsfile/live/0138_1.m3u8
-深圳卫视,http://183.57.248.230:8183/tsfile/live/0126_1.m3u8
-湖北卫视,http://183.57.248.230:8183/tsfile/live/0132_1.m3u8
-重庆卫视,http://183.57.248.230:8183/tsfile/live/0142_1.m3u8
-东森电影,http://183.57.248.230:8183/tsfile/live/1013_1.m3u8
+广东体育高清,http://183.57.249.144:8183/tsfile/live/1000_1.m3u8
+广东卫视高清,http://183.57.249.144:8183/tsfile/live/0125_1.m3u8
+广东珠江高清,http://183.57.249.144:8183/tsfile/live/1001_1.m3u8
+大湾区卫视高清,http://183.57.249.144:8183/tsfile/live/1002_1.m3u8
+广东影视高清,http://183.57.249.144:8183/tsfile/live/1004_1.m3u8
+CCTV-1高清,http://183.57.249.144:8183/tsfile/live/0001_1.m3u8
+CCTV-2高清,http://183.57.249.144:8183/tsfile/live/0002_1.m3u8
+CCTV-3高清,http://183.57.249.144:8183/tsfile/live/0003_1.m3u8
+CCTV-4高清,http://183.57.249.144:8183/tsfile/live/0004_1.m3u8
+CCTV-5高清,http://183.57.249.144:8183/tsfile/live/0005_1.m3u8
+CCTV-6高清,http://183.57.249.144:8183/tsfile/live/0006_1.m3u8
+CCTV-7高清,http://183.57.249.144:8183/tsfile/live/0007_1.m3u8
+CCTV-8高清,http://183.57.249.144:8183/tsfile/live/0008_1.m3u8
+CCTV-9高清,http://183.57.249.144:8183/tsfile/live/0009_1.m3u8
+CCTV-10高清,http://183.57.249.144:8183/tsfile/live/0010_1.m3u8
+CCTV11-戏曲,http://183.57.249.144:8183/tsfile/live/0011_1.m3u8
+CCTV-12高清,http://183.57.249.144:8183/tsfile/live/0012_1.m3u8
+CCTV13-新闻,http://183.57.249.144:8183/tsfile/live/0013_1.m3u8
+CCTV-14高清,http://183.57.249.144:8183/tsfile/live/0014_1.m3u8
+CCTV-15高清,http://183.57.249.144:8183/tsfile/live/0015_1.m3u8
+CCTV17农业农村,http://183.57.249.144:8183/tsfile/live/0016_1.m3u8
+安徽卫视,http://183.57.249.144:8183/tsfile/live/0130_1.m3u8
+湖南卫视高清,http://183.57.249.144:8183/tsfile/live/1007_1.m3u8
+浙江卫视高清,http://183.57.249.144:8183/tsfile/live/1008_1.m3u8
+江苏卫视高清,http://183.57.249.144:8183/tsfile/live/1009_1.m3u8
+东方卫视高清,http://183.57.249.144:8183/tsfile/live/1010_1.m3u8
+金鹰卡通,http://183.57.249.144:8183/tsfile/live/0123_1.m3u8
+卡酷动画,http://183.57.249.144:8183/tsfile/live/1003_1.m3u8
+风云足球,http://183.57.249.144:8183/tsfile/live/0120_1.m3u8
+世界地理,http://183.57.249.144:8183/tsfile/live/1011_1.m3u8
+风云剧场,http://183.57.249.144:8183/tsfile/live/1005_1.m3u8
+河南卫视,http://183.57.249.144:8183/tsfile/live/0139_1.m3u8
+黑龙江卫视,http://183.57.249.144:8183/tsfile/live/0143_1.m3u8
+江西卫视,http://183.57.249.144:8183/tsfile/live/0138_1.m3u8
+深圳卫视,http://183.57.249.144:8183/tsfile/live/0126_1.m3u8
+湖北卫视,http://183.57.249.144:8183/tsfile/live/0132_1.m3u8
+重庆卫视,http://183.57.249.144:8183/tsfile/live/0142_1.m3u8
+东森电影,http://183.57.249.144:8183/tsfile/live/1013_1.m3u8
 
 潮州酒店,#genre#
-广东卫视,http://183.10.180.129:212/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
-汕头综合,http://183.10.180.129:212/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
-汕头经济,http://183.10.180.129:212/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
-揭阳综合,http://183.10.180.129:212/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
-揭阳公共,http://183.10.180.129:212/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-1综合,http://183.10.180.129:212/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-2财经,http://183.10.180.129:212/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-3综艺,http://183.10.180.129:212/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-4中文国际,http://183.10.180.129:212/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-5体育,http://183.10.180.129:212/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-6电影,http://183.10.180.129:212/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-7国防军事,http://183.10.180.129:212/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-8电视剧,http://183.10.180.129:212/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-9纪录,http://183.10.180.129:212/tsfile/live/1124_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-10科教,http://183.10.180.129:212/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-11戏曲,http://183.10.180.129:212/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-12社会与法,http://183.10.180.129:212/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-13新闻,http://183.10.180.129:212/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-14少儿,http://183.10.180.129:212/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-15音乐,http://183.10.180.129:212/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-16奥林匹克,http://183.10.180.129:212/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV-17农业农村,http://183.10.180.129:212/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
-黑龙江卫视,http://183.10.180.129:212/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
-山东卫视高清,http://183.10.180.129:212/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
-河北卫视,http://183.10.180.129:212/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
-河南卫视,http://183.10.180.129:212/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
-山东教育,http://183.10.180.129:212/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
-湖北卫视,http://183.10.180.129:212/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1
-吉林卫视,http://183.10.180.129:212/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
-山西卫视,http://183.10.180.129:212/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
-江西卫视,http://183.10.180.129:212/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
-贵州卫视,http://183.10.180.129:212/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&down=1
-宁夏卫视,http://183.10.180.129:212/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
-内蒙古,http://183.10.180.129:212/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
-海南卫视,http://183.10.180.129:212/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
-广西卫视,http://183.10.180.129:212/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&down=1
-四川卫视,http://183.10.180.129:212/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
-东南卫视,http://183.10.180.129:212/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
-广东珠江,http://183.10.180.129:212/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-广东新闻,http://183.10.180.129:212/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
-广州影视,http://183.10.180.129:212/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
-广州综合,http://183.10.180.129:212/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
-佛山影视,http://183.10.180.129:212/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
-佛山顺德,http://183.10.180.129:212/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-河源综合,http://183.10.180.129:212/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
-梅州综合,http://183.10.180.129:212/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
-深圳卫视,http://183.10.180.129:212/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
-深圳都市,http://183.10.180.129:212/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
-深圳龙岗频道,http://183.10.180.129:212/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1
-深圳电视剧,http://183.10.180.129:212/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
-CCTV世界地理,http://183.10.180.129:212/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&down=1
-第一剧场,http://183.10.180.129:212/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&down=1
-怀旧剧场,http://183.10.180.129:212/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1
-风云剧场,http://183.10.180.129:212/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1
-天气预报,http://183.10.180.129:212/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
+广东卫视,http://183.10.180.158:212/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+汕头综合,http://183.10.180.158:212/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+汕头经济,http://183.10.180.158:212/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+揭阳综合,http://183.10.180.158:212/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+揭阳公共,http://183.10.180.158:212/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
+广东珠江,http://183.10.180.158:212/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+广东新闻,http://183.10.180.158:212/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
+广州影视,http://183.10.180.158:212/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+广州综合,http://183.10.180.158:212/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
+佛山影视,http://183.10.180.158:212/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+佛山顺德,http://183.10.180.158:212/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+河源综合,http://183.10.180.158:212/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
+梅州综合,http://183.10.180.158:212/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
+深圳卫视,http://183.10.180.158:212/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&down=1
+深圳都市,http://183.10.180.158:212/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&down=1
+深圳龙岗频道,http://183.10.180.158:212/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1
+深圳电视剧,http://183.10.180.158:212/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-1综合,http://183.10.180.158:212/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-2财经,http://183.10.180.158:212/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-3综艺,http://183.10.180.158:212/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-4中文国际,http://183.10.180.158:212/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-5体育,http://183.10.180.158:212/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-6电影,http://183.10.180.158:212/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-7国防军事,http://183.10.180.158:212/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-8电视剧,http://183.10.180.158:212/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-9纪录,http://183.10.180.158:212/tsfile/live/1124_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-10科教,http://183.10.180.158:212/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-11戏曲,http://183.10.180.158:212/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-12社会与法,http://183.10.180.158:212/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-13新闻,http://183.10.180.158:212/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-14少儿,http://183.10.180.158:212/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-15音乐,http://183.10.180.158:212/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-16奥林匹克,http://183.10.180.158:212/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-17农业农村,http://183.10.180.158:212/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
+黑龙江卫视,http://183.10.180.158:212/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
+山东卫视高清,http://183.10.180.158:212/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
+河北卫视,http://183.10.180.158:212/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
+河南卫视,http://183.10.180.158:212/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
+山东教育,http://183.10.180.158:212/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1
+湖北卫视,http://183.10.180.158:212/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&down=1
+吉林卫视,http://183.10.180.158:212/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+山西卫视,http://183.10.180.158:212/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
+江西卫视,http://183.10.180.158:212/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
+贵州卫视,http://183.10.180.158:212/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&down=1
+宁夏卫视,http://183.10.180.158:212/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
+内蒙古,http://183.10.180.158:212/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1
+海南卫视,http://183.10.180.158:212/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
+广西卫视,http://183.10.180.158:212/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&down=1
+四川卫视,http://183.10.180.158:212/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
+东南卫视,http://183.10.180.158:212/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV世界地理,http://183.10.180.158:212/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&down=1
+第一剧场,http://183.10.180.158:212/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&down=1
+怀旧剧场,http://183.10.180.158:212/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1
+风云剧场,http://183.10.180.158:212/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1
+天气预报,http://183.10.180.158:212/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
 
 北方广电,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
