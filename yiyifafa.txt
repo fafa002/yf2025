@@ -544,6 +544,8 @@ ZooMoo,http://tl.061833.xyz/tl/zoomoo
 凤凰香港,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 NOW星影台,http://23.237.228.133/live2/xingyingtai.m3u8
+NOW爆谷台备,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
+NOW星影台备,http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
 HOY76,http://hls.168.us.kg/u/76/master.m3u8
 HOY77,http://hls.168.us.kg/u/77/master.m3u8
 HOY78,http://hls.168.us.kg/u/78/master.m3u8
@@ -1804,6 +1806,8 @@ CI 罪案偵查頻道,http://vv.hotinosin.eu.org:10361/4gtv-live027/index.m3u8?p
 
 广东本地,#genre#
 盗源狗si全家 全家下地狱
+广东珠江,http://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+大湾区卫视,http://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 经济科教高清,http://183.7.151.166:20443/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育高清,http://183.7.151.166:20443/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视高清,http://183.7.151.166:20443/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
