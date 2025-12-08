@@ -2007,7 +2007,7 @@ CCTV17农业农村,http://183.57.248.74:8183/tsfile/live/0016_1.m3u8
 揭阳公共,http://183.10.180.208:212/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
 广东珠江,http://183.10.180.208:212/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
 广东新闻,http://183.10.180.208:212/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
-广州影视,http://183.10.180.208:212/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+广东影视,http://183.10.180.208:212/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
 广州综合,http://183.10.180.208:212/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&down=1
 佛山影视,http://183.10.180.208:212/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 佛山顺德,http://183.10.180.208:212/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
