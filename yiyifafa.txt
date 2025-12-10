@@ -6182,7 +6182,7 @@ CCTV-音乐,http://tvlist.top/jd/index.php?id=cctv15&qt=180.173.154.166:8008
 重庆卫视,http://tvlist.top/jd/index.php?id=cqws&qt=180.173.154.166:8008
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=180.173.154.166:8008
 
-重庆秒开,#genre#
+湖南秒开,#genre#
 CCTV1,https://tvlist.top/jd/index.php?id=cctv1&qt=119.39.68.2:8090
 CCTV2,https://tvlist.top/jd/index.php?id=cctv2&qt=119.39.68.2:8090
 CCTV3,https://tvlist.top/jd/index.php?id=cctv3&qt=119.39.68.2:8090
