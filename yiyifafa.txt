@@ -6016,6 +6016,7 @@ cctv5p,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 北京IPTV淘BABY,http://bit.famcloud.top:9878/udp/239.3.1.238:8001
 北京IPTV4K超清,http://bit.famcloud.top:9878/udp/239.3.1.249:8001
 北京IPTV淘电影,http://bit.famcloud.top:9878/udp/239.3.1.250:8001
+重温经典,http://bit.famcloud.top:9878/udp/239.3.1.25:8001
 
 北京IPTV淘剧场,http://111.198.37.28:4400/udp/239.3.1.95:8001
 北京IPTV淘娱乐,http://111.198.37.28:4400/udp/239.3.1.100:8001
@@ -6023,6 +6024,7 @@ cctv5p,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 北京IPTV淘BABY,http://111.198.37.28:4400/udp/239.3.1.238:8001
 北京IPTV4K超清,http://111.198.37.28:4400/udp/239.3.1.249:8001
 北京IPTV淘电影,http://111.198.37.28:4400/udp/239.3.1.250:8001
+重温经典,http://111.198.37.28:4400/udp/239.3.1.25:8001
 
 北京IPTV淘剧场,http://otangtang.com:38848/udp/239.3.1.95:8001
 北京IPTV淘娱乐,http://otangtang.com:38848/udp/239.3.1.100:8001
@@ -6030,6 +6032,7 @@ cctv5p,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 北京IPTV淘BABY,http://otangtang.com:38848/udp/239.3.1.238:8001
 北京IPTV4K超清,http://otangtang.com:38848/udp/239.3.1.249:8001
 北京IPTV淘电影,http://otangtang.com:38848/udp/239.3.1.250:8001
+重温经典,http://otangtang.com:38848/udp/239.3.1.250:8001
 
 北京IPTV淘剧场,http://quan2018.mycloudnas.com:9000/udp/239.3.1.95:8001
 北京IPTV淘娱乐,http://quan2018.mycloudnas.com:9000/udp/239.3.1.100:8001
@@ -6037,6 +6040,7 @@ cctv5p,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 北京IPTV淘BABY,http://quan2018.mycloudnas.com:9000/udp/239.3.1.238:8001
 北京IPTV4K超清,http://quan2018.mycloudnas.com:9000/udp/239.3.1.249:8001
 北京IPTV淘电影,http://quan2018.mycloudnas.com:9000/udp/239.3.1.250:8001
+重温经典,http://quan2018.mycloudnas.com:9000/udp/239.3.1.250:8001
 
 江苏银河,#genre#
 CCTV-1HD,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
