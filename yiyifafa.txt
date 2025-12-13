@@ -374,6 +374,9 @@ QQ群,1
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
+TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+新澳门直播,https://play3636.zdwafis.com/live/mosixmark.flv
+老澳门直播,https://vdm6-ali.hrypl168.com/live/a6.flv
 
 极速港台2,#genre#
 盗源狗si全家 全家下地狱
@@ -423,9 +426,6 @@ HOYTV78,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-TVB plus备2,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVB plus备4,http://live.p2pcy.xyz:18000/hls/23df/23df_live.m3u8
 
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
