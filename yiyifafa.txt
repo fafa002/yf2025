@@ -2249,8 +2249,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东民生,http://go.bkpcp.top/mg/gdms
 广东新闻,http://go.bkpcp.top/mg/gdxw
 
-广东民生(晚7点),http://live.iill.top/douyin/gdtvdvxc
-广东珠江(晚6点),http://live.iill.top/douyin/gdtvzjpd
+广东民生(晚7点),http://tv1288.xyz/douyin.php?type=rid&rid=gdtvdvxc
+广东珠江(晚6点),http://tv1288.xyz/douyin.php?type=rid&rid=gdtvzjpd
 
 -汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 -汕尾生活,https://iswtv.swrtv.com/live/whshpd.m3u8
