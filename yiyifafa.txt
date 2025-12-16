@@ -4947,6 +4947,150 @@ CCTV-17农业农村,http://j.s.bkpcp.top/jj/cctv17
 贵州卫视,http://j.s.bkpcp.top/jj/gzws
 四川卫视,http://j.s.bkpcp.top/jj/scws
 
+冰茶咪咕,#genre#
+CCTV-1 综合,https://www.wmviv.com/iptv/bc2t.php?id=cctv1
+CCTV-2 财经,https://www.wmviv.com/iptv/bc2t.php?id=cctv2
+CCTV-3 综艺,https://www.wmviv.com/iptv/bc2t.php?id=cctv3
+CCTV-4 中文国际,https://www.wmviv.com/iptv/bc2t.php?id=cctv4
+CCTV-5 体育,https://www.wmviv.com/iptv/bc2t.php?id=cctv5
+CCTV-5+ 体育赛事,https://www.wmviv.com/iptv/bc2t.php?id=cctv5p
+CCTV-6 电影,https://www.wmviv.com/iptv/bc2t.php?id=cctv6
+CCTV-7 国防军事,https://www.wmviv.com/iptv/bc2t.php?id=cctv7
+CCTV-8 电视剧,https://www.wmviv.com/iptv/bc2t.php?id=cctv8
+CCTV-9 纪录,https://www.wmviv.com/iptv/bc2t.php?id=cctv9
+CCTV-10 科教,https://www.wmviv.com/iptv/bc2t.php?id=cctv10
+CCTV-11 戏曲,https://www.wmviv.com/iptv/bc2t.php?id=cctv11
+CCTV-12 社会与法,https://www.wmviv.com/iptv/bc2t.php?id=cctv12
+CCTV-13 新闻,https://www.wmviv.com/iptv/bc2t.php?id=cctv13
+CCTV-14 少儿,https://www.wmviv.com/iptv/bc2t.php?id=cctv14
+CCTV-15 音乐,https://www.wmviv.com/iptv/bc2t.php?id=cctv15
+CCTV-17 农业农村,https://www.wmviv.com/iptv/bc2t.php?id=cctv17
+CCTV-4 中文国际 欧洲,https://www.wmviv.com/iptv/bc2t.php?id=cctv4o
+CCTV-4 中文国际 美洲,https://www.wmviv.com/iptv/bc2t.php?id=cctv4a
+湖南卫视,https://www.wmviv.com/iptv/bc2t.php?id=hunws
+浙江卫视,https://www.wmviv.com/iptv/bc2t.php?id=zjws
+浙江卫视,https://www.wmviv.com/iptv/bc2t.php?id=zjws&line=2
+江苏卫视,https://www.wmviv.com/iptv/bc2t.php?id=jsws
+东方卫视,https://www.wmviv.com/iptv/bc2t.php?id=dfws
+广东卫视,https://www.wmviv.com/iptv/bc2t.php?id=gdws
+湖北卫视,https://www.wmviv.com/iptv/bc2t.php?id=hubws
+江西卫视,https://www.wmviv.com/iptv/bc2t.php?id=jxws
+辽宁卫视,https://www.wmviv.com/iptv/bc2t.php?id=lnws
+陕西卫视,https://www.wmviv.com/iptv/bc2t.php?id=sxws
+河南卫视,https://www.wmviv.com/iptv/bc2t.php?id=henws
+海南卫视,https://www.wmviv.com/iptv/bc2t.php?id=hainws
+海南卫视,https://www.wmviv.com/iptv/bc2t.php?id=hainws&line=2
+三沙卫视,https://www.wmviv.com/iptv/bc2t.php?id=ssws
+吉林卫视,https://www.wmviv.com/iptv/bc2t.php?id=jlws
+青海卫视,https://www.wmviv.com/iptv/bc2t.php?id=qhws
+农林卫视,https://www.wmviv.com/iptv/bc2t.php?id=nlws
+内蒙古卫视,https://www.wmviv.com/iptv/bc2t.php?id=nmgws
+兵团卫视,https://www.wmviv.com/iptv/bc2t.php?id=btws
+大湾区卫视,https://www.wmviv.com/iptv/bc2t.php?id=dwqws
+北京卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=bjws4k
+深圳卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=szws4k
+湖南卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=hunws4k
+浙江卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=zjws4k
+东方卫视4K,https://www.wmviv.com/iptv/bc2t.php?id=dfws4k
+苏州4K,https://www.wmviv.com/iptv/bc2t.php?id=sz4k
+河北4K,https://www.wmviv.com/iptv/bc2t.php?id=heb4k
+CHC家庭影院,https://www.wmviv.com/iptv/bc2t.php?id=chcjtyy
+CHC动作电影,https://www.wmviv.com/iptv/bc2t.php?id=chcdzdy
+CHC影迷电影,https://www.wmviv.com/iptv/bc2t.php?id=chcymdy
+五星体育,https://www.wmviv.com/iptv/bc2t.php?id=wxty
+五星体育,https://www.wmviv.com/iptv/bc2t.php?id=wxty&line=2
+重温经典,https://www.wmviv.com/iptv/bc2t.php?id=cwjd
+新片放映厅,https://www.wmviv.com/iptv/bc2t.php?id=xpfyt
+经典香港电影,https://www.wmviv.com/iptv/bc2t.php?id=jdxgdy
+抗战经典影片,https://www.wmviv.com/iptv/bc2t.php?id=kzjdyp
+赛事最经典,https://www.wmviv.com/iptv/bc2t.php?id=sszjd
+最强综艺趴,https://www.wmviv.com/iptv/bc2t.php?id=zqzy
+嘉佳卡通,https://www.wmviv.com/iptv/bc2t.php?id=jjkt&line=2
+嘉佳卡通,https://www.wmviv.com/iptv/bc2t.php?id=jjkt&line=2
+经典动画大集合,https://www.wmviv.com/iptv/bc2t.php?id=jddhdjh
+优漫卡通,https://www.wmviv.com/iptv/bc2t.php?id=ymkt
+体坛名栏汇,https://www.wmviv.com/iptv/bc2t.php?id=ttmlh
+24小时全运会轮播台,https://www.wmviv.com/iptv/bc2t.php?id=qyh24
+24小时城市联赛轮播台,https://www.wmviv.com/iptv/bc2t.php?id=csll24
+中学生,https://www.wmviv.com/iptv/bc2t.php?id=zxs
+老故事,https://www.wmviv.com/iptv/bc2t.php?id=lgs
+CETV-1,https://www.wmviv.com/iptv/bc2t.php?id=cetv1
+CETV-2,https://www.wmviv.com/iptv/bc2t.php?id=cetv2
+CETV-4,https://www.wmviv.com/iptv/bc2t.php?id=cetv4
+卡酷少儿,https://www.wmviv.com/iptv/bc2t.php?id=kksr
+北京影视,https://www.wmviv.com/iptv/bc2t.php?id=bjys
+北京文艺,https://www.wmviv.com/iptv/bc2t.php?id=bjwy
+北京财经,https://www.wmviv.com/iptv/bc2t.php?id=bjcj
+北京生活,https://www.wmviv.com/iptv/bc2t.php?id=bjsh
+北京新闻,https://www.wmviv.com/iptv/bc2t.php?id=bjxw
+北京纪实科教,https://www.wmviv.com/iptv/bc2t.php?id=bjjskj
+广东体育,https://www.wmviv.com/iptv/bc2t.php?id=gdty
+广东体育,https://www.wmviv.com/iptv/bc2t.php?id=gdty&line=2
+广东新闻,https://www.wmviv.com/iptv/bc2t.php?id=gdxw
+广东珠江,https://www.wmviv.com/iptv/bc2t.php?id=gdzj
+广东民生,https://www.wmviv.com/iptv/bc2t.php?id=gdms
+广东影视,https://www.wmviv.com/iptv/bc2t.php?id=gdys
+广东少儿,https://www.wmviv.com/iptv/bc2t.php?id=gdse
+岭南戏曲,https://www.wmviv.com/iptv/bc2t.php?id=lnxq
+广东移动,https://www.wmviv.com/iptv/bc2t.php?id=gdyd
+现代教育,https://www.wmviv.com/iptv/bc2t.php?id=xdjy
+广东生活频道,https://www.wmviv.com/iptv/bc2t.php?id=gdsh
+上海新闻综合,https://www.wmviv.com/iptv/bc2t.php?id=shxwzh
+上海第一财经,https://www.wmviv.com/iptv/bc2t.php?id=shdycj
+上海新纪实,https://www.wmviv.com/iptv/bc2t.php?id=shxjs
+上海都市,https://www.wmviv.com/iptv/bc2t.php?id=shds
+哈哈炫动,https://www.wmviv.com/iptv/bc2t.php?id=hhxd
+上海魔都眼,https://www.wmviv.com/iptv/bc2t.php?id=shmdy
+爱上海,https://www.wmviv.com/iptv/bc2t.php?id=ash
+海南新闻,https://www.wmviv.com/iptv/bc2t.php?id=hainxw
+海南文旅,https://www.wmviv.com/iptv/bc2t.php?id=hainwl
+海南自贸,https://www.wmviv.com/iptv/bc2t.php?id=hainzm
+海南公共,https://www.wmviv.com/iptv/bc2t.php?id=haingg
+海南少儿,https://www.wmviv.com/iptv/bc2t.php?id=hainse
+浙江新闻,https://www.wmviv.com/iptv/bc2t.php?id=zjxw
+浙江民生,https://www.wmviv.com/iptv/bc2t.php?id=zjms
+浙江经济,https://www.wmviv.com/iptv/bc2t.php?id=zjjj
+浙江钱江,https://www.wmviv.com/iptv/bc2t.php?id=zjqj
+之江纪录,https://www.wmviv.com/iptv/bc2t.php?id=zjjl
+浙江国际,https://www.wmviv.com/iptv/bc2t.php?id=zjgj
+浙江少儿,https://www.wmviv.com/iptv/bc2t.php?id=zjse
+浙江教科,https://www.wmviv.com/iptv/bc2t.php?id=zjjk
+内蒙古新闻综合,https://www.wmviv.com/iptv/bc2t.php?id=nmgxwzh
+内蒙古少儿,https://www.wmviv.com/iptv/bc2t.php?id=nmgse
+内蒙古文体娱乐,https://www.wmviv.com/iptv/bc2t.php?id=nmgwtly
+内蒙古经济生活,https://www.wmviv.com/iptv/bc2t.php?id=nmgjjsh
+内蒙古蒙语卫视,https://www.wmviv.com/iptv/bc2t.php?id=nmgyws
+内蒙古蒙语文化,https://www.wmviv.com/iptv/bc2t.php?id=nmgywh
+江苏新闻,https://www.wmviv.com/iptv/bc2t.php?id=jsxw
+江苏国际,https://www.wmviv.com/iptv/bc2t.php?id=jsgj
+江苏综艺,https://www.wmviv.com/iptv/bc2t.php?id=jszy
+江苏影视,https://www.wmviv.com/iptv/bc2t.php?id=jsys
+江苏教育,https://www.wmviv.com/iptv/bc2t.php?id=jsjy
+江苏体育,https://www.wmviv.com/iptv/bc2t.php?id=jsty
+南京新闻综合,https://www.wmviv.com/iptv/bc2t.php?id=njxwzh
+南京教科,https://www.wmviv.com/iptv/bc2t.php?id=njjk
+南京十八,https://www.wmviv.com/iptv/bc2t.php?id=njsh
+凤凰中文,https://www.wmviv.com/iptv/bc2t.php?id=fhzw
+凤凰中文,https://www.wmviv.com/iptv/bc2t.php?id=fhzw&line=2
+凤凰资讯,https://www.wmviv.com/iptv/bc2t.php?id=fhzx
+凤凰资讯,https://www.wmviv.com/iptv/bc2t.php?id=fhzx&line=2
+凤凰香港,https://www.wmviv.com/iptv/bc2t.php?id=fhhk
+凤凰香港,https://www.wmviv.com/iptv/bc2t.php?id=fhhk&line=2
+翡翠台,https://www.wmviv.com/iptv/bc2t.php?id=fct
+翡翠台4K,https://www.wmviv.com/iptv/bc2t.php?id=fct4k
+无线新闻,https://www.wmviv.com/iptv/bc2t.php?id=wxxw
+Now新闻台,https://www.wmviv.com/iptv/bc2t.php?id=nowxw
+TVB Plus,https://www.wmviv.com/iptv/bc2t.php?id=tvbp
+明珠台,https://www.wmviv.com/iptv/bc2t.php?id=mzt
+TVB星河,https://www.wmviv.com/iptv/bc2t.php?id=tvbxh
+TVB功夫,https://www.wmviv.com/iptv/bc2t.php?id=tvbgf
+八度空间,https://www.wmviv.com/iptv/bc2t.php?id=bdkj
+CHU,https://www.wmviv.com/iptv/bc2t.php?id=chu
+CH5,https://www.wmviv.com/iptv/bc2t.php?id=ch5
+CH8,https://www.wmviv.com/iptv/bc2t.php?id=ch8
+澳视澳门,https://www.wmviv.com/iptv/bc2t.php?id=asam
+HOY77,https://www.wmviv.com/iptv/bc2t.php?id=hoy77
+
 咪咕体育,#genre#
 移动网专用,1
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
@@ -4981,51 +5125,6 @@ CCTV-17农业农村,http://j.s.bkpcp.top/jj/cctv17
 咪咕直播30,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1
 
 咪咕体育2,#genre#
-移动网专用,1
-咪咕4K,https://zby.130519.xyz/PLTV/11/224/3221226080/index.m3u8
-咪咕体育1,https://zby.130519.xyz/PLTV/11/224/3221225636/index.m3u8
-咪咕体育2,https://zby.130519.xyz/PLTV/11/224/3221225637/index.m3u8
-咪咕体育3,https://zby.130519.xyz/PLTV/11/224/3221225638/index.m3u8
-咪咕体育4,https://zby.130519.xyz/PLTV/11/224/3221225639/index.m3u8
-咪咕体育5,https://zby.130519.xyz/PLTV/11/224/3221225640/index.m3u8
-咪咕体育6,https://zby.130519.xyz/PLTV/11/224/3221225641/index.m3u8
-咪咕体育7,https://zby.130519.xyz/PLTV/11/224/3221225643/index.m3u8
-咪咕体育8,https://zby.130519.xyz/PLTV/11/224/3221225644/index.m3u8
-咪咕体育9,https://zby.130519.xyz/PLTV/11/224/3221225646/index.m3u8
-咪咕体育10,https://zby.130519.xyz/PLTV/11/224/3221225657/index.m3u8
-咪咕体育11,https://zby.130519.xyz/PLTV/11/224/3221225663/index.m3u8
-咪咕体育12,https://zby.130519.xyz/PLTV/11/224/3221225664/index.m3u8
-咪咕体育13,https://zby.130519.xyz/PLTV/11/224/3221225665/index.m3u8
-咪咕体育14,https://zby.130519.xyz/PLTV/11/224/3221225666/index.m3u8
-咪咕体育15,https://zby.130519.xyz/PLTV/11/224/3221225667/index.m3u8
-咪咕体育16,https://zby.130519.xyz/PLTV/11/224/3221225669/index.m3u8
-咪咕体育17,https://zby.130519.xyz/PLTV/11/224/3221225670/index.m3u8
-咪咕体育18,https://zby.130519.xyz/PLTV/11/224/3221225671/index.m3u8
-咪咕体育19,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-咪咕体育20,https://zby.130519.xyz/PLTV/11/224/3221225674/index.m3u8
-咪咕体育21,https://zby.130519.xyz/PLTV/11/224/3221225676/index.m3u8
-咪咕体育22,https://zby.130519.xyz/PLTV/11/224/3221225678/index.m3u8
-咪咕体育23,https://zby.130519.xyz/PLTV/11/224/3221225679/index.m3u8
-咪咕体育24,https://zby.130519.xyz/PLTV/11/224/3221225680/index.m3u8
-咪咕体育25,https://zby.130519.xyz/PLTV/11/224/3221225681/index.m3u8
-咪咕体育26,https://zby.130519.xyz/PLTV/11/224/3221225682/index.m3u8
-咪咕体育27,https://zby.130519.xyz/PLTV/11/224/3221225683/index.m3u8
-咪咕体育28,https://zby.130519.xyz/PLTV/11/224/3221225684/index.m3u8
-咪咕体育29,https://zby.130519.xyz/PLTV/11/224/3221225685/index.m3u8
-咪咕体育30,https://zby.130519.xyz/PLTV/11/224/3221225686/index.m3u8
-咪咕体育31,https://zby.130519.xyz/PLTV/11/224/3221225687/index.m3u8
-咪咕体育32,https://zby.130519.xyz/PLTV/11/224/3221225688/index.m3u8
-咪咕体育33,https://zby.130519.xyz/PLTV/11/224/3221225689/index.m3u8
-咪咕体育34,https://zby.130519.xyz/PLTV/11/224/3221225690/index.m3u8
-咪咕体育35,https://zby.130519.xyz/PLTV/11/224/3221225692/index.m3u8
-咪咕体育36,https://zby.130519.xyz/PLTV/11/224/3221225693/index.m3u8
-咪咕体育37,https://zby.130519.xyz/PLTV/11/224/3221225694/index.m3u8
-咪咕体育38,https://zby.130519.xyz/PLTV/11/224/3221225695/index.m3u8
-咪咕体育39,https://zby.130519.xyz/PLTV/11/224/3221225696/index.m3u8
-咪咕体育40,https://zby.130519.xyz/PLTV/11/224/3221225697/index.m3u8
-咪咕体育41,https://zby.130519.xyz/PLTV/11/224/3221225699/index.m3u8
-
-咪咕体育3,#genre#
 赛事睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 赛事睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
 赛事睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
