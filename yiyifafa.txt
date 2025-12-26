@@ -634,115 +634,141 @@ BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 
 极速赛雷,#genre#
- Plus综合,http://free.cnlive.club/channel/6429ae4c.m3u8
- 凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8
- 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
- 凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8
- 中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
- 有线新闻,http://free.cnlive.club/channel/7289243e.m3u8
- 无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8
- 无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8
- 无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8
- 无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8
- 无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8
- 千禧经典,http://free.cnlive.club/channel/n1ab8717e.m3u8
- VIUTV'粤,http://free.cnlive.club/channel/78204936.m3u8
- VIUTV'英,http://free.cnlive.club/channel/necd2834.m3u8
- RTHK-31,http://free.cnlive.club/channel/n8badbb5.m3u8
- RTHK-32,http://free.cnlive.club/channel/n8badbb4.m3u8
- 美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8
- 天映频道,http://free.cnlive.club/channel/n7e466c41.m3u8
- 天映频道,http://free.cnlive.club/channel/5150b0a1.m3u8
- 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
- 龙华电影,http://free.cnlive.club/channel/66c77727.m3u8
- 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
- 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8
- Astr爱奇,http://free.cnlive.club/channel/n367ccbbb.m3u8
- AstrQJ国,http://free.cnlive.club/channel/n2d0f5476.m3u8
- astroaod,http://free.cnlive.club/channel/fa50a06.m3u8
- Astroaec,http://free.cnlive.club/channel/36f451f2.m3u8
- Astr欢喜,http://free.cnlive.club/channel/n129801d1.m3u8
- 中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
- 寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8
- 东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8
- tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8
- 年代新闻,http://free.cnlive.club/channel/49184630.m3u8
- 非凡新闻,http://free.cnlive.club/channel/6302a884.m3u8
- 民视新闻,http://free.cnlive.club/channel/n4b747ee6.m3u8
- 中视新闻,http://free.cnlive.club/channel/428f1dfa.m3u8
- 台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8
- 公视闽南,http://free.cnlive.club/channel/3b838b0c.m3u8
- 民视闽南,http://free.cnlive.club/channel/n4d0434cf.m3u8
- 中视闽南,http://free.cnlive.club/channel/dc53f4d.m3u8
- 华视闽南,http://free.cnlive.club/channel/560bcbee.m3u8
- 台视闽南,http://free.cnlive.club/channel/5ef6ab90.m3u8
- tvbs闽南,http://free.cnlive.club/channel/154f9d73.m3u8
- tvbs欢乐,http://free.cnlive.club/channel/n69c10b55.m3u8
- 民视台湾,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
- 中视经典,http://free.cnlive.club/channel/4291e438.m3u8
- 公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8
- 台视综合,http://free.cnlive.club/channel/45306b98.m3u8
- 中天娱乐,http://free.cnlive.club/channel/41d6f491.m3u8
- 中天综合,http://free.cnlive.club/channel/41db6ede.m3u8
- 中天亚洲,http://free.cnlive.club/channel/41d5ac2a.m3u8
- 八大第一,http://free.cnlive.club/channel/2733018a.m3u8
- 八大综合,http://free.cnlive.club/channel/27420c52.m3u8
- 八大戏剧,http://free.cnlive.club/channel/26d54426.m3u8
- 八大娱乐,http://free.cnlive.club/channel/26b73cff.m3u8
- 东森综合,http://free.cnlive.club/channel/n31b0a4.m3u8
- 东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8
- 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8
- 东森电影,http://free.cnlive.club/channel/n5502f4.m3u8
- 东森幼幼,http://free.cnlive.club/channel/naa6d18.m3u8
- 东森超视,http://free.cnlive.club/channel/4210df69.m3u8
- 东森财经,http://free.cnlive.club/channel/209f9e70.m3u8
- 寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8
- 华艺综合,http://free.cnlive.club/channel/5af2eef0.m3u8
- AXN电影,http://free.cnlive.club/channel/n4e27c899.m3u8
- CInemax,http://free.cnlive.club/channel/7c7a1311.m3u8
- HBo高清,http://free.cnlive.club/channel/2d329e1c.m3u8
- HBo家庭,http://free.cnlive.club/channel/n54fc5ba0.m3u8
- 好莱电影,http://free.cnlive.club/channel/n2db95de5.m3u8
- 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
- 龙华经典,http://free.cnlive.club/channel/66c892d4.m3u8
- 龙华戏剧,http://free.cnlive.club/channel/66c51883.m3u8
- 龙华电影,http://free.cnlive.club/channel/66c77727.m3u8
- 龙华偶像,http://free.cnlive.club/channel/66c2f564.m3u8
- 龙华洋片,http://free.cnlive.club/channel/66c68ce7.m3u8
- 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8
- 纬来日本,http://free.cnlive.club/channel/58197296.m3u8
- 纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8
- 纬来综合,http://free.cnlive.club/channel/581c693b.m3u8
- 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8
- 纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8
- 靖天国际,http://free.cnlive.club/channel/63189371.m3u8
- 靖天卡通,http://free.cnlive.club/channel/63181d62.m3u8
- 大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8
- 大爱贰台,http://free.cnlive.club/channel/46f0bf6e.m3u8
- 好消息贰,http://free.cnlive.club/channel/n5e3decc0.m3u8
- 三立闽南,http://free.cnlive.club/channel/642f20a.m3u8
- 三立戏剧,http://free.cnlive.club/channel/6748da0.m3u8
- 三立综合,http://free.cnlive.club/channel/6e155cc.m3u8
- 三立都会,http://free.cnlive.club/channel/72452bb.m3u8
- ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8
- ELta综合,http://free.cnlive.club/channel/n20929de1.m3u8
- ELTA体1,http://free.cnlive.club/channel/n6cd87fd.m3u8
- ELTA体2,http://free.cnlive.club/channel/n6cd87de.m3u8
- ELTA体3,http://free.cnlive.club/channel/n6cd87bf.m3u8
- 博斯无限,http://free.cnlive.club/channel/47dd89d5.m3u8
- 博斯网球,http://free.cnlive.club/channel/4838e3b3.m3u8
- 博斯运动壹斯,http://free.cnlive.club/channel/n3a1a5ced.m3u8
- 博斯运动贰斯,http://free.cnlive.club/channel/n3a1a4bf9.m3u8
- 博斯高球壹斯,http://free.cnlive.club/channel/n34996e5a.m3u8
- 博斯高球贰斯,http://free.cnlive.club/channel/n34995d66.m3u8
- 美食星球,http://free.cnlive.club/channel/5939fd4b.m3u8
- 亚洲美食,http://free.cnlive.club/channel/4258879f.m3u8
- 亚洲旅游,http://free.cnlive.club/channel/852ca6f.m3u8
- 亚洲TLC,http://free.cnlive.club/channel/34964cb6.m3u8
- EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8
- EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8
- MTv高清,http://free.cnlive.club/channel/731620b3.m3u8
- ARIRAng,http://free.cnlive.club/channel/5a358dea.m3u8
+Plus综合,http://free.cnlive.club/channel/6429ae4c.m3u8?q=111.170.171.148
+凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8?q=111.170.171.148
+凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8?q=111.170.171.148
+凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8?q=111.170.171.148
+中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8?q=111.170.171.148
+有线新闻,http://free.cnlive.club/channel/7289243e.m3u8?q=111.170.171.148
+无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
+无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8?q=111.170.171.148
+无线华丽,http://free.cnlive.club/channel/n177a7044.m3u8?q=111.170.171.148
+无线明珠,http://free.cnlive.club/channel/n75ab7db0.m3u8?q=111.170.171.148
+无线娱乐,http://free.cnlive.club/channel/nac85e88.m3u8?q=111.170.171.148
+千禧经典,http://free.cnlive.club/channel/n1ab8717e.m3u8?q=111.170.171.148
+VIUTV'粤,http://free.cnlive.club/channel/78204936.m3u8?q=111.170.171.148
+VIUTV'英,http://free.cnlive.club/channel/necd2834.m3u8?q=111.170.171.148
+RTHK-31,http://free.cnlive.club/channel/n8badbb5.m3u8?q=111.170.171.148
+RTHK-32,http://free.cnlive.club/channel/n8badbb4.m3u8?q=111.170.171.148
+美亚电影,http://free.cnlive.club/channel/5824ef5e.m3u8?q=111.170.171.148
+天映频道,http://free.cnlive.club/channel/n7e466c41.m3u8?q=111.170.171.148
+天映频道,http://free.cnlive.club/channel/5150b0a1.m3u8?q=111.170.171.148
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
+龙华电影,http://free.cnlive.club/channel/66c77727.m3u8?q=111.170.171.148
+龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8?q=111.170.171.148
+纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
+Astr爱奇,http://free.cnlive.club/channel/n367ccbbb.m3u8?q=111.170.171.148
+AstrQJ国,http://free.cnlive.club/channel/n2d0f5476.m3u8?q=111.170.171.148
+astroaod,http://free.cnlive.club/channel/fa50a06.m3u8?q=111.170.171.148
+Astroaec,http://free.cnlive.club/channel/36f451f2.m3u8?q=111.170.171.148
+Astr欢喜,http://free.cnlive.club/channel/n129801d1.m3u8?q=111.170.171.148
+寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
+东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
+tvbs新闻,http://free.cnlive.club/channel/n69ccce92.m3u8?q=111.170.171.148
+年代新闻,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
+非凡新闻,http://free.cnlive.club/channel/6302a884.m3u8?q=111.170.171.148
+民视新闻,http://free.cnlive.club/channel/n4b747ee6.m3u8?q=111.170.171.148
+中视新闻,http://free.cnlive.club/channel/428f1dfa.m3u8?q=111.170.171.148
+台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8?q=111.170.171.148
+公视闽南,http://free.cnlive.club/channel/3b838b0c.m3u8?q=111.170.171.148
+民视闽南,http://free.cnlive.club/channel/n4d0434cf.m3u8?q=111.170.171.148
+中视闽南,http://free.cnlive.club/channel/dc53f4d.m3u8?q=111.170.171.148
+华视闽南,http://free.cnlive.club/channel/560bcbee.m3u8?q=111.170.171.148
+台视闽南,http://free.cnlive.club/channel/5ef6ab90.m3u8?q=111.170.171.148
+tvbs闽南,http://free.cnlive.club/channel/154f9d73.m3u8?q=111.170.171.148
+tvbs欢乐,http://free.cnlive.club/channel/n69c10b55.m3u8?q=111.170.171.148
+民视台湾,http://free.cnlive.club/channel/n4bbbe8c9.m3u8?q=111.170.171.148
+中视经典,http://free.cnlive.club/channel/4291e438.m3u8?q=111.170.171.148
+公视台语,http://free.cnlive.club/channel/3ccf6783.m3u8?q=111.170.171.148
+台视综合,http://free.cnlive.club/channel/45306b98.m3u8?q=111.170.171.148
+中天娱乐,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
+中天综合,http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
+中天亚洲,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
+八大第一,http://free.cnlive.club/channel/2733018a.m3u8?q=111.170.171.148
+八大综合,http://free.cnlive.club/channel/27420c52.m3u8?q=111.170.171.148
+八大戏剧,http://free.cnlive.club/channel/26d54426.m3u8?q=111.170.171.148
+八大娱乐,http://free.cnlive.club/channel/26b73cff.m3u8?q=111.170.171.148
+东森综合,http://free.cnlive.club/channel/n31b0a4.m3u8?q=111.170.171.148
+东森戏剧,http://free.cnlive.club/channel/n9e78d0.m3u8?q=111.170.171.148
+东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148
+东森电影,http://free.cnlive.club/channel/n5502f4.m3u8?q=111.170.171.148
+东森幼幼,http://free.cnlive.club/channel/naa6d18.m3u8?q=111.170.171.148
+东森超视,http://free.cnlive.club/channel/4210df69.m3u8?q=111.170.171.148
+东森财经,http://free.cnlive.club/channel/209f9e70.m3u8?q=111.170.171.148
+寰宇财经,http://free.cnlive.club/channel/n4332074a.m3u8?q=111.170.171.148
+华艺综合,http://free.cnlive.club/channel/5af2eef0.m3u8?q=111.170.171.148
+AXN电影,http://free.cnlive.club/channel/n4e27c899.m3u8?q=111.170.171.148
+CInemax,http://free.cnlive.club/channel/7c7a1311.m3u8?q=111.170.171.148
+HBo高清,http://free.cnlive.club/channel/2d329e1c.m3u8?q=111.170.171.148
+HBo家庭,http://free.cnlive.club/channel/n54fc5ba0.m3u8?q=111.170.171.148
+好莱电影,http://free.cnlive.club/channel/n2db95de5.m3u8?q=111.170.171.148
+龙华经典,http://free.cnlive.club/channel/66c892d4.m3u8?q=111.170.171.148
+龙华戏剧,http://free.cnlive.club/channel/66c51883.m3u8?q=111.170.171.148
+龙华偶像,http://free.cnlive.club/channel/66c2f564.m3u8?q=111.170.171.148
+龙华洋片,http://free.cnlive.club/channel/66c68ce7.m3u8?q=111.170.171.148
+纬来日本,http://free.cnlive.club/channel/58197296.m3u8?q=111.170.171.148
+纬来体育,http://free.cnlive.club/channel/5816d06e.m3u8?q=111.170.171.148
+纬来综合,http://free.cnlive.club/channel/581c693b.m3u8?q=111.170.171.148
+纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
+纬来精彩,http://free.cnlive.club/channel/581c2f1a.m3u8?q=111.170.171.148
+靖天国际,http://free.cnlive.club/channel/63189371.m3u8?q=111.170.171.148
+靖天卡通,http://free.cnlive.club/channel/63181d62.m3u8?q=111.170.171.148
+大爱壹台,http://free.cnlive.club/channel/46f9ba85.m3u8?q=111.170.171.148
+大爱贰台,http://free.cnlive.club/channel/46f0bf6e.m3u8?q=111.170.171.148
+好消息贰,http://free.cnlive.club/channel/n5e3decc0.m3u8?q=111.170.171.148
+三立闽南,http://free.cnlive.club/channel/642f20a.m3u8?q=111.170.171.148
+三立戏剧,http://free.cnlive.club/channel/6748da0.m3u8?q=111.170.171.148
+三立综合,http://free.cnlive.club/channel/6e155cc.m3u8?q=111.170.171.148
+三立都会,http://free.cnlive.club/channel/72452bb.m3u8?q=111.170.171.148
+ELta影剧,http://free.cnlive.club/channel/n2109392b.m3u8?q=111.170.171.148
+ELta综合,http://free.cnlive.club/channel/n20929de1.m3u8?q=111.170.171.148
+ELTA体1,http://free.cnlive.club/channel/n6cd87fd.m3u8?q=111.170.171.148
+ELTA体2,http://free.cnlive.club/channel/n6cd87de.m3u8?q=111.170.171.148
+ELTA体3,http://free.cnlive.club/channel/n6cd87bf.m3u8?q=111.170.171.148
+博斯无限,http://free.cnlive.club/channel/47dd89d5.m3u8?q=111.170.171.148
+博斯网球,http://free.cnlive.club/channel/4838e3b3.m3u8?q=111.170.171.148
+博斯运动壹斯,http://free.cnlive.club/channel/n3a1a5ced.m3u8?q=111.170.171.148
+博斯运动贰斯,http://free.cnlive.club/channel/n3a1a4bf9.m3u8?q=111.170.171.148
+博斯高球壹斯,http://free.cnlive.club/channel/n34996e5a.m3u8?q=111.170.171.148
+博斯高球贰斯,http://free.cnlive.club/channel/n34995d66.m3u8?q=111.170.171.148
+美食星球,http://free.cnlive.club/channel/5939fd4b.m3u8?q=111.170.171.148
+亚洲美食,http://free.cnlive.club/channel/4258879f.m3u8?q=111.170.171.148
+亚洲旅游,http://free.cnlive.club/channel/852ca6f.m3u8?q=111.170.171.148
+亚洲TLC,http://free.cnlive.club/channel/34964cb6.m3u8?q=111.170.171.148
+EYE-旅游,http://free.cnlive.club/channel/28efa38.m3u8?q=111.170.171.148
+EYE-戏剧,http://free.cnlive.club/channel/27dadb3.m3u8?q=111.170.171.148
+MTv高清,http://free.cnlive.club/channel/731620b3.m3u8?q=111.170.171.148
+ARIRAng,http://free.cnlive.club/channel/5a358dea.m3u8?q=111.170.171.148
+CCTV-01,http://free.cnlive.club/channel/47cdbb52.m3u8?q=111.170.171.148
+CCTV-02,http://free.cnlive.club/channel/47d01112.m3u8?q=111.170.171.148
+CCTV-03,http://free.cnlive.club/channel/47ced282.m3u8?q=111.170.171.148
+CCTV-04,http://free.cnlive.club/channel/7a879c85.m3u8?q=111.170.171.148
+CCTV-05,http://free.cnlive.club/channel/47c9f401.m3u8?q=111.170.171.148
+CCTV 5+,http://free.cnlive.club/channel/n374503fe.m3u8?q=111.170.171.148
+CCTV-06,http://free.cnlive.club/channel/47cedd7d.m3u8?q=111.170.171.148
+CCTV-07,http://free.cnlive.club/channel/n7ba2911b.m3u8?q=111.170.171.148
+CCTV-08,http://free.cnlive.club/channel/n4dd18c29.m3u8?q=111.170.171.148
+CCTV-09,http://free.cnlive.club/channel/47d2f363.m3u8?q=111.170.171.148
+CCTV-10,http://free.cnlive.club/channel/n4fe64a4e.m3u8?q=111.170.171.148
+CCTV-11,http://free.cnlive.club/channel/n4fe8b4d4.m3u8?q=111.170.171.148
+CCTV-12,http://free.cnlive.club/channel/13604deb.m3u8?q=111.170.171.148
+CCTV-13,http://free.cnlive.club/channel/n4fe72c8e.m3u8?q=111.170.171.148
+CCTV-14,http://free.cnlive.club/channel/n4fe8272c.m3u8?q=111.170.171.148
+CCTV-15,http://free.cnlive.club/channel/n4fe0755e.m3u8?q=111.170.171.148
+CCTV-17,http://free.cnlive.club/channel/9e11396.m3u8?q=111.170.171.148
+北京卫视,http://free.cnlive.club/channel/5dcc0104.m3u8?q=111.170.171.148
+东方卫视,http://free.cnlive.club/channel/5bdef3ac.m3u8?q=111.170.171.148
+浙江卫视,http://free.cnlive.club/channel/6a2b2475.m3u8?q=111.170.171.148
+江苏卫视,http://free.cnlive.club/channel/6a0dba1f.m3u8?q=111.170.171.148
+湖南卫视,http://free.cnlive.club/channel/6a402f50.m3u8?q=111.170.171.148
+深圳卫视,http://free.cnlive.club/channel/6a20c2b1.m3u8?q=111.170.171.148
+广东卫视,http://free.cnlive.club/channel/62f9400c.m3u8?q=111.170.171.148
+湖北卫视,http://free.cnlive.club/channel/6a3f3f10.m3u8?q=111.170.171.148
+四川卫视,http://free.cnlive.club/channel/5fbb3db1.m3u8?q=111.170.171.148
+广西卫视,http://free.cnlive.club/channel/63d82eaf.m3u8?q=111.170.171.148
+东南卫视,http://free.cnlive.club/channel/5b99f1ca.m3u8?q=111.170.171.148
+湾区卫视,http://free.cnlive.club/channel/n406d2eb6.m3u8?q=111.170.171.148
+广东珠江,http://free.cnlive.club/channel/n7017ab43.m3u8?q=111.170.171.148
 
  CCTV-01,http://free.cnlive.club/channel/47cdbb52.m3u8
  CCTV-02,http://free.cnlive.club/channel/47d01112.m3u8
