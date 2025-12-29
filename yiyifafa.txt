@@ -453,6 +453,7 @@ TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 中天新聞台,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 中天新聞台2,https://v.hystudio.cn:8088/live/yifatv-ztxw02.m3u8
+中天新聞台3,https://tlzb.wsmywlkj.top/live/xgzb-ztxw01.m3u8
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
@@ -520,8 +521,6 @@ NOW爆谷台,http://bxtv.3a.ink/api.php?id=baogu
 NOW星影台,http://bxtv.3a.ink/api.php?id=xingying
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 Now新闻,http://cdn.163189.xyz/163189/now
-Now星影,http://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
-Now爆谷,http://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
 
 极速0618,#genre#
 盗源狗si全家 全家下地狱
