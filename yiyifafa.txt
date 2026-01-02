@@ -11510,6 +11510,24 @@ FC2PPV-2466403,http://t33.cdn2020.com/video/m3u8/2025/11/07/12538a22/index.m3u8
 snis-462,http://t33.cdn2020.com/video/m3u8/2025/11/06/d4925346/index.m3u8
 SNIS-309,http://t33.cdn2020.com/video/m3u8/2025/11/06/036bb696/index.m3u8
 FC2PPV-2417006,http://t33.cdn2020.com/video/m3u8/2025/11/06/807b6ddd/index.m3u8
+START-272,https://t33.cdn2020.com/video/m3u8/2026/01/02/ce232842/index.m3u8
+pppd-913,https://t33.cdn2020.com/video/m3u8/2026/01/01/380c7c52/index.m3u8
+NHDTC-149,https://t33.cdn2020.com/video/m3u8/2026/01/01/5a53719e/index.m3u8
+DVMM-106,https://t33.cdn2020.com/video/m3u8/2026/01/01/dd97864f/index.m3u8
+IPZZ-304,https://t33.cdn2020.com/video/m3u8/2026/01/01/cc651505/index.m3u8
+LULU-299,https://t33.cdn2020.com/video/m3u8/2026/01/01/8d5e2fa8/index.m3u8
+DASS-831,https://t33.cdn2020.com/video/m3u8/2025/12/31/12d8e555/index.m3u8
+pppd-911,https://t33.cdn2020.com/video/m3u8/2025/12/31/403a0733/index.m3u8
+SKMJ-700,https://t33.cdn2020.com/video/m3u8/2025/12/31/b4a08cc7/index.m3u8
+NTRH-002,https://t33.cdn2020.com/video/m3u8/2025/12/31/69425255/index.m3u8
+FC2PPV-4816832,https://t33.cdn2020.com/video/m3u8/2025/12/30/d859d07f/index.m3u8
+NTRH-020,https://t33.cdn2020.com/video/m3u8/2025/12/30/6d495057/index.m3u8
+326FCT-205,https://t33.cdn2020.com/video/m3u8/2025/12/30/2e0dc0e6/index.m3u8
+DASS-402,https://t33.cdn2020.com/video/m3u8/2025/12/30/0c95c4de/index.m3u8
+SSNI-845,https://t33.cdn2020.com/video/m3u8/2025/12/29/466b5559/index.m3u8
+SSNI-865,https://t33.cdn2020.com/video/m3u8/2025/12/29/cbfa103e/index.m3u8
+AKDLD-283,https://t33.cdn2020.com/video/m3u8/2025/12/29/08fea47e/index.m3u8
+LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 
 喜枣,http://krevonix.com/20240520/qnbmFYrc/index.m3u8
 铁锁1,http://askzycdn.com/20230112/Jaot9ZgQ/index.m3u8
