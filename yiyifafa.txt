@@ -376,7 +376,7 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 新澳门直播,https://play3636.zdwafis.com/live/mosixmark.flv
 老澳门直播,https://vdm6-ali.hrypl168.com/live/a6.flv
 
-极速港台2,#genre#
+极速港台,#genre#
 盗源狗si全家 全家下地狱
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com/smt.php?id=Tvbjade
@@ -445,7 +445,7 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
-极速港台3,#genre#
+极速港台2,#genre#
 TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 中天新聞台,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
@@ -487,19 +487,20 @@ VIUTVsix,https://yang-1989.eu.org/live/ViuTVsix
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 tvN,https://yang-1989.eu.org/live/tvN
 
-翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
-翡翠台backup,http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
-無線新闻台,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
-TVB Plus,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
-珍珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
-凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-HOY资讯台,http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
-RHK31,http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8
-VIUTV1,http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
-RHK32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
-凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-Viu6,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
+极速港台3,#genre#
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+美亚电影,http://74.91.26.218:82/live/mydy.m3u8
+中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+美亚电影,http://74.91.26.218:82/live/mydy.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
  
 极速bxtv,#genre#
 盗源狗si全家 全家下地狱
