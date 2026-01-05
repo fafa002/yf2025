@@ -1480,102 +1480,102 @@ Arirang (KR),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/964.ts
 ALL TV K (KR),http://iptvpro.pw:35451//live/加QQ群1041749599/66669999/974.ts
 
 斯玛特,#genre#
-翡翠台,http://154.12.54.172:66/smt/smt.php?id=jade_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-翡翠台,http://154.12.54.172:66/smt/smt.php?id=Jade_xue&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-明珠台,http://154.12.54.172:66/smt/smt.php?id=pearl_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-无线新闻,http://154.12.54.172:66/smt/smt.php?id=inews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-TVBPLUS,http://154.12.54.172:66/smt/smt.php?id=j2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-ViuTV,http://154.12.54.172:66/smt/smt.php?id=viu1_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-ViuTV 6,http://154.12.54.172:66/smt/smt.php?id=viusix_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-RTHK 31,http://154.12.54.172:66/smt/smt.php?id=rhk31_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-RTHK 32,http://154.12.54.172:66/smt/smt.php?id=rhk32_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-HOY TV,http://154.12.54.172:66/smt/smt.php?id=hoycaijing_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-凤凰中文,http://154.12.54.172:66/smt/smt.php?id=phoenixtv_hd&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-凤凰资讯,http://154.12.54.172:66/smt/smt.php?id=phoenixinfo_hd&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-凤凰香港,http://154.12.54.172:66/smt/smt.php?id=hkphoenix_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-台视 HD,http://154.12.54.172:66/smt/smt.php?id=ttv_taiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-台视新闻,http://154.12.54.172:66/smt/smt.php?id=ttvnews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-台视综合,http://154.12.54.172:66/smt/smt.php?id=ttvzhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-中视 HD,http://154.12.54.172:66/smt/smt.php?id=zhongshihd_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-中视新闻,http://154.12.54.172:66/smt/smt.php?id=zhongshinews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-中视经典,http://154.12.54.172:66/smt/smt.php?id=zhongshi_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-华视 HD,http://154.12.54.172:66/smt/smt.php?id=ctshd_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-公视 HD,http://154.12.54.172:66/smt/smt.php?id=ctv_taiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-公视台语台,http://154.12.54.172:66/smt/smt.php?id=ctv2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-三立台湾台,http://154.12.54.172:66/smt/smt.php?id=sanlitaiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-三立都会台,http://154.12.54.172:66/smt/smt.php?id=sanlidouhui&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-三立综合台,http://154.12.54.172:66/smt/smt.php?id=sanlizhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-三立戏剧台,http://154.12.54.172:66/smt/smt.php?id=sanlixiju_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-东森新闻台,http://154.12.54.172:66/smt/smt.php?id=ettvnews&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-东森财经新闻台,http://154.12.54.172:66/smt/smt.php?id=ettvcaijing_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-东森综合台,http://154.12.54.172:66/smt/smt.php?id=ettvzhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-东森戏剧台,http://154.12.54.172:66/smt/smt.php?id=ettvdrama&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-东森电影台,http://154.12.54.172:66/smt/smt.php?id=ettvmovie&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-东森洋片台,http://154.12.54.172:66/smt/smt.php?id=ettvwestern&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-东森幼幼台,http://154.12.54.172:66/smt/smt.php?id=yoyo_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-东森超视,http://154.12.54.172:66/smt/smt.php?id=ettvsuper&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-TVBS HD,http://154.12.54.172:66/smt/smt.php?id=tvbs&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-TVBS 新闻台,http://154.12.54.172:66/smt/smt.php?id=tvbs_n&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-TVBS 欢乐台,http://154.12.54.172:66/smt/smt.php?id=tvbshuanle_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-民视 HD,http://154.12.54.172:66/smt/smt.php?id=ftvhd_taiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-民视新闻台,http://154.12.54.172:66/smt/smt.php?id=ftvnew_taiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-民视台湾台,http://154.12.54.172:66/smt/smt.php?id=ftvtaiwan_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-中天综合,http://154.12.54.172:66/smt/smt.php?id=ctizhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-中天娱乐,http://154.12.54.172:66/smt/smt.php?id=ctient&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-中天亚洲,http://154.12.54.172:66/smt/smt.php?id=ctiasia_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-中天新闻,http://154.12.54.172:66/smt/smt.php?id=ctinews&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-寰宇新闻台,http://154.12.54.172:66/smt/smt.php?id=huanyuxinwen_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-寰宇财经台,http://154.12.54.172:66/smt/smt.php?id=huanyutaiwan_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-八大第一台,http://154.12.54.172:66/smt/smt.php?id=badafirst&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-八大综合台,http://154.12.54.172:66/smt/smt.php?id=badazhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-八大戏剧台,http://154.12.54.172:66/smt/smt.php?id=badadrama&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-八大娱乐台,http://154.12.54.172:66/smt/smt.php?id=badaentertain&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-纬来体育,http://154.12.54.172:66/smt/smt.php?id=videolandsport&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-纬来精彩,http://154.12.54.172:66/smt/smt.php?id=videolandspecial_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-纬来日本,http://154.12.54.172:66/smt/smt.php?id=videolandjapan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-纬来电影,http://154.12.54.172:66/smt/smt.php?id=videolandmovie&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-纬来综合,http://154.12.54.172:66/smt/smt.php?id=videolandzonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-纬来育乐,http://154.12.54.172:66/smt/smt.php?id=videolandyule&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-爱尔达综合台,http://154.12.54.172:66/smt/smt.php?id=eltazonghe_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-爱尔达影剧台,http://154.12.54.172:66/smt/smt.php?id=eltayingju_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-爱尔达体育1台,http://154.12.54.172:66/smt/smt.php?id=eltasport_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-爱尔达体育2台,http://154.12.54.172:66/smt/smt.php?id=eltasport2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-爱尔达体育3台,http://154.12.54.172:66/smt/smt.php?id=eltasport3_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-非凡新闻,http://154.12.54.172:66/smt/smt.php?id=feifannews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-年代新闻,http://154.12.54.172:66/smt/smt.php?id=niandainews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-龙华戏剧,http://154.12.54.172:66/smt/smt.php?id=lunghuaxiju_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-龙华偶像,http://154.12.54.172:66/smt/smt.php?id=lunghuaidol_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-龙华电影,http://154.12.54.172:66/smt/smt.php?id=xingwei_movie&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-龙华洋片,http://154.12.54.172:66/smt/smt.php?id=lunghuawestern_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-龙华经典,http://154.12.54.172:66/smt/smt.php?id=lunghuajingdian_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-靖天国际,http://154.12.54.172:66/smt/smt.php?id=jingtianintl_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-靖天卡通,http://154.12.54.172:66/smt/smt.php?id=jingtiancartoon_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-大愛電視,http://154.12.54.172:66/smt/smt.php?id=daai_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-大愛二台,http://154.12.54.172:66/smt/smt.php?id=daai2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-EYE 旅游台,http://154.12.54.172:66/smt/smt.php?id=eyetvtravel_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-EYE 戏剧台,http://154.12.54.172:66/smt/smt.php?id=eyetvxiju_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-亚洲美食,http://154.12.54.172:66/smt/smt.php?id=afc_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-美食星球,http://154.12.54.172:66/smt/smt.php?id=foodplanet_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-TLC旅遊生活,http://154.12.54.172:66/smt/smt.php?id=tlc_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-亚洲旅游台,http://154.12.54.172:66/smt/smt.php?id=asiatravel_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-Arirang,http://154.12.54.172:66/smt/smt.php?id=arirang_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-AXN Taiwan,http://154.12.54.172:66/smt/smt.php?id=axn_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-MTV Live,http://154.12.54.172:66/smt/smt.php?id=mtvhd_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-HBO_HD,http://154.12.54.172:66/smt/smt.php?id=hbohd_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-HBO_HITS,http://154.12.54.172:66/smt/smt.php?id=hbohit_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-CINEMAX,http://154.12.54.172:66/smt/smt.php?id=cinemax_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-好萊塢電影台,http://154.12.54.172:66/smt/smt.php?id=hollywoodmovies_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-卫视电影台,http://154.12.54.172:66/smt/smt.php?id=weishimovie_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-龙祥时代,http://154.12.54.172:66/smt/smt.php?id=lungxiangtime_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-美亚电影,http://154.12.54.172:66/smt/smt.php?id=meiyamovie_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-華藝綜合,http://154.12.54.172:66/smt/smt.php?id=weishichinese_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-博斯运动一台,http://154.12.54.172:66/smt/smt.php?id=bosisport1_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-博斯运动二台,http://154.12.54.172:66/smt/smt.php?id=bosisport2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-博斯高球一台,http://154.12.54.172:66/smt/smt.php?id=bosigolf1_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-博斯高球二台,http://154.12.54.172:66/smt/smt.php?id=bosigolf2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-博斯网球台,http://154.12.54.172:66/smt/smt.php?id=bositennis_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-博斯无限台,http://154.12.54.172:66/smt/smt.php?id=bosiunlimited_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
-好消息 2,http://154.12.54.172:66/smt/smt.php?id=good2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+翡翠台,http://my.wifi942.com:66/smt/smt.php?id=jade_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+翡翠台,http://my.wifi942.com:66/smt/smt.php?id=Jade_xue&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+明珠台,http://my.wifi942.com:66/smt/smt.php?id=pearl_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+无线新闻,http://my.wifi942.com:66/smt/smt.php?id=inews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+TVBPLUS,http://my.wifi942.com:66/smt/smt.php?id=j2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+ViuTV,http://my.wifi942.com:66/smt/smt.php?id=viu1_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+ViuTV 6,http://my.wifi942.com:66/smt/smt.php?id=viusix_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+RTHK 31,http://my.wifi942.com:66/smt/smt.php?id=rhk31_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+RTHK 32,http://my.wifi942.com:66/smt/smt.php?id=rhk32_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+HOY TV,http://my.wifi942.com:66/smt/smt.php?id=hoycaijing_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+凤凰中文,http://my.wifi942.com:66/smt/smt.php?id=phoenixtv_hd&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+凤凰资讯,http://my.wifi942.com:66/smt/smt.php?id=phoenixinfo_hd&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+凤凰香港,http://my.wifi942.com:66/smt/smt.php?id=hkphoenix_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+台视 HD,http://my.wifi942.com:66/smt/smt.php?id=ttv_taiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+台视新闻,http://my.wifi942.com:66/smt/smt.php?id=ttvnews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+台视综合,http://my.wifi942.com:66/smt/smt.php?id=ttvzhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+中视 HD,http://my.wifi942.com:66/smt/smt.php?id=zhongshihd_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+中视新闻,http://my.wifi942.com:66/smt/smt.php?id=zhongshinews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+中视经典,http://my.wifi942.com:66/smt/smt.php?id=zhongshi_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+华视 HD,http://my.wifi942.com:66/smt/smt.php?id=ctshd_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+公视 HD,http://my.wifi942.com:66/smt/smt.php?id=ctv_taiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+公视台语台,http://my.wifi942.com:66/smt/smt.php?id=ctv2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+三立台湾台,http://my.wifi942.com:66/smt/smt.php?id=sanlitaiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+三立都会台,http://my.wifi942.com:66/smt/smt.php?id=sanlidouhui&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+三立综合台,http://my.wifi942.com:66/smt/smt.php?id=sanlizhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+三立戏剧台,http://my.wifi942.com:66/smt/smt.php?id=sanlixiju_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+东森新闻台,http://my.wifi942.com:66/smt/smt.php?id=ettvnews&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+东森财经新闻台,http://my.wifi942.com:66/smt/smt.php?id=ettvcaijing_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+东森综合台,http://my.wifi942.com:66/smt/smt.php?id=ettvzhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+东森戏剧台,http://my.wifi942.com:66/smt/smt.php?id=ettvdrama&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+东森电影台,http://my.wifi942.com:66/smt/smt.php?id=ettvmovie&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+东森洋片台,http://my.wifi942.com:66/smt/smt.php?id=ettvwestern&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+东森幼幼台,http://my.wifi942.com:66/smt/smt.php?id=yoyo_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+东森超视,http://my.wifi942.com:66/smt/smt.php?id=ettvsuper&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+TVBS HD,http://my.wifi942.com:66/smt/smt.php?id=tvbs&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+TVBS 新闻台,http://my.wifi942.com:66/smt/smt.php?id=tvbs_n&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+TVBS 欢乐台,http://my.wifi942.com:66/smt/smt.php?id=tvbshuanle_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+民视 HD,http://my.wifi942.com:66/smt/smt.php?id=ftvhd_taiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+民视新闻台,http://my.wifi942.com:66/smt/smt.php?id=ftvnew_taiwan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+民视台湾台,http://my.wifi942.com:66/smt/smt.php?id=ftvtaiwan_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+中天综合,http://my.wifi942.com:66/smt/smt.php?id=ctizhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+中天娱乐,http://my.wifi942.com:66/smt/smt.php?id=ctient&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+中天亚洲,http://my.wifi942.com:66/smt/smt.php?id=ctiasia_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+中天新闻,http://my.wifi942.com:66/smt/smt.php?id=ctinews&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+寰宇新闻台,http://my.wifi942.com:66/smt/smt.php?id=huanyuxinwen_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+寰宇财经台,http://my.wifi942.com:66/smt/smt.php?id=huanyutaiwan_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+八大第一台,http://my.wifi942.com:66/smt/smt.php?id=badafirst&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+八大综合台,http://my.wifi942.com:66/smt/smt.php?id=badazhonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+八大戏剧台,http://my.wifi942.com:66/smt/smt.php?id=badadrama&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+八大娱乐台,http://my.wifi942.com:66/smt/smt.php?id=badaentertain&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+纬来体育,http://my.wifi942.com:66/smt/smt.php?id=videolandsport&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+纬来精彩,http://my.wifi942.com:66/smt/smt.php?id=videolandspecial_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+纬来日本,http://my.wifi942.com:66/smt/smt.php?id=videolandjapan&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+纬来电影,http://my.wifi942.com:66/smt/smt.php?id=videolandmovie&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+纬来综合,http://my.wifi942.com:66/smt/smt.php?id=videolandzonghe&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+纬来育乐,http://my.wifi942.com:66/smt/smt.php?id=videolandyule&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+爱尔达综合台,http://my.wifi942.com:66/smt/smt.php?id=eltazonghe_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+爱尔达影剧台,http://my.wifi942.com:66/smt/smt.php?id=eltayingju_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+爱尔达体育1台,http://my.wifi942.com:66/smt/smt.php?id=eltasport_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+爱尔达体育2台,http://my.wifi942.com:66/smt/smt.php?id=eltasport2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+爱尔达体育3台,http://my.wifi942.com:66/smt/smt.php?id=eltasport3_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+非凡新闻,http://my.wifi942.com:66/smt/smt.php?id=feifannews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+年代新闻,http://my.wifi942.com:66/smt/smt.php?id=niandainews_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+龙华戏剧,http://my.wifi942.com:66/smt/smt.php?id=lunghuaxiju_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+龙华偶像,http://my.wifi942.com:66/smt/smt.php?id=lunghuaidol_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+龙华电影,http://my.wifi942.com:66/smt/smt.php?id=xingwei_movie&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+龙华洋片,http://my.wifi942.com:66/smt/smt.php?id=lunghuawestern_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+龙华经典,http://my.wifi942.com:66/smt/smt.php?id=lunghuajingdian_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+靖天国际,http://my.wifi942.com:66/smt/smt.php?id=jingtianintl_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+靖天卡通,http://my.wifi942.com:66/smt/smt.php?id=jingtiancartoon_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+大愛電視,http://my.wifi942.com:66/smt/smt.php?id=daai_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+大愛二台,http://my.wifi942.com:66/smt/smt.php?id=daai2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+EYE 旅游台,http://my.wifi942.com:66/smt/smt.php?id=eyetvtravel_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+EYE 戏剧台,http://my.wifi942.com:66/smt/smt.php?id=eyetvxiju_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+亚洲美食,http://my.wifi942.com:66/smt/smt.php?id=afc_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+美食星球,http://my.wifi942.com:66/smt/smt.php?id=foodplanet_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+TLC旅遊生活,http://my.wifi942.com:66/smt/smt.php?id=tlc_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+亚洲旅游台,http://my.wifi942.com:66/smt/smt.php?id=asiatravel_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+Arirang,http://my.wifi942.com:66/smt/smt.php?id=arirang_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+AXN Taiwan,http://my.wifi942.com:66/smt/smt.php?id=axn_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+MTV Live,http://my.wifi942.com:66/smt/smt.php?id=mtvhd_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+HBO_HD,http://my.wifi942.com:66/smt/smt.php?id=hbohd_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+HBO_HITS,http://my.wifi942.com:66/smt/smt.php?id=hbohit_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+CINEMAX,http://my.wifi942.com:66/smt/smt.php?id=cinemax_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+好萊塢電影台,http://my.wifi942.com:66/smt/smt.php?id=hollywoodmovies_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+卫视电影台,http://my.wifi942.com:66/smt/smt.php?id=weishimovie_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+龙祥时代,http://my.wifi942.com:66/smt/smt.php?id=lungxiangtime_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+美亚电影,http://my.wifi942.com:66/smt/smt.php?id=meiyamovie_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+華藝綜合,http://my.wifi942.com:66/smt/smt.php?id=weishichinese_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+博斯运动一台,http://my.wifi942.com:66/smt/smt.php?id=bosisport1_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+博斯运动二台,http://my.wifi942.com:66/smt/smt.php?id=bosisport2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+博斯高球一台,http://my.wifi942.com:66/smt/smt.php?id=bosigolf1_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+博斯高球二台,http://my.wifi942.com:66/smt/smt.php?id=bosigolf2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+博斯网球台,http://my.wifi942.com:66/smt/smt.php?id=bositennis_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+博斯无限台,http://my.wifi942.com:66/smt/smt.php?id=bosiunlimited_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
+好消息 2,http://my.wifi942.com:66/smt/smt.php?id=good2_twn&token=97fce052dcf14ecb484bad983f7bd4b3e84874b737a47f25089bf71fb7d16317
 
 四季台湾4,#genre#
 民視第一台,http://211.23.125.95:50007/4gtv-4gtv003/index.m3u8?proxy=true
