@@ -821,686 +821,686 @@ CCTV-17,http://free.cnlive.club/channel/9e11396.m3u8
 广东珠江,http://free.cnlive.club/channel/n7017ab43.m3u8
 
 极速酷看,#genre#
-TVB 無線新聞 News H265 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/3.ts
-TVB 無線新聞台 4K (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/8.ts
-TVB 無線新聞直播台 4K (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/9.ts
-TVB 無線新聞台 CH083 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/13.ts
-鳳凰資訊 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/17.ts
-HOY 資訊台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/22.ts
-HOY 香港國際財經IBC (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/23.ts
-Now 新聞台 CH332 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/29.ts
-Now 財經台 CH333 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/30.ts
-鳳凰資訊台 CH611 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/88.ts
-中天新闻 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/161.ts
-东森新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/162.ts
-TVBS 新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/163.ts
-三立新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/166.ts
-台视新闻 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/174.ts
-民视新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/164.ts
-中视新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/168.ts
-华视新闻信息台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/169.ts
-寰宇新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/170.ts
-寰宇新闻台湾台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/171.ts
-年代新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/165.ts
-壹电视新闻台(TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/172.ts
-镜电视新闻 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/173.ts
-非凡新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/167.ts
-三立财经新闻 iNEWS (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/370.ts
-SBN 全球财经台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/371.ts
-东森财经新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/369.ts
-寰宇财经台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/379.ts
-台视财经台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/373.ts
-非凡商业台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/372.ts
-CNN国际新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/382.ts
-CNN头条新闻台(HLN) (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/383.ts
-BBC World NEWS (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/384.ts
-FRANCE24 英文台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/386.ts
-VOA美国之音 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/389.ts
-半岛国际新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/385.ts
-CNBC Asia 财经台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/390.ts
-彭博Bloomberg TV (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/387.ts
-AI 倪珍播新闻 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/368.ts
-CCTV-13 (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/487.ts
-CCTV-13 1080P (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/546.ts
-上海第一财经 (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/588.ts
-CGTN (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/579.ts
-TVB NEWS (美),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/444.ts
-美国旧金山 KTSF-26,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/467.ts
-加拿大600新闻 (加),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/449.ts
-TVB 无线新闻海外台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/454.ts
-东森美洲新闻台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/471.ts
-TVB 娱乐新闻台 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/670.ts
-凤凰资讯 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/747.ts
-Aljazeera (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/752.ts
-Bloomberg TV (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/756.ts
-BBC World News (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/751.ts
-CGTN (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/760.ts
-CNA亚洲新闻 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/754.ts
-CNN (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/750.ts
-CNBC (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/755.ts
-DW English (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/758.ts
-France 24 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/759.ts
-SkyNews (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/753.ts
-ABC Australia (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/757.ts
-CNN (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/874.ts
-日テレNEWS24 (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/871.ts
-BBCワールドニュース (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/873.ts
-Fight Sports CH642 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/108.ts
-Now 668 (粵) CH668 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/112.ts
-Now 668 (國) CH668 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/113.ts
-TVB 88 跑馬台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/136.ts
-HKC 有線18台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/122.ts
-HKC 有線18台(低延時) (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/123.ts
-TVB myTV SUPER 18台 CH018 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/51.ts
-ELTA 爱尔达体育1台 (TW) 540P(TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/257.ts
-ELTA 爱尔达体育2台 (TW) 540P(TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/258.ts
-ELTA 爱尔达体育3台 (TW) 540P(TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/259.ts
-ELTA 爱尔达体育4台 (TW) 540P(TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/260.ts
-ELTA 爱尔达体育 MAX1台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/261.ts
-ELTA 爱尔达体育 MAX2台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/262.ts
-ELTA 爱尔达体育 MAX3台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/263.ts
-ELTA 爱尔达体育 MAX4台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/264.ts
-博斯无限1台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/270.ts
-博斯无限2台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/271.ts
-博斯网球台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/272.ts
-博斯运动1台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/265.ts
-博斯运动2台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/266.ts
-博斯高球1台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/268.ts
-博斯高球2台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/269.ts
-博斯魅力台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/267.ts
-DAZN 1 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/273.ts
-DAZN 2 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/274.ts
-MOMOTV Sports (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/336.ts
-TRACE Sport Stars (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/335.ts
-智林体育台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/337.ts
-CCTV-5 1080P (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/537.ts
-CCTV-5P 1080P (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/538.ts
-五星体育 (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/526.ts
-广东体育频道 (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/527.ts
-纬来体育台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/226.ts
-ELTA 爱尔达体育1台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/253.ts
-ELTA 爱尔达体育2台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/254.ts
-ELTA 爱尔达体育3台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/255.ts
-ELTA 爱尔达体育4台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/256.ts
-纬来体育台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/424.ts
-CCTV-5 (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/479.ts
-CCTV-5P (CN),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/492.ts
-Hub Sports 1 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/633.ts
-Hub Sports 2 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/634.ts
-Hub Sports 3 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/635.ts
-Hub Sports 4 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/636.ts
-Hub Sports 5 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/637.ts
-Hub Premier 1 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/638.ts
-Hub Premier 2 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/639.ts
-Hub Premier 3 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/640.ts
-Hub Premier 4 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/641.ts
-Hub Premier 5 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/642.ts
-Hub Premier 6 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/643.ts
-Hub Premier 7 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/644.ts
-EUROSPORT (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/646.ts
-Fight Sports (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/645.ts
-Astro Grandstand (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/687.ts
-Astro Badminton (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/688.ts
-Astro Sports Plus (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/686.ts
-Astro Cricket (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/703.ts
-Astro Football (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/689.ts
-Astro Arena 1 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/690.ts
-Astro Arena 2 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/691.ts
-Astro Arena Bola 1 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/692.ts
-Astro Arena Bola 2 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/693.ts
-beIN Sports 1 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/697.ts
-beIN Sports 2 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/698.ts
-bEIN Sports 3 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/699.ts
-Premier Sports (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/702.ts
-Premier League 1 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/694.ts
-Premier League 2 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/695.ts
-WWE Network (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/700.ts
-SPOTV (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/704.ts
-SPOTV 2(MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/705.ts
-W Sport (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/696.ts
-Golf Channel (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/701.ts
-JSPORTS 1 BS242 (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/801.ts
-JSPORTS 2 BS243 (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/802.ts
-JSPORTS 3 BS244 (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/803.ts
-JSPORTS 4 BS245 (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/804.ts
-ゴルフネットワークGolf Network (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/839.ts
-GAORA SPORTS (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/837.ts
-BS釣りビジョン Tsuri Vision (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/816.ts
-KBSN Sports (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/937.ts
-MBC Sports (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/935.ts
-SBS Sports (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/932.ts
-SBS Golf (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/931.ts
-JTBC Golf (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/933.ts
-JTBC Golf & Sports (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/934.ts
-SPOTV (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/939.ts
-SPOTV 2 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/936.ts
-SPOTV Golf & HEALTH (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/930.ts
-SPOTV Prime (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/940.ts
-SPOTV Prime2 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/941.ts
-SKY Sports (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/938.ts
-Now Sports 1 CH631 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/97.ts
-Now Sports 2 CH632 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/98.ts
-Now Sports 3 CH633 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/99.ts
-Now Sports 4 CH634 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/100.ts
-Now Sports 5 CH635 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/101.ts
-Now Sports 6 CH636 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/102.ts
-Now Sports 7 CH637 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/103.ts
-Now 英超Premier League 1台 CH621 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/89.ts
-Now 英超Premier League 1台 (EN) CH621 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/90.ts
-Now 英超Premier League 2台 CH622 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/91.ts
-Now 英超Premier League 3台CH623 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/92.ts
-Now 英超Premier League 4台 CH624 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/93.ts
-Now 英超Premier League 5台 CH625 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/94.ts
-Now 英超Premier League 6台 CH626 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/95.ts
-Now Sports CH630 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/96.ts
-曼聯電視 MUTV CH640 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/107.ts
-HK NBA TV,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/65070.ts
-Now Sports NBA CH641,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/65073.ts
-beIN SPORTS 1 CH638 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/104.ts
-beIN SPORTS 2 CH639 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/105.ts
-beIN SPORTS 3 CH643 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/106.ts
-Now Sports 651 英足總 CH651 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/110.ts
-Now Sports 652 英足總 CH652 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/111.ts
-myTV SUPER直播足球2台 CH901 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/137.ts
-myTV SUPER直播足球3台 CH902 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/138.ts
-myTV SUPER直播足球4台 CH903 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/139.ts
-myTV SUPER直播足球5台 CH904 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/140.ts
-myTV SUPER直播足球6台 CH905 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/141.ts
-TVB 翡翠台 JADE H265 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2.ts
-TVB Plus H265 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/4.ts
-TVB 明珠 Pearl H265 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/5.ts
-ViuTV H265 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/6.ts
-TVB 翡翠台 JADE 4K (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/7.ts
-TVB Plus 4K (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/11.ts
-TVB 明珠台 Pearl 4K (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/10.ts
-TVB 翡翠台 JADE (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/12.ts
-TVB Plus CH082 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/14.ts
-TVB Plus CH082(低延時) (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/15.ts
-TVB 明珠台 Pearl CH084 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/16.ts
-ViuTV Six CH096 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/32.ts
-ViuTV CH099 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/49.ts
-鳳凰衛視 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/18.ts
-鳳凰香港 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/19.ts
-鳳凰衛視電影台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/20.ts
-HOY TV (開電視) (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/21.ts
-RTHK 31 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/24.ts
-RTHK 32 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/25.ts
-RTHK 33 CCTV1 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/26.ts
-RTHK 34 CGTN記錄 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/27.ts
-RTHK 35 CGTN (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/28.ts
-Now 直播台 CH331 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/31.ts
-Now Viu劇集台 CH102 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/33.ts
-Now 華劇台 (粵) CH105 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/34.ts
-Now 華劇台 (國) CH105  (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/35.ts
-Now Jelli 紫金 CH108 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/36.ts
-HBO CH115 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/37.ts
-MOVIE MOVIE CH116 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/38.ts
-Cinemax CH118 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/39.ts
-Now 爆穀星影台 CH138 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/40.ts
-Now 爆穀台 CH133 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/41.ts
-美亞電影台 (粵) CH201 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/42.ts
-美亞電影台 (國) CH202 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/43.ts
-中國電影頻道香港版 CH204 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/44.ts
-POPC 電影頻道 CH206 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/45.ts
-KIX CH304 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/46.ts
-Love Nature 4K CH403 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/69.ts
-Global Treker CH407 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/70.ts
-DreamWorks (粵) CH440 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/73.ts
-DreamWorks (國) CH440 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/74.ts
-卡通頻道 (粵) CN CH443 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/75.ts
-卡通頻道 (國) CN CH443 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/76.ts
-BBC CBeebies (粵) CH447 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/77.ts
-Da Vinci 達文西頻道 CH460 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/78.ts
-ROCK Entertainment CH501 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/71.ts
-ROCK Action CH502 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/72.ts
-AXN CH503 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/79.ts
-Animax CH504 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/80.ts
-tvN CH505 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/81.ts
-Fashion Box CH603 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/84.ts
-Mezzo Live CH604 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/85.ts
-鳳凰中文台 CH610 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/87.ts
-鳳凰香港台 CH612 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/86.ts
-TVB SUPER-FREE (粵) CH01 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/47.ts
-TVB SUPER-FREE (國) CH001 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/50.ts
-TVB 黃金翡翠台 CH080 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/52.ts
-TVB 千禧經典台 CH086 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/53.ts
-TVB 亞洲劇台 (原聲) CH087  (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/54.ts
-TVB 亞洲劇台 (粵) CH087 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/55.ts
-TVB 華語劇台 (粵) CH089 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/56.ts
-TVB 華語劇台 (國) CH089 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/57.ts
-TVB 黃金華劇台 (粵) CH090 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/58.ts
-TVB 黃金華劇台 (國) CH090 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/59.ts
-TVB 娛樂新聞台 CH091 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/60.ts
-TVB 戲曲台 CH098 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/61.ts
-SUPER Kids Channel CH100 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/62.ts
-ZooMoo CH101 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/63.ts
-尼克兒童 Nickelodeon CH104 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/64.ts
-TVB 粵語片台 CH200 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/65.ts
-Thrill CH202 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/66.ts
-天映經典 (粵) CCM CH203 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/67.ts
-天映經典 (國) CCM CH203 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/68.ts
-天映頻道 (粵) CM (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/124.ts
-天映頻道 (國) CM (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/125.ts
-TVB 功夫台 (粵) (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/118.ts
-TVB 功夫台 (國) (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/119.ts
-TVB 星河 (國) (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/121.ts
-TVB 星河 (粵) (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/120.ts
-TVB Pearl Drama 明珠劇集台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/117.ts
-TVB 生活台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/126.ts
-SUPER 獎門人 CH02 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/127.ts
-SUPER EYT CH03 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/128.ts
-SUPER 識食 CH04 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/129.ts
-SUPER 識歎 CH05 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/130.ts
-SUPER Music CH06 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/131.ts
-SUPER 金曲 CH07 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/132.ts
-SUPER 煲劇 CH08 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/133.ts
-SUPER 劇場 CH09 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/134.ts
-SUPER 話當年 CH10 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/135.ts
-星空衛視 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/145.ts
-香港C＋頻道 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/147.ts
-Channel V 音樂台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/143.ts
-澳視澳門台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/150.ts
-澳視衛星台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/151.ts
-澳門蓮花衛視 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/148.ts
-澳門體育台 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/152.ts
-Now Sports Plus CH680 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/114.ts
-Now Golf 2 CH683 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/115.ts
-Now Golf 3 CH684 (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/116.ts
-SUPER Sports CH11(HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/48.ts
-民视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/156.ts
-中视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/159.ts
-华视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/158.ts
-台视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/157.ts
-公视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/160.ts
-中天综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/175.ts
-中天娱乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/176.ts
-中天亚洲台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/177.ts
-东森综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/178.ts
-东森电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/179.ts
-东森戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/180.ts
-东森洋片台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/181.ts
-TVBS 综合 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/182.ts
-TVBS 欢乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/183.ts
-TVBS 精采台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/184.ts
-TVBS 台剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/186.ts
-TVBS 综艺台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/185.ts
-三立综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/187.ts
-三立台湾台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/188.ts
-三立戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/190.ts
-三立都会台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/189.ts
-中视经典台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/196.ts
-中视菁采台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/197.ts
-民视台湾台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/192.ts
-民视影剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/194.ts
-民视旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/195.ts
-民视第一台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/191.ts
-民视综艺台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/193.ts
-台视综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/198.ts
-公视3 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/200.ts
-公视台语台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/199.ts
-公视戏剧 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/201.ts
-HBO (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/202.ts
-HBO Family (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/204.ts
-HBO Hits (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/205.ts
-HBO Signature (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/203.ts
-HBO LOGO (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/206.ts
-CINEMAX (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/207.ts
-美亚电影台湾台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/208.ts
-好莱坞电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/210.ts
-壹电影 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/222.ts
-龙祥时代电影 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/209.ts
-私人影院 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/225.ts
-影迷数位纪实台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/214.ts
-影迷数字电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/218.ts
-我的欧洲电影 My Cinema Europe (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/220.ts
-华纳电影台 WarnerTV (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/221.ts
-AMC最爱电影 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/219.ts
-AXN (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/211.ts
-CATCHPLAY 电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/216.ts
-CI 罪案侦查频道 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/213.ts
-Cinema World (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/215.ts
-CNEX 视纳华仁纪实频道 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/217.ts
-HITS频道 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/212.ts
-Lifetime娱乐频道 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/223.ts
-tvN (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/224.ts
-纬来综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/229.ts
-纬来戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/230.ts
-纬来日本台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/227.ts
-纬来电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/231.ts
-纬来精彩台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/232.ts
-纬来育乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/228.ts
-龙华偶像台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/236.ts
-龙华卡通台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/239.ts
-龙华戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/235.ts
-龙华日韩台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/234.ts
-龙华洋片台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/238.ts
-龙华电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/233.ts
-龙华经典台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/237.ts
-八大综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/241.ts
-八大娱乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/245.ts
-八大戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/242.ts
-八大第一台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/244.ts
-八大精彩台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/240.ts
-八大综艺台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/243.ts
-ELTA 爱尔达娱乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/252.ts
-ELTA 爱尔达影剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/248.ts
-ELTA 爱尔达日韩台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/250.ts
-ELTA 爱尔达生活旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/251.ts
-ELTA 爱尔达综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/249.ts
-靖天综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/279.ts
-靖天卡通台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/277.ts
-靖天戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/275.ts
-靖天日本台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/280.ts
-靖天映画台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/281.ts
-靖天欢乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/284.ts
-靖天电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/282.ts
-靖天育乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/283.ts
-靖天资讯台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/285.ts
-靖洋戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/276.ts
-靖洋卡通Nice Bingo,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/278.ts
-KLT-靖天国际 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/286.ts
-探索频道 Discovery Channel  (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/287.ts
-探索亚洲 Discovery Asia (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/288.ts
-探索动力 Discovery DMAX (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/290.ts
-探索科学 Discovery Science (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/289.ts
-历史频道 2HISTORY 2 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/293.ts
-历史频道 History (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/292.ts
-国家地理 National Geographic (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/294.ts
-动物星球 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/295.ts
-亚洲美食频道 Asian Food Network (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/300.ts
-Discovery EVE (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/291.ts
-Smart 知识台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/331.ts
-TLC 旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/298.ts
-Love Nature (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/296.ts
-BBC Earth (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/304.ts
-BBC Lifestyle (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/305.ts
-Asia 亚洲旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/297.ts
-Travel Channel 旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/299.ts
-居家乐活频道 HGTV (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/303.ts
-美食星球 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/301.ts
-幸福空间居家台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/347.ts
-东森幼幼台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/308.ts
-卡通频道 CN (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/314.ts
-卡通台 Cartoonito (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/318.ts
-达文西频道 DaVinCi (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/316.ts
-梦工厂动画 Dreamworks (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/317.ts
-尼克儿童频道 Nickelodeon (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/312.ts
-MOMO 亲子台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/313.ts
-Animax 卡通 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/310.ts
-BBC Cbeebies (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/319.ts
-Baby TV (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/320.ts
-Boomerang (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/309.ts
-Nick Jr.儿童频道 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/311.ts
-爱放动漫台 I-Fun (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/315.ts
-经典卡通台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/360.ts
-高点综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/324.ts
-JET 综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/322.ts
-MOMO 综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/321.ts
-ETtoday 综合台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/367.ts
-EYE 戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/307.ts
-EYE 旅游台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/306.ts
-ROCK Action (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/328.ts
-ROCK Entertainment (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/327.ts
-ROCK Extreme (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/329.ts
-Z频道 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/339.ts
-东风卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/340.ts
-彩昌影剧 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/355.ts
-经典电影台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/359.ts
-华艺中文台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/345.ts
-台湾戏剧台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/325.ts
-无线卫星亚洲台 TVBS Asia (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/332.ts
-INULTRA (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/363.ts
-Fashion TV (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/341.ts
-Fun 探索娱乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/356.ts
-Global Trekker (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/333.ts
-Channel V 音乐台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/357.ts
-LUXE TV Channel (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/362.ts
-Mezzo Live (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/343.ts
-Moonbug (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/364.ts
-年代MUCH台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/358.ts
-电影原声台 CMusic (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/326.ts
-音乐频道 MTV Live (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/344.ts
-MTV Asia (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/330.ts
-TRACE Urban (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/342.ts
-猪哥亮歌厅秀 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/354.ts
-古典乐 CLASSICA (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/348.ts
-GINX Esports TV (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/334.ts
-博斯 Pace Sport (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/365.ts
-时尚运动X (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/346.ts
-环球旅行家 Globetrotter (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/302.ts
-生活時尚 TV5MONDE STYLE (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/361.ts
-金光布袋戏 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/352.ts
-霹雳台湾台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/351.ts
-阿里郎频道 Arirang (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/350.ts
-韩国娱乐台 (TW) KMTV,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/349.ts
-麦哲伦频道 Magellan TV (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/366.ts
-原住民族电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/381.ts
-客家电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/380.ts
-国会频道 1 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/393.ts
-国会频道 2 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/394.ts
-国兴卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/338.ts
-东森购物1台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/375.ts
-东森购物2台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/376.ts
-东森购物3台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/377.ts
-东森购物5台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/378.ts
-东森超视台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/374.ts
-大爱电视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/396.ts
-大爱二台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/397.ts
-好消息 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/401.ts
-好消息2台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/402.ts
-华藏卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/398.ts
-人间卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/395.ts
-十方法界 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/400.ts
-希望频道 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/405.ts
-诚心电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/403.ts
-生命电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/404.ts
-无上师电视台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/399.ts
-NHK WORLD JAPAN (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/388.ts
-ELTV生活英语台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/392.ts
-LiveABC互动英语频道 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/391.ts
-Cinemax H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/430.ts
-好莱坞电影 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/409.ts
-JET 综合台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/408.ts
-MOMO 综合台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/436.ts
-MOMO 亲子台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/435.ts
-TVBS H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/412.ts
-TVBS 欢乐台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/413.ts
-东森幼幼 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/414.ts
-东森戏剧 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/416.ts
-东森综合 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/415.ts
-东森财经 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/417.ts
-中天娱乐 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/411.ts
-中天综合 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/410.ts
-三立新闻 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/418.ts
-三立台湾台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/419.ts
-三立都会台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/420.ts
-国兴卫视 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/431.ts
-壹新闻台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/407.ts
-年代新闻台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/406.ts
-年代MUCH台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/434.ts
-纬来戏剧 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/426.ts
-纬来日本 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/427.ts
-纬来电影 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/429.ts
-纬来综合 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/425.ts
-纬来育乐 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/428.ts
-八大综合 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/421.ts
-八大戏剧 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/423.ts
-八大第一 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/422.ts
-动物星球 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/433.ts
-TLC 旅遊生活台 H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/432.ts
-TaiWan Plus H265 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/437.ts
-TVB 1 (美),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/440.ts
-TVB J1 (美),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/441.ts
-TVB E (美),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/442.ts
-TVB Drama (美),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/443.ts
-TVB 翡翠台(美西),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/456.ts
-TVB 翡翠台(美东),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/455.ts
-新时代多伦多 (加),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/445.ts
-新时代温哥华 (加),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/446.ts
-新时代2 (加),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/447.ts
-TVB 翡翠台(英國),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/458.ts
-TVB 翡翠台(澳洲),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/457.ts
-TVB 翡翠台 (泰),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/461.ts
-TVB 翡翠台 (马来-粤),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/459.ts
-TVB 翡翠台 (马来-国),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/460.ts
-TVB 星河 (泰),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/463.ts
-TVB 星河 (马来-国),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/462.ts
-TVB Live Shows (泰),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/465.ts
-TVB 功夫台 Asia Action (泰),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/464.ts
-TVB 千禧经典台 (马来) (HK),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/466.ts
-凤凰卫视美洲台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/468.ts
-东森中国台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/470.ts
-东森美洲卫视 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/469.ts
-东森超视美洲台 (TW),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/472.ts
-中国电影频道,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/65108.ts
-Channel 5 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/598.ts
-Channel 8 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/599.ts
-Channel U(SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/600.ts
-Suria (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/601.ts
-Vasantham (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/602.ts
-E乐台 E-Le (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/604.ts
-佳乐台 Jia Le (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/603.ts
-如意台 RUYI (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/721.ts
-Hub 娱家 VV Drama (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/605.ts
-Hub 都会台 ECity (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/606.ts
-HBO(SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/610.ts
-HBO Signature(SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/611.ts
-HBO Family(SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/612.ts
-HBO Hits(SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/613.ts
-Cinemax (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/614.ts
-Cinema One Global (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/617.ts
-CM+天映频道 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/616.ts
-天映频道 Celestial Movies (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/609.ts
-Hits Movies (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/615.ts
-Astro Prima (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/632.ts
-Astro Ria (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/631.ts
-Astro Sensasi (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/630.ts
-Astro Warna(SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/629.ts
-Discovery Channel(SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/618.ts
-HGTV(SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/623.ts
-History (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/624.ts
-NAT_GEO (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/626.ts
-BBC Cbeebies (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/621.ts
-BBC Earth (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/619.ts
-BBC Lifestyle (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/620.ts
-Travelxp (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/625.ts
-HITS (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/622.ts
-KIX (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/647.ts
-tvN (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/628.ts
-Lifetime (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/627.ts
-TVB 星河 (中) (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/607.ts
-TVB 翡翠台 (SG),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/608.ts
-TV1 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/650.ts
-TV2 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/651.ts
-TV3 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/652.ts
-TV6 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/653.ts
-8TV八度空间 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/654.ts
-TV9 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/655.ts
-Astro AEC (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/658.ts
-Astro 全佳台 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/657.ts
-Astro 欢喜台 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/660.ts
-Astro IQiYI 爱奇艺 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/656.ts
-TVB翡翠台 (粤) (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/666.ts
-TVB翡翠台 (国) (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/667.ts
-Astro AOD 311 (粤) (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/661.ts
-Astro AOD 311 (国) (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/662.ts
-TVB 星河频道 (粤) (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/668.ts
-TVB 星河频道 (国) (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/669.ts
-天映频道 (粤) (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/663.ts
-天映频道 (国) (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/664.ts
-CCM 天映经典 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/665.ts
-TVB 千禧经典台 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/659.ts
-HBO (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/673.ts
-HBO Family (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/674.ts
-HBO Hits (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/675.ts
-Cinemax (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/677.ts
-AXN (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/676.ts
-Boo (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/684.ts
-HITS Movies (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/685.ts
-Showcase Movies (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/679.ts
-tvN Movies (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/683.ts
-Crime+Investigation (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/780.ts
-Astro Ria (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/706.ts
-Astro Awani (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/710.ts
-Astro Ceria (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/711.ts
-Astro Citra (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/709.ts
-Astro Oasis (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/708.ts
-Astro Aura (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/715.ts
-Astro Prima (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/707.ts
-Astro Rania (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/714.ts
-Astro Vaanavil (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/716.ts
-Astro Vellithirai (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/717.ts
-Astro Vinmeen (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/718.ts
-CTI Asia 中天亚洲 (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/671.ts
-Hits (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/678.ts
-TVBS Asia (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/672.ts
-tvN (MY),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/682.ts
-KNTV (JP),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/883.ts
-KBS 1 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/886.ts
-KBS 2 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/887.ts
-MBC (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/889.ts
-SBS (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/888.ts
-KBSN Drama (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/890.ts
-KBSN Joy (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/891.ts
-KBSN Kids (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/892.ts
-KBS World (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/893.ts
-MBC DRAMA (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/899.ts
-MBC M (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/902.ts
-MBC NO (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/900.ts
-SBS BIZ (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/895.ts
-SBS Plus (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/896.ts
-JTBC (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/903.ts
-JTBC 2 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/904.ts
-CATCH ON 1 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/909.ts
-CATCH ON2 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/917.ts
-Channel A (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/908.ts
-Channel China (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/945.ts
-Channela Plus (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/962.ts
-Anibox (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/965.ts
-Anione (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/966.ts
-AXN[미드] (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/912.ts
-BTN (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/951.ts
-CHING (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/942.ts
-CNTV (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/926.ts
-CPBC (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/952.ts
-CTS (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/954.ts
-Discovery channel (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/953.ts
-HISTORY (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/956.ts
-Smithsonian channel (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/950.ts
-EBS 1 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/946.ts
-EBS 2(KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/947.ts
-EBS PLUS 1(KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/894.ts
-EBS PLUS 2(KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/948.ts
-EBS Kids (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/928.ts
-FTV (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/943.ts
-Inet TV (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/923.ts
-JEI재능TV (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/910.ts
-Kids Talk Talk (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/927.ts
-Kstar (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/968.ts
-MBN (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/907.ts
-NOW[미드] (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/911.ts
-OCN (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/914.ts
-OCN Movies 1 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/915.ts
-OCN Movies 2 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/916.ts
-Mnet (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/919.ts
-Playy Well (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/971.ts
-SCREEN (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/913.ts
-SK Stoa (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/963.ts
-tvN Sports (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/949.ts
-Tooniverse (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/924.ts
-Golf&PBA (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/958.ts
-TV Chosun (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/905.ts
-TV Chosun 2 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/918.ts
-TVBaduk (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/944.ts
-tvN (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/920.ts
-tvN Show (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/921.ts
-Yonhapnewstv (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/906.ts
-YTN (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/929.ts
-韩国娱乐台 KMTV (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/975.ts
-대교 어린이 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/925.ts
-브레인티비 braintv 象棋 (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/959.ts
-Arirang (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/964.ts
-ALL TV K (KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/974.ts
+TVB 無線新聞 News H265 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/3.ts
+TVB 無線新聞台 4K (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/8.ts
+TVB 無線新聞直播台 4K (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/9.ts
+TVB 無線新聞台 CH083 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/13.ts
+鳳凰資訊 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/17.ts
+HOY 資訊台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/22.ts
+HOY 香港國際財經IBC (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/23.ts
+Now 新聞台 CH332 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/29.ts
+Now 財經台 CH333 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/30.ts
+鳳凰資訊台 CH611 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/88.ts
+中天新闻 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/161.ts
+东森新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/162.ts
+TVBS 新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/163.ts
+三立新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/166.ts
+台视新闻 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/174.ts
+民视新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/164.ts
+中视新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/168.ts
+华视新闻信息台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/169.ts
+寰宇新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/170.ts
+寰宇新闻台湾台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/171.ts
+年代新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/165.ts
+壹电视新闻台(TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/172.ts
+镜电视新闻 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/173.ts
+非凡新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/167.ts
+三立财经新闻 iNEWS (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/370.ts
+SBN 全球财经台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/371.ts
+东森财经新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/369.ts
+寰宇财经台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/379.ts
+台视财经台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/373.ts
+非凡商业台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/372.ts
+CNN国际新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/382.ts
+CNN头条新闻台(HLN) (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/383.ts
+BBC World NEWS (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/384.ts
+FRANCE24 英文台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/386.ts
+VOA美国之音 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/389.ts
+半岛国际新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/385.ts
+CNBC Asia 财经台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/390.ts
+彭博Bloomberg TV (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/387.ts
+AI 倪珍播新闻 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/368.ts
+CCTV-13 (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/487.ts
+CCTV-13 1080P (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/546.ts
+上海第一财经 (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/588.ts
+CGTN (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/579.ts
+TVB NEWS (美),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/444.ts
+美国旧金山 KTSF-26,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/467.ts
+加拿大600新闻 (加),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/449.ts
+TVB 无线新闻海外台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/454.ts
+东森美洲新闻台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/471.ts
+TVB 娱乐新闻台 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/670.ts
+凤凰资讯 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/747.ts
+Aljazeera (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/752.ts
+Bloomberg TV (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/756.ts
+BBC World News (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/751.ts
+CGTN (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/760.ts
+CNA亚洲新闻 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/754.ts
+CNN (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/750.ts
+CNBC (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/755.ts
+DW English (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/758.ts
+France 24 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/759.ts
+SkyNews (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/753.ts
+ABC Australia (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/757.ts
+CNN (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/874.ts
+日テレNEWS24 (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/871.ts
+BBCワールドニュース (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/873.ts
+Fight Sports CH642 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/108.ts
+Now 668 (粵) CH668 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/112.ts
+Now 668 (國) CH668 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/113.ts
+TVB 88 跑馬台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/136.ts
+HKC 有線18台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/122.ts
+HKC 有線18台(低延時) (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/123.ts
+TVB myTV SUPER 18台 CH018 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/51.ts
+ELTA 爱尔达体育1台 (TW) 540P(TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/257.ts
+ELTA 爱尔达体育2台 (TW) 540P(TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/258.ts
+ELTA 爱尔达体育3台 (TW) 540P(TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/259.ts
+ELTA 爱尔达体育4台 (TW) 540P(TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/260.ts
+ELTA 爱尔达体育 MAX1台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/261.ts
+ELTA 爱尔达体育 MAX2台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/262.ts
+ELTA 爱尔达体育 MAX3台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/263.ts
+ELTA 爱尔达体育 MAX4台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/264.ts
+博斯无限1台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/270.ts
+博斯无限2台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/271.ts
+博斯网球台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/272.ts
+博斯运动1台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/265.ts
+博斯运动2台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/266.ts
+博斯高球1台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/268.ts
+博斯高球2台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/269.ts
+博斯魅力台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/267.ts
+DAZN 1 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/273.ts
+DAZN 2 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/274.ts
+MOMOTV Sports (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/336.ts
+TRACE Sport Stars (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/335.ts
+智林体育台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/337.ts
+CCTV-5 1080P (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/537.ts
+CCTV-5P 1080P (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/538.ts
+五星体育 (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/526.ts
+广东体育频道 (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/527.ts
+纬来体育台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/226.ts
+ELTA 爱尔达体育1台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/253.ts
+ELTA 爱尔达体育2台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/254.ts
+ELTA 爱尔达体育3台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/255.ts
+ELTA 爱尔达体育4台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/256.ts
+纬来体育台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/424.ts
+CCTV-5 (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/479.ts
+CCTV-5P (CN),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/492.ts
+Hub Sports 1 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/633.ts
+Hub Sports 2 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/634.ts
+Hub Sports 3 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/635.ts
+Hub Sports 4 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/636.ts
+Hub Sports 5 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/637.ts
+Hub Premier 1 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/638.ts
+Hub Premier 2 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/639.ts
+Hub Premier 3 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/640.ts
+Hub Premier 4 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/641.ts
+Hub Premier 5 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/642.ts
+Hub Premier 6 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/643.ts
+Hub Premier 7 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/644.ts
+EUROSPORT (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/646.ts
+Fight Sports (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/645.ts
+Astro Grandstand (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/687.ts
+Astro Badminton (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/688.ts
+Astro Sports Plus (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/686.ts
+Astro Cricket (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/703.ts
+Astro Football (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/689.ts
+Astro Arena 1 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/690.ts
+Astro Arena 2 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/691.ts
+Astro Arena Bola 1 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/692.ts
+Astro Arena Bola 2 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/693.ts
+beIN Sports 1 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/697.ts
+beIN Sports 2 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/698.ts
+bEIN Sports 3 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/699.ts
+Premier Sports (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/702.ts
+Premier League 1 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/694.ts
+Premier League 2 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/695.ts
+WWE Network (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/700.ts
+SPOTV (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/704.ts
+SPOTV 2(MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/705.ts
+W Sport (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/696.ts
+Golf Channel (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/701.ts
+JSPORTS 1 BS242 (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/801.ts
+JSPORTS 2 BS243 (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/802.ts
+JSPORTS 3 BS244 (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/803.ts
+JSPORTS 4 BS245 (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/804.ts
+ゴルフネットワークGolf Network (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/839.ts
+GAORA SPORTS (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/837.ts
+BS釣りビジョン Tsuri Vision (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/816.ts
+KBSN Sports (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/937.ts
+MBC Sports (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/935.ts
+SBS Sports (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/932.ts
+SBS Golf (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/931.ts
+JTBC Golf (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/933.ts
+JTBC Golf & Sports (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/934.ts
+SPOTV (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/939.ts
+SPOTV 2 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/936.ts
+SPOTV Golf & HEALTH (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/930.ts
+SPOTV Prime (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/940.ts
+SPOTV Prime2 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/941.ts
+SKY Sports (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/938.ts
+Now Sports 1 CH631 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/97.ts
+Now Sports 2 CH632 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/98.ts
+Now Sports 3 CH633 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/99.ts
+Now Sports 4 CH634 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/100.ts
+Now Sports 5 CH635 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/101.ts
+Now Sports 6 CH636 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/102.ts
+Now Sports 7 CH637 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/103.ts
+Now 英超Premier League 1台 CH621 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/89.ts
+Now 英超Premier League 1台 (EN) CH621 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/90.ts
+Now 英超Premier League 2台 CH622 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/91.ts
+Now 英超Premier League 3台CH623 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/92.ts
+Now 英超Premier League 4台 CH624 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/93.ts
+Now 英超Premier League 5台 CH625 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/94.ts
+Now 英超Premier League 6台 CH626 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/95.ts
+Now Sports CH630 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/96.ts
+曼聯電視 MUTV CH640 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/107.ts
+HK NBA TV,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/65070.ts
+Now Sports NBA CH641,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/65073.ts
+beIN SPORTS 1 CH638 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/104.ts
+beIN SPORTS 2 CH639 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/105.ts
+beIN SPORTS 3 CH643 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/106.ts
+Now Sports 651 英足總 CH651 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/110.ts
+Now Sports 652 英足總 CH652 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/111.ts
+myTV SUPER直播足球2台 CH901 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/137.ts
+myTV SUPER直播足球3台 CH902 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/138.ts
+myTV SUPER直播足球4台 CH903 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/139.ts
+myTV SUPER直播足球5台 CH904 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/140.ts
+myTV SUPER直播足球6台 CH905 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/141.ts
+TVB 翡翠台 JADE H265 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2.ts
+TVB Plus H265 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/4.ts
+TVB 明珠 Pearl H265 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/5.ts
+ViuTV H265 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/6.ts
+TVB 翡翠台 JADE 4K (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/7.ts
+TVB Plus 4K (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/11.ts
+TVB 明珠台 Pearl 4K (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/10.ts
+TVB 翡翠台 JADE (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/12.ts
+TVB Plus CH082 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/14.ts
+TVB Plus CH082(低延時) (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/15.ts
+TVB 明珠台 Pearl CH084 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/16.ts
+ViuTV Six CH096 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/32.ts
+ViuTV CH099 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/49.ts
+鳳凰衛視 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/18.ts
+鳳凰香港 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/19.ts
+鳳凰衛視電影台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/20.ts
+HOY TV (開電視) (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/21.ts
+RTHK 31 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/24.ts
+RTHK 32 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/25.ts
+RTHK 33 CCTV1 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/26.ts
+RTHK 34 CGTN記錄 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/27.ts
+RTHK 35 CGTN (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/28.ts
+Now 直播台 CH331 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/31.ts
+Now Viu劇集台 CH102 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/33.ts
+Now 華劇台 (粵) CH105 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/34.ts
+Now 華劇台 (國) CH105  (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/35.ts
+Now Jelli 紫金 CH108 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/36.ts
+HBO CH115 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/37.ts
+MOVIE MOVIE CH116 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/38.ts
+Cinemax CH118 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/39.ts
+Now 爆穀星影台 CH138 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/40.ts
+Now 爆穀台 CH133 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/41.ts
+美亞電影台 (粵) CH201 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/42.ts
+美亞電影台 (國) CH202 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/43.ts
+中國電影頻道香港版 CH204 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/44.ts
+POPC 電影頻道 CH206 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/45.ts
+KIX CH304 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/46.ts
+Love Nature 4K CH403 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/69.ts
+Global Treker CH407 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/70.ts
+DreamWorks (粵) CH440 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/73.ts
+DreamWorks (國) CH440 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/74.ts
+卡通頻道 (粵) CN CH443 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/75.ts
+卡通頻道 (國) CN CH443 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/76.ts
+BBC CBeebies (粵) CH447 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/77.ts
+Da Vinci 達文西頻道 CH460 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/78.ts
+ROCK Entertainment CH501 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/71.ts
+ROCK Action CH502 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/72.ts
+AXN CH503 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/79.ts
+Animax CH504 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/80.ts
+tvN CH505 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/81.ts
+Fashion Box CH603 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/84.ts
+Mezzo Live CH604 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/85.ts
+鳳凰中文台 CH610 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/87.ts
+鳳凰香港台 CH612 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/86.ts
+TVB SUPER-FREE (粵) CH01 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/47.ts
+TVB SUPER-FREE (國) CH001 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/50.ts
+TVB 黃金翡翠台 CH080 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/52.ts
+TVB 千禧經典台 CH086 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/53.ts
+TVB 亞洲劇台 (原聲) CH087  (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/54.ts
+TVB 亞洲劇台 (粵) CH087 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/55.ts
+TVB 華語劇台 (粵) CH089 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/56.ts
+TVB 華語劇台 (國) CH089 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/57.ts
+TVB 黃金華劇台 (粵) CH090 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/58.ts
+TVB 黃金華劇台 (國) CH090 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/59.ts
+TVB 娛樂新聞台 CH091 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/60.ts
+TVB 戲曲台 CH098 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/61.ts
+SUPER Kids Channel CH100 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/62.ts
+ZooMoo CH101 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/63.ts
+尼克兒童 Nickelodeon CH104 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/64.ts
+TVB 粵語片台 CH200 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/65.ts
+Thrill CH202 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/66.ts
+天映經典 (粵) CCM CH203 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/67.ts
+天映經典 (國) CCM CH203 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/68.ts
+天映頻道 (粵) CM (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/124.ts
+天映頻道 (國) CM (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/125.ts
+TVB 功夫台 (粵) (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/118.ts
+TVB 功夫台 (國) (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/119.ts
+TVB 星河 (國) (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/121.ts
+TVB 星河 (粵) (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/120.ts
+TVB Pearl Drama 明珠劇集台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/117.ts
+TVB 生活台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/126.ts
+SUPER 獎門人 CH02 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/127.ts
+SUPER EYT CH03 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/128.ts
+SUPER 識食 CH04 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/129.ts
+SUPER 識歎 CH05 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/130.ts
+SUPER Music CH06 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/131.ts
+SUPER 金曲 CH07 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/132.ts
+SUPER 煲劇 CH08 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/133.ts
+SUPER 劇場 CH09 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/134.ts
+SUPER 話當年 CH10 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/135.ts
+星空衛視 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/145.ts
+香港C＋頻道 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/147.ts
+Channel V 音樂台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/143.ts
+澳視澳門台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/150.ts
+澳視衛星台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/151.ts
+澳門蓮花衛視 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/148.ts
+澳門體育台 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/152.ts
+Now Sports Plus CH680 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/114.ts
+Now Golf 2 CH683 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/115.ts
+Now Golf 3 CH684 (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/116.ts
+SUPER Sports CH11(HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/48.ts
+民视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/156.ts
+中视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/159.ts
+华视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/158.ts
+台视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/157.ts
+公视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/160.ts
+中天综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/175.ts
+中天娱乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/176.ts
+中天亚洲台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/177.ts
+东森综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/178.ts
+东森电影台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/179.ts
+东森戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/180.ts
+东森洋片台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/181.ts
+TVBS 综合 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/182.ts
+TVBS 欢乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/183.ts
+TVBS 精采台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/184.ts
+TVBS 台剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/186.ts
+TVBS 综艺台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/185.ts
+三立综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/187.ts
+三立台湾台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/188.ts
+三立戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/190.ts
+三立都会台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/189.ts
+中视经典台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/196.ts
+中视菁采台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/197.ts
+民视台湾台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/192.ts
+民视影剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/194.ts
+民视旅游台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/195.ts
+民视第一台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/191.ts
+民视综艺台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/193.ts
+台视综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/198.ts
+公视3 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/200.ts
+公视台语台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/199.ts
+公视戏剧 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/201.ts
+HBO (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/202.ts
+HBO Family (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/204.ts
+HBO Hits (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/205.ts
+HBO Signature (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/203.ts
+HBO LOGO (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/206.ts
+CINEMAX (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/207.ts
+美亚电影台湾台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/208.ts
+好莱坞电影台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/210.ts
+壹电影 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/222.ts
+龙祥时代电影 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/209.ts
+私人影院 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/225.ts
+影迷数位纪实台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/214.ts
+影迷数字电影台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/218.ts
+我的欧洲电影 My Cinema Europe (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/220.ts
+华纳电影台 WarnerTV (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/221.ts
+AMC最爱电影 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/219.ts
+AXN (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/211.ts
+CATCHPLAY 电影台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/216.ts
+CI 罪案侦查频道 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/213.ts
+Cinema World (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/215.ts
+CNEX 视纳华仁纪实频道 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/217.ts
+HITS频道 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/212.ts
+Lifetime娱乐频道 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/223.ts
+tvN (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/224.ts
+纬来综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/229.ts
+纬来戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/230.ts
+纬来日本台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/227.ts
+纬来电影台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/231.ts
+纬来精彩台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/232.ts
+纬来育乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/228.ts
+龙华偶像台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/236.ts
+龙华卡通台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/239.ts
+龙华戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/235.ts
+龙华日韩台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/234.ts
+龙华洋片台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/238.ts
+龙华电影台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/233.ts
+龙华经典台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/237.ts
+八大综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/241.ts
+八大娱乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/245.ts
+八大戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/242.ts
+八大第一台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/244.ts
+八大精彩台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/240.ts
+八大综艺台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/243.ts
+ELTA 爱尔达娱乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/252.ts
+ELTA 爱尔达影剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/248.ts
+ELTA 爱尔达日韩台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/250.ts
+ELTA 爱尔达生活旅游台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/251.ts
+ELTA 爱尔达综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/249.ts
+靖天综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/279.ts
+靖天卡通台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/277.ts
+靖天戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/275.ts
+靖天日本台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/280.ts
+靖天映画台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/281.ts
+靖天欢乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/284.ts
+靖天电影台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/282.ts
+靖天育乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/283.ts
+靖天资讯台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/285.ts
+靖洋戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/276.ts
+靖洋卡通Nice Bingo,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/278.ts
+KLT-靖天国际 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/286.ts
+探索频道 Discovery Channel  (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/287.ts
+探索亚洲 Discovery Asia (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/288.ts
+探索动力 Discovery DMAX (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/290.ts
+探索科学 Discovery Science (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/289.ts
+历史频道 2HISTORY 2 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/293.ts
+历史频道 History (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/292.ts
+国家地理 National Geographic (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/294.ts
+动物星球 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/295.ts
+亚洲美食频道 Asian Food Network (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/300.ts
+Discovery EVE (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/291.ts
+Smart 知识台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/331.ts
+TLC 旅游台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/298.ts
+Love Nature (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/296.ts
+BBC Earth (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/304.ts
+BBC Lifestyle (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/305.ts
+Asia 亚洲旅游台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/297.ts
+Travel Channel 旅游台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/299.ts
+居家乐活频道 HGTV (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/303.ts
+美食星球 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/301.ts
+幸福空间居家台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/347.ts
+东森幼幼台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/308.ts
+卡通频道 CN (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/314.ts
+卡通台 Cartoonito (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/318.ts
+达文西频道 DaVinCi (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/316.ts
+梦工厂动画 Dreamworks (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/317.ts
+尼克儿童频道 Nickelodeon (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/312.ts
+MOMO 亲子台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/313.ts
+Animax 卡通 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/310.ts
+BBC Cbeebies (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/319.ts
+Baby TV (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/320.ts
+Boomerang (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/309.ts
+Nick Jr.儿童频道 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/311.ts
+爱放动漫台 I-Fun (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/315.ts
+经典卡通台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/360.ts
+高点综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/324.ts
+JET 综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/322.ts
+MOMO 综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/321.ts
+ETtoday 综合台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/367.ts
+EYE 戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/307.ts
+EYE 旅游台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/306.ts
+ROCK Action (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/328.ts
+ROCK Entertainment (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/327.ts
+ROCK Extreme (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/329.ts
+Z频道 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/339.ts
+东风卫视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/340.ts
+彩昌影剧 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/355.ts
+经典电影台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/359.ts
+华艺中文台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/345.ts
+台湾戏剧台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/325.ts
+无线卫星亚洲台 TVBS Asia (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/332.ts
+INULTRA (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/363.ts
+Fashion TV (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/341.ts
+Fun 探索娱乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/356.ts
+Global Trekker (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/333.ts
+Channel V 音乐台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/357.ts
+LUXE TV Channel (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/362.ts
+Mezzo Live (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/343.ts
+Moonbug (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/364.ts
+年代MUCH台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/358.ts
+电影原声台 CMusic (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/326.ts
+音乐频道 MTV Live (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/344.ts
+MTV Asia (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/330.ts
+TRACE Urban (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/342.ts
+猪哥亮歌厅秀 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/354.ts
+古典乐 CLASSICA (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/348.ts
+GINX Esports TV (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/334.ts
+博斯 Pace Sport (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/365.ts
+时尚运动X (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/346.ts
+环球旅行家 Globetrotter (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/302.ts
+生活時尚 TV5MONDE STYLE (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/361.ts
+金光布袋戏 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/352.ts
+霹雳台湾台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/351.ts
+阿里郎频道 Arirang (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/350.ts
+韩国娱乐台 (TW) KMTV,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/349.ts
+麦哲伦频道 Magellan TV (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/366.ts
+原住民族电视台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/381.ts
+客家电视台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/380.ts
+国会频道 1 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/393.ts
+国会频道 2 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/394.ts
+国兴卫视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/338.ts
+东森购物1台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/375.ts
+东森购物2台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/376.ts
+东森购物3台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/377.ts
+东森购物5台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/378.ts
+东森超视台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/374.ts
+大爱电视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/396.ts
+大爱二台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/397.ts
+好消息 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/401.ts
+好消息2台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/402.ts
+华藏卫视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/398.ts
+人间卫视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/395.ts
+十方法界 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/400.ts
+希望频道 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/405.ts
+诚心电视台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/403.ts
+生命电视台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/404.ts
+无上师电视台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/399.ts
+NHK WORLD JAPAN (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/388.ts
+ELTV生活英语台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/392.ts
+LiveABC互动英语频道 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/391.ts
+Cinemax H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/430.ts
+好莱坞电影 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/409.ts
+JET 综合台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/408.ts
+MOMO 综合台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/436.ts
+MOMO 亲子台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/435.ts
+TVBS H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/412.ts
+TVBS 欢乐台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/413.ts
+东森幼幼 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/414.ts
+东森戏剧 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/416.ts
+东森综合 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/415.ts
+东森财经 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/417.ts
+中天娱乐 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/411.ts
+中天综合 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/410.ts
+三立新闻 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/418.ts
+三立台湾台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/419.ts
+三立都会台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/420.ts
+国兴卫视 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/431.ts
+壹新闻台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/407.ts
+年代新闻台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/406.ts
+年代MUCH台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/434.ts
+纬来戏剧 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/426.ts
+纬来日本 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/427.ts
+纬来电影 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/429.ts
+纬来综合 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/425.ts
+纬来育乐 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/428.ts
+八大综合 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/421.ts
+八大戏剧 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/423.ts
+八大第一 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/422.ts
+动物星球 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/433.ts
+TLC 旅遊生活台 H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/432.ts
+TaiWan Plus H265 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/437.ts
+TVB 1 (美),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/440.ts
+TVB J1 (美),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/441.ts
+TVB E (美),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/442.ts
+TVB Drama (美),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/443.ts
+TVB 翡翠台(美西),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/456.ts
+TVB 翡翠台(美东),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/455.ts
+新时代多伦多 (加),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/445.ts
+新时代温哥华 (加),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/446.ts
+新时代2 (加),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/447.ts
+TVB 翡翠台(英國),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/458.ts
+TVB 翡翠台(澳洲),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/457.ts
+TVB 翡翠台 (泰),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/461.ts
+TVB 翡翠台 (马来-粤),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/459.ts
+TVB 翡翠台 (马来-国),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/460.ts
+TVB 星河 (泰),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/463.ts
+TVB 星河 (马来-国),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/462.ts
+TVB Live Shows (泰),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/465.ts
+TVB 功夫台 Asia Action (泰),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/464.ts
+TVB 千禧经典台 (马来) (HK),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/466.ts
+凤凰卫视美洲台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/468.ts
+东森中国台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/470.ts
+东森美洲卫视 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/469.ts
+东森超视美洲台 (TW),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/472.ts
+中国电影频道,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/65108.ts
+Channel 5 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/598.ts
+Channel 8 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/599.ts
+Channel U(SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/600.ts
+Suria (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/601.ts
+Vasantham (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/602.ts
+E乐台 E-Le (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/604.ts
+佳乐台 Jia Le (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/603.ts
+如意台 RUYI (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/721.ts
+Hub 娱家 VV Drama (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/605.ts
+Hub 都会台 ECity (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/606.ts
+HBO(SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/610.ts
+HBO Signature(SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/611.ts
+HBO Family(SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/612.ts
+HBO Hits(SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/613.ts
+Cinemax (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/614.ts
+Cinema One Global (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/617.ts
+CM+天映频道 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/616.ts
+天映频道 Celestial Movies (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/609.ts
+Hits Movies (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/615.ts
+Astro Prima (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/632.ts
+Astro Ria (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/631.ts
+Astro Sensasi (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/630.ts
+Astro Warna(SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/629.ts
+Discovery Channel(SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/618.ts
+HGTV(SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/623.ts
+History (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/624.ts
+NAT_GEO (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/626.ts
+BBC Cbeebies (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/621.ts
+BBC Earth (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/619.ts
+BBC Lifestyle (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/620.ts
+Travelxp (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/625.ts
+HITS (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/622.ts
+KIX (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/647.ts
+tvN (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/628.ts
+Lifetime (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/627.ts
+TVB 星河 (中) (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/607.ts
+TVB 翡翠台 (SG),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/608.ts
+TV1 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/650.ts
+TV2 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/651.ts
+TV3 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/652.ts
+TV6 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/653.ts
+8TV八度空间 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/654.ts
+TV9 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/655.ts
+Astro AEC (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/658.ts
+Astro 全佳台 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/657.ts
+Astro 欢喜台 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/660.ts
+Astro IQiYI 爱奇艺 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/656.ts
+TVB翡翠台 (粤) (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/666.ts
+TVB翡翠台 (国) (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/667.ts
+Astro AOD 311 (粤) (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/661.ts
+Astro AOD 311 (国) (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/662.ts
+TVB 星河频道 (粤) (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/668.ts
+TVB 星河频道 (国) (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/669.ts
+天映频道 (粤) (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/663.ts
+天映频道 (国) (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/664.ts
+CCM 天映经典 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/665.ts
+TVB 千禧经典台 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/659.ts
+HBO (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/673.ts
+HBO Family (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/674.ts
+HBO Hits (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/675.ts
+Cinemax (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/677.ts
+AXN (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/676.ts
+Boo (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/684.ts
+HITS Movies (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/685.ts
+Showcase Movies (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/679.ts
+tvN Movies (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/683.ts
+Crime+Investigation (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/780.ts
+Astro Ria (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/706.ts
+Astro Awani (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/710.ts
+Astro Ceria (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/711.ts
+Astro Citra (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/709.ts
+Astro Oasis (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/708.ts
+Astro Aura (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/715.ts
+Astro Prima (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/707.ts
+Astro Rania (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/714.ts
+Astro Vaanavil (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/716.ts
+Astro Vellithirai (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/717.ts
+Astro Vinmeen (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/718.ts
+CTI Asia 中天亚洲 (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/671.ts
+Hits (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/678.ts
+TVBS Asia (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/672.ts
+tvN (MY),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/682.ts
+KNTV (JP),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/883.ts
+KBS 1 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/886.ts
+KBS 2 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/887.ts
+MBC (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/889.ts
+SBS (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/888.ts
+KBSN Drama (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/890.ts
+KBSN Joy (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/891.ts
+KBSN Kids (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/892.ts
+KBS World (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/893.ts
+MBC DRAMA (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/899.ts
+MBC M (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/902.ts
+MBC NO (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/900.ts
+SBS BIZ (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/895.ts
+SBS Plus (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/896.ts
+JTBC (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/903.ts
+JTBC 2 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/904.ts
+CATCH ON 1 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/909.ts
+CATCH ON2 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/917.ts
+Channel A (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/908.ts
+Channel China (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/945.ts
+Channela Plus (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/962.ts
+Anibox (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/965.ts
+Anione (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/966.ts
+AXN[미드] (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/912.ts
+BTN (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/951.ts
+CHING (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/942.ts
+CNTV (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/926.ts
+CPBC (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/952.ts
+CTS (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/954.ts
+Discovery channel (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/953.ts
+HISTORY (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/956.ts
+Smithsonian channel (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/950.ts
+EBS 1 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/946.ts
+EBS 2(KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/947.ts
+EBS PLUS 1(KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/894.ts
+EBS PLUS 2(KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/948.ts
+EBS Kids (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/928.ts
+FTV (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/943.ts
+Inet TV (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/923.ts
+JEI재능TV (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/910.ts
+Kids Talk Talk (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/927.ts
+Kstar (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/968.ts
+MBN (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/907.ts
+NOW[미드] (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/911.ts
+OCN (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/914.ts
+OCN Movies 1 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/915.ts
+OCN Movies 2 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/916.ts
+Mnet (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/919.ts
+Playy Well (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/971.ts
+SCREEN (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/913.ts
+SK Stoa (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/963.ts
+tvN Sports (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/949.ts
+Tooniverse (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/924.ts
+Golf&PBA (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/958.ts
+TV Chosun (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/905.ts
+TV Chosun 2 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/918.ts
+TVBaduk (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/944.ts
+tvN (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/920.ts
+tvN Show (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/921.ts
+Yonhapnewstv (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/906.ts
+YTN (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/929.ts
+韩国娱乐台 KMTV (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/975.ts
+대교 어린이 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/925.ts
+브레인티비 braintv 象棋 (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/959.ts
+Arirang (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/964.ts
+ALL TV K (KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/974.ts
 
 四季台湾4,#genre#
 民視第一台,http://8.iptv543.com:50008/4gtv-4gtv003/index.m3u8?proxy=true
@@ -8745,165 +8745,165 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 
 私密频道_169169,#genre#
 移动网专用,
-Dorcel,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/999.ts
-Private,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/998.ts
-Playboy,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/996.ts
-Brazzers TV,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1004.ts
-Hustler TV,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1001.ts
-Brazzers TV Europe,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1022.ts
-Dorcel XX,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1000.ts
-Hustler XX TV,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1012.ts
-Penthouse Gold,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1002.ts
-Penthouse Quickie,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1008.ts
-Red Light,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1003.ts
-Blue Hustler,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1005.ts
-Vivid Touch,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1006.ts
-VIXEN,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1009.ts
-Erox,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1007.ts
-Ero xx,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1025.ts
-潘多拉完美台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/981.ts
-松视1台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/984.ts
-松视2台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/985.ts
-彩虹E台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/978.ts
-彩虹K台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/988.ts
-彩虹电影,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/979.ts
-Amazing 惊艳电影台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/982.ts
-Banana 香蕉台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/983.ts
-HAPPY频道,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/986.ts
-JStar 极限电影台,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/987.ts
-LOOK,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/980.ts
-奥视频道1 Ours 1HD,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/989.ts
-奥视频道2 Ours 2HD,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/990.ts
-加勒比 全球同步頻道,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1078.ts
-1 on 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1101.ts
-21 Members,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1098.ts
-21sextuary,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1102.ts
-Blacked,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1103.ts
-Blackedraw,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1115.ts
-Black girl,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1106.ts
-Anikkas,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1111.ts
-Babes XXX,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1010.ts
-Barley Legal,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1019.ts
-Arabs Exposed,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1112.ts
-bluebillmen,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1099.ts
-Cumshots,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1096.ts
-Desire,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1026.ts
-Dffnetwork,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1114.ts
-Extasy,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1021.ts
-EXXOTICA,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1011.ts
-Fap TV anal,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1018.ts
-Foot Factory,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1097.ts
-Fucked and Bound,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1119.ts
-Kinpatu,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1117.ts
-Legal Porn,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1108.ts
-LEO HD,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1027.ts
-Mofos,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1118.ts
-naughty america 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1100.ts
-Office,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1105.ts
-Ohah,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1016.ts
-Playboy HD(KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/992.ts
-Porn Low Cost,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1104.ts
-Reality Kings HD,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1028.ts
-RED LIPS,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1023.ts
-Shalun TV,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1020.ts
-She Will Cheat,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1109.ts
-JP 中字有马 JPMOV 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1041.ts
-无码破解,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1073.ts
-鸭总侦探,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1069.ts
-黑人干翻一切,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1066.ts
-邵氏三几,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1050.ts
-韩国三几 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1076.ts
-韩国三几 2,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1077.ts
-麻豆台湾日本篇,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1074.ts
-麻豆外番,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1072.ts
-麻豆大番,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1067.ts
-麻豆导演,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1071.ts
-沈先生,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1068.ts
-俄罗斯强健,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1121.ts
-美国家庭,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1120.ts
-Grandpa Fuck,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1122.ts
-GayVN Awards,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1107.ts
-Midnight 성인 19+ 540P(KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/994.ts
-Midnight 성인 19+ HD(KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/993.ts
-Viki 540P(KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/995.ts
-Viki HD(KR),http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/991.ts
-X-art,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1113.ts
-Xconfession,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1116.ts
-XXL,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1017.ts
-XyMax,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1015.ts
-XyMix,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1014.ts
-XyPlus,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1013.ts
-Marc Dorcel,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1110.ts
-Russia Rape,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2545.ts
-Little Caprice,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2562.ts
-America Family,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2546.ts
-CN 猴子,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/26633.ts
-邵氏精选,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/26642.ts
-香港三几精选,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/26641.ts
-JP 一本道 1 Pondo,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1036.ts
-JP 东京热 Tokyo Hot,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1037.ts
-JP 加勒比 Caribbean,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1035.ts
-JP Pacopacomama,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1033.ts
-JP C0930,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1029.ts
-JP Catwalk,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1030.ts
-JP H4610,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1031.ts
-JP Heyzo,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1032.ts
-JP J-Girl,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1038.ts
-JP 苍井空 Sola Aoi,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1043.ts
-JP 波多野结衣 Yui Hatano,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1044.ts
-JP 上原亜衣Ai Uehara,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1045.ts
-JP 古川伊織 Iori Kogawa,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1046.ts
-JP 中字有马 JPMOV 2,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1042.ts
-JP 中字有马 3,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1070.ts
-CN 猫先生HD,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2602.ts
-台灣片商PsychopornTW,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1056.ts
-CN 杏吧欧阳克,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2593.ts
-JP VR 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1047.ts
-CN 杏吧鸠摩智,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2598.ts
-JP 天堂素人約,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1049.ts
-CN 杏吧鱼知欢,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2607.ts
-大陆真实,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1059.ts
-CN 一杆钢枪,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2608.ts
-CN 天美传媒,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1054.ts
-CN 杏吧老王,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2592.ts
-大神利哥,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1053.ts
-CN 杏吧老王,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2591.ts
-千人,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1060.ts
-午夜,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1063.ts
-CN 杏吧王安全,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2590.ts
-CN 杏吧洪七,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2597.ts
-七天极品,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1062.ts
-CN 杏吧西门庆,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2596.ts
-小宝,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1064.ts
-CN 杏吧李寻欢,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2601.ts
-JP 日本FC2-PPV 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1040.ts
-日本强健,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1057.ts
-CN 杏吧李寻欢,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2600.ts
-CN 杏吧建材王哥,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2594.ts
-日本动漫 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1075.ts
-CN 杏吧尹志平,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2599.ts
-JP 日本素人 10Musume,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1039.ts
-CN 杏吧小飞,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2606.ts
-猫先生MR.Cat,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1051.ts
-CN 杏吧大熊,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2595.ts
-金三角,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1065.ts
-CN 我的枪好长-2,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2605.ts
-韩国演艺圈 Scanda Korea,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1052.ts
-CN 我的枪好长-1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2604.ts
-男爵全国探花,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1058.ts
-短视频-果冻传媒,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1055.ts
-CN 我不是男有,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2603.ts
-SM西贡女,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1061.ts
-JP 奥运冠军金丝雀GoldBird,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1048.ts
-JP XX-V,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/1034.ts
-JP Skyangel Blue,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2494.ts
-JP 有马破解 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2532.ts
-韩国三几 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2530.ts
-韩国三几 2,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2531.ts
-三几片精选 1,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2483.ts
-三几片精选 2,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2484.ts
-黑人,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2529.ts
-精东影业,http://iptvpro.pw:35451//live/加QQ群1078393318/66661111/2481.ts
+Dorcel,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/999.ts
+Private,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/998.ts
+Playboy,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/996.ts
+Brazzers TV,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1004.ts
+Hustler TV,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1001.ts
+Brazzers TV Europe,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1022.ts
+Dorcel XX,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1000.ts
+Hustler XX TV,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1012.ts
+Penthouse Gold,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1002.ts
+Penthouse Quickie,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1008.ts
+Red Light,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1003.ts
+Blue Hustler,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1005.ts
+Vivid Touch,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1006.ts
+VIXEN,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1009.ts
+Erox,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1007.ts
+Ero xx,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1025.ts
+潘多拉完美台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/981.ts
+松视1台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/984.ts
+松视2台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/985.ts
+彩虹E台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/978.ts
+彩虹K台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/988.ts
+彩虹电影,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/979.ts
+Amazing 惊艳电影台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/982.ts
+Banana 香蕉台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/983.ts
+HAPPY频道,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/986.ts
+JStar 极限电影台,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/987.ts
+LOOK,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/980.ts
+奥视频道1 Ours 1HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/989.ts
+奥视频道2 Ours 2HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/990.ts
+加勒比 全球同步頻道,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1078.ts
+1 on 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1101.ts
+21 Members,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1098.ts
+21sextuary,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1102.ts
+Blacked,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1103.ts
+Blackedraw,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1115.ts
+Black girl,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1106.ts
+Anikkas,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1111.ts
+Babes XXX,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1010.ts
+Barley Legal,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1019.ts
+Arabs Exposed,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1112.ts
+bluebillmen,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1099.ts
+Cumshots,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1096.ts
+Desire,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1026.ts
+Dffnetwork,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1114.ts
+Extasy,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1021.ts
+EXXOTICA,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1011.ts
+Fap TV anal,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1018.ts
+Foot Factory,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1097.ts
+Fucked and Bound,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1119.ts
+Kinpatu,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1117.ts
+Legal Porn,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1108.ts
+LEO HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1027.ts
+Mofos,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1118.ts
+naughty america 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1100.ts
+Office,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1105.ts
+Ohah,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1016.ts
+Playboy HD(KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/992.ts
+Porn Low Cost,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1104.ts
+Reality Kings HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1028.ts
+RED LIPS,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1023.ts
+Shalun TV,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1020.ts
+She Will Cheat,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1109.ts
+JP 中字有马 JPMOV 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1041.ts
+无码破解,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1073.ts
+鸭总侦探,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1069.ts
+黑人干翻一切,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1066.ts
+邵氏三几,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1050.ts
+韩国三几 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1076.ts
+韩国三几 2,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1077.ts
+麻豆台湾日本篇,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1074.ts
+麻豆外番,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1072.ts
+麻豆大番,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1067.ts
+麻豆导演,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1071.ts
+沈先生,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1068.ts
+俄罗斯强健,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1121.ts
+美国家庭,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1120.ts
+Grandpa Fuck,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1122.ts
+GayVN Awards,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1107.ts
+Midnight 성인 19+ 540P(KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/994.ts
+Midnight 성인 19+ HD(KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/993.ts
+Viki 540P(KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/995.ts
+Viki HD(KR),http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/991.ts
+X-art,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1113.ts
+Xconfession,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1116.ts
+XXL,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1017.ts
+XyMax,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1015.ts
+XyMix,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1014.ts
+XyPlus,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1013.ts
+Marc Dorcel,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1110.ts
+Russia Rape,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2545.ts
+Little Caprice,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2562.ts
+America Family,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2546.ts
+CN 猴子,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/26633.ts
+邵氏精选,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/26642.ts
+香港三几精选,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/26641.ts
+JP 一本道 1 Pondo,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1036.ts
+JP 东京热 Tokyo Hot,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1037.ts
+JP 加勒比 Caribbean,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1035.ts
+JP Pacopacomama,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1033.ts
+JP C0930,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1029.ts
+JP Catwalk,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1030.ts
+JP H4610,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1031.ts
+JP Heyzo,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1032.ts
+JP J-Girl,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1038.ts
+JP 苍井空 Sola Aoi,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1043.ts
+JP 波多野结衣 Yui Hatano,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1044.ts
+JP 上原亜衣Ai Uehara,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1045.ts
+JP 古川伊織 Iori Kogawa,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1046.ts
+JP 中字有马 JPMOV 2,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1042.ts
+JP 中字有马 3,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1070.ts
+CN 猫先生HD,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2602.ts
+台灣片商PsychopornTW,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1056.ts
+CN 杏吧欧阳克,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2593.ts
+JP VR 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1047.ts
+CN 杏吧鸠摩智,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2598.ts
+JP 天堂素人約,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1049.ts
+CN 杏吧鱼知欢,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2607.ts
+大陆真实,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1059.ts
+CN 一杆钢枪,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2608.ts
+CN 天美传媒,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1054.ts
+CN 杏吧老王,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2592.ts
+大神利哥,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1053.ts
+CN 杏吧老王,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2591.ts
+千人,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1060.ts
+午夜,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1063.ts
+CN 杏吧王安全,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2590.ts
+CN 杏吧洪七,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2597.ts
+七天极品,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1062.ts
+CN 杏吧西门庆,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2596.ts
+小宝,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1064.ts
+CN 杏吧李寻欢,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2601.ts
+JP 日本FC2-PPV 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1040.ts
+日本强健,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1057.ts
+CN 杏吧李寻欢,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2600.ts
+CN 杏吧建材王哥,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2594.ts
+日本动漫 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1075.ts
+CN 杏吧尹志平,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2599.ts
+JP 日本素人 10Musume,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1039.ts
+CN 杏吧小飞,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2606.ts
+猫先生MR.Cat,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1051.ts
+CN 杏吧大熊,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2595.ts
+金三角,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1065.ts
+CN 我的枪好长-2,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2605.ts
+韩国演艺圈 Scanda Korea,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1052.ts
+CN 我的枪好长-1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2604.ts
+男爵全国探花,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1058.ts
+短视频-果冻传媒,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1055.ts
+CN 我不是男有,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2603.ts
+SM西贡女,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1061.ts
+JP 奥运冠军金丝雀GoldBird,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1048.ts
+JP XX-V,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/1034.ts
+JP Skyangel Blue,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2494.ts
+JP 有马破解 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2532.ts
+韩国三几 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2530.ts
+韩国三几 2,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2531.ts
+三几片精选 1,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2483.ts
+三几片精选 2,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2484.ts
+黑人,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2529.ts
+精东影业,http://iptvpro.pw:35451/live/加QQ群1078393318领福利/66661111/2481.ts
 
 nalfnf,https://v2.catcast.tv/content/40381/index.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
