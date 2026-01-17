@@ -450,6 +450,7 @@ TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 中天新聞台,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 中天新聞台2,https://v.hystudio.cn:8088/live/yifatv-ztxw02.m3u8
+中天新聞台3,http://free.cnlive.club/channel/41d8a09d.m3u8
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
