@@ -452,6 +452,9 @@ TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 中天新聞台,https://v.hystudio.cn:8088/live/yifatv-ztxw0.m3u8
 中天新聞台2,https://v.hystudio.cn:8088/live/yifatv-ztxw02.m3u8
 中天新聞台3,http://free.cnlive.club/channel/41d8a09d.m3u8
+中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
+Now星影,http://rihou.cc:555/tv/[Hk]Now星影
+Now爆谷,http://rihou.cc:555/tv/[Hk]Now爆谷
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
@@ -1115,35 +1118,6 @@ CCTV世界地理,http://183.10.180.62:202/tsfile/live/1046_1.m3u8?key=txiptv&pla
 怀旧剧场,http://183.10.180.62:202/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1
 风云剧场,http://183.10.180.62:202/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&down=1
 天气预报,http://183.10.180.62:202/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1
-
-汕头酒店,#genre#
-广东卫视,http://183.7.172.224:8888/hls/1/index.m3u8
-广东珠江,http://183.7.172.224:8888/hls/2/index.m3u8
-广东新闻,http://183.7.172.224:8888/hls/3/index.m3u8
-汕头综合,http://183.7.172.224:8888/hls/4/index.m3u8
-广东体育,http://183.7.172.224:8888/hls/5/index.m3u8
-广东影视,http://183.7.172.224:8888/hls/9/index.m3u8
-广东少儿,http://183.7.172.224:8888/hls/10/index.m3u8
-嘉佳卡通,http://183.7.172.224:8888/hls/11/index.m3u8
-CCTV1,http://183.7.172.224:8888/hls/17/index.m3u8
-CCTV2,http://183.7.172.224:8888/hls/18/index.m3u8
-CCTV3,http://183.7.172.224:8888/hls/19/index.m3u8
-CCTV4,http://183.7.172.224:8888/hls/20/index.m3u8
-CCTV5,http://183.7.172.224:8888/hls/21/index.m3u8
-CCTV6,http://183.7.172.224:8888/hls/22/index.m3u8
-CCTV7,http://183.7.172.224:8888/hls/23/index.m3u8
-CCTV8,http://183.7.172.224:8888/hls/24/index.m3u8
-CCTV9,http://183.7.172.224:8888/hls/25/index.m3u8
-CCTV10,http://183.7.172.224:8888/hls/26/index.m3u8
-CCTV11,http://183.7.172.224:8888/hls/27/index.m3u8
-CCTV12,http://183.7.172.224:8888/hls/28/index.m3u8
-CCTV13,http://183.7.172.224:8888/hls/29/index.m3u8
-CCTV14,http://183.7.172.224:8888/hls/30/index.m3u8
-湖北卫视,http://183.7.172.224:8888/hls/36/index.m3u8
-江苏卫视,http://183.7.172.224:8888/hls/39/index.m3u8
-女性时尚,http://183.7.172.224:8888/hls/96/index.m3u8
-怀旧剧场,http://183.7.172.224:8888/hls/98/index.m3u8
-风云剧场,http://183.7.172.224:8888/hls/99/index.m3u8
 
 揭阳IPTV,#genre#
 揭阳综合高清,http://113.66.40.167:10000/udp/239.77.0.229:5146
