@@ -453,8 +453,6 @@ TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 中天新聞台2,https://v.hystudio.cn:8088/live/yifatv-ztxw02.m3u8
 中天新聞台3,http://free.cnlive.club/channel/41d8a09d.m3u8
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-Now星影,http://rihou.cc:555/tv/[Hk]Now星影
-Now爆谷,http://rihou.cc:555/tv/[Hk]Now爆谷
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
