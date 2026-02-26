@@ -475,7 +475,6 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
 
-
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
@@ -564,21 +563,33 @@ CCTV8,http://74.91.26.218:82/live/cctv8.m3u8
  
 极速bxtv,#genre#
 盗源狗si全家 全家下地狱
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
-POPC,http://bxtv.3a.ink/api.php?id=popc
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-CCTV1,http://bxtv.3a.ink/api.php?id=cctv1
-CCTV2,http://bxtv.3a.ink/api.php?id=cctv2
-CCTV3,http://bxtv.3a.ink/api.php?id=cctv3
+凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
+TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
+无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
+TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
+TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
+PopC电影,http://pull-vivek.speedws.com/live/aaapopc.flv
+美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
+千禧经典,http://pull-vivek.speedws.com/live/aaamqxjd.flv
+SUPER FREE,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
+华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
+亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
+黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
+黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
+戏曲台,http://pull-vivek.speedws.com/live/aaaxqt.flv
+天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
+天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+无线跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv
+HOY 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
+HOY 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
+HOY 78,http://pull-vivek.speedws.com/live/aaahoy78.flv
+ViuTV,http://pull-vivek.speedws.com/live/aaaviutv.flv
+ViuTV6,http://pull-vivek.speedws.com/live/aaaviutv6.flv
+AXN,http://pull-vivek.speedws.com/live/aaaAXN.flv
+ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
+Animax,http://pull-vivek.speedws.com/live/aaaAnimax.flv
 
 极速0618,#genre#
 盗源狗si全家 全家下地狱
