@@ -474,6 +474,7 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 极速港台2,#genre#
 TVB翡翠台,http://aipyou.com:8080/live/yifatv-jade01.m3u8
 无线新闻台,http://aipyou.com:8080/live/yifatv-wxxw01.m3u8
+中天新闻台,http://aipyou.com:8080/live/yifatv-ztxw01.m3u8
 
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台2,http://r.jdshipin.com/qrfbg
