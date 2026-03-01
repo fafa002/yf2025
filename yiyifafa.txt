@@ -4587,6 +4587,95 @@ CCTV5+,http://119.91.7.169:2026/ysws.php?id=CCTV5p
 云南卫视,http://119.91.7.169:2026/ysws.php?id=云南卫视
 浙江卫视,http://119.91.7.169:2026/ysws.php?id=浙江卫视
 
+安徽百事通,#genre#
+CCTV-1 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV-2 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV-3 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV-4 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV-5 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV-6 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV-7 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV-8 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV-9 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV-10 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV-11 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV-12 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV-13 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV-14 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV-15 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV-16 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV-17 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV-5+高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV-4K超 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV-16 4K,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+besTV 4K电影,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/sjpd4k/15000000/mnf.m3u8
+besTV 4K动画,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/sepd4k/15000000/mnf.m3u8
+江苏卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
+广西卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
+四川卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
+东方卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
+湖南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+浙江卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
+北京卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
+天津卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
+辽宁卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
+安徽卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
+黑龙江卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
+广东卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
+深圳卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
+湖北卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
+吉林卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
+山东卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
+江西卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
+东南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
+云南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
+贵州卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
+海南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+河南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
+河北卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
+甘肃卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
+重庆卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
+劲爆体育 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+欢笑剧场 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
+欢笑剧场 4K,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+快乐垂钓 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/klcd8m/8000000/mnf.m3u8
+金鹰纪实 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
+第一财经 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
+上视新闻 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+上海都市 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
+上海纪实 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8
+东方影视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
+五星体育 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+上视外语 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/mnf.m3u8
+七彩戏剧 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+上海教育 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
+乐游 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
+生活时尚 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
+新视觉 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
+游戏风云 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
+热门综艺 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
+戏曲精选 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xqjx8m/8000000/mnf.m3u8
+超级体育 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
+健康养生 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
+百变课堂 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
+看天下精选 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
+华语影院 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+电竞天堂 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
+青春动漫 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+宝宝动画 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
+星光影院 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+谍战剧场 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
+全球大片 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+热门剧场 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+海峡卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxwshd4m/4000000/mnf.m3u8
+福建综合,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjzhhd4m/4000000/mnf.m3u8
+福建新闻,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjxwhd8m/8000000/mnf.m3u8
+福建电视剧,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjdsjhd4m/4000000/mnf.m3u8
+福建文体,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjtyhd4m/4000000/mnf.m3u8
+福建少儿,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjsehd4m/4000000/mnf.m3u8
+福建旅游,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjlyhd4m/4000000/mnf.m3u8
+福建乡村振兴公共,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjgghd4m/4000000/mnf.m3u8
+
 北京淘系列,#genre#
 北京IPTV淘剧场,http://otangtang.com:38848/udp/239.3.1.95:8001
 北京IPTV淘娱乐,http://otangtang.com:38848/udp/239.3.1.100:8001
