@@ -509,6 +509,30 @@ VIUTVsix,https://yang-1989.eu.org/live/ViuTVsix
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 tvN,https://yang-1989.eu.org/live/tvN
 
+廣東體育4K[GRT-SPORTS 4K],http://67.220.71.199:2347/livehttpplay?channel_id=12028
+TVB亞洲劇臺[TVB Asian Select],http://67.220.71.199:2347/livehttpplay?channel_id=13022
+無線新聞台高清[TVB News ,http://67.220.71.199:2347/livehttpplay?channel_id=20123
+明珠台高清[Pearl HD],http://67.220.71.199:2347/livehttpplay?channel_id=20125
+廣東體育高清[GRT-SPORTS HD],http://67.220.71.199:2347/livehttpplay?channel_id=20130
+ViuTV高清[ViuTV HD],http://67.220.71.199:2347/livehttpplay?channel_id=20131
+ViuTV6高清[ViuTV6 HD],http://67.220.71.199:2347/livehttpplay?channel_id=20132
+嶺南戲曲[Lingnan Drama],http://67.220.71.199:2347/livehttpplay?channel_id=20142
+珠江臺[ZHUJIANG TV],http://67.220.71.199:2347/livehttpplay?channel_id=20144
+HOY TV[HOY TV],http://67.220.71.199:2347/livehttpplay?channel_id=20152
+港臺電視31高清[RTHK TV 31 HD],http://67.220.71.199:2347/livehttpplay?channel_id=20203
+TVB plus 超清,http://67.220.71.199:2347/livehttpplay?channel_id=30023
+無線新聞台超清[TVB News HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30024
+翡翠台超清[Jade HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30025
+明珠台超清[Pearl HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30026
+港臺電視32高清[RTHK TV 32 HD],http://67.220.71.199:2347/livehttpplay?channel_id=30028
+CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
+廣東體育超清[GRT-SPORTS HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30031
+ViuTV HD+,http://67.220.71.199:2347/livehttpplay?channel_id=30032
+ViuTV6 HD+,http://67.220.71.199:2347/livehttpplay?channel_id=30033
+港臺電視31超清[RTHK TV 31 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30066
+港臺電視32超清[RTHK TV 32 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30067
+博斯網球[BoSi Tennis],http://67.220.71.199:2347/livehttpplay?channel_id=42026
+
 极速港台3,#genre#
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
