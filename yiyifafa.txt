@@ -4626,94 +4626,160 @@ CCTV5+,http://119.91.7.169:2026/ysws.php?id=CCTV5p
 云南卫视,http://119.91.7.169:2026/ysws.php?id=云南卫视
 浙江卫视,http://119.91.7.169:2026/ysws.php?id=浙江卫视
 
-安徽百事通,#genre#
-CCTV-1 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV-2 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV-3 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV-4 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV-5 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV-6 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV-7 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV-8 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV-9 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV-10 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV-11 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV-12 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV-13 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV-14 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV-15 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV-16 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV-17 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV-5+高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV-4K超 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV-16 4K,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-besTV 4K电影,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/sjpd4k/15000000/mnf.m3u8
-besTV 4K动画,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/sepd4k/15000000/mnf.m3u8
-江苏卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
-广西卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
-四川卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
-东方卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
-湖南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-浙江卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
-北京卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
-天津卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
-辽宁卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
-安徽卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
-黑龙江卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
-广东卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
-湖北卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
-吉林卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
-山东卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
-江西卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
-东南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
-云南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
-贵州卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
-海南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-河南卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
-河北卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
-甘肃卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
-重庆卫视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
-劲爆体育 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-欢笑剧场 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
-欢笑剧场 4K,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
-快乐垂钓 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/klcd8m/8000000/mnf.m3u8
-金鹰纪实 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
-第一财经 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
-上视新闻 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海都市 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
-上海纪实 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8
-东方影视 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
-五星体育 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-上视外语 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/mnf.m3u8
-七彩戏剧 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-上海教育 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
-乐游 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
-生活时尚 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
-新视觉 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
-游戏风云 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
-热门综艺 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
-戏曲精选 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xqjx8m/8000000/mnf.m3u8
-超级体育 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
-健康养生 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
-百变课堂 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
-看天下精选 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
-华语影院 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
-电竞天堂 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
-青春动漫 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
-星光影院 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
-谍战剧场 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
-全球大片 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场 高清,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
-海峡卫视,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxwshd4m/4000000/mnf.m3u8
-福建综合,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjzhhd4m/4000000/mnf.m3u8
-福建新闻,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjxwhd8m/8000000/mnf.m3u8
-福建电视剧,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjdsjhd4m/4000000/mnf.m3u8
-福建文体,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjtyhd4m/4000000/mnf.m3u8
-福建少儿,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjsehd4m/4000000/mnf.m3u8
-福建旅游,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjlyhd4m/4000000/mnf.m3u8
-福建乡村振兴公共,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fjgghd4m/4000000/mnf.m3u8
+内蒙古移动,#genre#
+CCTV1,http://111.56.90.5/000000000000/5000000004000002226/index.m3u8
+CCTV2,http://111.56.90.5/000000000000/5000000005000031113/index.m3u8
+CCTV3,http://111.56.90.5/000000000000/5000000002000020548/index.m3u8
+CCTV4,http://111.56.90.5/000000000000/5000000011000031102/index.m3u8
+CCTV5,http://111.56.90.5/000000000000/5000000004000008885/index.m3u8
+CCTV5+,http://111.56.90.5/000000000000/5000000011000031127/index.m3u8
+CCTV6,http://111.56.90.5/000000000000/5000000004000008886/index.m3u8
+CCTV7,http://111.56.90.5/000000000000/5000000005000026715/index.m3u8
+CCTV8,http://111.56.90.5/000000000000/5000000004000008888/index.m3u8
+CCTV9,http://111.56.90.5/000000000000/5000000010000018384/index.m3u8
+CCTV10,http://111.56.90.5/000000000000/5000000004000012827/index.m3u8
+CCTV11,http://111.56.90.5/000000000000/5000000006000040011/index.m3u8
+CCTV12,http://111.56.90.5/000000000000/5000000011000031107/index.m3u8
+CCTV13,http://111.56.90.5/000000000000/5000000005000001827/index.m3u8
+CCTV14,http://111.56.90.5/000000000000/5000000004000006673/index.m3u8
+CCTV15,http://111.56.90.5/000000000000/8203666801302077036/index.m3u8
+CCTV16,http://111.56.90.5/000000000000/5000000008000023253/index.m3u8
+CCTV17,http://111.56.90.5/000000000000/5000000011000288014/index.m3u8
+CGTN,http://111.56.90.5/000000000000/4810873738577663591/index.m3u8
+CGTN 俄语,http://111.56.90.5/000000000000/1000000006000280004/index.m3u8
+CGTN 纪录,http://111.56.90.5/000000000000/8428799834696888424/index.m3u8
+CGTN 西班牙语,http://111.56.90.5/000000000000/1000000006000280002/index.m3u8
+CGTN 阿拉伯语,http://111.56.90.5/000000000000/1000000006000280001/index.m3u8
+安徽卫视,http://111.56.90.5/000000000000/5000000001000027288/index.m3u8
+北京卫视,http://111.56.90.5/000000000000/5000000004000031556/index.m3u8
+重庆卫视,http://111.56.90.5/000000000000/5000000004000025797/index.m3u8
+东方卫视,http://111.56.90.5/000000000000/5000000004000014098/index.m3u8
+东南卫视,http://111.56.90.5/000000000000/5000000001000005829/index.m3u8
+广东卫视,http://111.56.90.5/000000000000/5000000004000014694/index.m3u8
+广西卫视,http://111.56.90.5/000000000000/5000000006000040014/index.m3u8
+贵州卫视,http://111.56.90.5/000000000000/5000000004000025843/index.m3u8
+海南卫视,http://111.56.90.5/000000000000/5000000004000006211/index.m3u8
+河北卫视,http://111.56.90.5/000000000000/5000000006000040016/index.m3u8
+黑龙江卫视,http://111.56.90.5/000000000000/5000000004000025203/index.m3u8
+河南卫视,http://111.56.90.5/000000000000/5000000005000017925/index.m3u8
+湖北卫视,http://111.56.90.5/000000000000/5000000010000022140/index.m3u8
+湖南卫视,http://111.56.90.5/000000000000/5000000004000006692/index.m3u8
+吉林卫视,http://111.56.90.5/000000000000/1000000002000027730/index.m3u8
+江苏卫视,http://111.56.90.5/000000000000/5000000004000019351/index.m3u8
+江西卫视,http://111.56.90.5/000000000000/5000000001000032154/index.m3u8
+辽宁卫视,http://111.56.90.5/000000000000/5000000001000008940/index.m3u8
+内蒙古卫视,http://111.56.90.5/000000000000/7331079758781182663/index.m3u8
+宁夏卫视,http://111.56.90.5/000000000000/5000000006000040022/index.m3u8
+青海卫视,http://111.56.90.5/000000000000/1000000002000013359/index.m3u8
+山东卫视,http://111.56.90.5/000000000000/5000000004000020424/index.m3u8
+山西卫视,http://111.56.90.5/000000000000/5000000006000040023/index.m3u8
+陕西卫视,http://111.56.90.5/000000000000/5000000006000040017/index.m3u8
+四川卫视,http://111.56.90.5/000000000000/5000000004000006119/index.m3u8
+深圳卫视,http://111.56.90.5/000000000000/5000000004000007410/index.m3u8
+天津卫视,http://111.56.90.5/000000000000/5000000001000030788/index.m3u8
+西藏卫视,http://111.56.90.5/000000000000/5381760837640571168/index.m3u8
+新疆卫视,http://111.56.90.5/000000000000/1000000002000029441/index.m3u8
+云南卫视,http://111.56.90.5/000000000000/5000000006000040019/index.m3u8
+浙江卫视,http://111.56.90.5/000000000000/5000000010000017320/index.m3u8
+兵团卫视,http://111.56.90.5/000000000000/5000000006000040020/index.m3u8
+安多卫视,http://111.56.90.5/000000000000/5000000006000022124/index.m3u8
+大湾区卫视,http://111.56.90.5/000000000000/1000000002000011619/index.m3u8
+甘肃卫视,http://111.56.90.5/000000000000/5000000006000040021/index.m3u8
+康巴卫视,http://111.56.90.5/000000000000/5000000003000001598/index.m3u8
+厦门卫视,http://111.56.90.5/000000000000/5084893189220221988/index.m3u8
+东北热剧,http://111.56.90.5/000000000000/1000000005000266013/index.m3u8
+东方影视,http://111.56.90.5/000000000000/5000000010000032212/index.m3u8
+华语影院,http://111.56.90.5/000000000000/5000000011000288005/index.m3u8
+亚洲影院,http://111.56.90.5/000000000000/5841816227539527643/index.m3u8
+动作电影,http://111.56.90.5/000000000000/1000000004000018653/index.m3u8
+全球大片,http://111.56.90.5/000000000000/5000000011000288009/index.m3u8
+明星大片,http://111.56.90.5/000000000000/1000000004000019008/index.m3u8
+星光影院,http://111.56.90.5/000000000000/5000000011000288013/index.m3u8
+家庭剧场,http://111.56.90.5/000000000000/1000000004000008284/index.m3u8
+年代大剧,http://111.56.90.5/000000000000/1000000001000006197/index.m3u8
+欢乐剧场,http://111.56.90.5/000000000000/1000000005000266012/index.m3u8
+欢笑剧场 4K,http://111.56.90.5/000000000000/5000000002000009455/index.m3u8
+热门剧场,http://111.56.90.5/000000000000/5000000011000288010/index.m3u8
+烽烟剧场,http://111.56.90.5/000000000000/1000000004000013730/index.m3u8
+都市剧场,http://111.56.90.5/000000000000/5000000002000004412/index.m3u8
+惊悚悬疑,http://111.56.90.5/000000000000/1000000004000024282/index.m3u8
+谍战剧场,http://111.56.90.5/000000000000/5000000011000288004/index.m3u8
+谍战大剧,http://111.56.90.5/000000000000/1000000004000026167/index.m3u8
+精品大剧,http://111.56.90.5/000000000000/1000000004000013968/index.m3u8
+精彩影视,http://111.56.90.5/000000000000/6000000006000320630/index.m3u8
+超级电影,http://111.56.90.5/000000000000/1000000001000012884/index.m3u8
+超级电视剧,http://111.56.90.5/000000000000/1000000001000008139/index.m3u8
+黑莓电影,http://111.56.90.5/000000000000/1000000004000019624/index.m3u8
+爱悬疑,http://111.56.90.5/000000000000/6000000006000050630/index.m3u8
+爱浪漫,http://111.56.90.5/000000000000/6000000006000040630/index.m3u8
+爱谍战,http://111.56.90.5/000000000000/6000000006000070630/index.m3u8
+爱院线,http://111.56.90.5/000000000000/6000000006000030630/index.m3u8
+少儿动漫,http://111.56.90.5/000000000000/8145334647720731271/index.m3u8
+宝宝动画,http://111.56.90.5/000000000000/5000000011000288002/index.m3u8
+青春动漫,http://111.56.90.5/000000000000/5000000011000288008/index.m3u8
+黑莓动画,http://111.56.90.5/000000000000/1000000004000021734/index.m3u8
+乐游,http://111.56.90.5/000000000000/5000000006000040025/index.m3u8
+军事评论,http://111.56.90.5/000000000000/5822616274253344775/index.m3u8
+军旅剧场,http://111.56.90.5/000000000000/7485075951068666323/index.m3u8
+农业致富,http://111.56.90.5/000000000000/6193684637634073625/index.m3u8
+健康养生,http://111.56.90.5/000000000000/5000000011000288006/index.m3u8
+潮妈辣婆,http://111.56.90.5/000000000000/6516734029835465177/index.m3u8
+炫动 3D,http://111.56.90.5/000000000000/6000000003000000558/index.m3u8
+炫舞未来,http://111.56.90.5/000000000000/1000000001000000515/index.m3u8
+超级综艺,http://111.56.90.5/000000000000/1000000001000025771/index.m3u8
+武搏世界,http://111.56.90.5/000000000000/bokesen/index.m3u8
+精品体育,http://111.56.90.5/000000000000/1000000004000014634/index.m3u8
+超级体育,http://111.56.90.5/000000000000/1000000001000009204/index.m3u8
+CETV1,http://111.56.90.5/000000000000/5000000002000002652/index.m3u8
+CETV2,http://111.56.90.5/000000000000/5000000011000031201/index.m3u8
+CETV4,http://111.56.90.5/000000000000/5000000006000012123/index.m3u8
+上海教育,http://111.56.90.5/000000000000/5000000011000288019/index.m3u8
+山东教育卫视,http://111.56.90.5/000000000000/1000000002000004097/index.m3u8
+卡酷少儿,http://111.56.90.5/000000000000/7851974109718180595/index.m3u8
+金鹰卡通,http://111.56.90.5/000000000000/5000000006000040024/index.m3u8
+嘉佳卡通,http://111.56.90.5/000000000000/4739906347743456369/index.m3u8
+优漫卡通,http://111.56.90.5/000000000000/6000000003000030492/index.m3u8
+动漫秀场,http://111.56.90.5/000000000000/5000000002000023636/index.m3u8
+哈哈炫动,http://111.56.90.5/000000000000/5000000005000031641/index.m3u8
+五星体育,http://111.56.90.5/000000000000/5000000010000017540/index.m3u8
+体育,http://111.56.90.5/000000000000/6000000003000011654/index.m3u8
+晴彩竞技,http://111.56.90.5/000000000000/3000000020000011528/index.m3u8
+晴彩篮球,http://111.56.90.5/000000000000/3000000020000011529/index.m3u8
+东方购物,http://111.56.90.5/000000000000/5000000007000010004/index.m3u8
+中视购物,http://111.56.90.5/000000000000/1000000005000024883/index.m3u8
+优购物,http://111.56.90.5/000000000000/1000000005000018408/index.m3u8
+央广购物,http://111.56.90.5/000000000000/5000000009000012021/index.m3u8
+好享购物,http://111.56.90.5/000000000000/5000000003000008938/index.m3u8
+家有购物,http://111.56.90.5/000000000000/1000000006000269003/index.m3u8
+风尚购物,http://111.56.90.5/000000000000/1000000005000003651/index.m3u8
+聚鲨环球精选,http://111.56.90.5/000000000000/6000000004000014516/index.m3u8
+上海新闻综合,http://111.56.90.5/000000000000/5000000011000031110/index.m3u8
+上海都市,http://111.56.90.5/000000000000/5000000010000018926/index.m3u8
+东方财经,http://111.56.90.5/000000000000/5000000007000010003/index.m3u8
+中国天气,http://111.56.90.5/000000000000/5000000005000031974/index.m3u8
+广东珠江,http://111.56.90.5/000000000000/1000000004000011655/index.m3u8
+戏曲精选,http://111.56.90.5/000000000000/5000000011000288012/index.m3u8
+晴彩广场舞,http://111.56.90.5/000000000000/3000000020000011524/index.m3u8
+晴彩青少,http://111.56.90.5/000000000000/3000000020000031315/index.m3u8
+游戏风云,http://111.56.90.5/000000000000/5000000011000031114/index.m3u8
+漫游世界,http://111.56.90.5/000000000000/6000000003000028434/index.m3u8
+生活时尚,http://111.56.90.5/000000000000/5000000002000019634/index.m3u8
+电竞天堂,http://111.56.90.5/000000000000/5000000011000288003/index.m3u8
+百变课堂,http://111.56.90.5/000000000000/5000000011000288001/index.m3u8
+百视通,http://111.56.90.5/000000000000/5000000001000002898/index.m3u8
+看天下精选,http://111.56.90.5/000000000000/5000000011000288007/index.m3u8
+第一财经,http://111.56.90.5/000000000000/5000000010000027146/index.m3u8
+精品综合,http://111.56.90.5/000000000000/5595720619887440144/index.m3u8
+茶频道,http://111.56.90.5/000000000000/5000000011000031209/index.m3u8
+财富天下,http://111.56.90.5/000000000000/5000000011000031208/index.m3u8
+金色学堂,http://111.56.90.5/000000000000/5000000010000026105/index.m3u8
+高清娱乐,http://111.56.90.5/000000000000/6000000003000001569/index.m3u8
+家庭理财,http://111.56.90.5/000000000000/5000000011000031210/index.m3u8
+咪咕视频,http://111.56.90.5/000000000000/3000000001000005969/index.m3u8
+哒啵电竞,http://111.56.90.5/000000000000/1000000006000032327/index.m3u8
+哒啵赛事,http://111.56.90.5/000000000000/1000000001000003775/index.m3u8
+英雄联盟音乐节,http://111.56.90.5/000000000000/8978605063318475207/index.m3u8
+北京纪实科教,http://111.56.90.5/000000000000/1000000001000001910/index.m3u8
 
 北京淘系列,#genre#
 北京IPTV淘剧场,http://otangtang.com:38848/udp/239.3.1.95:8001
