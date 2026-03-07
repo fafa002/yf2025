@@ -601,7 +601,27 @@ CCTV8,http://74.91.26.218:82/live/cctv8.m3u8
 东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
- 
+
+极速港台5,#genre#
+翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
+無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
+TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
+動物星球,https://hls.iill.top/api/dwxq/index.m3u8
+緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
+緯來體育,https://hls.iill.top/api/wlty/index.m3u8
+緯來電影,https://hls.iill.top/api/wldy/index.m3u8
+東森電影,https://hls.iill.top/api/dsdy/index.m3u8
+東森洋片,https://hls.iill.top/api/dsyp/index.m3u8
+龍祥時代,https://hls.iill.top/api/lxsd/index.m3u8
+BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
+BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+Discovery,https://hls.iill.top/api/Discovery/index.m3u8
+HBO,https://hls.iill.top/api/HBO/index.m3u8
+HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
+HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
+
+
 极速bxtv,#genre#
 盗源狗si全家 全家下地狱
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
