@@ -621,7 +621,6 @@ HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
 HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
 HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 
-
 极速bxtv,#genre#
 盗源狗si全家 全家下地狱
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
@@ -767,6 +766,77 @@ JET综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
+
+秒开台湾,#genre#
+台視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1047
+中視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1048
+華視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1049
+民視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1050
+公視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1201
+人間衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1198
+大愛電視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1216
+好消息GOOD TV,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1669
+Trace Sport Stars,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1003
+DISCOVERY,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1002
+旅遊生活,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1005
+動物星球,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1004
+亞洲旅遊,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1219
+MOMO親子台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1007
+東森幼幼HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1008
+公視兒少台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1670
+緯來綜合HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1044
+八大第一HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1043
+八大綜合HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1019
+三立台灣HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1021
+三立都會HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1020
+韓國娛樂台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1024
+東森綜合HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1041
+超視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1180
+中天綜合HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1022
+中天娛樂HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1023
+東風衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1195
+MUCH TV,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1189
+東森戲劇HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1042
+八大戲劇HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1057
+TVBS歡樂HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1018
+緯來戲劇,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1186
+JET綜合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1671
+國興衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1672
+中視菁采台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1673
+緯來日本HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1026
+Taiwan Plus,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1674
+年代新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1192
+東森新聞HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1014
+中天新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1675
+民視新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1204
+三立新聞HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1016
+TVBS新聞HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1052
+TVBS HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1668
+非凡新聞HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1013
+非凡商業HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1012
+東森財經HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1017
+寰宇新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1222
+壹新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1676
+Bloomberg News,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1066
+NHK世界HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1027
+鏡電視新聞台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1031
+好萊塢電影HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1025
+緯來電影HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1183
+NHK WORLD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1677
+HBO,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1029
+AXN,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1054
+CINEMAX HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1030
+AMC 電影台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1032
+寵物頻道,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1040
+博斯運動2台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1225
+廈門衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1033
+CCTV4-中央衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1034
+海峽衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1035
+浙江衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1036
+東方衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1037
+湖南衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1038
+鳯凰衛視資訊,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1666
+鳯凰衛視中文,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1213
 
 环球台湾,#genre#
 民视,http://us.huanqiuzhibo.cn/huanqiuitv.php?username=gongxiang&password=123456&channel_id=3
