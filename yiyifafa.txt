@@ -1393,7 +1393,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 恩平综合,http://php.jdshipin.com:8880/chudian.php?id=epzh
 
-广东本地2,#genre#
+广东荔枝网,#genre#
 盗源狗si全家 全家下地狱
 广东卫视,https://gd.luzong.cc.cd/gdws
 大湾区卫视,https://gd.luzong.cc.cd/dwqws
@@ -1420,6 +1420,16 @@ GRTN生活频道,https://gd.luzong.cc.cd/shpd
 汕尾新闻综合,https://gd.luzong.cc.cd/swzh
 汕尾文化生活,https://gd.luzong.cc.cd/swwh
 江门综合,https://gd.luzong.cc.cd/jmzh
+
+广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
+广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
+大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
+广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
+
+广东珠江3,http://m.061899.xyz/mg/gdzj
+广东新闻,http://m.061899.xyz/mg/gdxw
+广东民生2,http://m.061899.xyz/mg/gdms
+广东体育2,http://m.061899.xyz/mg/gdty
 
 深圳都市,http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
@@ -1464,17 +1474,6 @@ GRTN生活频道,https://gd.luzong.cc.cd/shpd
 
 -汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
 -汕尾生活,https://iswtv.swrtv.com/live/whshpd.m3u8
-
-广东荔枝网,#genre#
-广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
-广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
-大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
-广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
-
-广东珠江3,http://m.061899.xyz/mg/gdzj
-广东新闻,http://m.061899.xyz/mg/gdxw
-广东民生2,http://m.061899.xyz/mg/gdms
-广东体育2,http://m.061899.xyz/mg/gdty
 
 东莞酒店,#genre#
 广东体育高清,http://183.57.248.89:8183/tsfile/live/1000_1.m3u8
