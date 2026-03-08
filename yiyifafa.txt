@@ -474,10 +474,6 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 极速港台2,#genre#
-TVB翡翠台,rtmp://118.145.86.104/live/yifatv-jade01
-无线新闻台,rtmp://61.184.240.184/live/yifatv-wxxw01
-中天新闻台,rtmp://123.156.165.47/live/yifatv-ztxw01
-中天新闻台,rtmp://223.86.29.68/live/yifatv-ztxw05
 中天新闻2,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
 Now星影,rtmp://map.botondtech.com/live/yifatv-xy
 Now爆谷,rtmp://map.botondtech.com/live/yifatv-bg
@@ -497,8 +493,8 @@ Now爆谷,rtmp://map.botondtech.com/live/yifatv-bg
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 台视,http://ip1.xiaomidadi.cn:8088/live/dscE7IeEK7vMQFZY/hls.m3u8
 
+翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
-翡翠台2,http://r.jdshipin.com/qrfbg
 无线新闻,http://r.jdshipin.com/CkuBd
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB Plus,http://r.jdshipin.com/ndGgS
@@ -524,13 +520,6 @@ HOY77,http://r.jdshipin.com/sFw4S
 海峡卫视,http://r.jdshipin.com/WtYt3
 咪咕视频4K,http://r.jdshipin.com/ln4xk
 咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
-
-NOW新闻台,https://yang-1989.eu.org/live/now-332
-NOW财经台,https://yang-1989.eu.org/live/now-333
-VIUTV,https://yang-1989.eu.org/live/ViuTV
-VIUTVsix,https://yang-1989.eu.org/live/ViuTVsix
-翡翠台,https://yang-1989.eu.org/live/TVB-Jade
-tvN,https://yang-1989.eu.org/live/tvN
 
 廣東體育4K[GRT-SPORTS 4K],http://67.220.71.199:2347/livehttpplay?channel_id=12028
 TVB亞洲劇臺[TVB Asian Select],http://67.220.71.199:2347/livehttpplay?channel_id=13022
