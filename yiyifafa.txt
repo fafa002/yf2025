@@ -1029,6 +1029,19 @@ CCTV4-中央衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1034
 鳯凰衛視資訊,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1666
 鳯凰衛視中文,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1213
 
+地面波,#genre#
+港台電視 31,http://2:2@113.89.101.0:9981/stream/channelid/1838780937?profile=htsp
+港台電視 32,http://2:2@113.89.101.0:9981/stream/channelid/1136133890?profile=htsp
+中央電視台綜合頻道（CCTV-1綜合),http://2:2@113.89.101.0:9981/stream/channelid/539067480?profile=htsp
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://2:2@113.89.101.0:9981/stream/channelid/1934804729?profile=htsp
+翡翠台,http://2:2@113.89.101.0:9981/stream/channelid/347433525?profile=htsp
+TVB Plus,http://2:2@113.89.101.0:9981/stream/channelid/1354578766?profile=htsp
+無綫新聞台,http://2:2@113.89.101.0:9981/stream/channelid/1040261915?profile=htsp
+明珠台,http://2:2@113.89.101.0:9981/stream/channelid/924340760?profile=htsp
+鳳凰衛視香港台,http://2:2@113.89.101.0:9981/stream/channelid/1091885173?profile=htsp
+ViuTVsix,http://2:2@113.89.101.0:9981/stream/channelid/2144013391?profile=htsp
+ViuTV,http://2:2@113.89.101.0:9981/stream/channelid/446485537?profile=htsp
+
 广东本地,#genre#
 盗源狗si全家 全家下地狱
 大湾区卫视,http://119.123.76.217:8086/hls/29/index.m3u8
