@@ -1029,18 +1029,35 @@ CCTV4-中央衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1034
 鳯凰衛視資訊,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1666
 鳯凰衛視中文,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1213
 
-地面波,#genre#
-港台電視 31,http://2:2@113.89.101.0:9981/stream/channelid/1838780937?profile=htsp
-港台電視 32,http://2:2@113.89.101.0:9981/stream/channelid/1136133890?profile=htsp
-中央電視台綜合頻道（CCTV-1綜合),http://2:2@113.89.101.0:9981/stream/channelid/539067480?profile=htsp
-中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://2:2@113.89.101.0:9981/stream/channelid/1934804729?profile=htsp
-翡翠台,http://2:2@113.89.101.0:9981/stream/channelid/347433525?profile=htsp
-TVB Plus,http://2:2@113.89.101.0:9981/stream/channelid/1354578766?profile=htsp
-無綫新聞台,http://2:2@113.89.101.0:9981/stream/channelid/1040261915?profile=htsp
-明珠台,http://2:2@113.89.101.0:9981/stream/channelid/924340760?profile=htsp
-鳳凰衛視香港台,http://2:2@113.89.101.0:9981/stream/channelid/1091885173?profile=htsp
-ViuTVsix,http://2:2@113.89.101.0:9981/stream/channelid/2144013391?profile=htsp
-ViuTV,http://2:2@113.89.101.0:9981/stream/channelid/446485537?profile=htsp
+抖音直播,#genre#
+水水家猪蹄,https://live.iill.top/douyin/ssjzt777
+格格睡醒了,https://live.iill.top/douyin/42347122605
+晓晓,https://live.iill.top/douyin/147258247158d
+央视网,https://live.iill.top/douyin/cctv.com
+小央视频,https://live.iill.top/douyin/cctv_video
+CCTV4,https://live.iill.top/douyin/CCTV4..
+央视网快看,https://live.iill.top/douyin/kuaikancctv
+CCTV远方的家,https://live.iill.top/douyin/44931143492
+央视三农,https://live.iill.top/douyin/letus17
+电影频道央影传媒,https://live.iill.top/douyin/cctv6media.
+粤TV-广东台荔枝网,https://live.iill.top/douyin/ZK8763
+DV现场,https://live.iill.top/douyin/gdtvdvxc
+珠江频道,https://live.iill.top/douyin/gdtvzjpd
+央视网新闻,https://live.iill.top/douyin/1606137427
+每日经济新闻,https://live.iill.top/douyin/nbdnews
+中国交通广播,https://live.iill.top/douyin/CMG_ZGJTGB
+极目新闻,https://live.iill.top/douyin/ctdsbdy
+延边新闻,https://live.iill.top/douyin/YBnews
+育见新闻,https://live.iill.top/douyin/CETVxinwen
+维度新闻,https://live.iill.top/douyin/975107749
+深圳新闻网,https://live.iill.top/douyin/1057124186
+特区新闻广场,https://live.iill.top/douyin/tqxwgc
+环球时报,https://live.iill.top/douyin/HuanQiuShiBao
+第一财团,https://live.iill.top/douyin/Diyicaituan
+央视网财经,https://live.iill.top/douyin/nuanxinnengl
+央视财经,https://live.iill.top/douyin/yscjxmt
+财联社,https://live.iill.top/douyin/clscccaijing
+小强热线浙江教科,https://live.iill.top/douyin/ZTV4
 
 广东本地,#genre#
 盗源狗si全家 全家下地狱
