@@ -958,76 +958,261 @@ JET综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
 
-秒开台湾,#genre#
-台視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1047
-中視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1048
-華視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1049
-民視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1050
-公視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1201
-人間衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1198
-大愛電視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1216
-好消息GOOD TV,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1669
-Trace Sport Stars,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1003
-DISCOVERY,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1002
-旅遊生活,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1005
-動物星球,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1004
-亞洲旅遊,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1219
-MOMO親子台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1007
-東森幼幼HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1008
-公視兒少台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1670
-緯來綜合HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1044
-八大第一HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1043
-八大綜合HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1019
-三立台灣HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1021
-三立都會HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1020
-韓國娛樂台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1024
-東森綜合HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1041
-超視HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1180
-中天綜合HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1022
-中天娛樂HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1023
-東風衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1195
-MUCH TV,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1189
-東森戲劇HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1042
-八大戲劇HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1057
-TVBS歡樂HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1018
-緯來戲劇,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1186
-JET綜合,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1671
-國興衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1672
-中視菁采台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1673
-緯來日本HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1026
-Taiwan Plus,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1674
-年代新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1192
-東森新聞HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1014
-中天新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1675
-民視新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1204
-三立新聞HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1016
-TVBS新聞HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1052
-TVBS HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1668
-非凡新聞HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1013
-非凡商業HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1012
-東森財經HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1017
-寰宇新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1222
-壹新聞,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1676
-Bloomberg News,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1066
-NHK世界HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1027
-鏡電視新聞台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1031
-好萊塢電影HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1025
-緯來電影HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1183
-NHK WORLD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1677
-HBO,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1029
-AXN,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1054
-CINEMAX HD,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1030
-AMC 電影台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1032
-寵物頻道,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1040
-博斯運動2台,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1225
-廈門衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1033
-CCTV4-中央衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1034
-海峽衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1035
-浙江衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1036
-東方衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1037
-湖南衛視,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1038
-鳯凰衛視資訊,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1666
-鳯凰衛視中文,http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1213
+4季台湾,#genre#
+民視第一台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv003
+民視台灣台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv001
+民視HD,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv002
+大愛電視,http://litv.goiptv.de5.net/litv.php?id=4gtv-live007
+中視,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv040
+華視,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv041
+三立綜合合,http://litv.goiptv.de5.net/litv.php?id=4gtv-live207
+客家電視,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv043
+中視菁采台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv064
+靖天綜合,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv046
+靖天日本,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv047
+新唐人亞太台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live050
+Arirang TV,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv079
+原住民族電視台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live014
+東森購物四台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live049
+東森購物一台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live047
+東森購物一台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv102
+東森購物一台,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv102
+TVBS HD,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv073
+東森購物二台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live046
+東森購物二台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv103
+東森購物二台,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv103
+靖天育樂,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv062
+靖天國際,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv063
+靖天歡樂,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv054
+靖天資訊,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv065
+韓國娛樂台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv016
+東森購物三台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live048
+好消息,http://litv.goiptv.de5.net/litv.php?id=litv-ftv16
+好消息2台,http://litv.goiptv.de5.net/litv.php?id=litv-ftv17
+大愛二台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live106
+人間衛視,http://litv.goiptv.de5.net/litv.php?id=4gtv-live008
+國會頻道1,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv084
+國會頻道2,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv085
+民視第一台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv003
+民視台灣台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv001
+中視,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv040
+華視,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv041
+中天亞洲台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv109
+三立綜合合,http://litv.goiptv.de5.net/litv.php?id=4gtv-live207
+客家電視,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv043
+中視菁采台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv064
+靖天綜合,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv046
+靖天日本,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv047
+Arirang TV,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv079
+TVBS HD,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv073
+靖天育樂,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv062
+靖天國際,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv063
+靖天歡樂,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv054
+靖天資訊,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv065
+韓國娛樂台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv016
+好消息,http://litv.goiptv.de5.net/litv.php?id=li-litv-ftv16
+好消息2台,http://litv.goiptv.de5.net/litv.php?id=li-litv-ftv17
+國會頻道1,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv084
+國會頻道2,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv085
+台視HD,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv066
+台視HD,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv066
+中視,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv040
+華視,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv041
+好消息,http://litv.goiptv.de5.net/litv.php?id=of-litv-ftv16
+好消息2台,http://litv.goiptv.de5.net/litv.php?id=of-litv-ftv17
+國會頻道1,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv084
+國會頻道2,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv085
+中視經典台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv080
+ROCK Entertainment,http://litv.goiptv.de5.net/litv.php?id=4gtv-live080
+公視戲劇,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv042
+民視影劇,http://litv.goiptv.de5.net/litv.php?id=litv-ftv09
+HITS,http://litv.goiptv.de5.net/litv.php?id=4gtv-live620
+霹靂布袋戲,http://litv.goiptv.de5.net/litv.php?id=4gtv-live145
+靖天戲劇,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv058
+靖洋戲劇,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv045
+金光布袋戲,http://litv.goiptv.de5.net/litv.php?id=4gtv-live144
+ROCK Action,http://litv.goiptv.de5.net/litv.php?id=4gtv-live138
+采昌影劇,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv049
+靖天映畫,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv055
+靖天電影,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv061
+影迷數位電影台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv011
+amc 電影台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv017
+Cinema World,http://litv.goiptv.de5.net/litv.php?id=4gtv-live069
+歐洲光影,http://litv.goiptv.de5.net/litv.php?id=4gtv-live157
+TVBS台劇台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live088
+經典電影台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live021
+戲劇免費看1台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live010
+中視經典台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv080
+龍華洋片,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn02
+龍華電影,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn03
+龍華日韓,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn11
+龍華偶像,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn12
+龍華戲劇,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn18
+龍華經典,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn21
+公視戲劇,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv042
+民視影劇,http://litv.goiptv.de5.net/litv.php?id=li-litv-ftv09
+靖天戲劇,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv058
+靖洋戲劇,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv045
+采昌影劇,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv049
+靖天映畫,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv055
+靖天電影,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv061
+影迷數位電影台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv011
+amc 電影台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv017
+台灣戲劇台,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn22
+台灣戲劇台,http://litv.goiptv.de5.net/litv.php?id=litv-longturn22
+龍華洋片,http://litv.goiptv.de5.net/litv.php?id=litv-longturn02
+龍華電影,http://litv.goiptv.de5.net/litv.php?id=litv-longturn03
+龍華日韓,http://litv.goiptv.de5.net/litv.php?id=litv-longturn11
+龍華偶像,http://litv.goiptv.de5.net/litv.php?id=litv-longturn12
+龍華戲劇,http://litv.goiptv.de5.net/litv.php?id=litv-longturn18
+龍華經典,http://litv.goiptv.de5.net/litv.php?id=litv-longturn21
+八大綜藝,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv039
+TVBS精采台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv067
+ELTA娛樂,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv070
+民視綜藝,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv004
+豬哥亮歌廳秀,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv006
+TVBS歡樂台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv068
+電影原聲台 CMusic,http://litv.goiptv.de5.net/litv.php?id=4gtv-live031
+Trace Urban,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv082
+MTV Live,http://litv.goiptv.de5.net/litv.php?id=4gtv-live025
+MEZZO LIVE HD,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv083
+CLASSICA 古典樂,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv059
+八大精彩,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv034
+TVBS綜藝台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live087
+八大綜藝,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv039
+TVBS精采台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv067
+ELTA娛樂,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv070
+民視綜藝,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv004
+豬哥亮歌廳秀,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv006
+TVBS歡樂台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv068
+Trace Urban,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv082
+MEZZO LIVE HD,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv083
+CLASSICA 古典樂,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv059
+八大精彩,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv034
+Global Trekker,http://litv.goiptv.de5.net/litv.php?id=4gtv-live112
+Lifetime,http://litv.goiptv.de5.net/litv.php?id=4gtv-live029
+INULTRA,http://litv.goiptv.de5.net/litv.php?id=4gtv-live096
+Pet Club TV,http://litv.goiptv.de5.net/litv.php?id=4gtv-live110
+民視旅遊,http://litv.goiptv.de5.net/litv.php?id=litv-ftv07
+滾動力 Rollor,http://litv.goiptv.de5.net/litv.php?id=4gtv-live012
+亞洲旅遊,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv076
+FUN 4K探索娛樂,http://litv.goiptv.de5.net/litv.php?id=4gtv-live011
+幸福空間居家台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live206
+LOVE NATURE,http://litv.goiptv.de5.net/litv.php?id=4gtv-live208
+ELTA生活旅遊,http://litv.goiptv.de5.net/litv.php?id=4gtv-live120
+LUXE TV,http://litv.goiptv.de5.net/litv.php?id=4gtv-live121
+TV5MONDE Style,http://litv.goiptv.de5.net/litv.php?id=4gtv-live122
+MagellanTV頻道,http://litv.goiptv.de5.net/litv.php?id=4gtv-live123
+民視旅遊,http://litv.goiptv.de5.net/litv.php?id=li-litv-ftv07
+亞洲旅遊,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv076
+Smart知識台,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn19
+亞洲旅遊,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv076
+Smart知識台,http://litv.goiptv.de5.net/litv.php?id=litv-longturn19
+LiveABC 互動英語台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live030
+達文西,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv018
+ELTV生活英語台,http://litv.goiptv.de5.net/litv.php?id=litv-longturn20
+Nick Jr.,http://litv.goiptv.de5.net/litv.php?id=4gtv-live032
+Nickelodeon,http://litv.goiptv.de5.net/litv.php?id=4gtv-live105
+DreamWorks,http://litv.goiptv.de5.net/litv.php?id=4gtv-live017
+靖天卡通台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv044
+靖洋卡通,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv057
+MOMO親子,http://litv.goiptv.de5.net/litv.php?id=4gtv-live107
+經典卡通台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live022
+精選動漫台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live024
+龍華卡通,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn01
+達文西,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv018
+ELTV生活英語台,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn20
+靖天卡通台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv044
+靖洋卡通,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv057
+ELTV生活英語台,http://litv.goiptv.de5.net/litv.php?id=of-litv-longturn20
+龍華卡通,http://litv.goiptv.de5.net/litv.php?id=litv-longturn01
+鏡電視新聞台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv075
+東森新聞,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv152
+華視新聞台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv052
+民視新聞,http://litv.goiptv.de5.net/litv.php?id=litv-ftv13
+三立iNEWS,http://litv.goiptv.de5.net/litv.php?id=4gtv-live089
+東森財經新聞,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv153
+中視新聞台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv074
+中天新聞台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv009
+BLOOMBERG TV,http://litv.goiptv.de5.net/litv.php?id=4gtv-live059
+寰宇新聞,http://litv.goiptv.de5.net/litv.php?id=litv-longturn14
+寰宇新聞台灣台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv156
+SBN 全球財經台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live060
+寰宇財經,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv158
+FRANCE24 英文台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live146
+半島國際新聞台,http://litv.goiptv.de5.net/litv.php?id=litv-ftv10
+VOA 美國之音,http://litv.goiptv.de5.net/litv.php?id=litv-ftv03
+CNBC Asia 財經台,http://litv.goiptv.de5.net/litv.php?id=4gtv-live130
+DW德國之聲,http://litv.goiptv.de5.net/litv.php?id=4gtv-live071
+非凡新聞,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv010
+非凡商業,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv048
+台視財經台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv056
+鏡電視新聞台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv075
+東森新聞,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv152
+民視新聞,http://litv.goiptv.de5.net/litv.php?id=li-litv-ftv13
+TVBS新聞台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv072
+東森財經新聞,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv153
+中視新聞台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv074
+中天新聞台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv009
+寰宇新聞,http://litv.goiptv.de5.net/litv.php?id=li-litv-longturn14
+寰宇新聞台灣台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv156
+寰宇財經,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv158
+半島國際新聞台,http://litv.goiptv.de5.net/litv.php?id=li-litv-ftv10
+VOA 美國之音,http://litv.goiptv.de5.net/litv.php?id=li-litv-ftv03
+台視新聞台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv051
+第1商業台,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv104
+台視新聞台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv051
+中視新聞台,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv074
+中天新聞台,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv009
+寰宇新聞,http://litv.goiptv.de5.net/litv.php?id=of-litv-longturn14
+寰宇新聞台灣台,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv156
+寰宇財經,http://litv.goiptv.de5.net/litv.php?id=of-4gtv-4gtv158
+第1商業台,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv104
+三立iNEWS,http://litv.goiptv.de5.net/litv.php?id=iNEWS
+倪珍播新聞,http://litv.goiptv.de5.net/litv.php?id=nnews-zh
+倪珍英語新聞,http://litv.goiptv.de5.net/litv.php?id=nnews-en
+倪珍越語新聞,http://litv.goiptv.de5.net/litv.php?id=nnews-vn
+TRACE Sport Stars,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv077
+智林體育,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv101
+時尚運動X,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv014
+車迷 TV,http://litv.goiptv.de5.net/litv.php?id=4gtv-live201
+GINX Esports TV,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv053
+博斯魅力,http://litv.goiptv.de5.net/litv.php?id=litv-longturn04
+博斯高球I,http://litv.goiptv.de5.net/litv.php?id=litv-longturn05
+博斯高球II,http://litv.goiptv.de5.net/litv.php?id=litv-longturn06
+博斯運動I,http://litv.goiptv.de5.net/litv.php?id=litv-longturn07
+博斯運動II,http://litv.goiptv.de5.net/litv.php?id=litv-longturn08
+博斯網球,http://litv.goiptv.de5.net/litv.php?id=litv-longturn09
+博斯無限I,http://litv.goiptv.de5.net/litv.php?id=litv-longturn10
+博斯無限II,http://litv.goiptv.de5.net/litv.php?id=litv-longturn13
+TRACE Sport Stars,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv077
+智林體育,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv101
+時尚運動X,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv014
+GINX Esports TV,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv053
+歷史頻道,http://litv.goiptv.de5.net/litv.php?id=4gtv-live026
+CI 罪案偵查頻道,http://litv.goiptv.de5.net/litv.php?id=4gtv-live027
+視納華仁紀實頻道,http://litv.goiptv.de5.net/litv.php?id=4gtv-4gtv013
+影迷數位紀實台,http://litv.goiptv.de5.net/litv.php?id=litv-ftv15
+視納華仁紀實頻道,http://litv.goiptv.de5.net/litv.php?id=li-4gtv-4gtv013
+影迷數位紀實台,http://litv.goiptv.de5.net/litv.php?id=li-litv-ftv15
+公視金獎台,http://litv.goiptv.de5.net/litv.php?id=ofiii13
+哆啦Ａ夢台,http://litv.goiptv.de5.net/litv.php?id=ofiii22
+新哆啦A夢(中文版),http://litv.goiptv.de5.net/litv.php?id=ofiii23
+TVBS食尚玩家,http://litv.goiptv.de5.net/litv.php?id=ofiii31
+東森娛樂台,http://litv.goiptv.de5.net/litv.php?id=ofiii32
+中天亞洲精采台,http://litv.goiptv.de5.net/litv.php?id=ofiii36
+經典劇場,http://litv.goiptv.de5.net/litv.php?id=ofiii38
+Yes娛樂,http://litv.goiptv.de5.net/litv.php?id=ofiii47
+Focus風采戲劇台,http://litv.goiptv.de5.net/litv.php?id=ofiii1048
+掏掏新聞,http://litv.goiptv.de5.net/litv.php?id=ofiii50
+柯文哲政治風波,http://litv.goiptv.de5.net/litv.php?id=ofiii51
+國際大小事,http://litv.goiptv.de5.net/litv.php?id=ofiii55
+第1財經,http://litv.goiptv.de5.net/litv.php?id=ofiii64
+Golden 強片台,http://litv.goiptv.de5.net/litv.php?id=ofiii70
+周星馳台,http://litv.goiptv.de5.net/litv.php?id=ofiii73
+歐飛電影台,http://litv.goiptv.de5.net/litv.php?id=ofiii74
+歐飛動作電影台,http://litv.goiptv.de5.net/litv.php?id=ofiii75
+Focus探索新知台,http://litv.goiptv.de5.net/litv.php?id=ofiii82
 
 抖音直播,#genre#
 水水家猪蹄,https://live.iill.top/douyin/ssjzt777
