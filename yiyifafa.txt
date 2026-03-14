@@ -867,7 +867,7 @@ ROCK綜藝娛樂,http://tl.061833.xyz/tl/rock
 SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 ZooMoo,http://tl.061833.xyz/tl/zoomoo
 
-极速168,#genre#
+极速NOW,#genre#
 翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
 無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
@@ -891,11 +891,8 @@ NOW星影(国),p3p://focus169.org:47555/693d2c48000ebc01f0e30d165ba336d4
 NOW爆谷,http://rihou.cc:555/tv/hktv%2Ftb19nowbg56
 NOW爆谷(国),p3p://focus169.org:47555/683c6792000d325d05e9065a074c5f94
 HUB如意台,http://rihou.cc:555/tv/hktv%2Ftbbhubjy56
-
 HUB娱家台,http://rihou.cc:555/tv/hktv%2Ftb19tvbzt56
-
 HUB都会台,http://rihou.cc:555/tv/hktv%2Fbtw856356
-
 曼迪日本台,http://rihou.cc:555/tv/hktv%2Fbtw856456
 
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
