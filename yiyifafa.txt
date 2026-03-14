@@ -867,7 +867,7 @@ ROCK綜藝娛樂,http://tl.061833.xyz/tl/rock
 SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 ZooMoo,http://tl.061833.xyz/tl/zoomoo
 
-极速168,#genre#
+极速NOW,#genre#
 翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
 無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
