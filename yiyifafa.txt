@@ -391,13 +391,15 @@ QQ群,1
 如果看不了,6
 换安卓9盒子,7
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 北京卫视4K,https://bj.luzong.cc.cd/bjws4k
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 北京卫视4K,http://8.138.7.223/tv/btime.php?id=bjws4k
+东方卫视4K,http://go.bkpcp.top/mg/dfws
+浙江卫视4K,http://go.bkpcp.top/mg/zjws
+湖南卫视4K,http://go.bkpcp.top/mg/hunws
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
@@ -475,14 +477,12 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 极速港台2,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-中天新闻,http://rihou.cc:555/tv/hktv%2F/tb19tw081156
-中天新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
 镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 
 中视新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4bmlrDpl7s=
 中视,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3op4Y=
-寰宇新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3lr7DlrofmlrDpl7vlj7A=
-中天新闻台,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
+寰宇新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3lr7DlrofmlrDpl7vlj7A=
+中天新闻,http://www.kaniptv.cn/ts1.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzExOS45MS43LjE2OToyMDI2L1RXLnBocD9pZD3kuK3lpKnmlrDpl7vlj7A=
 
 八大第一,http://ip1.xiaomidadi.cn:8088/live/6b8CYVkZDFPCSqZI/hls.m3u8
 八大戏剧,http://ip1.xiaomidadi.cn:8088/live/jOj7LMOIfjOCcTBL/hls.m3u8
@@ -600,233 +600,6 @@ CCTV8,http://74.91.26.218:82/live/cctv8.m3u8
 东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
-
-极速jack,#genre#
-翡翠台,https://test.tvbjack.de5.net/proxy/710ae6d16ac94653
-翡翠台,https://test.tvbjack.de5.net/proxy/8b9ee802e2a09311
-翡翠台广电,https://test.tvbjack.de5.net/proxy/6337d3dffd2f31f1
-翡翠台4K,https://test.tvbjack.de5.net/proxy/f84b1671b8531433
-无线新闻台,https://test.tvbjack.de5.net/proxy/4a1c945d9212c4a1
-无线新闻台,https://test.tvbjack.de5.net/proxy/82fb638916e90cf0
-TVB PLUS,https://test.tvbjack.de5.net/proxy/a7758946147ff219
-明珠台,https://test.tvbjack.de5.net/proxy/1f544505a0b73a42
-明珠台,https://test.tvbjack.de5.net/proxy/bd50e429c6ae38e4
-HOYTV,https://test.tvbjack.de5.net/proxy/1558b44a1ced32d5
-HOYTV,https://test.tvbjack.de5.net/proxy/599d98eb3815edeb
-HOY资讯台,https://test.tvbjack.de5.net/proxy/450da474a5468d30
-HOY剧集台,https://test.tvbjack.de5.net/proxy/a2e52c32b0dbf7b7
-VIUTV,https://test.tvbjack.de5.net/proxy/e635ab69e39aab75
-VIUTVSIX,https://test.tvbjack.de5.net/proxy/47d01ab2f62855d5
-NOW新闻台,https://test.tvbjack.de5.net/proxy/b9afaff2e8ad98c9
-RTHK 31,https://test.tvbjack.de5.net/proxy/cb0092945b362008
-RTHK 32,https://test.tvbjack.de5.net/proxy/a7480a22dc149a38
-凤凰中文,https://test.tvbjack.de5.net/proxy/b27f23f12104eeaf
-凤凰资讯,https://test.tvbjack.de5.net/proxy/87d2cd4e4b944f78
-凤凰香港,https://test.tvbjack.de5.net/proxy/ea5f9b5f693cc12c
-CCTV1,https://test.tvbjack.de5.net/proxy/4c2041de649b8d62
-CCTV13,https://test.tvbjack.de5.net/proxy/45c773c969c03fff
-广东珠江,https://test.tvbjack.de5.net/proxy/d42e7bab94c99ec4
-广东体育,https://test.tvbjack.de5.net/proxy/9a88df847e512abc
-澳视澳门,https://test.tvbjack.de5.net/proxy/d062b6ccebb90bc1
-澳视卫星,https://test.tvbjack.de5.net/proxy/5de1633d24bd2d97
-澳门体育,https://test.tvbjack.de5.net/proxy/2290a6fc5581a5fa
-澳门综艺,https://test.tvbjack.de5.net/proxy/031261c7621d2373
-澳门莲花,https://test.tvbjack.de5.net/proxy/877eb8ea12e282de
-重温经典,https://test.tvbjack.de5.net/proxy/14607ad5826717dc
-华丽翡翠台,https://test.tvbjack.de5.net/proxy/589ab9fa8ecf4165
-翡翠一台(TVB1),https://test.tvbjack.de5.net/proxy/6142366ac1807ad2
-TVBJ,https://test.tvbjack.de5.net/proxy/1dd4c29539611d8c
-TVB翡翠剧集台,https://test.tvbjack.de5.net/proxy/c508b3a7b0669f00
-TVB亚洲武侠,https://test.tvbjack.de5.net/proxy/d6141e2fc3ad2f02
-娱乐新闻台,https://test.tvbjack.de5.net/proxy/c77267bd49ba858e
-TVB星河,https://test.tvbjack.de5.net/proxy/7dc0245ce6d3c516
-TVB星河,https://test.tvbjack.de5.net/proxy/2d82364b84d204e4
-TVB星河,https://test.tvbjack.de5.net/proxy/48f8fa3f1a7b2ff6
-天映新加坡,https://test.tvbjack.de5.net/proxy/89b5648db7255aa4
-天映经典频道,https://test.tvbjack.de5.net/proxy/c02d02f1d548ac87
-千禧经典台,https://test.tvbjack.de5.net/proxy/53a4a3869d45fcca
-天映频道,https://test.tvbjack.de5.net/proxy/3bfee6d171b25368
-天映经典频道,https://test.tvbjack.de5.net/proxy/5d4941c7c53cf676
-龙华电影,https://test.tvbjack.de5.net/proxy/eecc0ad31b0b677f
-龙华经典台,https://test.tvbjack.de5.net/proxy/cd341f6270db20e6
-龙华偶像,https://test.tvbjack.de5.net/proxy/f2c88c84eee9081c
-龙华日韩台,https://test.tvbjack.de5.net/proxy/e5e6afc2048097b5
-龙华戏剧,https://test.tvbjack.de5.net/proxy/ca8a1855f1fb0111
-金光布袋戏,https://test.tvbjack.de5.net/proxy/8a52128421423b36
-ASTROAOD,https://test.tvbjack.de5.net/proxy/c0d501f83965472a
-ASTROAEC,https://test.tvbjack.de5.net/proxy/b10d5111b2691451
-ASTROQJ,https://test.tvbjack.de5.net/proxy/5b7a73dc3de9b794
-ASTRO欢喜台,https://test.tvbjack.de5.net/proxy/788fe6bf36f15df8
-IQIYI,https://test.tvbjack.de5.net/proxy/65e7e5fae66aed96
-八度空间,https://test.tvbjack.de5.net/proxy/af4544f1049bb342
-CH5,https://test.tvbjack.de5.net/proxy/ef42ce3bee672ba8
-CH8,https://test.tvbjack.de5.net/proxy/97bb370fadf68018
-CHU,https://test.tvbjack.de5.net/proxy/b311f2bc438089ba
-PopC,https://test.tvbjack.de5.net/proxy/c5750761a1cb135c
-美亞電影台,https://test.tvbjack.de5.net/proxy/a66701c783bbd423
-亞洲劇台,https://test.tvbjack.de5.net/proxy/da025e0bee4f568b
-千禧經典台,https://test.tvbjack.de5.net/proxy/9df131f9127c4526
-天映經典頻道,https://test.tvbjack.de5.net/proxy/3d362f0769dee137
-娛樂新聞台,https://test.tvbjack.de5.net/proxy/15718e7da2333cf5
-戲曲台,https://test.tvbjack.de5.net/proxy/ef6222dfec3e7a21
-粵語片台,https://test.tvbjack.de5.net/proxy/03f6099202d9324d
-華語劇台,https://test.tvbjack.de5.net/proxy/fffb1508b4ce2b4d
-黃金翡翠台,https://test.tvbjack.de5.net/proxy/53d28d771e294416
-黃金華劇台,https://test.tvbjack.de5.net/proxy/1537a95aca21d10f
-Animax,https://test.tvbjack.de5.net/proxy/cf3130d33dc5bdfd
-Thrill,https://test.tvbjack.de5.net/proxy/5ab7145bdbcb6086
-myTV SUPER 18台,https://test.tvbjack.de5.net/proxy/352f7778991c152c
-myTV SUPER FREE,https://test.tvbjack.de5.net/proxy/7b4bc23cc5d3775a
-SUPER EYT,https://test.tvbjack.de5.net/proxy/ce387a4da60ce982
-SUPER Kids Channel,https://test.tvbjack.de5.net/proxy/66c337fb9a02e49b
-SUPER Music,https://test.tvbjack.de5.net/proxy/ea5e542116d2e389
-SUPER Sports,https://test.tvbjack.de5.net/proxy/841d713713beec1b
-SUPER劇場,https://test.tvbjack.de5.net/proxy/9134942ae5e085a0
-SUPER煲劇,https://test.tvbjack.de5.net/proxy/69a142e13c81732b
-SUPER獎門人,https://test.tvbjack.de5.net/proxy/a344a83012a0f78f
-SUPER話當年,https://test.tvbjack.de5.net/proxy/0fabdaf83ba9a284
-SUPER識嘆,https://test.tvbjack.de5.net/proxy/224c6030a83276f3
-SUPER識食,https://test.tvbjack.de5.net/proxy/50719537b45e72f1
-SUPER金曲,https://test.tvbjack.de5.net/proxy/8d32e7346e00766c
-中國電影頻道,https://test.tvbjack.de5.net/proxy/5a09eb7460239161
-創世電視,https://test.tvbjack.de5.net/proxy/fb513f341b464e0c
-大灣區衛視,https://test.tvbjack.de5.net/proxy/2ea23d675b153fcf
-民視第一台,https://test.tvbjack.de5.net/proxy/d5c99f0e02ebc530
-民視台灣台,https://test.tvbjack.de5.net/proxy/821c5783cb57dce4
-民視,https://test.tvbjack.de5.net/proxy/93878cfe7e7e164c
-大愛電視,https://test.tvbjack.de5.net/proxy/61b49a74b463ca33
-中視,https://test.tvbjack.de5.net/proxy/652ad9222144d6d4
-華視,https://test.tvbjack.de5.net/proxy/30493fce434c5ba7
-三立綜合台,https://test.tvbjack.de5.net/proxy/765c561abfe9c968
-客家電視台,https://test.tvbjack.de5.net/proxy/29f161b4c4dcf92e
-八大綜藝台,https://test.tvbjack.de5.net/proxy/6a337e7afe664179
-TVBS精采台,https://test.tvbjack.de5.net/proxy/f55ee0bde0d27532
-愛爾達娛樂台,https://test.tvbjack.de5.net/proxy/c080c3f592d534a3
-靖天綜合台,https://test.tvbjack.de5.net/proxy/ad82fbc431be7b00
-靖天日本台,https://test.tvbjack.de5.net/proxy/2115d7b4a694201c
-ARIRANG阿里郎頻道,https://test.tvbjack.de5.net/proxy/8dbd4ad1e2231701
-Global Trekker,https://test.tvbjack.de5.net/proxy/e20ac85e7e55f8fb
-原住民族電視台,https://test.tvbjack.de5.net/proxy/32b3f0fa6fe5edcc
-東森購物四台,https://test.tvbjack.de5.net/proxy/5bcb22ee108306c5
-LiveABC互動英語頻道,https://test.tvbjack.de5.net/proxy/f88403a83ea8c183
-達文西頻道,https://test.tvbjack.de5.net/proxy/992344dcb0d873a3
-ELTV生活英語台,https://test.tvbjack.de5.net/proxy/862e73b40e18d0b6
-Nick Jr. 兒童頻道,https://test.tvbjack.de5.net/proxy/3b9910d3b7a9766a
-尼克兒童頻道,https://test.tvbjack.de5.net/proxy/de78270849a4edab
-DreamWorks 夢工廠動畫,https://test.tvbjack.de5.net/proxy/fa6c9c569ca3dbe3
-靖天卡通台,https://test.tvbjack.de5.net/proxy/92d025fd0c593367
-靖洋卡通Nice Bingo,https://test.tvbjack.de5.net/proxy/6717061a013d622b
-MOMO親子台,https://test.tvbjack.de5.net/proxy/a860d8e6ded6898a
-鏡電視新聞台,https://test.tvbjack.de5.net/proxy/52cb64b556e818d8
-東森新聞台,https://test.tvbjack.de5.net/proxy/988ae36bafb20cbc
-華視新聞,https://test.tvbjack.de5.net/proxy/27cfe36464382a48
-民視新聞台,https://test.tvbjack.de5.net/proxy/caf04924df7fb680
-三立新聞iNEWS,https://test.tvbjack.de5.net/proxy/f203cc619500f4f5
-TVBS新聞,https://test.tvbjack.de5.net/proxy/261753fcffb40d2b
-東森財經新聞台,https://test.tvbjack.de5.net/proxy/9f571bb352c56d71
-中視新聞,https://test.tvbjack.de5.net/proxy/52d1a7ce19368f4d
-中天新聞台,https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
-Bloomberg TV,https://test.tvbjack.de5.net/proxy/57d721ee9da2c19b
-寰宇新聞台,https://test.tvbjack.de5.net/proxy/a64907bd9691cc2a
-寰宇新聞台灣台,https://test.tvbjack.de5.net/proxy/a5ab6c789204a70f
-SBN全球財經台,https://test.tvbjack.de5.net/proxy/f1044b1dd889d5ec
-TVBS,https://test.tvbjack.de5.net/proxy/d8044d65a7171e5e
-民視綜藝台,https://test.tvbjack.de5.net/proxy/6816a638a1dc7bb3
-豬哥亮歌廳秀,https://test.tvbjack.de5.net/proxy/cc23b6dbc7792ac4
-靖天育樂台,https://test.tvbjack.de5.net/proxy/135dfcebb3783f90
-KLT-靖天國際台,https://test.tvbjack.de5.net/proxy/61e6552535c7966b
-Nice TV 靖天歡樂台,https://test.tvbjack.de5.net/proxy/98aa7ef6e102c395
-靖天資訊台,https://test.tvbjack.de5.net/proxy/64d0941ed44c8a07
-TVBS歡樂台,https://test.tvbjack.de5.net/proxy/160208c8fcc54568
-TVBS綜藝台,https://test.tvbjack.de5.net/proxy/63deaa1273b92d95
-TVBS台劇台,https://test.tvbjack.de5.net/proxy/eb2dec6a95035d47
-韓國娛樂台 KMTV,https://test.tvbjack.de5.net/proxy/ce01fce70800b846
-ROCK Entertainment,https://test.tvbjack.de5.net/proxy/3a8e9ef170093cbb
-Lifetime 娛樂頻道,https://test.tvbjack.de5.net/proxy/3dfffeacb196a87c
-電影原聲台CMusic,https://test.tvbjack.de5.net/proxy/da6e9c1659dc8858
-TRACE Urban,https://test.tvbjack.de5.net/proxy/519c55fedb76425d
-FashionTV 時尚頻道,https://test.tvbjack.de5.net/proxy/c05b011e7bdef243
-Mezzo Live HD,https://test.tvbjack.de5.net/proxy/a897a5ce55e14afb
-CLASSICA 古典樂,https://test.tvbjack.de5.net/proxy/b96051f9b668e983
-東森購物三台,https://test.tvbjack.de5.net/proxy/ced8d5d2b5cd355c
-INULTRA,https://test.tvbjack.de5.net/proxy/32fe0871c1f1c907
-TRACE Sport Stars,https://test.tvbjack.de5.net/proxy/f9a76c208a1618ab
-智林體育台,https://test.tvbjack.de5.net/proxy/48861cd15db088dc
-時尚運動X,https://test.tvbjack.de5.net/proxy/bdda2eec59792227
-車迷TV,https://test.tvbjack.de5.net/proxy/c69be2b03c5d53c7
-GINX Esports TV,https://test.tvbjack.de5.net/proxy/801b87d514cf5b62
-Pet Club TV,https://test.tvbjack.de5.net/proxy/5f9d76aa57d27cff
-民視旅遊台,https://test.tvbjack.de5.net/proxy/91eebb0d67ee4663
-滾動力rollor,https://test.tvbjack.de5.net/proxy/3c609d70b9019d3e
-亞洲旅遊台,https://test.tvbjack.de5.net/proxy/fecbd04592ca7ed5
-fun探索娛樂台,https://test.tvbjack.de5.net/proxy/0b896c8565ba24aa
-幸福空間居家台,https://test.tvbjack.de5.net/proxy/3c80b02ca6ae428b
-Love Nature,https://test.tvbjack.de5.net/proxy/18a59cf898a58831
-History 歷史頻道,https://test.tvbjack.de5.net/proxy/eb71099df2393daf
-愛爾達生活旅遊台,https://test.tvbjack.de5.net/proxy/b5cca38837ebd654
-LUXE TV Channel,https://test.tvbjack.de5.net/proxy/6855da17a2cb3443
-TV5MONDE STYLE HD 生活時尚,https://test.tvbjack.de5.net/proxy/df0089bb35995899
-MagellanTV頻道 (麥哲倫頻道),https://test.tvbjack.de5.net/proxy/8767dbf485f03dee
-ROCK Xstream搖滾極限頻道,https://test.tvbjack.de5.net/proxy/312d8fff9a625ee6
-公視戲劇,https://test.tvbjack.de5.net/proxy/ef623c0ae85b3ab0
-民視影劇台,https://test.tvbjack.de5.net/proxy/9d229af94a0c6cf5
-HITS頻道,https://test.tvbjack.de5.net/proxy/1f6eddaed9a3b3b5
-八大精彩台,https://test.tvbjack.de5.net/proxy/f1de53016b2b3bea
-靖天戲劇台,https://test.tvbjack.de5.net/proxy/1699eab57bec54a6
-靖洋戲劇台,https://test.tvbjack.de5.net/proxy/8ad987c8af27d0b9
-CI 罪案偵查頻道,https://test.tvbjack.de5.net/proxy/9541388c2090e4fd
-視納華仁紀實頻道,https://test.tvbjack.de5.net/proxy/8b2a8047858125ff
-影迷數位紀實台,https://test.tvbjack.de5.net/proxy/ebb22d0d50b61053
-金光布袋戲,https://test.tvbjack.de5.net/proxy/7ea163233bb5e8af
-ROCK Action,https://test.tvbjack.de5.net/proxy/2903eda1dab63793
-采昌影劇台,https://test.tvbjack.de5.net/proxy/d7f20b7659d5bcbe
-靖天映畫,https://test.tvbjack.de5.net/proxy/67719c238d8c8a7b
-靖天電影台,https://test.tvbjack.de5.net/proxy/16de21ea82d86ea8
-影迷數位電影台,https://test.tvbjack.de5.net/proxy/d1f69da89424f364
-amc電影台,https://test.tvbjack.de5.net/proxy/5eab010cc9a63bea
-CinemaWorld,https://test.tvbjack.de5.net/proxy/6086cfe7a9756110
-My Cinema Europe HD 我的歐洲電影,https://test.tvbjack.de5.net/proxy/a61a1123d01aa620
-好消息,https://test.tvbjack.de5.net/proxy/c63bca20c1c5404e
-好消息2台,https://test.tvbjack.de5.net/proxy/0942c8f1c22b5656
-大愛二台,https://test.tvbjack.de5.net/proxy/7a5c1d560f6df912
-人間衛視,https://test.tvbjack.de5.net/proxy/67204928c960f36d
-NHK WORLD-JAPAN,https://test.tvbjack.de5.net/proxy/4df5b1fc3d82ab07
-FRANCE24 英文台,https://test.tvbjack.de5.net/proxy/d1bc23f18b746d7b
-半島國際新聞台,https://test.tvbjack.de5.net/proxy/512240a39e5a7c77
-CNBC Asia 財經台,https://test.tvbjack.de5.net/proxy/b65b94f786064ef3
-經典電影台,https://test.tvbjack.de5.net/proxy/417eeb884ff359bf
-經典卡通台,https://test.tvbjack.de5.net/proxy/fa34b08b7616335c
-精選動漫台,https://test.tvbjack.de5.net/proxy/780611a095c0631c
-
-极速bxtv,#genre#
-盗源狗si全家 全家下地狱
-凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
-凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
-TVB翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
-无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
-TVB明珠台,http://pull-vivek.speedws.com/live/aaamingzhu.flv
-TVB娱乐新闻,http://pull-vivek.speedws.com/live/aaaylxw.flv
-PopC电影,http://pull-vivek.speedws.com/live/aaapopc.flv
-美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
-千禧经典,http://pull-vivek.speedws.com/live/aaamqxjd.flv
-SUPER FREE,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
-华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
-亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
-黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
-黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
-戏曲台,http://pull-vivek.speedws.com/live/aaaxqt.flv
-天映频道,http://pull-vivek.speedws.com/live/aaatypd.flv
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
-无线跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv
-HOY 76,http://pull-vivek.speedws.com/live/aaahoy76.flv
-HOY 77,http://pull-vivek.speedws.com/live/aaahoy77.flv
-HOY 78,http://pull-vivek.speedws.com/live/aaahoy78.flv
-ViuTV,http://pull-vivek.speedws.com/live/aaaviutv.flv
-ViuTV6,http://pull-vivek.speedws.com/live/aaaviutv6.flv
-AXN,http://pull-vivek.speedws.com/live/aaaAXN.flv
-ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
-Animax,http://pull-vivek.speedws.com/live/aaaAnimax.flv
 
 极速0618,#genre#
 盗源狗si全家 全家下地狱
@@ -951,6 +724,100 @@ JET综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
 BBC_Earth,http://iptv.4666888.xyz/iptv2A.php?id=53
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
+
+四季台湾,#genre#
+民视,http://119.91.7.169:2026/TW.php?id=民视
+台视,http://119.91.7.169:2026/TW.php?id=台视
+中视,http://119.91.7.169:2026/TW.php?id=中视
+華视,http://119.91.7.169:2026/TW.php?id=華视
+TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
+中天新闻台,http://119.91.7.169:2026/TW.php?id=中天新闻台
+民视新闻台,http://119.91.7.169:2026/TW.php?id=民视新闻台
+台视新闻,http://119.91.7.169:2026/TW.php?id=台视新闻
+中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
+華视新闻,http://119.91.7.169:2026/TW.php?id=華视新闻
+TVBS新闻,http://119.91.7.169:2026/TW.php?id=TVBS新闻
+寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
+寰宇新闻台灣台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台灣台
+非凡新闻台,http://119.91.7.169:2026/TW.php?id=非凡新闻台
+镜视新闻,http://119.91.7.169:2026/TW.php?id=镜视新闻
+東森新闻台,http://119.91.7.169:2026/TW.php?id=東森新闻台
+東森財經新闻台,http://119.91.7.169:2026/TW.php?id=東森財經新闻台
+民视台灣台,http://119.91.7.169:2026/TW.php?id=民视台灣台
+民视第一台,http://119.91.7.169:2026/TW.php?id=民视第一台
+民视綜藝台,http://119.91.7.169:2026/TW.php?id=民视綜藝台
+民视旅遊台,http://119.91.7.169:2026/TW.php?id=民视旅遊台
+民视影劇台,http://119.91.7.169:2026/TW.php?id=民视影劇台
+台视財經,http://119.91.7.169:2026/TW.php?id=台视財經
+八大精彩台,http://119.91.7.169:2026/TW.php?id=八大精彩台
+八大綜藝台,http://119.91.7.169:2026/TW.php?id=八大綜藝台
+TVBS精采台,http://119.91.7.169:2026/TW.php?id=TVBS精采台
+TVBS歡樂台,http://119.91.7.169:2026/TW.php?id=TVBS歡樂台
+中视菁采台,http://119.91.7.169:2026/TW.php?id=中视菁采台
+中视經典台,http://119.91.7.169:2026/TW.php?id=中视經典台
+龍華日韓台,http://119.91.7.169:2026/TW.php?id=龍華日韓台
+龍華偶像台,http://119.91.7.169:2026/TW.php?id=龍華偶像台
+龍華卡通台,http://119.91.7.169:2026/TW.php?id=龍華卡通台
+龍華電影台,http://119.91.7.169:2026/TW.php?id=龍華電影台
+龍華戲劇台,http://119.91.7.169:2026/TW.php?id=龍華戲劇台
+龍華經典台,http://119.91.7.169:2026/TW.php?id=龍華經典台
+龍華洋片台,http://119.91.7.169:2026/TW.php?id=龍華洋片台
+靖天卡通台,http://119.91.7.169:2026/TW.php?id=靖天卡通台
+靖天綜合台,http://119.91.7.169:2026/TW.php?id=靖天綜合台
+靖天日本台,http://119.91.7.169:2026/TW.php?id=靖天日本台
+靖天歡樂台,http://119.91.7.169:2026/TW.php?id=靖天歡樂台
+靖天映畫,http://119.91.7.169:2026/TW.php?id=靖天映畫
+靖天戲劇台,http://119.91.7.169:2026/TW.php?id=靖天戲劇台
+靖天電影台,http://119.91.7.169:2026/TW.php?id=靖天電影台
+靖天育樂台,http://119.91.7.169:2026/TW.php?id=靖天育樂台
+靖天國際台,http://119.91.7.169:2026/TW.php?id=靖天國際台
+靖天資訊台,http://119.91.7.169:2026/TW.php?id=靖天資訊台
+靖洋戲劇台,http://119.91.7.169:2026/TW.php?id=靖洋戲劇台
+靖洋卡通台,http://119.91.7.169:2026/TW.php?id=靖洋卡通台
+愛爾達娛樂台,http://119.91.7.169:2026/TW.php?id=愛爾達娛樂台
+豬哥亮歌廳秀,http://119.91.7.169:2026/TW.php?id=豬哥亮歌廳秀
+亞洲旅遊台,http://119.91.7.169:2026/TW.php?id=亞洲旅遊台
+公视戲劇,http://119.91.7.169:2026/TW.php?id=公视戲劇
+台湾戏剧台,http://119.91.7.169:2026/TW.php?id=台湾戏剧台
+寰宇财经,http://119.91.7.169:2026/TW.php?id=寰宇财经
+中天亞洲台,http://119.91.7.169:2026/TW.php?id=中天亞洲台
+非凡商業台,http://119.91.7.169:2026/TW.php?id=非凡商業台
+第1商業台,http://119.91.7.169:2026/TW.php?id=第1商業台
+采昌影劇台,http://119.91.7.169:2026/TW.php?id=采昌影劇台
+影迷纪实,http://119.91.7.169:2026/TW.php?id=影迷纪实
+影迷數位電影台,http://119.91.7.169:2026/TW.php?id=影迷數位電影台
+视納華仁紀實頻道,http://119.91.7.169:2026/TW.php?id=视納華仁紀實頻道
+博斯魅力台,http://119.91.7.169:2026/TW.php?id=博斯魅力台
+博斯高球台,http://119.91.7.169:2026/TW.php?id=博斯高球台
+博斯高球二台,http://119.91.7.169:2026/TW.php?id=博斯高球二台
+博斯運動一台,http://119.91.7.169:2026/TW.php?id=博斯運動一台
+博斯運動二台,http://119.91.7.169:2026/TW.php?id=博斯運動二台
+博斯網球台,http://119.91.7.169:2026/TW.php?id=博斯網球台
+博斯無限台,http://119.91.7.169:2026/TW.php?id=博斯無限台
+博斯無限二台,http://119.91.7.169:2026/TW.php?id=博斯無限二台
+智林體育台,http://119.91.7.169:2026/TW.php?id=智林體育台
+GINX Esports TV,http://119.91.7.169:2026/TW.php?id=GINX Esports TV
+時尚運動X,http://119.91.7.169:2026/TW.php?id=時尚運動X
+Smart知識台,http://119.91.7.169:2026/TW.php?id=Smart知識台
+ELTV生活英語台,http://119.91.7.169:2026/TW.php?id=ELTV生活英語台
+達文西頻道,http://119.91.7.169:2026/TW.php?id=達文西頻道
+客家電视台,http://119.91.7.169:2026/TW.php?id=客家電视台
+半島國際新闻台,http://119.91.7.169:2026/TW.php?id=半島國際新闻台
+
+凤凰中文 ,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkgBhqPU05spvygdOQVMR-49HfUHqoz3BWysXpY3IcoxaskiJ6HCxNUFEGBHN7J9cHwJfR5qJYrfvRgFxEFVGK3M4e6U8zBBcXQ62XaSa7kUQZiYq5vbmVseM-xEImPe5pGROKnFK232_zwhQVcDCWqJ8GlcYI2uYcWREAj3tlSyt6pugIwt_wjsXByc9jMtMyw.m3u8?u=1756878715
+凤凰资讯 ,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUknI2Qgu2H4THar3t2qm5CfJDW3oVsOfc-rbdZFzD2Lybr1EdctHM-qT90R9UPodL2nKzV7EyOABx0QR2dts6OWSHtsa0zWi7JZHPykhh2gL-1HTjlyHCq6MZDtf1gui0jRYCedTismGdA915iCIozcMoT5gl1u-RHNMhb_AyfsUllhm3olGmi0Hmey4uCeMycw.m3u8?u=1756878715
+凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715
+中视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WMoiY9eSvYzh6ZwnRGmkQCdsjPrEP66LQen6iWL-fzZsqBTXBHKSfZLUc3BwHZ8Q4_yA7qBHgB0punInWfeNbjrSmjvScFFu0zpuxNErW7EIII4-rSdU1ytKDClCBqmsDn2rc00nFckmk5plk1cMpGnBmnI_y3vRoROfc3NhwO-4ZeKxcw_ZE1BegueTZVshjQ.m3u8?u=1756878715
+华视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WKqScQqAKpRWYNyer9iIQlXfEfGOtgn4R3j-fMkdCF3Nrz8a8eWtVPoBarT83pADy0q9_LSk_YemjPXgslCED7SsSF1-vePW6HBPwNMbJZjVrVMIe8TvrqhAfpliA3zm12VWQgXhJALgwvtO8zKq0OSijpJ5tnyd4PioVRKZPphfrGIxVr2eJ06-AOUnncmLLA.m3u8?u=1756878715
+台视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WNuD_XjMeRfmWF04O0RfD3fflKqSgrhOtkHsYB1YQTSvhscjGW3T8rf3CFzfYl4iI8DTTm-5OSvy80YjPqMN_cpyFGhLm-Ruyfmzu_7xrjqT-9GBgHwFLkyNFQzGJWbhmHXJUBlyty0e0vgYH48pATr-8pAVDOl4YVdbbu-ydMBUCi5cNttFMNmRtOWZSykmNQ.m3u8?u=1756878715
+寰宇新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715
+年代新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
+非凡新聞,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
+中天新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
+中天新闻2,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHlqvntyb_qMYtTQWDTd-8qnYQRxMD8JusEP2xFbt0PAD-3AJkKuDbJ8dUc0g08pKJvz63xeLlt0-3wvg4Wley-kiez3zwrIU5LtfUK7kukdRqtcvbuAC9gvTk9Sgkvr_nhCAB_YMHtZ8P2cma_Ljan1DM8p_AJjNCVbPVk0VvQVVaAYMo848YZCeD6f8NMWlUEw.m3u8?u=1756878715
+壹电视新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
+靖天资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atzbtvCRGQ3MDg4rhDwXJUo27Wne7i2ic9WsH8-j4buWEQhUJx9QjfA2z6UKJyuHpLAOOdcN21nHCraYsxN_eYkwHk1rEyYvQUiDqLXEVzJAA4f-hmzVB_5Lwfo6SxCisWIBEG_u3wFU-dg0dSYIr7H1w22lPl_b55igxNT51gLExSH5ldcRagBv1xkvpNk0w2A.m3u8?u=1756878715
+无线新闻台 HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEbph0MZRKP28AR8hSX0shw-kQLvz2ZlL6nyYPGVfN3FduvOO49j8rJSv3lqv06Z81xFF6OU44IdM5xkGsvN3l3E7lJ869oB2qx2kUpO9-t9Vnx89r2fkyUdx_t-s5yfsTcO6xNsYqCI63aI8eD3U_orZF_u25-jN4fzjPbudkZwUqvMnDEWGsGV54PVGH1subd_9bdnPjMgjDmjB4ValZA.m3u8?u=1756878715
 
 抖音直播,#genre#
 水水家猪蹄,https://live.iill.top/douyin/ssjzt777
