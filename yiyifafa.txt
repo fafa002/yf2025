@@ -731,13 +731,6 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 中天新闻台,http://119.91.7.169:2026/TW.php?id=中天新闻台
 中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
 寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
-东森新闻,http://211.72.174.95:8138/0.ts
-民视新闻,http://211.72.174.95:8117/0.ts
-中视HD,http://211.72.174.95:8113/0.ts
-华视HD,http://211.72.174.95:8114/0.ts
-公视,http://211.72.174.95:8116/0.ts
-民视,http://211.72.174.95:8115/0.ts
-台视HD,http://211.72.174.95:8112/0.ts
 
 凤凰中文 ,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkgBhqPU05spvygdOQVMR-49HfUHqoz3BWysXpY3IcoxaskiJ6HCxNUFEGBHN7J9cHwJfR5qJYrfvRgFxEFVGK3M4e6U8zBBcXQ62XaSa7kUQZiYq5vbmVseM-xEImPe5pGROKnFK232_zwhQVcDCWqJ8GlcYI2uYcWREAj3tlSyt6pugIwt_wjsXByc9jMtMyw.m3u8?u=1756878715
 凤凰资讯 ,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUknI2Qgu2H4THar3t2qm5CfJDW3oVsOfc-rbdZFzD2Lybr1EdctHM-qT90R9UPodL2nKzV7EyOABx0QR2dts6OWSHtsa0zWi7JZHPykhh2gL-1HTjlyHCq6MZDtf1gui0jRYCedTismGdA915iCIozcMoT5gl1u-RHNMhb_AyfsUllhm3olGmi0Hmey4uCeMycw.m3u8?u=1756878715
@@ -5192,6 +5185,42 @@ CGTN,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42N
 三沙卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyNC4yMjUuMzUuNTI6NTk5MDEvdHNmaWxlL2xpdmUvMTAwOV8xLm0zdTg/a2V5PXR4aXB0dg==
 少儿动画,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyNC4yMjUuMzUuNTI6NTk5MDEvdHNmaWxlL2xpdmUvMTAwMV8xLm0zdTg/a2V5PXR4aXB0dg==
 江西卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzEyNC4yMjUuMzUuNTI6NTk5MDEvdHNmaWxlL2xpdmUvMDEzOF8xLm0zdTg/a2V5PXR4aXB0dg==
+
+歌华有线,#genre#
+CCTV1,http://119.91.7.169:1777/216.75.129.13.php?id=1
+CCTV2,http://119.91.7.169:1777/216.75.129.13.php?id=2
+CCTV3,http://119.91.7.169:1777/216.75.129.13.php?id=3
+CCTV4,http://119.91.7.169:1777/216.75.129.13.php?id=4
+CCTV5,http://119.91.7.169:1777/216.75.129.13.php?id=5
+CCTV5+,http://119.91.7.169:1777/216.75.129.13.php?id=18
+CCTV6,http://119.91.7.169:1777/216.75.129.13.php?id=6
+CCTV7,http://119.91.7.169:1777/216.75.129.13.php?id=7
+CCTV8,http://119.91.7.169:1777/216.75.129.13.php?id=8
+CCTV9,http://119.91.7.169:1777/216.75.129.13.php?id=9
+CCTV10,http://119.91.7.169:1777/216.75.129.13.php?id=10
+CCTV11,http://119.91.7.169:1777/216.75.129.13.php?id=11
+CCTV12,http://119.91.7.169:1777/216.75.129.13.php?id=12
+CCTV13,http://119.91.7.169:1777/216.75.129.13.php?id=13
+CCTV14,http://119.91.7.169:1777/216.75.129.13.php?id=14
+CCTV15,http://119.91.7.169:1777/216.75.129.13.php?id=15
+CCTV16,http://119.91.7.169:1777/216.75.129.13.php?id=16
+CCTV17,http://119.91.7.169:1777/216.75.129.13.php?id=17
+CCTV4K,http://119.91.7.169:1777/216.75.129.13.php?id=20
+CCTV8K,http://119.91.7.169:1777/216.75.129.13.php?id=21
+重温经典,http://119.91.7.169:1777/216.75.129.13.php?id=19
+CCTV兵器科技,http://119.91.7.169:1777/216.75.129.13.php?id=27
+CCTV第一剧场,http://119.91.7.169:1777/216.75.129.13.php?id=23
+CCTV怀旧剧场,http://119.91.7.169:1777/216.75.129.13.php?id=22
+CCTV风云剧场,http://119.91.7.169:1777/216.75.129.13.php?id=24
+CCTV风云音乐,http://119.91.7.169:1777/216.75.129.13.php?id=25
+CCTV风云足球,http://119.91.7.169:1777/216.75.129.13.php?id=26
+CCTV电视指南,http://119.91.7.169:1777/216.75.129.13.php?id=31
+CCTV女性时尚,http://119.91.7.169:1777/216.75.129.13.php?id=29
+CCTV央视文化精品,http://119.91.7.169:1777/216.75.129.13.php?id=33
+CCTV世界地理,http://119.91.7.169:1777/216.75.129.13.php?id=28
+CCTV高尔夫网球,http://119.91.7.169:1777/216.75.129.13.php?id=32
+CCTV央视台球,http://119.91.7.169:1777/216.75.129.13.php?id=30
+CCTV卫生健康,http://119.91.7.169:1777/216.75.129.13.php?id=34
 
 北京淘系列,#genre#
 北京IPTV淘剧场,http://otangtang.com:38848/udp/239.3.1.95:8001
