@@ -421,6 +421,18 @@ VIUTV,https://cdn10.163189.xyz/stream/163189/viu/
 VIUTVSIX,https://cdn10.163189.xyz/stream/163189/viu6/
 TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
+鳳凰中文台,https://cdn6.163189.xyz/163189/fhzw
+鳳凰資訊台,https://cdn6.163189.xyz/163189/fhzx
+鳳凰香港台,https://cdn6.163189.xyz/163189/fhhk
+無綫新聞台,https://cdn6.163189.xyz/163189/wxxw
+Now新聞台,https://cdn.163189.xyz/163189/now
+娛樂新聞台,https://cdn6.163189.xyz/163189/ylxw
+功夫台,https://cdn6.163189.xyz/163189/yzwx
+8TV,http://cdn6.163189.xyz/163189/8tv
+Channel 5,http://cdn6.163189.xyz/163189/ch5
+Channel 8,http://cdn6.163189.xyz/163189/ch8
+Channel U,http://cdn6.163189.xyz/163189/ch
+
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
 天映经典频道,https://cdn10.163189.xyz/stream/163189/ccm/
 千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
@@ -437,22 +449,6 @@ ASTROAEC,http://o11.163189.xyz/stream/live/aec/
 ASTROQJ,http://o11.163189.xyz/stream/live/qj/
 ASTRO欢喜台,http://o11.163189.xyz/stream/live/hxt/
 IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
-
-翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
-无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-华丽翡翠,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
-TVB Plus,https://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
-明珠台,https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=tvbcaijing_twn
-凤凰卫视,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-VIUTV6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
-VIUTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
-TVB星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-TVB星河,https://smt.1678520.xyz/smt3.2.1.php?id=tvbxinhe_twn
-RTHK32,https://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
-RTHK31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
-HOY78台,https://smt.1678520.xyz/smt3.2.1.php?id=hoycaijing_twn
-千禧经典,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
@@ -526,29 +522,29 @@ HOY77,http://r.jdshipin.com/sFw4S
 咪咕视频4K,http://r.jdshipin.com/ln4xk
 咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
 
-廣東體育4K[GRT-SPORTS 4K],http://67.220.71.199:2347/livehttpplay?channel_id=12028
-TVB亞洲劇臺[TVB Asian Select],http://67.220.71.199:2347/livehttpplay?channel_id=13022
-無線新聞台高清[TVB News ,http://67.220.71.199:2347/livehttpplay?channel_id=20123
-明珠台高清[Pearl HD],http://67.220.71.199:2347/livehttpplay?channel_id=20125
-廣東體育高清[GRT-SPORTS HD],http://67.220.71.199:2347/livehttpplay?channel_id=20130
-ViuTV高清[ViuTV HD],http://67.220.71.199:2347/livehttpplay?channel_id=20131
-ViuTV6高清[ViuTV6 HD],http://67.220.71.199:2347/livehttpplay?channel_id=20132
-嶺南戲曲[Lingnan Drama],http://67.220.71.199:2347/livehttpplay?channel_id=20142
-珠江臺[ZHUJIANG TV],http://67.220.71.199:2347/livehttpplay?channel_id=20144
-HOY TV[HOY TV],http://67.220.71.199:2347/livehttpplay?channel_id=20152
-港臺電視31高清[RTHK TV 31 HD],http://67.220.71.199:2347/livehttpplay?channel_id=20203
-TVB plus 超清,http://67.220.71.199:2347/livehttpplay?channel_id=30023
-無線新聞台超清[TVB News HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30024
-翡翠台超清[Jade HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30025
-明珠台超清[Pearl HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30026
-港臺電視32高清[RTHK TV 32 HD],http://67.220.71.199:2347/livehttpplay?channel_id=30028
+广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
+TVB亞洲劇,http://67.220.71.199:2347/livehttpplay?channel_id=13022
+無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
+廣東體育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
+ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
+ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
+嶺南戲曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
+珠江臺,http://67.220.71.199:2347/livehttpplay?channel_id=20144
+HOY TV,http://67.220.71.199:2347/livehttpplay?channel_id=20152
+港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=20203
+TVB plus,http://67.220.71.199:2347/livehttpplay?channel_id=30023
+無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
+港臺電視32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
 CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
-廣東體育超清[GRT-SPORTS HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30031
-ViuTV HD+,http://67.220.71.199:2347/livehttpplay?channel_id=30032
-ViuTV6 HD+,http://67.220.71.199:2347/livehttpplay?channel_id=30033
-港臺電視31超清[RTHK TV 31 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30066
-港臺電視32超清[RTHK TV 32 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30067
-博斯網球[BoSi Tennis],http://67.220.71.199:2347/livehttpplay?channel_id=42026
+廣東體育超清,http://67.220.71.199:2347/livehttpplay?channel_id=30031
+ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
+ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
+港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
+港臺電視32超清,http://67.220.71.199:2347/livehttpplay?channel_id=30067
+博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 极速港台3,#genre#
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
@@ -649,6 +645,12 @@ ZooMoo,http://tl.061833.xyz/tl/zoomoo
 翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
 無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
+Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
+Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
+Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
+ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
+ViuTVsix,https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
+
 動物星球,https://hls.iill.top/api/dwxq/index.m3u8
 緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
 緯來體育,https://hls.iill.top/api/wlty/index.m3u8
