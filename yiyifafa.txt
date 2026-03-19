@@ -747,6 +747,26 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 靖天资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atzbtvCRGQ3MDg4rhDwXJUo27Wne7i2ic9WsH8-j4buWEQhUJx9QjfA2z6UKJyuHpLAOOdcN21nHCraYsxN_eYkwHk1rEyYvQUiDqLXEVzJAA4f-hmzVB_5Lwfo6SxCisWIBEG_u3wFU-dg0dSYIr7H1w22lPl_b55igxNT51gLExSH5ldcRagBv1xkvpNk0w2A.m3u8?u=1756878715
 无线新闻台 HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEbph0MZRKP28AR8hSX0shw-kQLvz2ZlL6nyYPGVfN3FduvOO49j8rJSv3lqv06Z81xFF6OU44IdM5xkGsvN3l3E7lJ869oB2qx2kUpO9-t9Vnx89r2fkyUdx_t-s5yfsTcO6xNsYqCI63aI8eD3U_orZF_u25-jN4fzjPbudkZwUqvMnDEWGsGV54PVGH1subd_9bdnPjMgjDmjB4ValZA.m3u8?u=1756878715
 
+凤凰香港,http://47.104.163.156:50/台湾.php?id=fhhk
+TVB翡翠台,http://47.104.163.156:50/台湾.php?id=tvbfc
+TVB明珠台,http://47.104.163.156:50/台湾.php?id=tvbmzt
+TVB无线新闻,http://47.104.163.156:50/台湾.php?id=tvbwxxw
+TVB J2,http://47.104.163.156:50/台湾.php?id=tvbj2
+TVB星河,http://47.104.163.156:50/台湾.php?id=tvbxh
+TVB经典,http://47.104.163.156:50/台湾.php?id=tvbjd
+中天综合,http://47.104.163.156:50/台湾.php?id=ztzh
+中天新闻,http://47.104.163.156:50/台湾.php?id=ztxw
+中天娱乐,http://47.104.163.156:50/台湾.php?id=ztyl
+东森综合,http://47.104.163.156:50/台湾.php?id=dszh
+东森新闻,http://47.104.163.156:50/台湾.php?id=dsxw
+东森电影,http://47.104.163.156:50/台湾.php?id=dsdy
+东森戏剧,http://47.104.163.156:50/台湾.php?id=dsxj
+TVBS,http://47.104.163.156:50/台湾.php?id=tvbs
+TVBS新闻,http://47.104.163.156:50/台湾.php?id=tvbsxw
+HBO HD,http://47.104.163.156:50/台湾.php?id=hbohd
+AXN,http://47.104.163.156:50/台湾.php?id=axn
+MTV Live,http://47.104.163.156:50/台湾.php?id=mtv
+
 抖音直播,#genre#
 水水家猪蹄,https://live.iill.top/douyin/ssjzt777
 格格睡醒了,https://live.iill.top/douyin/42347122605
