@@ -414,6 +414,8 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 盗源狗si全家 全家下地狱
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),http://o11.163189.xyz/stream/live/jade/
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
@@ -439,11 +441,6 @@ Channel U,http://cdn6.163189.xyz/163189/ch
 千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
 天映频道,http://o11.163189.xyz/stream/live/typd/
 天映经典频道,http://o11.163189.xyz/stream/live/ccm/
-龙华电影,http://cdn8.veryfast.filegear-sg.me/163189/lhdy
-龙华经典台,http://cdn8.veryfast.filegear-sg.me/163189/lhjd
-龙华偶像,http://cdn8.veryfast.filegear-sg.me/163189/lhox
-龙华日韩台,http://cdn8.veryfast.filegear-sg.me/163189/lhrh
-龙华戏剧,http://cdn8.veryfast.filegear-sg.me/163189/lhxj
 金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
 ASTROAOD,http://o11.163189.xyz/stream/live/aod/
 ASTROAEC,http://o11.163189.xyz/stream/live/aec/
