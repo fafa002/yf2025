@@ -798,6 +798,32 @@ HBO HD,http://47.104.163.156:50/台湾.php?id=hbohd
 AXN,http://47.104.163.156:50/台湾.php?id=axn
 MTV Live,http://47.104.163.156:50/台湾.php?id=mtv
 
+4_1 GOOD TV,http://nctcpc.com:38981/stream/channelid/1032208444?ticket=8de61e8a87491b2960c8d55aa988b8512f7d79e3&profile=pass
+Alian Radio,http://nctcpc.com:38981/stream/channelid/2080019623?ticket=cb7b6d09867526e60f69290410f8c0ece38f2ba1&profile=pass
+TaiwanPlus,http://nctcpc.com:38981/stream/channelid/201856179?ticket=c54aba4f1ec46bf6b1b9aa96edfb0d32c8eaf290&profile=pass
+中視菁采台,http://nctcpc.com:38981/stream/channelid/1285813917?ticket=d61f5031324da74604c2fcda5d4746aa2ef98228&profile=pass
+公視 PTS,http://nctcpc.com:38981/stream/channelid/2131319261?ticket=02ffaa74b6e741aa10cde9d1d79c77b922bbde2a&profile=pass
+原住民族電視台,http://nctcpc.com:38981/stream/channelid/2104211877?ticket=ed53b7695520e155f48f273b078e593bf11a82d7&profile=pass
+台灣電視台,http://nctcpc.com:38981/stream/channelid/1061269580?ticket=4b5c23daf556589608342630f30f493cf60be5f7&profile=pass
+台視新聞台,http://nctcpc.com:38981/stream/channelid/1392529866?ticket=20f21d79d7b692600b382c330c643c4b931e7b44&profile=pass
+台視綜合台,http://nctcpc.com:38981/stream/channelid/1044713361?ticket=dd4bd0d554fa94ade93e032142db13d36f31afd5&profile=pass
+台視財經台,http://nctcpc.com:38981/stream/channelid/509783080?ticket=7b42cacaab69c586551f3c809a172111b5b60c96&profile=pass
+國會頻道2,http://nctcpc.com:38981/stream/channelid/210589410?ticket=ecbb5a2d25ad8302c20f7ca05958618356786b33&profile=pass
+小公視,http://nctcpc.com:38981/stream/channelid/352036757?ticket=348182605f4fcc235bf9ff0d0531e03e9575ef6c&profile=pass
+民視,http://nctcpc.com:38981/stream/channelid/783181249?ticket=58814ce48d9561070cbc5696338c5e7dd416efd0&profile=pass
+民視台灣台,http://nctcpc.com:38981/stream/channelid/1243774991?ticket=0cd0396ef05ea4b12a0def6019dff1e5b1226bd6&profile=pass
+民視新聞台,http://nctcpc.com:38981/stream/channelid/1323392111?ticket=bbf9a9c0dcbbf102cc33bc4dbd71f3a44c9ddc3c&profile=pass
+民視第一台,http://nctcpc.com:38981/stream/channelid/859905572?ticket=44729f776de93e70cd1481ce4f434f15e89f0762&profile=pass
+華視CTS,http://nctcpc.com:38981/stream/channelid/122114341?ticket=ac282ee9ea130e5f72acc9cbe278dfc9549a0118&profile=pass
+華視教育體育文化台,http://nctcpc.com:38981/stream/channelid/1850091127?ticket=d8345832c6ed8d534f5e0096c749532ace397e58&profile=pass
+華視新聞資訊台,http://nctcpc.com:38981/stream/channelid/320561478?ticket=7e0c7d7058d07679306b3fb1abc441f82d6da587&profile=pass
+中視,http://nctcpc.com:38981/stream/channelid/475201081?ticket=15621385187ab928f871153cb33486ee6a8fd47e&profile=pass
+中視新聞台,http://nctcpc.com:38981/stream/channelid/1755015946?ticket=ff77595a86bf2548d5008a04302d5ccf246c4fb2&profile=pass
+中視經典台,http://nctcpc.com:38981/stream/channelid/245334301?ticket=59ddc695b9c4ba39c26c370f54fcb79cacac2f3c&profile=pass
+公視台語台,http://nctcpc.com:38981/stream/channelid/1615968811?ticket=86717a29e28f5da6ecd45719f5808ac2b057e106&profile=pass
+國會頻道1,http://nctcpc.com:38981/stream/channelid/882971982?ticket=e90f48f2bf1b347a44f59e4ea281f096edc3422e&profile=pass
+客家電視,http://nctcpc.com:38981/stream/channelid/1775057655?ticket=71f3dffb24f54c31dc1f01e7b74b7ee253767112&profile=pass
+
 抖音直播,#genre#
 水水家猪蹄,https://live.iill.top/douyin/ssjzt777
 格格睡醒了,https://live.iill.top/douyin/42347122605
