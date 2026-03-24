@@ -652,8 +652,15 @@ Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
 ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 ViuTVsix,https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 
-翡翠4k,http://tk2.hugo.cc.cd/stream/tk2/fct4k/master.m3u8
-无线新闻,http://tk2.hugo.cc.cd/stream/tk2/news/master.m3u8
+翡翠台4K,https://tk2.hugo.cc.cd/stream/tk2/fct4k/master.m3u8
+无线新闻台,https://tk2.hugo.cc.cd/stream/tk2/news/master.m3u8
+翡翠台1080P,https://tk2.hugo.cc.cd/stream/tk2/jade/master.m3u8
+TVBplus,https://tk2.hugo.cc.cd/stream/tk2/plus/master.m3u8
+明珠台,https://tk2.hugo.cc.cd/stream/tk2/pearl/master.m3u8
+
+凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
+凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
+凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
 
 動物星球,https://hls.iill.top/api/dwxq/index.m3u8
 緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
@@ -819,6 +826,30 @@ TaiwanPlus,http://nctcpc.com:38981/stream/channelid/201856179?ticket=c54aba4f1ec
 公視台語台,http://nctcpc.com:38981/stream/channelid/1615968811?ticket=86717a29e28f5da6ecd45719f5808ac2b057e106&profile=pass
 國會頻道1,http://nctcpc.com:38981/stream/channelid/882971982?ticket=e90f48f2bf1b347a44f59e4ea281f096edc3422e&profile=pass
 客家電視,http://nctcpc.com:38981/stream/channelid/1775057655?ticket=71f3dffb24f54c31dc1f01e7b74b7ee253767112&profile=pass
+
+TaiwanPlus,http://114.42.42.203:3008/stream/channelid/23?profile=pass
+中視,http://114.42.42.203:3008/stream/channelid/5?profile=pass
+中視新聞台,http://114.42.42.203:3008/stream/channelid/7?profile=pass
+中視經典台,http://114.42.42.203:3008/stream/channelid/6?profile=pass
+中視菁采台,http://114.42.42.203:3008/stream/channelid/8?profile=pass
+公視 PTS,http://114.42.42.203:3008/stream/channelid/19?profile=pass
+公視3台 PTS3,http://114.42.42.203:3008/stream/channelid/1?profile=pass
+公視台語台,http://114.42.42.203:3008/stream/channelid/18?profile=pass
+原住民族電視台,http://114.42.42.203:3008/stream/channelid/3?profile=pass
+台灣電視台,http://114.42.42.203:3008/stream/channelid/10?profile=pass
+台視新聞台,http://114.42.42.203:3008/stream/channelid/12?profile=pass
+台視綜合台,http://114.42.42.203:3008/stream/channelid/9?profile=pass
+台視財經台,http://114.42.42.203:3008/stream/channelid/11?profile=pass
+國會頻道1,http://114.42.42.203:3008/stream/channelid/13?profile=pass
+國會頻道2,http://114.42.42.203:3008/stream/channelid/14?profile=pass
+客家電視,http://114.42.42.203:3008/stream/channelid/2?profile=pass
+民視,http://114.42.42.203:3008/stream/channelid/4?profile=pass
+民視台灣台,http://114.42.42.203:3008/stream/channelid/22?profile=pass
+民視新聞台,http://114.42.42.203:3008/stream/channelid/20?profile=pass
+民視第一台,http://114.42.42.203:3008/stream/channelid/21?profile=pass
+華視CTS,http://114.42.42.203:3008/stream/channelid/15?profile=pass
+華視教育體育文化台,http://114.42.42.203:3008/stream/channelid/17?profile=pass
+華視新聞資訊台,http://114.42.42.203:3008/stream/channelid/16?profile=pass
 
 抖音直播,#genre#
 水水家猪蹄,https://live.iill.top/douyin/ssjzt777
