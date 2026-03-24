@@ -652,6 +652,9 @@ Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
 ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
 ViuTVsix,https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 
+翡翠4k,http://tk2.hugo.cc.cd/stream/tk2/fct4k/master.m3u8
+无线新闻,http://tk2.hugo.cc.cd/stream/tk2/news/master.m3u8
+
 動物星球,https://hls.iill.top/api/dwxq/index.m3u8
 緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
 緯來體育,https://hls.iill.top/api/wlty/index.m3u8
@@ -666,13 +669,6 @@ HBO,https://hls.iill.top/api/HBO/index.m3u8
 HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
 HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
 HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
-
-NOW星影,http://rihou.cc:555/tv/hktv%2Ftb19nowxy56
-NOW爆谷,http://rihou.cc:555/tv/hktv%2Ftb19nowbg56
-HUB如意台,http://rihou.cc:555/tv/hktv%2Ftbbhubjy56
-HUB娱家台,http://rihou.cc:555/tv/hktv%2Ftb19tvbzt56
-HUB都会台,http://rihou.cc:555/tv/hktv%2Fbtw856356
-曼迪日本台,http://rihou.cc:555/tv/hktv%2Fbtw856456
 
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
