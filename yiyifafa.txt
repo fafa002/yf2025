@@ -448,6 +448,43 @@ ASTROQJ,http://o11.163189.xyz/stream/live/qj/
 ASTRO欢喜台,http://o11.163189.xyz/stream/live/hxt/
 IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
 
+HOY国际财经台,https://cdn11.163189.xyz/163189/2c86601a7180416e
+HOY剧集台,https://cdn11.163189.xyz/163189/c4df21397505587b
+HOY生活台,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
+HOY怪谈台,https://cdn11.163189.xyz/163189/35f8613e99c59724
+HOY体育台,https://cdn11.163189.xyz/163189/19256090154aa9e9
+CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
+CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
+重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
+广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
+广州南国都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
+五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
+采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天电影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
+amc电影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+TVB Plus,https://smt.1678520.xyz/163189/18e96648d4420d9e
+纬来电影台,https://smt.1678520.xyz/163189/145487bee05856fc
+纬来戏剧台,https://smt.1678520.xyz/163189/3586bd154f561caa
+纬来体育台,https://smt.1678520.xyz/163189/286f8eb30448a8e8
+龙祥时代,https://smt.1678520.xyz/163189/76e7d8326be4c1bb
+东森电影,https://smt.1678520.xyz/163189/a2a1ea789e237e18
+东森戏剧,https://smt.1678520.xyz/163189/2824421ea53c4891
+东森洋片,https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
+
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
