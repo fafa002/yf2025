@@ -5603,14 +5603,14 @@ B站JJ斗地主,https://live.iill.top/bilibili/22021983
 7,https://www.goodiptv.club/douyu/7537296
 8,https://www.goodiptv.club/douyu/1487654
 9,https://www.goodiptv.club/douyu/747764
-10,https://www.goodiptv.club/douyu/11878141
+72家大院,https://www.goodiptv.club/douyu/11878141
 11,https://www.goodiptv.club/douyu/74374
 12,https://www.goodiptv.club/douyu/12817608
 13,https://www.goodiptv.club/douyu/12816797
-14,https://www.goodiptv.club/douyu/1226741
+粤语片,https://www.goodiptv.club/douyu/1226741
 15,https://www.goodiptv.club/douyu/3439096
 16,https://www.goodiptv.club/douyu/5908256
-17,https://www.goodiptv.club/douyu/131977
+韩国跑男,https://www.goodiptv.club/douyu/131977
 18,https://www.goodiptv.club/douyu/922564
 19,https://www.goodiptv.club/douyu/5875025
 20,https://www.goodiptv.club/douyu/299854
@@ -5629,7 +5629,7 @@ B站JJ斗地主,https://live.iill.top/bilibili/22021983
 33,https://www.goodiptv.club/douyu/12128227
 34,https://www.goodiptv.club/douyu/12655369
 35,https://www.goodiptv.club/douyu/5261342
-36,https://www.goodiptv.club/douyu/4246519
+邵氏,https://www.goodiptv.club/douyu/4246519
 37,https://www.goodiptv.club/douyu/7812810
 38,https://www.goodiptv.club/douyu/12183882
 39,https://www.goodiptv.club/douyu/1006179
@@ -5681,6 +5681,8 @@ B站JJ斗地主,https://live.iill.top/bilibili/22021983
 85,https://www.goodiptv.club/douyu/9388931
 86,https://www.goodiptv.club/douyu/1770806
 87,https://www.goodiptv.club/douyu/10308234
+88,https://www.goodiptv.club/douyu/3870925
+89,https://www.goodiptv.club/douyu/11849873
 
 YY轮播,#genre#
 超精彩武打场景,https://live.iill.top/yy/1354936131
