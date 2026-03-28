@@ -529,57 +529,30 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 台视,http://ip1.xiaomidadi.cn:8088/live/dscE7IeEK7vMQFZY/hls.m3u8
 
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
-无线新闻,http://r.jdshipin.com/CkuBd
-明珠台,http://r.jdshipin.com/ZQ4kN
-TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,http://r.jdshipin.com/Nr5jq
-TVB星河,http://r.jdshipin.com/Voac4
-TVB星河,http://r.jdshipin.com/sXuuD
-华丽翡翠台,http://r.jdshipin.com/thuYX
-ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://r.jdshipin.com/TcKr2
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://r.jdshipin.com/NfC0f
-澳视澳门,http://r.jdshipin.com/n2YZI
-HOY77,http://r.jdshipin.com/sFw4S
-澳视澳门,http://r.jdshipin.com/n2YZI
-澳视卫星,http://r.jdshipin.com/QFhCq
-广东珠江,http://r.jdshipin.com/sE5vO
-广东体育,http://r.jdshipin.com/LiYdg
-广州综合,http://r.jdshipin.com/iR6Gq
-广州南国都市,http://r.jdshipin.com/nWaZO
-广州综合,http://r.jdshipin.com/snhya
-海峡卫视,http://r.jdshipin.com/WtYt3
-咪咕视频4K,http://r.jdshipin.com/ln4xk
-咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
-
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
-TVB亞洲劇,http://67.220.71.199:2347/livehttpplay?channel_id=13022
-無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
-廣東體育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
-ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
-ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
-嶺南戲曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
-珠江臺,http://67.220.71.199:2347/livehttpplay?channel_id=20144
-HOY TV,http://67.220.71.199:2347/livehttpplay?channel_id=20152
-港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=20203
-TVB plus,http://67.220.71.199:2347/livehttpplay?channel_id=30023
-無線新聞台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
+无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
+翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=20126
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
+明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
 明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
-港臺電視32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
+TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
+MYTV SUPER 1,http://67.220.71.199:2347/livehttpplay?channel_id=13022
+HOY 77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
+VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
+VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
+VIUTV 6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
+VIUTV 6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
+RTHK 31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=20203
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
+RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
 CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
-廣東體育超清,http://67.220.71.199:2347/livehttpplay?channel_id=30031
-ViuTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
-ViuTV6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
-港臺電視31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
-港臺電視32超清,http://67.220.71.199:2347/livehttpplay?channel_id=30067
-博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
+广东珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
+广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
+广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
+广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=30031
+广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
+博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34901
 
 极速港台3,#genre#
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
@@ -921,6 +894,17 @@ TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
 中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
 寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
 
+无线新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbnews
+寰宇新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=globalnews
+中天新聞,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ctinewshd
+TVBS,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbshd
+TVBS新闻台,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=tvbsnewshd
+东森新闻,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=ebcnewshd
+RTHK 31,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk31hd
+RTHK 32,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk32hd
+RTHK 34,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk34hd
+RTHK 35,http://huhu11.a1.luyouxia.net:26894/play/HK-MY/proxy.php?id=rthk35hd
+
 凤凰香港,http://47.104.163.156:50/台湾.php?id=fhhk
 TVB翡翠台,http://47.104.163.156:50/台湾.php?id=tvbfc
 TVB明珠台,http://47.104.163.156:50/台湾.php?id=tvbmzt
@@ -931,6 +915,7 @@ TVB经典,http://47.104.163.156:50/台湾.php?id=tvbjd
 中天综合,http://47.104.163.156:50/台湾.php?id=ztzh
 中天新闻,http://47.104.163.156:50/台湾.php?id=ztxw
 中天娱乐,http://47.104.163.156:50/台湾.php?id=ztyl
+中天亚洲,http://47.104.163.156:50/台湾.php?id=ztyz
 东森综合,http://47.104.163.156:50/台湾.php?id=dszh
 东森新闻,http://47.104.163.156:50/台湾.php?id=dsxw
 东森电影,http://47.104.163.156:50/台湾.php?id=dsdy
