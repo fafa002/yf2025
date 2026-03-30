@@ -389,14 +389,12 @@ QQ群,1
 永久免费,3
 谨防被骗,4
 如果看不了,6
+卡顿切换EXO解码,8
 换安卓9盒子,7
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 北京卫视4K,https://bj.luzong.cc.cd/bjws4k
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
-湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
-江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
-北京卫视4K,http://8.138.7.223/tv/btime.php?id=bjws4k
 东方卫视4K,http://go.bkpcp.top/mg/dfws
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,http://go.bkpcp.top/mg/zjws
