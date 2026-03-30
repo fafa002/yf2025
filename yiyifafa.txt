@@ -1229,9 +1229,6 @@ GRTN生活频道,https://gd.luzong.cc.cd/shpd
 广东民生,http://go.bkpcp.top/mg/gdms
 广东新闻,http://go.bkpcp.top/mg/gdxw
 
-广东珠江,http://8.138.7.223/tv/gdzj.m3u8
-大湾区卫视,http://8.138.7.223/tv/dwq.m3u8
-
 广东民生(晚7点),http://tv1288.xyz/douyin.php?type=rid&rid=gdtvdvxc
 广东珠江(晚6点),http://tv1288.xyz/douyin.php?type=rid&rid=gdtvzjpd
 
