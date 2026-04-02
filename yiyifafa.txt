@@ -533,57 +533,6 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34901
 
-极速港台3,#genre#,DE=3
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
-美亚电影,http://74.91.26.218:82/live/mydy.m3u8
-中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
-美亚电影,http://74.91.26.218:82/live/mydy.m3u8
-天映频道,http://74.91.26.218:82/live/typd.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
-NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
-NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
-中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
-Z频道,http://74.91.26.218:82/live/twz.m3u8
-中视,http://74.91.26.218:82/live/ctv.m3u8
-中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
-中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
-中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
-台视,http://74.91.26.218:82/live/ttv.m3u8
-台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
-台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
-台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
-华视,http://74.91.26.218:82/live/cts.m3u8
-华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
-华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
-民视,http://74.91.26.218:82/live/ftv.m3u8
-民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
-民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
-民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
-公视,http://74.91.26.218:82/live/pts.m3u8
-公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
-小公视,http://74.91.26.218:82/live/ptsse.m3u8
-CCTV1,http://74.91.26.218:82/live/cctv4.m3u8
-CCTV6,http://74.91.26.218:82/live/zjws.m3u8
-CCTV8,http://74.91.26.218:82/live/bjws.m3u8
-CCTV1,http://74.91.26.218:82/live/dfws.m3u8
-CCTV6,http://74.91.26.218:82/live/cctv6.m3u8
-CCTV8,http://74.91.26.218:82/live/cctv8.m3u8
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
-东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
-东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
-东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
-东森 AMERICA,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森 AMERICA,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-东森 AMERICA,http://38.64.72.148:80/hls/modn/list/2015/playlist.m3u8
-东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
-
 极速0618,#genre#,DE=3
 盗源狗si全家 全家下地狱
 鳳凰中文,http://j.s.bkpcp.top/js/fhzw
@@ -931,7 +880,163 @@ TaiwanPlus,http://nctcpc.com:38981/stream/channelid/201856179?ticket=c54aba4f1ec
 國會頻道1,http://nctcpc.com:38981/stream/channelid/882971982?ticket=e90f48f2bf1b347a44f59e4ea281f096edc3422e&profile=pass
 客家電視,http://nctcpc.com:38981/stream/channelid/1775057655?ticket=71f3dffb24f54c31dc1f01e7b74b7ee253767112&profile=pass
 
-国外UK,#genre#,DE=3
+国外UK1,#genre#,DE=3
+COZI TV SD,http://nor1live.win:80/livehttpplay?channel_id=23000
+TELEXITOS SD,http://nor1live.win:80/livehttpplay?channel_id=23001
+TELEMUNDO WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23002
+TELEMUNDO EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23003
+TELEMUNDO MOUNTAIN HD,http://nor1live.win:80/livehttpplay?channel_id=23004
+GOLF CHANNEL HD,http://nor1live.win:80/livehttpplay?channel_id=23005
+UNIVERSAL KIDS HD,http://nor1live.win:80/livehttpplay?channel_id=23006
+TV ONE HD,http://nor1live.win:80/livehttpplay?channel_id=23007
+E! WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23008
+MTV WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23009
+NICK EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23010
+MTV HITS HD,http://nor1live.win:80/livehttpplay?channel_id=23011
+PARAMOUND  WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23012
+PARAMOUND CANADÁ HD,http://nor1live.win:80/livehttpplay?channel_id=23013
+LOGO EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23014
+CMT WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23015
+AFN prime pacific HD ,http://nor1live.win:80/livehttpplay?channel_id=23016
+AFN family HD,http://nor1live.win:80/livehttpplay?channel_id=23017
+AFN movie HD,http://nor1live.win:80/livehttpplay?channel_id=23018
+AFN spectrum HD ,http://nor1live.win:80/livehttpplay?channel_id=23019
+AFN sports HD,http://nor1live.win:80/livehttpplay?channel_id=23020
+AFN sports 2 HD,http://nor1live.win:80/livehttpplay?channel_id=23021
+LAS ESTRELLAS HD,http://nor1live.win:80/livehttpplay?channel_id=23022
+LAS ESTRELLAS HD -1HORA,http://nor1live.win:80/livehttpplay?channel_id=23023
+LAS ESTRELLAS HD -2HORA,http://nor1live.win:80/livehttpplay?channel_id=23024
+CANAL 5 HD,http://nor1live.win:80/livehttpplay?channel_id=23025
+CANAL 5 HD -1 HORA ,http://nor1live.win:80/livehttpplay?channel_id=23026
+NU9VE HD,http://nor1live.win:80/livehttpplay?channel_id=23027
+AZTECA1 HD,http://nor1live.win:80/livehttpplay?channel_id=23028
+AZTECA1 HD -HORAS ,http://nor1live.win:80/livehttpplay?channel_id=23029
+ADN 40 HD,http://nor1live.win:80/livehttpplay?channel_id=23030
+a mas+HD ,http://nor1live.win:80/livehttpplay?channel_id=23031
+SKYSPORTS LA LIGA(DEMO),http://nor1live.win:80/livehttpplay?channel_id=23032
+FutTV HD ,http://nor1live.win:80/livehttpplay?channel_id=23033
+truTV HD,http://nor1live.win:80/livehttpplay?channel_id=23034
+DREAMWORKS HD,http://nor1live.win:80/livehttpplay?channel_id=23035
+GOLDEN HD,http://nor1live.win:80/livehttpplay?channel_id=23036
+Europa/europa HD,http://nor1live.win:80/livehttpplay?channel_id=23037
+GOLDEN EDGE HD,http://nor1live.win:80/livehttpplay?channel_id=23038
+GOLDEN PREMIER HD,http://nor1live.win:80/livehttpplay?channel_id=23039
+ÚNICABLE HD,http://nor1live.win:80/livehttpplay?channel_id=23040
+BANDAMAX HD,http://nor1live.win:80/livehttpplay?channel_id=23041
+TELEMUNDO HD,http://nor1live.win:80/livehttpplay?channel_id=23042
+DISTRITO COMEDIA HD,http://nor1live.win:80/livehttpplay?channel_id=23043
+NICK JR HD,http://nor1live.win:80/livehttpplay?channel_id=23044
+CARTOON NETWORK HD,http://nor1live.win:80/livehttpplay?channel_id=23045
+GOLDEN HD,http://nor1live.win:80/livehttpplay?channel_id=23046
+GOLDEN EDGE HD ,http://nor1live.win:80/livehttpplay?channel_id=23047
+TUDN MX HD,http://nor1live.win:80/livehttpplay?channel_id=23048
+HBO FAMILY HD,http://nor1live.win:80/livehttpplay?channel_id=23049
+UNIVERSAL PREMIER HD,http://nor1live.win:80/livehttpplay?channel_id=23050
+UNIVERSAL CINEMA HD,http://nor1live.win:80/livehttpplay?channel_id=23051
+UNIVERSAL CRIME HD,http://nor1live.win:80/livehttpplay?channel_id=23052
+UNIVERSAL REALITYKIT HD,http://nor1live.win:80/livehttpplay?channel_id=23053
+FOX PREMIUM HD,http://nor1live.win:80/livehttpplay?channel_id=23054
+FOX SPORTS 3 HD,http://nor1live.win:80/livehttpplay?channel_id=23055
+GOLTV HD ,http://nor1live.win:80/livehttpplay?channel_id=23056
+Hallmark East HD ,http://nor1live.win:80/livehttpplay?channel_id=23057
+Hallmark West HD ,http://nor1live.win:80/livehttpplay?channel_id=23058
+Hallmark Movie East HD,http://nor1live.win:80/livehttpplay?channel_id=23059
+Hallmark Movie west HD,http://nor1live.win:80/livehttpplay?channel_id=23060
+Hallmark Drama HD ,http://nor1live.win:80/livehttpplay?channel_id=23061
+BET Caribe HD,http://nor1live.win:80/livehttpplay?channel_id=23062
+BET Canadá HD ,http://nor1live.win:80/livehttpplay?channel_id=23063
+BET East HD ,http://nor1live.win:80/livehttpplay?channel_id=23064
+BET Her Caribe HD,http://nor1live.win:80/livehttpplay?channel_id=23065
+BET BET West HD,http://nor1live.win:80/livehttpplay?channel_id=23066
+OXYGEN West HD ,http://nor1live.win:80/livehttpplay?channel_id=23067
+OXYGEN EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23068
+USA HD,http://nor1live.win:80/livehttpplay?channel_id=23069
+BRAVO HD ,http://nor1live.win:80/livehttpplay?channel_id=23070
+SyFy East HD,http://nor1live.win:80/livehttpplay?channel_id=23071
+MGM+HD,http://nor1live.win:80/livehttpplay?channel_id=23072
+MGM+WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23073
+MGM+HITS HD,http://nor1live.win:80/livehttpplay?channel_id=23074
+MGM+MARQUE HD,http://nor1live.win:80/livehttpplay?channel_id=23075
+MGM+DRIVE HD,http://nor1live.win:80/livehttpplay?channel_id=23076
+CMT EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23077
+MTV EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23078
+NICK WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23079
+VH1 WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23080
+MTV LIVE HD ,http://nor1live.win:80/livehttpplay?channel_id=23081
+PARAMOUND EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23082
+COMEDY WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23083
+REVOLT HD,http://nor1live.win:80/livehttpplay?channel_id=23084
+Story HD ,http://nor1live.win:80/livehttpplay?channel_id=23085
+UNIVERSO EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23086
+UNIVERSO WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23087
+UNIVISION EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23088
+UNIVISION WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23089
+GALAVISION EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23090
+GALAVISION WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23091
+UNIVISION TUDN USA HD,http://nor1live.win:80/livehttpplay?channel_id=23092
+UNIMAS EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23093
+UNIMAS WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23094
+Pac-12 Network HD,http://nor1live.win:80/livehttpplay?channel_id=23095
+MAVTV HD WEST,http://nor1live.win:80/livehttpplay?channel_id=23096
+HGTV HD WEST,http://nor1live.win:80/livehttpplay?channel_id=23097
+FOOD NETWORK HD WEST,http://nor1live.win:80/livehttpplay?channel_id=23098
+TRAVEL CHANNEL HD WEST,http://nor1live.win:80/livehttpplay?channel_id=23099
+GREAT AMERICAN FAMILY WEST,http://nor1live.win:80/livehttpplay?channel_id=23100
+MAGNOLIA HD WES,http://nor1live.win:80/livehttpplay?channel_id=23101
+Newsnation (WGNA) HD,http://nor1live.win:80/livehttpplay?channel_id=23102
+MLB NETWORK HD ,http://nor1live.win:80/livehttpplay?channel_id=23103
+A&amp;E HD ,http://nor1live.win:80/livehttpplay?channel_id=23104
+HISTORY EAST USA HD,http://nor1live.win:80/livehttpplay?channel_id=23105
+LIFETIME EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23106
+LMN HD,http://nor1live.win:80/livehttpplay?channel_id=23107
+fyi HD ,http://nor1live.win:80/livehttpplay?channel_id=23108
+Vice HD ,http://nor1live.win:80/livehttpplay?channel_id=23109
+bravo HD ,http://nor1live.win:80/livehttpplay?channel_id=23110
+SyFy  HD,http://nor1live.win:80/livehttpplay?channel_id=23111
+USA HD ,http://nor1live.win:80/livehttpplay?channel_id=23112
+E! EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23113
+TV ONE HD,http://nor1live.win:80/livehttpplay?channel_id=23114
+CNBC HD ,http://nor1live.win:80/livehttpplay?channel_id=23115
+MSNBC HD,http://nor1live.win:80/livehttpplay?channel_id=23116
+CNBC WORLD HD ,http://nor1live.win:80/livehttpplay?channel_id=23117
+PARAMOUND CARIBE HD,http://nor1live.win:80/livehttpplay?channel_id=23118
+COMEDY CARIBE HD,http://nor1live.win:80/livehttpplay?channel_id=23119
+ESPN HD USA,http://nor1live.win:80/livehttpplay?channel_id=23120
+ESPN NEWS USA,http://nor1live.win:80/livehttpplay?channel_id=23121
+ESPN U USA,http://nor1live.win:80/livehttpplay?channel_id=23122
+ESPN 2 USA,http://nor1live.win:80/livehttpplay?channel_id=23123
+NFL USA ,http://nor1live.win:80/livehttpplay?channel_id=23124
+MLB USA ,http://nor1live.win:80/livehttpplay?channel_id=23125
+MAVTV USA ,http://nor1live.win:80/livehttpplay?channel_id=23126
+NHL USA ,http://nor1live.win:80/livehttpplay?channel_id=23127
+NBA USA ,http://nor1live.win:80/livehttpplay?channel_id=23128
+TENNIS USA ,http://nor1live.win:80/livehttpplay?channel_id=23129
+GOLF USA ,http://nor1live.win:80/livehttpplay?channel_id=23130
+FS1 FOXSPORTS 1 US,http://nor1live.win:80/livehttpplay?channel_id=23131
+CBS SPORTS USA,http://nor1live.win:80/livehttpplay?channel_id=23132
+TNT USA ,http://nor1live.win:80/livehttpplay?channel_id=23133
+FOX DEPORTES USA,http://nor1live.win:80/livehttpplay?channel_id=23134
+ESPN DEPORTES USA,http://nor1live.win:80/livehttpplay?channel_id=23135
+FANDUEL TV USA ,http://nor1live.win:80/livehttpplay?channel_id=23136
+PURSUIT CHANNEL ,http://nor1live.win:80/livehttpplay?channel_id=23137
+OUTDOOR CHANNEL ,http://nor1live.win:80/livehttpplay?channel_id=23138
+BIG NETWORK USA,http://nor1live.win:80/livehttpplay?channel_id=23139
+ESPN NETWORK USA,http://nor1live.win:80/livehttpplay?channel_id=23140
+ESPN ACCN USA ,http://nor1live.win:80/livehttpplay?channel_id=23141
+FS2 FOXSPORTS 2US,http://nor1live.win:80/livehttpplay?channel_id=23142
+NXT SPORTS USA,http://nor1live.win:80/livehttpplay?channel_id=23143
+NBC SPORTS BOSTON  USA ,http://nor1live.win:80/livehttpplay?channel_id=23144
+YES HD USA ,http://nor1live.win:80/livehttpplay?channel_id=23145
+MSG HD USA ,http://nor1live.win:80/livehttpplay?channel_id=23146
+MSG +HD USA ,http://nor1live.win:80/livehttpplay?channel_id=23147
+SNY (SPORTNET NY),http://nor1live.win:80/livehttpplay?channel_id=23148
+NBC SPORTS CHICAGO  USA ,http://nor1live.win:80/livehttpplay?channel_id=23149
+MOTORTREND USA ,http://nor1live.win:80/livehttpplay?channel_id=23150
+AXSTV USA ,http://nor1live.win:80/livehttpplay?channel_id=23151
+Olimpics Extra 1 HD ,http://nor1live.win:80/livehttpplay?channel_id=23152
+Olimpics Extra 2 HD ,http://nor1live.win:80/livehttpplay?channel_id=23153
+
+国外UK2,#genre#,DE=3
 RT RUSIA TODAY HD,http://nor2live.win:80/livehttpplay?channel_id=16500
 URONEWS HD,http://nor2live.win:80/livehttpplay?channel_id=16501
 UROCHANNEL HD,http://nor2live.win:80/livehttpplay?channel_id=16502
@@ -1060,6 +1165,72 @@ KANAL D HD,http://nor2live.win:80/livehttpplay?channel_id=23260
 KANAL DRAMA USA HD ,http://nor2live.win:80/livehttpplay?channel_id=23261
 LAS USA HD,http://nor2live.win:80/livehttpplay?channel_id=23262
 AYM SPORTS ,http://nor2live.win:80/livehttpplay?channel_id=23263
+
+国外UK3,#genre#,DE=3
+AZTECA 1 HD ,http://nor3live.win:80/livehttpplay?channel_id=23300
+ESTRELLAS  HD,http://nor3live.win:80/livehttpplay?channel_id=23301
+IMAGEN HD,http://nor3live.win:80/livehttpplay?channel_id=23302
+CANAL5 HD,http://nor3live.win:80/livehttpplay?channel_id=23303
+AZTECA 7 HD,http://nor3live.win:80/livehttpplay?channel_id=23304
+STAR CHANNEL HD,http://nor3live.win:80/livehttpplay?channel_id=23305
+UNIVERSAL CHANEL HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23306
+SONY HD CENTRA,http://nor3live.win:80/livehttpplay?channel_id=23307
+WB HD,http://nor3live.win:80/livehttpplay?channel_id=23308
+AMC HD,http://nor3live.win:80/livehttpplay?channel_id=23309
+A3S SERIES HD,http://nor3live.win:80/livehttpplay?channel_id=23310
+AXN HD,http://nor3live.win:80/livehttpplay?channel_id=23311
+FX CENTRAL HD,http://nor3live.win:80/livehttpplay?channel_id=23312
+SPACE HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23313
+USA HD,http://nor3live.win:80/livehttpplay?channel_id=23314
+AE HD,http://nor3live.win:80/livehttpplay?channel_id=23315
+Investigation Discovery (ID),http://nor3live.win:80/livehttpplay?channel_id=23316
+Discovery HH HD,http://nor3live.win:80/livehttpplay?channel_id=23317
+Discovery World HD,http://nor3live.win:80/livehttpplay?channel_id=23318
+TLC DISCOVERY HD,http://nor3live.win:80/livehttpplay?channel_id=23319
+GOURMET HD,http://nor3live.win:80/livehttpplay?channel_id=23320
+Hola TV HD,http://nor3live.win:80/livehttpplay?channel_id=23321
+E! HD,http://nor3live.win:80/livehttpplay?channel_id=23322
+Comedia central HD,http://nor3live.win:80/livehttpplay?channel_id=23323
+MTV HD,http://nor3live.win:80/livehttpplay?channel_id=23324
+MTV LIVE HD,http://nor3live.win:80/livehttpplay?channel_id=23325
+DISNEY CHANNEL HD,http://nor3live.win:80/livehttpplay?channel_id=23326
+DISNEY JUNIOR,http://nor3live.win:80/livehttpplay?channel_id=23327
+TEEN NICK HD,http://nor3live.win:80/livehttpplay?channel_id=23328
+Discovery Kids HD,http://nor3live.win:80/livehttpplay?channel_id=23329
+Baby TV,http://nor3live.win:80/livehttpplay?channel_id=23330
+Cartoonito HD,http://nor3live.win:80/livehttpplay?channel_id=23331
+Discovery HD,http://nor3live.win:80/livehttpplay?channel_id=23332
+Discovery Theater HD,http://nor3live.win:80/livehttpplay?channel_id=23333
+NETGEO HD,http://nor3live.win:80/livehttpplay?channel_id=23334
+Animal planet HD,http://nor3live.win:80/livehttpplay?channel_id=23335
+HISTORY HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23336
+TYC SPORTS HD,http://nor3live.win:80/livehttpplay?channel_id=23337
+TELEMUNDO HD,http://nor3live.win:80/livehttpplay?channel_id=23338
+ESPN 2 HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23339
+ESPN4 HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23340
+TRACE SPORTS HD,http://nor3live.win:80/livehttpplay?channel_id=23341
+ESPN CENTRAL HD,http://nor3live.win:80/livehttpplay?channel_id=23342
+GOLF HD,http://nor3live.win:80/livehttpplay?channel_id=23343
+ESPN 3 HD,http://nor3live.win:80/livehttpplay?channel_id=23344
+Discovery Turbo HD,http://nor3live.win:80/livehttpplay?channel_id=23345
+NBA HD,http://nor3live.win:80/livehttpplay?channel_id=23346
+NFL NETWORK HD,http://nor3live.win:80/livehttpplay?channel_id=23347
+TNT HD,http://nor3live.win:80/livehttpplay?channel_id=23348
+MC HD,http://nor3live.win:80/livehttpplay?channel_id=23349
+Cinemax HD,http://nor3live.win:80/livehttpplay?channel_id=23350
+MULTIPREMIER HD,http://nor3live.win:80/livehttpplay?channel_id=23351
+CINECANAL CENTRAL HD,http://nor3live.win:80/livehttpplay?channel_id=23352
+FilmArts HD,http://nor3live.win:80/livehttpplay?channel_id=23353
+Studio Universal HD,http://nor3live.win:80/livehttpplay?channel_id=23354
+PARAMOINT CHANNEL HD,http://nor3live.win:80/livehttpplay?channel_id=23355
+HBO HD,http://nor3live.win:80/livehttpplay?channel_id=23356
+HBO 2 HD,http://nor3live.win:80/livehttpplay?channel_id=23357
+HBO FAMILY HD,http://nor3live.win:80/livehttpplay?channel_id=23358
+HBO PLUS HD,http://nor3live.win:80/livehttpplay?channel_id=23359
+HBO SIGNATURE HD,http://nor3live.win:80/livehttpplay?channel_id=23360
+HBO MUNDI HD,http://nor3live.win:80/livehttpplay?channel_id=23361
+HBO POP HD,http://nor3live.win:80/livehttpplay?channel_id=23362
+HBO EXTREME HD,http://nor3live.win:80/livehttpplay?channel_id=23363
 
 抖音直播,#genre#,DE=3
 水水家猪蹄,https://live.iill.top/douyin/ssjzt777
