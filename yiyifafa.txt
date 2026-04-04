@@ -531,54 +531,9 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34901
 
-极速0618,#genre#,DE=3
-盗源狗si全家 全家下地狱
-鳳凰中文,http://j.s.bkpcp.top/js/fhzw
-鳳凰資訊,http://j.s.bkpcp.top/js/fhzx
-鳳凰香港,http://j.s.bkpcp.top/js/fhxg
-PopC,http://tl.061833.xyz/tl/popc
-
-凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-TVB翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-TVB无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-TVB Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
-
-無綫新聞台,http://tl.061833.xyz/tl/null-11
-中國電影頻道,http://tl.061833.xyz/tl/null-6
-亞洲劇台,http://tl.061833.xyz/tl/null-13
-千禧經典台,http://tl.061833.xyz/tl/null-3
-天映经典,http://tl.061833.xyz/tl/null-1
-戲曲台,http://tl.061833.xyz/tl/null-15
-明珠台,http://tl.061833.xyz/tl/null-12
-星河频道,http://tl.061833.xyz/tl/null-7
-功夫台,http://tl.061833.xyz/tl/null-17
-粵語片台,http://tl.061833.xyz/tl/null-10
-美亞電影台,http://tl.061833.xyz/tl/null-5
-翡翠台,http://tl.061833.xyz/tl/null
-華語劇台,http://tl.061833.xyz/tl/null-4
-黄金翡翠台,http://tl.061833.xyz/tl/null-2
-黄金华剧台,http://tl.061833.xyz/tl/null-9
-TVBPlus,http://tl.061833.xyz/tl/pluse
-娛樂新聞台,http://tl.061833.xyz/tl/null-14
-Animax,http://tl.061833.xyz/tl/animax
-AXN,http://tl.061833.xyz/tl/axn
-KIX,http://tl.061833.xyz/tl/kix
-LoveNatureHD,http://tl.061833.xyz/tl/lovenaturehd
-myTVSUPER18台,http://tl.061833.xyz/tl/mytvsuper18
-myTVSUPERFREE,http://tl.061833.xyz/tl/mytvsuperfree
-NickJr,http://tl.061833.xyz/tl/nickjr
-Nickelodeon,http://tl.061833.xyz/tl/nickelodeon
-ROCKAction,http://tl.061833.xyz/tl/rockaction
-ROCK綜藝娛樂,http://tl.061833.xyz/tl/rock
-SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
-ZooMoo,http://tl.061833.xyz/tl/zoomoo
-
 极速NOW,#genre#,DE=3
-翡翠台,https://hls.iill.top/api/TVB-Jade/index.m3u8
-無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
-TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
+翡翠台,http://www.9kds.com/d/hk/tvbfc/?kl=www.9kds.com
+無綫新聞台,http://www.9kds.com/d/hk/tvbwxxw/?kl=www.9kds.com
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
@@ -588,21 +543,6 @@ Now星影台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFur
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
-
-動物星球,https://hls.iill.top/api/dwxq/index.m3u8
-緯來日本,https://hls.iill.top/api/wlrb/index.m3u8
-緯來體育,https://hls.iill.top/api/wlty/index.m3u8
-緯來電影,https://hls.iill.top/api/wldy/index.m3u8
-東森電影,https://hls.iill.top/api/dsdy/index.m3u8
-東森洋片,https://hls.iill.top/api/dsyp/index.m3u8
-龍祥時代,https://hls.iill.top/api/lxsd/index.m3u8
-BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
-BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
-Discovery,https://hls.iill.top/api/Discovery/index.m3u8
-HBO,https://hls.iill.top/api/HBO/index.m3u8
-HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
-HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
-HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
