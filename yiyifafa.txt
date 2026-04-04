@@ -532,13 +532,8 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34901
 
 极速NOW,#genre#,DE=3
-翡翠台,http://www.9kds.com/d/hk/tvbfc/?kl=www.9kds.com
-無綫新聞台,http://www.9kds.com/d/hk/tvbwxxw/?kl=www.9kds.com
-TVB明珠台,http://hk.9kds.com/tvbmzt/?kl=www.9kds.com
-TVB星河台,http://hk.9kds.com/tvbxh/?kl=www.9kds.com
-TVB娱乐新闻台,http://hk.9kds.com/tvbylxw/?kl=www.9kds.com
-TVB亚洲台,http://hk.9kds.com/tvbyz/?kl=www.9kds.com
-TVB千禧经典台,http://hk.9kds.com/tvbjd/?kl=www.9kds.com
+翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
+無綫新聞台,rtmp://163.204.116.62/live/xaingjiaoge-wxxw
 Now星影国,http://rihou.cc:555/tv/[Hv]Now星影
 Now爆谷国,http://rihou.cc:555/tv/[Hv]Now爆谷
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
