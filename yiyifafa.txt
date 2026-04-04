@@ -539,6 +539,8 @@ TVB星河台,http://hk.9kds.com/tvbxh/?kl=www.9kds.com
 TVB娱乐新闻台,http://hk.9kds.com/tvbylxw/?kl=www.9kds.com
 TVB亚洲台,http://hk.9kds.com/tvbyz/?kl=www.9kds.com
 TVB千禧经典台,http://hk.9kds.com/tvbjd/?kl=www.9kds.com
+Now星影国,http://rihou.cc:555/tv/[Hv]Now星影
+Now爆谷国,http://rihou.cc:555/tv/[Hv]Now爆谷
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
