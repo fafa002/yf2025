@@ -609,7 +609,60 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64 
 綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
-极速8885,#genre#,DE=3
+极速369,#genre#,DE=3
+凤凰中文,http://play-a.quklive.com/live/aaafhzw.flv
+凤凰资讯,http://play-a.quklive.com/live/aaafhzx.flv
+凤凰香港,http://play-a.quklive.com/live/aaafhxg.flv
+翡翠台,http://play-a.quklive.com/live/aaajade.flv
+翡翠台,http://rihou.cc:555/tv/hktv%2Ftbxkws73
+明珠台,http://play-a.quklive.com/live/aaamingzhu.flv
+无线新闻,http://play-a.quklive.com/live/aaawxxw.flv
+TVB PLUS,http://play-a.quklive.com/live/aaaplus.flv
+TVB Plus,https://smt.1678520.xyz/163189/18e96648d4420d9e
+TVB娱乐新闻台,http://play-a.quklive.com/live/aaaylxw.flv
+华语剧台,http://play-a.quklive.com/live/aaahyjt.flv
+亚洲剧台,http://play-a.quklive.com/live/aaayzjt.flv
+黄金华剧台,http://play-a.quklive.com/live/aaahjhj.flv
+爱ANI,http://play-a.quklive.com/live/aaaAnimax.flv
+MyTV经典台,http://play-a.quklive.com/live/aaamqxjd.flv
+亚洲剧集台,http://play-a.quklive.com/live/aaaSUPERFREE.flv
+黄金翡翠台,http://play-a.quklive.com/live/aaahjfc.flv
+TVB戏曲台,http://play-a.quklive.com/live/aaaxqt.flv
+天映频道,http://play-a.quklive.com/live/aaatypd.flv
+天映经典,http://play-a.quklive.com/live/aaatyjd.flv
+无线跑马台,http://play-a.quklive.com/live/aaapm18.flv
+HOY 76,http://play-a.quklive.com/live/aaahoy76.flv
+HOY 77,http://play-a.quklive.com/live/aaahoy77.flv
+HOY 78,http://play-a.quklive.com/live/aaahoy78.flv
+ViuTV,http://play-a.quklive.com/live/aaaviutv.flv
+ViuTV6,http://play-a.quklive.com/live/aaaviutv6.flv
+PopC电影,http://play-a.quklive.com/live/aaapopc.flv
+美亚电影台,http://play-a.quklive.com/live/aaamydy.flv
+AXN电影,http://play-a.quklive.com/live/aaaAXN.flv
+ROCK 娱乐,http://play-a.quklive.com/live/aaarock2.flv
+ROCK 电影,http://play-a.quklive.com/live/aaarock1.flv
+Now星影(国),http://rihou.cc:555/tv/hktv%2Ftb19nowxy73
+Now爆谷(国),http://rihou.cc:555/tv/hktv%2Ftb19nowbg73
+TVB生活台,http://rihou.cc:555/tv/hktv%2Ftb19tvbzt73
+TVB功夫(国),http://rihou.cc:555/tv/hktv%2Ftb19tvbgf73=
+好莱坞电影,http://rihou.cc:555/tv/hktv%2Ftbbggh081773
+极限电影台,http://rihou.cc:555/tv/hktv%2Ftb19jstv78
+曼迪日本台,http://rihou.cc:555/tv/hktv/btw856473
+美亚电影(台湾),http://rihou.cc:555/tv/hktv/tbb20hh03abg77
+动物星球(台湾),http://rihou.cc:555/tv/hktv/tbtwxzt73
+中天新闻台,http://rihou.cc:555/tv/hktv%2F/tb19tw081173
+中天新闻(备),http://play-a.quklive.com/live/738bbb16de5cc99bab3f3f14d371a816.flv
+中视新闻台,http://rihou.cc:555/tv/hktv%2F/tb19tw081373
+TVBS HD,http://rihou.cc:555/tv/hktv%2F/tb19tw081273
+寰宇新闻台,http://rihou.cc:555/tv/hktv%2F/tb19tw081573
+寰宇新闻台湾台,http://play-a.quklive.com/live/4db542115d9ed6b9b21a00f10bbd361b.flv
+寰宇财经台,http://play-a.quklive.com/live/638dd960438cd95e4fb4f5ccc675087a.flv
+猪哥亮歌厅秀,http://pull.kslive.17in.net/live/BylBX0cOz1CPKWhi4L1LXZsdEvkmOQ-zglgtx.flv
+民就综艺台,http://pull.kslive.17in.net/live/BylBX0cOz1CPKWhi4L1LXZsdEvkmOQ-mszy.flv
+八大精彩台,http://pull.kslive.17in.net/live/BylBX0cOz1CPKWhi4L1LXZsdEvkmOQ-ddjc.flv
+八大綜藝,http://pull.kslive.17in.net/live/BylBX0cOz1CPKWhi4L1LXZsdEvkmOQ-ddzy.flv
+
+极速258,#genre#,DE=3
 下面频道多点几次,
 TVB翡翠台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUVBMebB-0s_t1mmJvMNHiXq_bJ2Cb2_rkjs8_iAgPWb6Uqr2eMUAeqv_AORRwOjT5IsFjfMAEPHWh0K8XgyZp-kp75ipWTJ1kV4iF8QOP3rntz-s7PorCqKLpfUkL0F9TFX40JOL29gGYjauDNUGTA3wF2DZDn9_EcYPOvgRFk0gXPTUutVYbeawjtj-qfBr_GkWTNUMnCqxHyxDrWFpXDQ.m3u8?u=1756878715
 TVB明珠台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGeE1gxpzjLoQWTWir772RiW9xP-7Vhz6iB1D9htxteCYrrT1zajd8n21mzIJri_TqeOEAMPrPGtUZA8iM9Ah11IK4uG0LIlw3KaFdk4fwauAyKHAjgL4Tyq7kG4ymrDqKy67Wfy53YIT4PWa-8mCkC3Ffa1jwixSqREtjad3qPhQLyoz7LTqA-Nn1wk3l8-kIQVmAF-lsHkY0Gti7mZdIQ.m3u8?u=1756878715
