@@ -1493,21 +1493,22 @@ HBO POP HD,http://nor3live.win:80/livehttpplay?channel_id=23362
 HBO EXTREME HD,http://nor3live.win:80/livehttpplay?channel_id=23363
 
 抖音直播,#genre#,DE=3
-水水家猪蹄,http://cfss.cc/cdn/dy/ssjzt777.flv
-格格睡醒了,http://cfss.cc/cdn/dy/42347122605.flv
-晓晓,http://cfss.cc/cdn/dy/147258247158d.flv
-朱朱,http://cfss.cc/cdn/dy/36914825720a.flv
-爱播,http://cfss.cc/cdn/dy/72601999700.flv
-解腻小馋猫,http://cfss.cc/cdn/dy/57441738759.flv
-曲琦,http://cfss.cc/cdn/dy/87903335725.flv
-清茶,http://cfss.cc/cdn/dy/92367486793.flv
-是安安吖,http://cfss.cc/cdn/dy/anan20050512.flv
-阿米Dol,http://cfss.cc/cdn/dy/59123141128.flv
-Y不歪,http://cfss.cc/cdn/dy/49739112236.flv
-蜡笔小瑶,http://cfss.cc/cdn/dy/75636233170.flv
-火鸡面梦女,http://cfss.cc/cdn/dy/45652007446.flv
-珍妮玛士多,http://cfss.cc/cdn/dy/204336008.flv
-不是陈cc,http://cfss.cc/cdn/dy/91841348504.flv
+水水家猪蹄,http://live.iill.top/douyin/ssjzt777
+格格睡醒了,http://live.iill.top/douyin/42347122605
+晓晓,http://live.iill.top/douyin/147258247158d
+朱朱,http://live.iill.top/douyin/36914825720a
+爱播,http://live.iill.top/douyin/72601999700
+解腻小馋猫,http://live.iill.top/douyin/57441738759
+曲琦,http://live.iill.top/douyin/87903335725
+清茶,http://live.iill.top/douyin/92367486793
+是安安吖,http://live.iill.top/douyin/anan20050512
+阿米Dol,http://live.iill.top/douyin/59123141128
+Y不歪,http://live.iill.top/douyin/49739112236
+蜡笔小瑶,http://live.iill.top/douyin/75636233170
+火鸡面梦女,http://live.iill.top/douyin/45652007446
+珍妮玛士多,http://live.iill.top/douyin/204336008
+不是陈cc,http://live.iill.top/douyin/91841348504
+
 央视网,http://cfss.cc/cdn/dy/cctv.com.flv
 小央视频,http://cfss.cc/cdn/dy/cctv_video.flv
 CCTV4,http://cfss.cc/cdn/dy/CCTV4...flv
@@ -1533,17 +1534,18 @@ DV现场,http://cfss.cc/cdn/dy/gdtvdvxc.flv
 央视财经,http://cfss.cc/cdn/dy/yscjxmt.flv
 财联社,http://cfss.cc/cdn/dy/clscccaijing.flv
 小强热线浙江教科,http://cfss.cc/cdn/dy/ZTV4.flv
-好听老歌（24小时听歌),http://cfss.cc/cdn/dy/sS5.zZ2.0Oo1.flv
-好听音乐（24小时音乐）,http://cfss.cc/cdn/dy/73840102937.flv
-24小时音乐,http://cfss.cc/cdn/dy/11810687.flv
-经典老歌70.80.90.,http://cfss.cc/cdn/dy/dyv9sncck3z4.flv
-南一FM,http://cfss.cc/cdn/dy/nanyiFM.flv
-若初FM,http://cfss.cc/cdn/dy/4357638866..flv
-岁月歌单（24h听歌）,http://cfss.cc/cdn/dy/O0oZ2z.8Bbl1IS5s.flv
-我是海燕FM,http://cfss.cc/cdn/dy/22930066273.flv
-汐汐🎙音乐FM,http://cfss.cc/cdn/dy/21601585217.flv
-辰辰🎧音乐FM,http://cfss.cc/cdn/dy/291881148.flv
-安然音乐,http://cfss.cc/cdn/dy/887483788.flv
+
+好听老歌（24小时听歌),http://live.iill.top/douyin/sS5.zZ2.0Oo1
+好听音乐（24小时音乐）,http://live.iill.top/douyin/73840102937
+24小时音乐,http://live.iill.top/douyin/11810687
+经典老歌70.80.90.,http://live.iill.top/douyin/dyv9sncck3z4
+南一FM,http://live.iill.top/douyin/nanyiFM
+若初FM,http://live.iill.top/douyin/4357638866.
+岁月歌单（24h听歌）,http://live.iill.top/douyin/O0oZ2z.8Bbl1IS5s
+我是海燕FM,http://live.iill.top/douyin/22930066273
+汐汐🎙音乐FM,http://live.iill.top/douyin/21601585217
+辰辰🎧音乐FM,http://live.iill.top/douyin/291881148
+安然音乐,http://live.iill.top/douyin/887483788
 
 广东本地,#genre#,DE=3
 盗源狗si全家 全家下地狱
