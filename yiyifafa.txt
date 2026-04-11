@@ -624,29 +624,13 @@ TVB功夫(国),http://rihou.cc:555/tv/hktv%2Ftb19tvbgf73=
 中视新闻台,http://rihou.cc:555/tv/hktv%2F/tb19tw081373
 TVBS HD,http://rihou.cc:555/tv/hktv%2F/tb19tw081273
 寰宇新闻台,http://rihou.cc:555/tv/hktv%2F/tb19tw081573
-功夫台,https://pixman.passwdwork.cc.cd/proxy/74a1f88bb26edd96.m3u8
-TVB星河頻道,https://pixman.passwdwork.cc.cd/proxy/eec374cc1e8d1626.m3u8
-RTHK 33,https://pixman.passwdwork.cc.cd/proxy/0fdfa04b92f5c594.m3u8
-Popc,https://pixman.passwdwork.cc.cd/proxy/103718b37d47a623.m3u8
-明珠台,https://pixman.passwdwork.cc.cd/proxy/1eb7c0496c0d0a31.m3u8
-無綫新聞台,https://pixman.passwdwork.cc.cd/proxy/f7d0685ecbdf1d5e.m3u8
-美亞電影台,https://pixman.passwdwork.cc.cd/proxy/55cea032f24219d7.m3u8
-翡翠台,https://pixman.passwdwork.cc.cd/proxy/57f2ebcfe2785671.m3u8
-龙祥时代,https://pixman.passwdwork.cc.cd/proxy/6a3f1f69d2e85833.m3u8
-东森洋片,https://pixman.passwdwork.cc.cd/proxy/c18ab737012f7f1d.m3u8
-纬来电影台,https://pixman.passwdwork.cc.cd/proxy/a7de9e9ba71250e9.m3u8
-年代新闻,https://pixman.passwdwork.cc.cd/proxy/ed287cc91bc227bb.m3u8
-东森新闻台,https://pixman.passwdwork.cc.cd/proxy/0f23c88d7f2082dc.m3u8
-东森电影台,https://pixman.passwdwork.cc.cd/proxy/475b00abccfc3e16.m3u8
-纬来体育,https://pixman.passwdwork.cc.cd/proxy/e817c60fff235471.m3u8
-龍華電影台,https://pixman.passwdwork.cc.cd/proxy/d9255b48be481af4.m3u8
-中天新聞台,https://pixman.passwdwork.cc.cd/proxy/e02b3975691e34b3.m3u8
-龍華洋片台,https://pixman.passwdwork.cc.cd/proxy/06d0b0bbd784014c.m3u8
-龍華偶像台,https://pixman.passwdwork.cc.cd/proxy/2fbdd9c9dd4627f0.m3u8
-寰宇新聞台,https://pixman.passwdwork.cc.cd/proxy/5b436f102e0f789f.m3u8
-博斯高球台,https://pixman.passwdwork.cc.cd/proxy/38095717a7e960f8.m3u8
-博斯網球台,https://pixman.passwdwork.cc.cd/proxy/0544643d41929cc4.m3u8
-博斯無限台,https://pixman.passwdwork.cc.cd/proxy/39d98e2967db58cc.m3u8
+民視新聞,http://211.72.174.95:8117/0.ts
+中視,http://211.72.174.95:8113/0.ts
+華視,http://211.72.174.95:8114/0.ts
+公視,http://211.72.174.95:8116/0.ts
+民視,http://211.72.174.95:8115/0.ts
+台視,http://211.72.174.95:8112/0.ts
+東森新聞,http://211.72.174.95:8138/0.ts
 
 极速258,#genre#,DE=3
 下面频道多点几次,
@@ -830,32 +814,6 @@ TVBS新闻,http://47.104.163.156:50/台湾.php?id=tvbsxw
 HBO HD,http://47.104.163.156:50/台湾.php?id=hbohd
 AXN,http://47.104.163.156:50/台湾.php?id=axn
 MTV Live,http://47.104.163.156:50/台湾.php?id=mtv
-
-4_1 GOOD TV,http://nctcpc.com:38981/stream/channelid/1032208444?ticket=8de61e8a87491b2960c8d55aa988b8512f7d79e3&profile=pass
-Alian Radio,http://nctcpc.com:38981/stream/channelid/2080019623?ticket=cb7b6d09867526e60f69290410f8c0ece38f2ba1&profile=pass
-TaiwanPlus,http://nctcpc.com:38981/stream/channelid/201856179?ticket=c54aba4f1ec46bf6b1b9aa96edfb0d32c8eaf290&profile=pass
-中視菁采台,http://nctcpc.com:38981/stream/channelid/1285813917?ticket=d61f5031324da74604c2fcda5d4746aa2ef98228&profile=pass
-公視 PTS,http://nctcpc.com:38981/stream/channelid/2131319261?ticket=02ffaa74b6e741aa10cde9d1d79c77b922bbde2a&profile=pass
-原住民族電視台,http://nctcpc.com:38981/stream/channelid/2104211877?ticket=ed53b7695520e155f48f273b078e593bf11a82d7&profile=pass
-台灣電視台,http://nctcpc.com:38981/stream/channelid/1061269580?ticket=4b5c23daf556589608342630f30f493cf60be5f7&profile=pass
-台視新聞台,http://nctcpc.com:38981/stream/channelid/1392529866?ticket=20f21d79d7b692600b382c330c643c4b931e7b44&profile=pass
-台視綜合台,http://nctcpc.com:38981/stream/channelid/1044713361?ticket=dd4bd0d554fa94ade93e032142db13d36f31afd5&profile=pass
-台視財經台,http://nctcpc.com:38981/stream/channelid/509783080?ticket=7b42cacaab69c586551f3c809a172111b5b60c96&profile=pass
-國會頻道2,http://nctcpc.com:38981/stream/channelid/210589410?ticket=ecbb5a2d25ad8302c20f7ca05958618356786b33&profile=pass
-小公視,http://nctcpc.com:38981/stream/channelid/352036757?ticket=348182605f4fcc235bf9ff0d0531e03e9575ef6c&profile=pass
-民視,http://nctcpc.com:38981/stream/channelid/783181249?ticket=58814ce48d9561070cbc5696338c5e7dd416efd0&profile=pass
-民視台灣台,http://nctcpc.com:38981/stream/channelid/1243774991?ticket=0cd0396ef05ea4b12a0def6019dff1e5b1226bd6&profile=pass
-民視新聞台,http://nctcpc.com:38981/stream/channelid/1323392111?ticket=bbf9a9c0dcbbf102cc33bc4dbd71f3a44c9ddc3c&profile=pass
-民視第一台,http://nctcpc.com:38981/stream/channelid/859905572?ticket=44729f776de93e70cd1481ce4f434f15e89f0762&profile=pass
-華視CTS,http://nctcpc.com:38981/stream/channelid/122114341?ticket=ac282ee9ea130e5f72acc9cbe278dfc9549a0118&profile=pass
-華視教育體育文化台,http://nctcpc.com:38981/stream/channelid/1850091127?ticket=d8345832c6ed8d534f5e0096c749532ace397e58&profile=pass
-華視新聞資訊台,http://nctcpc.com:38981/stream/channelid/320561478?ticket=7e0c7d7058d07679306b3fb1abc441f82d6da587&profile=pass
-中視,http://nctcpc.com:38981/stream/channelid/475201081?ticket=15621385187ab928f871153cb33486ee6a8fd47e&profile=pass
-中視新聞台,http://nctcpc.com:38981/stream/channelid/1755015946?ticket=ff77595a86bf2548d5008a04302d5ccf246c4fb2&profile=pass
-中視經典台,http://nctcpc.com:38981/stream/channelid/245334301?ticket=59ddc695b9c4ba39c26c370f54fcb79cacac2f3c&profile=pass
-公視台語台,http://nctcpc.com:38981/stream/channelid/1615968811?ticket=86717a29e28f5da6ecd45719f5808ac2b057e106&profile=pass
-國會頻道1,http://nctcpc.com:38981/stream/channelid/882971982?ticket=e90f48f2bf1b347a44f59e4ea281f096edc3422e&profile=pass
-客家電視,http://nctcpc.com:38981/stream/channelid/1775057655?ticket=71f3dffb24f54c31dc1f01e7b74b7ee253767112&profile=pass
 
 四季台湾2,#genre#,DE=3
 靖天育樂台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv062&token=xiatianshigou
