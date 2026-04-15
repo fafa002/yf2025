@@ -610,20 +610,6 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
 极速369,#genre#,DE=3
-翡翠台,http://rihou.cc:555/tv/hktv%2Ftbxkws73
-Now星影(国),http://rihou.cc:555/tv/hktv%2Ftb19nowxy73
-Now爆谷(国),http://rihou.cc:555/tv/hktv%2Ftb19nowbg73
-TVB生活台,http://rihou.cc:555/tv/hktv%2Ftb19tvbzt73
-TVB功夫(国),http://rihou.cc:555/tv/hktv%2Ftb19tvbgf73=
-好莱坞电影,http://rihou.cc:555/tv/hktv%2Ftbbggh081773
-极限电影台,http://rihou.cc:555/tv/hktv%2Ftb19jstv78
-曼迪日本台,http://rihou.cc:555/tv/hktv/btw856473
-美亚电影(台湾),http://rihou.cc:555/tv/hktv/tbb20hh03abg77
-动物星球(台湾),http://rihou.cc:555/tv/hktv/tbtwxzt73
-中天新闻台,http://rihou.cc:555/tv/hktv%2F/tb19tw081173
-中视新闻台,http://rihou.cc:555/tv/hktv%2F/tb19tw081373
-TVBS HD,http://rihou.cc:555/tv/hktv%2F/tb19tw081273
-寰宇新闻台,http://rihou.cc:555/tv/hktv%2F/tb19tw081573
 民視新聞,http://211.72.174.95:8117/0.ts
 中視,http://211.72.174.95:8113/0.ts
 華視,http://211.72.174.95:8114/0.ts
