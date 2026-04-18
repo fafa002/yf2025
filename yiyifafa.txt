@@ -517,7 +517,7 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=30031
 广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
-博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/34901
+博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 极速NOW,#genre#,DE=3
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
