@@ -495,10 +495,6 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 极速港台2,#genre#,DE=3
-中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-中天新闻(备),rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
-镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
-
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
 翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
@@ -757,12 +753,10 @@ TVBS新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 无线新闻台 HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUEbph0MZRKP28AR8hSX0shw-kQLvz2ZlL6nyYPGVfN3FduvOO49j8rJSv3lqv06Z81xFF6OU44IdM5xkGsvN3l3E7lJ869oB2qx2kUpO9-t9Vnx89r2fkyUdx_t-s5yfsTcO6xNsYqCI63aI8eD3U_orZF_u25-jN4fzjPbudkZwUqvMnDEWGsGV54PVGH1subd_9bdnPjMgjDmjB4ValZA.m3u8?u=1756878715
 
 四季台湾,#genre#,DE=3
-中视,http://119.91.7.169:2026/TW.php?id=中视
-TVBS,http://119.91.7.169:2026/TW.php?id=TVBS
-中天新闻台,http://119.91.7.169:2026/TW.php?id=中天新闻台
-中视新闻,http://119.91.7.169:2026/TW.php?id=中视新闻
-寰宇新闻台,http://119.91.7.169:2026/TW.php?id=寰宇新闻台
-
+中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+中天新闻(备),rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
+TVBS新闻,rtmp://vip.huahong.pro/live/xingjiaoge-tvbsxw
 民視新聞,http://211.72.174.95:8117/0.ts
 中視,http://211.72.174.95:8113/0.ts
 華視,http://211.72.174.95:8114/0.ts
