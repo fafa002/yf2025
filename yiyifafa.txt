@@ -510,6 +510,17 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 极速NOW,#genre#,DE=3
+Super Free,http://116.49.184.127:1234/stream/mytvsuper/superfree/master.m3u8
+TVB Plus,http://116.49.184.127:1234/stream/mytvsuper/tvbplus/master.m3u8
+凤凰中文,http://116.49.184.127:1234/stream/mytvsuper/null/master.m3u8
+凤凰资讯,http://116.49.184.127:1234/stream/mytvsuper/null-1/master.m3u8
+凤凰香港,http://116.49.184.127:1234/stream/mytvsuper/null-2/master.m3u8
+娱乐新闻台,http://116.49.184.127:1234/stream/mytvsuper/null-3/master.m3u8
+无线新闻台,http://116.49.184.127:1234/stream/mytvsuper/null-4/master.m3u8
+明珠台,http://116.49.184.127:1234/stream/mytvsuper/null-5/master.m3u8
+翡翠台,http://116.49.184.127:1234/stream/mytvsuper/hd/master.m3u8
+翡翠台（4K）,http://116.49.184.127:1234/stream/mytvsuper/4k/master.m3u8
+黄金翡翠台,http://116.49.184.127:1234/stream/mytvsuper/null-6/master.m3u8
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
