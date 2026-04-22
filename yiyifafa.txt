@@ -510,6 +510,14 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 极速NOW,#genre#,DE=3
+Now爆谷台,https://iptv.707626.xyz/live/stream-now-91y5/master.m3u8
+Now星影台,https://iptv.707626.xyz/live/stream-now-x1vz/master.m3u8
+翡翠台,https://iptv.707626.xyz/live/stream-0958b9c6/master.m3u8
+中天新聞台,https://iptv.707626.xyz/live/stream-ch-c6gd/master.m3u8
+功夫台,https://iptv.707626.xyz/live/stream-ch-j3ol/master.m3u8
+年代新闻,https://iptv.707626.xyz/live/stream-ch-flf6/master.m3u8
+龙祥时代,https://iptv.707626.xyz/live/stream-ch-cpzy/master.m3u8
+星河台,https://iptv.707626.xyz/live/stream-ch-6n45/master.m3u8
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
@@ -836,6 +844,51 @@ tvN,http://fy27.zbds.top:57799/stream/mytv/CJTV/master.m3u8
 翡翠台4K,http://fy27.zbds.top:57799/stream/mytv/JUHD/master.m3u8
 黄金华剧台,http://fy27.zbds.top:57799/stream/mytv/TVO/master.m3u8
 黄金翡翠台,http://fy27.zbds.top:57799/stream/mytv/TVG/master.m3u8
+
+tvheadend,#genre#,DE=3
+港台電視 31,http://hk2.star2hk.com:2095/stream/channelid/1602635863?ticket=9072b3bbe3394cde32108d1de236d3a3d25e5c1a&profile=pass
+港台電視 32,http://hk2.star2hk.com:2095/stream/channelid/1554897652?ticket=267ba07158b7b01ce1be2739367db9023146bda8&profile=pass
+中央電視台綜合頻道（CCTV-1綜合),http://hk2.star2hk.com:2095/stream/channelid/1154412102?ticket=a4622728d460d3d52fb9c4a5b92c6cbca5978499&profile=pass
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://hk2.star2hk.com:2095/stream/channelid/92030211?ticket=3ce8ca5263ea22e997bc045933fa1232682f16cc&profile=pass
+CGTN 英語頻道,http://hk2.star2hk.com:2095/stream/channelid/1252262921?ticket=c9ed9c7c9c9537d710dca7118126e52bae49d0fa&profile=pass
+*HOY 國際財經台,http://hk2.star2hk.com:2095/stream/channelid/1434742824?ticket=148f20004f2cd3a23df23facb719932280426b95&profile=pass
+*HOY TV,http://hk2.star2hk.com:2095/stream/channelid/1307960423?ticket=0e67e9c3a7fcd725f1bc72e181b6e23f181677d0&profile=pass
+*HOY 資訊台,http://hk2.star2hk.com:2095/stream/channelid/350823040?ticket=11a5834d00cad370091141cd94b77a36d09677a2&profile=pass
+翡翠台,http://hk2.star2hk.com:2095/stream/channelid/566288828?ticket=5e4741f66a86558744ff8969fa3499eb39b2784a&profile=pass
+TVB Plus,http://hk2.star2hk.com:2095/stream/channelid/840351826?ticket=a7aa265ff7e5ab9e5936010cba8db8569660de6e&profile=pass
+無綫新聞台,http://hk2.star2hk.com:2095/stream/channelid/1828814827?ticket=8fd16e5308624a086c15cbf88da211930ac8476a&profile=pass
+明珠台,http://hk2.star2hk.com:2095/stream/channelid/1213894766?ticket=7430e9c2f60d6c0a813b463e6b0cc9b2146aabe3&profile=pass
+鳳凰衛視香港台,http://hk2.star2hk.com:2095/stream/channelid/1218293550?ticket=532b6a8ac1b7d440377cce033760290446bf0bf4&profile=pass
+ViuTVsix,http://hk2.star2hk.com:2095/stream/channelid/313510044?ticket=66d738a479d37534ea9118b4fb9f1851ce863b38&profile=pass
+ViuTV,http://hk2.star2hk.com:2095/stream/channelid/423210254?ticket=6702241924516fcda7da694813a5919da3f714f8&profile=pass
+
+港台電視 31,http://hk2.star2hk.com:55555/stream/channelid/1602635863?ticket=4b1059d5e0fd3761890c373e8f231a68ae929ba7&profile=pass
+港台電視 32,http://hk2.star2hk.com:55555/stream/channelid/1554897652?ticket=88d77f88e23d07d4c5d9e262515319c3e085df2a&profile=pass
+中央電視台綜合頻道（CCTV-1綜合),http://hk2.star2hk.com:55555/stream/channelid/1154412102?ticket=d479c34914f1148f1fc223ecc4854d22bed2d01b&profile=pass
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://hk2.star2hk.com:55555/stream/channelid/92030211?ticket=6266c4a381408e014da2a2f0ce2fbc831097f48d&profile=pass
+CGTN 英語頻道,http://hk2.star2hk.com:55555/stream/channelid/1252262921?ticket=9e2c88a6160fcd1b4ae262a1763ea35e4ab71c69&profile=pass
+*HOY 國際財經台,http://hk2.star2hk.com:55555/stream/channelid/1434742824?ticket=26fdab6fca65f1b0884dbf22edff3d68ff6d05da&profile=pass
+*HOY TV,http://hk2.star2hk.com:55555/stream/channelid/1307960423?ticket=28697bbb7b0c159c8df92ef98804e4bbbb585da6&profile=pass
+*HOY 資訊台,http://hk2.star2hk.com:55555/stream/channelid/350823040?ticket=1090bf12b02d04d0cfe9ce4315d6f6200f44302e&profile=pass
+翡翠台,http://hk2.star2hk.com:55555/stream/channelid/566288828?ticket=3b2aa04c930660c48fe187d6aa336fa0d4f3f01a&profile=pass
+TVB Plus,http://hk2.star2hk.com:55555/stream/channelid/840351826?ticket=fcf10eee1ee3457ae518e10daa8fa8f981ffd4cd&profile=pass
+無綫新聞台,http://hk2.star2hk.com:55555/stream/channelid/1828814827?ticket=6ebd1a6aeb68cb53971e8da9fff7d110e3253e00&profile=pass
+明珠台,http://hk2.star2hk.com:55555/stream/channelid/1213894766?ticket=1772cb1be4912f1acfd3160ddf8861a49bb3bf83&profile=pass
+鳳凰衛視香港台,http://hk2.star2hk.com:55555/stream/channelid/1218293550?ticket=5dc3511db0c194df5bb47a307e8096dda9bb88f8&profile=pass
+ViuTVsix,http://hk2.star2hk.com:55555/stream/channelid/313510044?ticket=e15382416220920327ca656f2da9703c73399243&profile=pass
+ViuTV,http://hk2.star2hk.com:55555/stream/channelid/423210254?ticket=53881c20a0c7f85171f04efe36731f1354ca7c83&profile=pass
+
+港台電視 31,http://2:2@113.89.101.85:9981/stream/channelid/1838780937?profile=htsp
+港台電視 32,http://2:2@113.89.101.85:9981/stream/channelid/1136133890?profile=htsp
+中央電視台綜合頻道（CCTV-1綜合),http://2:2@113.89.101.85:9981/stream/channelid/539067480?profile=htsp
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://2:2@113.89.101.85:9981/stream/channelid/1934804729?profile=htsp
+翡翠台,http://2:2@113.89.101.85:9981/stream/channelid/347433525?profile=htsp
+TVB Plus,http://2:2@113.89.101.85:9981/stream/channelid/1354578766?profile=htsp
+無綫新聞台,http://2:2@113.89.101.85:9981/stream/channelid/1040261915?profile=htsp
+明珠台,http://2:2@113.89.101.85:9981/stream/channelid/924340760?profile=htsp
+鳳凰衛視香港台,http://2:2@113.89.101.85:9981/stream/channelid/1091885173?profile=htsp
+ViuTVsix,http://2:2@113.89.101.85:9981/stream/channelid/2144013391?profile=htsp
+ViuTV,http://2:2@113.89.101.85:9981/stream/channelid/446485537?profile=htsp
 
 四季台湾,#genre#,DE=3
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
