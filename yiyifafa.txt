@@ -788,6 +788,9 @@ MoMo综合,rtmp://9hv1.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://9hv1.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://9hv1.mine.nu/sat/tv741
 
+凤凰资讯,http://mytvsuper.webn.cc:2052/live/stream-f8063c3794481a17/index.m3u8
+台视,http://dbmlasvgas.sylu.net:8880/stream/39363be5-2940-4d89-875a-cea6c9a93369/playlist.m3u8
+
 四季台湾2,#genre#,DE=3
 靖天育樂台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv062&token=xiatianshigou
 東森新聞台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv152&token=xiatianshigou
