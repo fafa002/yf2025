@@ -762,6 +762,8 @@ ViuTV,http://2:2@113.89.101.85:9981/stream/channelid/446485537?profile=htsp
 四季台湾,#genre#,DE=3
 爆谷台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-bg
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
+翡翠台(备),rtmp://www.hz-hengsheng.com/live/xiangjiaoge-fc
+TVB Plus,rtmp://www.hz-hengsheng.com/live/xiangjiaoge-j2
 无线新闻,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-wxxw
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
