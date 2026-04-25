@@ -1241,200 +1241,206 @@ HBO POP HD,http://nor3live.win:80/livehttpplay?channel_id=23362
 HBO EXTREME HD,http://nor3live.win:80/livehttpplay?channel_id=23363
 
 斯玛特,#genre#,DE=3
-53,http://smt.6278992.xyz/trams/1615/playlist.m3u8?token=000
-54,http://smt.6278992.xyz/trams/745/playlist.m3u8?token=000
-55,http://smt.6278992.xyz/trams/752/playlist.m3u8?token=000
-56,http://smt.6278992.xyz/trams/753/playlist.m3u8?token=000
-57,http://smt.6278992.xyz/trams/754/playlist.m3u8?token=000
-58,http://smt.6278992.xyz/trams/756/playlist.m3u8?token=000
-59,http://smt.6278992.xyz/trams/761/playlist.m3u8?token=000
-60,http://smt.6278992.xyz/trams/763/playlist.m3u8?token=000
-61,http://smt.6278992.xyz/trams/811/playlist.m3u8?token=000
-62,http://smt.6278992.xyz/trams/812/playlist.m3u8?token=000
-63,http://smt.6278992.xyz/trams/825/playlist.m3u8?token=000
-64,http://smt.6278992.xyz/trams/890/playlist.m3u8?token=000
-65,http://smt.6278992.xyz/trams/898/playlist.m3u8?token=000
-66,http://smt.6278992.xyz/trams/906/playlist.m3u8?token=000
-67,http://smt.6278992.xyz/trams/924/playlist.m3u8?token=000
-68,http://smt.6278992.xyz/trams/959/playlist.m3u8?token=000
-69,http://smt.6278992.xyz/trams/969/playlist.m3u8?token=000
-70,http://smt.6278992.xyz/trams/1014/playlist.m3u8?token=000
-71,http://smt.6278992.xyz/trams/1015/playlist.m3u8?token=000
-72,http://smt.6278992.xyz/trams/1076/playlist.m3u8?token=000
-73,http://smt.6278992.xyz/trams/1077/playlist.m3u8?token=000
-74,http://smt.6278992.xyz/trams/1207/playlist.m3u8?token=000
-75,http://smt.6278992.xyz/trams/1243/playlist.m3u8?token=000
-76,http://smt.6278992.xyz/trams/1466/playlist.m3u8?token=000
-77,http://smt.6278992.xyz/trams/1474/playlist.m3u8?token=000
-78,http://smt.6278992.xyz/trams/1515/playlist.m3u8?token=000
-79,http://smt.6278992.xyz/trams/1541/playlist.m3u8?token=000
-80,http://smt.6278992.xyz/trams/1585/playlist.m3u8?token=000
-81,http://smt.6278992.xyz/trams/1587/playlist.m3u8?token=000
-82,http://smt.6278992.xyz/trams/1593/playlist.m3u8?token=000
-83,http://smt.6278992.xyz/trams/1595/playlist.m3u8?token=000
-84,http://smt.6278992.xyz/trams/1601/playlist.m3u8?token=000
-85,http://smt.6278992.xyz/trams/1619/playlist.m3u8?token=000
-86,http://smt.6278992.xyz/trams/1622/playlist.m3u8?token=000
-87,http://smt.6278992.xyz/trams/1623/playlist.m3u8?token=000
-88,http://smt.6278992.xyz/trams/1631/playlist.m3u8?token=000
-89,http://smt.6278992.xyz/trams/1648/playlist.m3u8?token=000
-90,http://smt.6278992.xyz/trams/1652/playlist.m3u8?token=000
-91,http://smt.6278992.xyz/trams/1667/playlist.m3u8?token=000
-92,http://smt.6278992.xyz/trams/1694/playlist.m3u8?token=000
-93,http://smt.6278992.xyz/trams/1766/playlist.m3u8?token=000
-94,http://smt.6278992.xyz/trams/1788/playlist.m3u8?token=000
-95,http://smt.6278992.xyz/trams/1789/playlist.m3u8?token=000
-96,http://smt.6278992.xyz/trams/1790/playlist.m3u8?token=000
-97,http://smt.6278992.xyz/trams/1791/playlist.m3u8?token=000
-98,http://smt.6278992.xyz/trams/1820/playlist.m3u8?token=000
-99,http://smt.6278992.xyz/trams/1823/playlist.m3u8?token=000
-100,http://smt.6278992.xyz/trams/1825/playlist.m3u8?token=000
-101,http://smt.6278992.xyz/trams/1832/playlist.m3u8?token=000
-102,http://smt.6278992.xyz/trams/1834/playlist.m3u8?token=000
-103,http://smt.6278992.xyz/trams/1836/playlist.m3u8?token=000
-104,http://smt.6278992.xyz/trams/1838/playlist.m3u8?token=000
-105,http://smt.6278992.xyz/trams/1839/playlist.m3u8?token=000
-106,http://smt.6278992.xyz/trams/1841/playlist.m3u8?token=000
-107,http://smt.6278992.xyz/trams/1923/playlist.m3u8?token=000
-108,http://smt.6278992.xyz/trams/1941/playlist.m3u8?token=000
-109,http://smt.6278992.xyz/trams/1967/playlist.m3u8?token=000
-110,http://smt.6278992.xyz/trams/2005/playlist.m3u8?token=000
-111,http://smt.6278992.xyz/trams/2011/playlist.m3u8?token=000
-112,http://smt.6278992.xyz/trams/2012/playlist.m3u8?token=000
-113,http://smt.6278992.xyz/trams/2023/playlist.m3u8?token=000
-114,http://smt.6278992.xyz/trams/2024/playlist.m3u8?token=000
-115,http://smt.6278992.xyz/trams/2032/playlist.m3u8?token=000
-116,http://smt.6278992.xyz/trams/2033/playlist.m3u8?token=000
-117,http://smt.6278992.xyz/trams/2035/playlist.m3u8?token=000
-118,http://smt.6278992.xyz/trams/2046/playlist.m3u8?token=000
-119,http://smt.6278992.xyz/trams/2053/playlist.m3u8?token=000
-120,http://smt.6278992.xyz/trams/2055/playlist.m3u8?token=000
-121,http://smt.6278992.xyz/trams/2057/playlist.m3u8?token=000
-122,http://smt.6278992.xyz/trams/2066/playlist.m3u8?token=000
-123,http://smt.6278992.xyz/trams/2080/playlist.m3u8?token=000
-124,http://smt.6278992.xyz/trams/2083/playlist.m3u8?token=000
-125,http://smt.6278992.xyz/trams/2084/playlist.m3u8?token=000
-126,http://smt.6278992.xyz/trams/2085/playlist.m3u8?token=000
-127,http://smt.6278992.xyz/trams/2099/playlist.m3u8?token=000
-128,http://smt.6278992.xyz/trams/2101/playlist.m3u8?token=000
-129,http://smt.6278992.xyz/trams/2106/playlist.m3u8?token=000
-130,http://smt.6278992.xyz/trams/2113/playlist.m3u8?token=000
-131,http://smt.6278992.xyz/trams/2117/playlist.m3u8?token=000
-132,http://smt.6278992.xyz/trams/2123/playlist.m3u8?token=000
-133,http://smt.6278992.xyz/trams/2127/playlist.m3u8?token=000
-134,http://smt.6278992.xyz/trams/2220/playlist.m3u8?token=000
-135,http://smt.6278992.xyz/trams/2229/playlist.m3u8?token=000
-136,http://smt.6278992.xyz/trams/2230/playlist.m3u8?token=000
-137,http://smt.6278992.xyz/trams/2235/playlist.m3u8?token=000
-138,http://smt.6278992.xyz/trams/2240/playlist.m3u8?token=000
-139,http://smt.6278992.xyz/trams/2241/playlist.m3u8?token=000
-140,http://smt.6278992.xyz/trams/2244/playlist.m3u8?token=000
-141,http://smt.6278992.xyz/trams/2251/playlist.m3u8?token=000
-142,http://smt.6278992.xyz/trams/2253/playlist.m3u8?token=000
-143,http://smt.6278992.xyz/trams/2258/playlist.m3u8?token=000
-144,http://smt.6278992.xyz/trams/2263/playlist.m3u8?token=000
-145,http://smt.6278992.xyz/trams/2264/playlist.m3u8?token=000
-146,http://smt.6278992.xyz/trams/2265/playlist.m3u8?token=000
-147,http://smt.6278992.xyz/trams/2266/playlist.m3u8?token=000
-148,http://smt.6278992.xyz/trams/2267/playlist.m3u8?token=000
-149,http://smt.6278992.xyz/trams/2268/playlist.m3u8?token=000
-150,http://smt.6278992.xyz/trams/2270/playlist.m3u8?token=000
-151,http://smt.6278992.xyz/trams/2271/playlist.m3u8?token=000
-152,http://smt.6278992.xyz/trams/2272/playlist.m3u8?token=000
-153,http://smt.6278992.xyz/trams/2273/playlist.m3u8?token=000
-154,http://smt.6278992.xyz/trams/2275/playlist.m3u8?token=000
-155,http://smt.6278992.xyz/trams/2276/playlist.m3u8?token=000
-156,http://smt.6278992.xyz/trams/2281/playlist.m3u8?token=000
-157,http://smt.6278992.xyz/trams/2283/playlist.m3u8?token=000
-158,http://smt.6278992.xyz/trams/2291/playlist.m3u8?token=000
-159,http://smt.6278992.xyz/trams/2292/playlist.m3u8?token=000
-160,http://smt.6278992.xyz/trams/2293/playlist.m3u8?token=000
-161,http://smt.6278992.xyz/trams/2294/playlist.m3u8?token=000
-162,http://smt.6278992.xyz/trams/2295/playlist.m3u8?token=000
-163,http://smt.6278992.xyz/trams/2297/playlist.m3u8?token=000
-164,http://smt.6278992.xyz/trams/2299/playlist.m3u8?token=000
-165,http://smt.6278992.xyz/trams/2421/playlist.m3u8?token=000
-166,http://smt.6278992.xyz/trams/2427/playlist.m3u8?token=000
-167,http://smt.6278992.xyz/trams/2463/playlist.m3u8?token=000
-168,http://smt.6278992.xyz/trams/2469/playlist.m3u8?token=000
-169,http://smt.6278992.xyz/trams/2470/playlist.m3u8?token=000
-170,http://smt.6278992.xyz/trams/2472/playlist.m3u8?token=000
-171,http://smt.6278992.xyz/trams/2479/playlist.m3u8?token=000
-172,http://smt.6278992.xyz/trams/2501/playlist.m3u8?token=000
-173,http://smt.6278992.xyz/trams/2508/playlist.m3u8?token=000
-174,http://smt.6278992.xyz/trams/2528/playlist.m3u8?token=000
-175,http://smt.6278992.xyz/trams/2535/playlist.m3u8?token=000
-176,http://smt.6278992.xyz/trams/2562/playlist.m3u8?token=000
-177,http://smt.6278992.xyz/trams/2578/playlist.m3u8?token=000
-178,http://smt.6278992.xyz/trams/2606/playlist.m3u8?token=000
-179,http://smt.6278992.xyz/trams/2610/playlist.m3u8?token=000
-180,http://smt.6278992.xyz/trams/2611/playlist.m3u8?token=000
-181,http://smt.6278992.xyz/trams/2615/playlist.m3u8?token=000
-182,http://smt.6278992.xyz/trams/2621/playlist.m3u8?token=000
-183,http://smt.6278992.xyz/trams/2626/playlist.m3u8?token=000
-184,http://smt.6278992.xyz/trams/2628/playlist.m3u8?token=000
-185,http://smt.6278992.xyz/trams/2629/playlist.m3u8?token=000
-186,http://smt.6278992.xyz/trams/2650/playlist.m3u8?token=000
-187,http://smt.6278992.xyz/trams/2651/playlist.m3u8?token=000
-188,http://smt.6278992.xyz/trams/2653/playlist.m3u8?token=000
-189,http://smt.6278992.xyz/trams/2658/playlist.m3u8?token=000
-190,http://smt.6278992.xyz/trams/2665/playlist.m3u8?token=000
-191,http://smt.6278992.xyz/trams/2666/playlist.m3u8?token=000
-192,http://smt.6278992.xyz/trams/2688/playlist.m3u8?token=000
-193,http://smt.6278992.xyz/trams/2693/playlist.m3u8?token=000
-194,http://smt.6278992.xyz/trams/2694/playlist.m3u8?token=000
-195,http://smt.6278992.xyz/trams/2695/playlist.m3u8?token=000
-196,http://smt.6278992.xyz/trams/2697/playlist.m3u8?token=000
-197,http://smt.6278992.xyz/trams/2702/playlist.m3u8?token=000
-198,http://smt.6278992.xyz/trams/2710/playlist.m3u8?token=000
-199,http://smt.6278992.xyz/trams/2711/playlist.m3u8?token=000
-200,http://smt.6278992.xyz/trams/2715/playlist.m3u8?token=000
-201,http://smt.6278992.xyz/trams/2717/playlist.m3u8?token=000
-202,http://smt.6278992.xyz/trams/2718/playlist.m3u8?token=000
-203,http://smt.6278992.xyz/trams/2722/playlist.m3u8?token=000
-204,http://smt.6278992.xyz/trams/2729/playlist.m3u8?token=000
-205,http://smt.6278992.xyz/trams/2730/playlist.m3u8?token=000
-206,http://smt.6278992.xyz/trams/2731/playlist.m3u8?token=000
-207,http://smt.6278992.xyz/trams/2732/playlist.m3u8?token=000
-208,http://smt.6278992.xyz/trams/2749/playlist.m3u8?token=000
-209,http://smt.6278992.xyz/trams/2753/playlist.m3u8?token=000
-210,http://smt.6278992.xyz/trams/2754/playlist.m3u8?token=000
-211,http://smt.6278992.xyz/trams/2764/playlist.m3u8?token=000
-212,http://smt.6278992.xyz/trams/2765/playlist.m3u8?token=000
-213,http://smt.6278992.xyz/trams/2767/playlist.m3u8?token=000
-214,http://smt.6278992.xyz/trams/2772/playlist.m3u8?token=000
-215,http://smt.6278992.xyz/trams/2773/playlist.m3u8?token=000
-216,http://smt.6278992.xyz/trams/2786/playlist.m3u8?token=000
-217,http://smt.6278992.xyz/trams/2792/playlist.m3u8?token=000
-218,http://smt.6278992.xyz/trams/2793/playlist.m3u8?token=000
-219,http://smt.6278992.xyz/trams/2861/playlist.m3u8?token=000
-220,http://smt.6278992.xyz/trams/2862/playlist.m3u8?token=000
-221,http://smt.6278992.xyz/trams/2863/playlist.m3u8?token=000
-222,http://smt.6278992.xyz/trams/2864/playlist.m3u8?token=000
-223,http://smt.6278992.xyz/trams/2865/playlist.m3u8?token=000
-224,http://smt.6278992.xyz/trams/2866/playlist.m3u8?token=000
-225,http://smt.6278992.xyz/trams/2867/playlist.m3u8?token=000
-226,http://smt.6278992.xyz/trams/2868/playlist.m3u8?token=000
-227,http://smt.6278992.xyz/trams/2869/playlist.m3u8?token=000
-228,http://smt.6278992.xyz/trams/2870/playlist.m3u8?token=000
-229,http://smt.6278992.xyz/trams/2871/playlist.m3u8?token=000
-230,http://smt.6278992.xyz/trams/2872/playlist.m3u8?token=000
-231,http://smt.6278992.xyz/trams/2873/playlist.m3u8?token=000
-232,http://smt.6278992.xyz/trams/2874/playlist.m3u8?token=000
-233,http://smt.6278992.xyz/trams/2875/playlist.m3u8?token=000
-234,http://smt.6278992.xyz/trams/2877/playlist.m3u8?token=000
-235,http://smt.6278992.xyz/trams/2878/playlist.m3u8?token=000
-236,http://smt.6278992.xyz/trams/2884/playlist.m3u8?token=000
-237,http://smt.6278992.xyz/trams/2886/playlist.m3u8?token=000
-238,http://smt.6278992.xyz/trams/2887/playlist.m3u8?token=000
-239,http://smt.6278992.xyz/trams/2888/playlist.m3u8?token=000
-240,http://smt.6278992.xyz/trams/2889/playlist.m3u8?token=000
-241,http://smt.6278992.xyz/trams/2890/playlist.m3u8?token=000
-242,http://smt.6278992.xyz/trams/2891/playlist.m3u8?token=000
-243,http://smt.6278992.xyz/trams/2892/playlist.m3u8?token=000
-244,http://smt.6278992.xyz/trams/2893/playlist.m3u8?token=000
-245,http://smt.6278992.xyz/trams/2894/playlist.m3u8?token=000
-246,http://smt.6278992.xyz/trams/2895/playlist.m3u8?token=000
+凤凰卫视,http://smt.6278992.xyz/trams/60/playlist.m3u8?token=000
+鳳凰資訊,http://smt.6278992.xyz/trams/61/playlist.m3u8?token=000
+凤凰香港,http://smt.6278992.xyz/trams/1345/playlist.m3u8?token=000
+TVB 星河台,http://smt.6278992.xyz/trams/1050/playlist.m3u8?token=000
+翡翠台,http://smt.6278992.xyz/trams/1939/playlist.m3u8?token=000
+翡翠台,http://smt.6278992.xyz/trams/2831/playlist.m3u8?token=000
+互動新聞台,http://smt.6278992.xyz/trams/1619/playlist.m3u8?token=000
+J 2,http://smt.6278992.xyz/trams/1615/playlist.m3u8?token=000
+珍珠台,http://smt.6278992.xyz/trams/1617/playlist.m3u8?token=000
+无线财经资讯台,http://smt.6278992.xyz/trams/1820/playlist.m3u8?token=000
+RHK 31,http://smt.6278992.xyz/trams/1823/playlist.m3u8?token=000
+VIUTV1,http://smt.6278992.xyz/trams/1825/playlist.m3u8?token=000
+RHK 32,http://smt.6278992.xyz/trams/2230/playlist.m3u8?token=000
+TVB Asia,http://smt.6278992.xyz/trams/2729/playlist.m3u8?token=000
+TVB Entertainment,http://smt.6278992.xyz/trams/2730/playlist.m3u8?token=000
+千禧经典,http://smt.6278992.xyz/trams/2731/playlist.m3u8?token=000
+Viu6,http://smt.6278992.xyz/trams/2469/playlist.m3u8?token=000
+民视 HD,http://smt.6278992.xyz/trams/2479/playlist.m3u8?token=000
+台视 TTV HD,http://smt.6278992.xyz/trams/744/playlist.m3u8?token=000
+台视综合台,http://smt.6278992.xyz/trams/745/playlist.m3u8?token=000
+台視新聞台 TTV News,http://smt.6278992.xyz/trams/2502/playlist.m3u8?token=000
+中视 HD,http://smt.6278992.xyz/trams/1988/playlist.m3u8?token=000
+中視新聞台,http://smt.6278992.xyz/trams/1989/playlist.m3u8?token=000
+华视 CTS HD,http://smt.6278992.xyz/trams/2032/playlist.m3u8?token=000
+公视 CTV,http://smt.6278992.xyz/trams/530/playlist.m3u8?token=000
+公视2,http://smt.6278992.xyz/trams/2830/playlist.m3u8?token=000
+民視新聞台 FTV News,http://smt.6278992.xyz/trams/746/playlist.m3u8?token=000
+民视台湾台,http://smt.6278992.xyz/trams/2033/playlist.m3u8?token=000
+東森新聞 ETTV News,http://smt.6278992.xyz/trams/544/playlist.m3u8?token=000
+東森財經新聞 ETTV Business,http://smt.6278992.xyz/trams/761/playlist.m3u8?token=000
+东森综合 ETTV Metro,http://smt.6278992.xyz/trams/118/playlist.m3u8?token=000
+东森戏剧 ETTV Drama,http://smt.6278992.xyz/trams/546/playlist.m3u8?token=000
+东森洋片 ETTV Western,http://smt.6278992.xyz/trams/763/playlist.m3u8?token=000
+东森幼幼 Yoyo TV,http://smt.6278992.xyz/trams/969/playlist.m3u8?token=000
+纬来日本台,http://smt.6278992.xyz/trams/2048/playlist.m3u8?token=000
+纬来电影台,http://smt.6278992.xyz/trams/2049/playlist.m3u8?token=000
+纬来体育台,http://smt.6278992.xyz/trams/2051/playlist.m3u8?token=000
+纬来综合台,http://smt.6278992.xyz/trams/2053/playlist.m3u8?token=000
+纬来育乐,http://smt.6278992.xyz/trams/2470/playlist.m3u8?token=000
+纬来精彩,http://smt.6278992.xyz/trams/2472/playlist.m3u8?token=000
+龙华戏剧,http://smt.6278992.xyz/trams/811/playlist.m3u8?token=000
+龙华经典台,http://smt.6278992.xyz/trams/2079/playlist.m3u8?token=000
+龙华偶像,http://smt.6278992.xyz/trams/812/playlist.m3u8?token=000
+龙华洋片 Lunghua Western,http://smt.6278992.xyz/trams/810/playlist.m3u8?token=000
+TVBS新聞台,http://smt.6278992.xyz/trams/738/playlist.m3u8?token=000
+TVBS歡樂台,http://smt.6278992.xyz/trams/1936/playlist.m3u8?token=000
+TVBS HD,http://smt.6278992.xyz/trams/735/playlist.m3u8?token=000
+中天新聞 CTI News,http://smt.6278992.xyz/trams/1923/playlist.m3u8?token=000
+中天娱乐 CTI Entertaiment,http://smt.6278992.xyz/trams/529/playlist.m3u8?token=000
+中天综合 CTI Metro,http://smt.6278992.xyz/trams/741/playlist.m3u8?token=000
+中天亚洲台,http://smt.6278992.xyz/trams/1967/playlist.m3u8?token=000
+八大第一 GTV First,http://smt.6278992.xyz/trams/752/playlist.m3u8?token=000
+八大综合 GTV Metro,http://smt.6278992.xyz/trams/754/playlist.m3u8?token=000
+八大戏剧 GTV Drama,http://smt.6278992.xyz/trams/753/playlist.m3u8?token=000
+八大娱乐 GTV Entertainment,http://smt.6278992.xyz/trams/110/playlist.m3u8?token=000
+三立台湾 Sanli Taiwan,http://smt.6278992.xyz/trams/543/playlist.m3u8?token=000
+三立戏剧台,http://smt.6278992.xyz/trams/2236/playlist.m3u8?token=000
+三立综合 Sanli Metro,http://smt.6278992.xyz/trams/756/playlist.m3u8?token=000
+三立都会台,http://smt.6278992.xyz/trams/2026/playlist.m3u8?token=000
+寰宇新聞台,http://smt.6278992.xyz/trams/2501/playlist.m3u8?token=000
+年代新闻,http://smt.6278992.xyz/trams/825/playlist.m3u8?token=000
+非凡新聞台,http://smt.6278992.xyz/trams/575/playlist.m3u8?token=000
+爱尔达戏剧台,http://smt.6278992.xyz/trams/2043/playlist.m3u8?token=000
+EYETV 旅游,http://smt.6278992.xyz/trams/2100/playlist.m3u8?token=000
+靖天卡通台,http://smt.6278992.xyz/trams/1585/playlist.m3u8?token=000
+靖天国际台,http://smt.6278992.xyz/trams/2018/playlist.m3u8?token=000
+CINEMAX,http://smt.6278992.xyz/trams/496/playlist.m3u8?token=000
+EYETV 戏剧,http://smt.6278992.xyz/trams/2101/playlist.m3u8?token=000
+卫视中文台 Star Movies Chinese,http://smt.6278992.xyz/trams/2078/playlist.m3u8?token=000
+博斯无限,http://smt.6278992.xyz/trams/2087/playlist.m3u8?token=000
+MTV Live,http://smt.6278992.xyz/trams/2046/playlist.m3u8?token=000
+阿里郎 Arirang,http://smt.6278992.xyz/trams/2080/playlist.m3u8?token=000
+博斯运动 1,http://smt.6278992.xyz/trams/2083/playlist.m3u8?token=000
+博斯运动 2,http://smt.6278992.xyz/trams/2084/playlist.m3u8?token=000
+博斯高球2 HD,http://smt.6278992.xyz/trams/2085/playlist.m3u8?token=000
+博斯网球 HD,http://smt.6278992.xyz/trams/2086/playlist.m3u8?token=000
+Elta体育1台,http://smt.6278992.xyz/trams/2871/playlist.m3u8?token=000
+Elta體育2台,http://smt.6278992.xyz/trams/1541/playlist.m3u8?token=000
+Elta體育3台,http://smt.6278992.xyz/trams/2578/playlist.m3u8?token=000
+iNews 互動新聞台,http://smt.6278992.xyz/trams/1619/playlist.m3u8?token=000
+DAZN 1,http://smt.6278992.xyz/trams/2869/playlist.m3u8?token=000
+DAZN 2,http://smt.6278992.xyz/trams/2870/playlist.m3u8?token=000
+探索频道,http://smt.6278992.xyz/trams/2878/playlist.m3u8?token=000
+DW,http://smt.6278992.xyz/trams/440/playlist.m3u8?token=000
+好消息 2,http://smt.6278992.xyz/trams/2023/playlist.m3u8?token=000
+大爱1台,http://smt.6278992.xyz/trams/550/playlist.m3u8?token=000
+大爱2台,http://smt.6278992.xyz/trams/508/playlist.m3u8?token=000
+亚洲美食,http://smt.6278992.xyz/trams/2035/playlist.m3u8?token=000
+亚洲旅游 TLC Asia,http://smt.6278992.xyz/trams/2055/playlist.m3u8?token=000
+WWE,http://smt.6278992.xyz/trams/1922/playlist.m3u8?token=000
+Astrol Kplus,http://smt.6278992.xyz/trams/2697/playlist.m3u8?token=000
+One,http://smt.6278992.xyz/trams/2294/playlist.m3u8?token=000
+AEC,http://smt.6278992.xyz/trams/38/playlist.m3u8?token=000
+AOD,http://smt.6278992.xyz/trams/2688/playlist.m3u8?token=000
+华丽台 HD,http://smt.6278992.xyz/trams/1077/playlist.m3u8?token=000
+欢喜台 HD,http://smt.6278992.xyz/trams/1076/playlist.m3u8?token=000
+Astro QJ,http://smt.6278992.xyz/trams/1623/playlist.m3u8?token=000
+TVB Jade,http://smt.6278992.xyz/trams/2728/playlist.m3u8?token=000
+爱奇艺 iQiyi,http://smt.6278992.xyz/trams/1889/playlist.m3u8?token=000
+
+斯玛特2,#genre#,DE=3
+凤凰卫视,http://103.193.151.159/smt.php/smt/60
+鳳凰資訊,http://103.193.151.159/smt.php/smt/61
+凤凰香港,http://103.193.151.159/smt.php/smt/1345
+TVB 星河台,http://103.193.151.159/smt.php/smt/1050
+翡翠台,http://103.193.151.159/smt.php/smt/1939
+翡翠台,http://103.193.151.159/smt.php/smt/2831
+互動新聞台,http://103.193.151.159/smt.php/smt/1619
+J 2,http://103.193.151.159/smt.php/smt/1615
+珍珠台,http://103.193.151.159/smt.php/smt/1617
+无线财经资讯台,http://103.193.151.159/smt.php/smt/1820
+RHK 31,http://103.193.151.159/smt.php/smt/1823
+VIUTV1,http://103.193.151.159/smt.php/smt/1825
+RHK 32,http://103.193.151.159/smt.php/smt/2230
+TVB Asia,http://103.193.151.159/smt.php/smt/2729
+TVB Entertainment,http://103.193.151.159/smt.php/smt/2730
+千禧经典,http://103.193.151.159/smt.php/smt/2731
+Viu6,http://103.193.151.159/smt.php/smt/2469
+民视 HD,http://103.193.151.159/smt.php/smt/2479
+台视 TTV HD,http://103.193.151.159/smt.php/smt/744
+台视综合台,http://103.193.151.159/smt.php/smt/745
+台視新聞台 TTV News,http://103.193.151.159/smt.php/smt/2502
+中视 HD,http://103.193.151.159/smt.php/smt/1988
+中視新聞台,http://103.193.151.159/smt.php/smt/1989
+华视 CTS HD,http://103.193.151.159/smt.php/smt/2032
+公视 CTV,http://103.193.151.159/smt.php/smt/530
+公视2,http://103.193.151.159/smt.php/smt/2830
+民視新聞台 FTV News,http://103.193.151.159/smt.php/smt/746
+民视台湾台,http://103.193.151.159/smt.php/smt/2033
+東森新聞 ETTV News,http://103.193.151.159/smt.php/smt/544
+東森財經新聞 ETTV Business,http://103.193.151.159/smt.php/smt/761
+东森综合 ETTV Metro,http://103.193.151.159/smt.php/smt/118
+东森戏剧 ETTV Drama,http://103.193.151.159/smt.php/smt/546
+东森洋片 ETTV Western,http://103.193.151.159/smt.php/smt/763
+东森幼幼 Yoyo TV,http://103.193.151.159/smt.php/smt/969
+纬来日本台,http://103.193.151.159/smt.php/smt/2048
+纬来电影台,http://103.193.151.159/smt.php/smt/2049
+纬来体育台,http://103.193.151.159/smt.php/smt/2051
+纬来综合台,http://103.193.151.159/smt.php/smt/2053
+纬来育乐,http://103.193.151.159/smt.php/smt/2470
+纬来精彩,http://103.193.151.159/smt.php/smt/2472
+龙华戏剧,http://103.193.151.159/smt.php/smt/811
+龙华经典台,http://103.193.151.159/smt.php/smt/2079
+龙华偶像,http://103.193.151.159/smt.php/smt/812
+龙华洋片 Lunghua Western,http://103.193.151.159/smt.php/smt/810
+TVBS新聞台,http://103.193.151.159/smt.php/smt/738
+TVBS歡樂台,http://103.193.151.159/smt.php/smt/1936
+TVBS HD,http://103.193.151.159/smt.php/smt/735
+中天新聞 CTI News,http://103.193.151.159/smt.php/smt/1923
+中天娱乐 CTI Entertaiment,http://103.193.151.159/smt.php/smt/529
+中天综合 CTI Metro,http://103.193.151.159/smt.php/smt/741
+中天亚洲台,http://103.193.151.159/smt.php/smt/1967
+八大第一 GTV First,http://103.193.151.159/smt.php/smt/752
+八大综合 GTV Metro,http://103.193.151.159/smt.php/smt/754
+八大戏剧 GTV Drama,http://103.193.151.159/smt.php/smt/753
+八大娱乐 GTV Entertainment,http://103.193.151.159/smt.php/smt/110
+三立台湾 Sanli Taiwan,http://103.193.151.159/smt.php/smt/543
+三立戏剧台,http://103.193.151.159/smt.php/smt/2236
+三立综合 Sanli Metro,http://103.193.151.159/smt.php/smt/756
+三立都会台,http://103.193.151.159/smt.php/smt/2026
+寰宇新聞台,http://103.193.151.159/smt.php/smt/2501
+年代新闻,http://103.193.151.159/smt.php/smt/825
+非凡新聞台,http://103.193.151.159/smt.php/smt/575
+爱尔达戏剧台,http://103.193.151.159/smt.php/smt/2043
+EYETV 旅游,http://103.193.151.159/smt.php/smt/2100
+靖天卡通台,http://103.193.151.159/smt.php/smt/1585
+靖天国际台,http://103.193.151.159/smt.php/smt/2018
+CINEMAX,http://103.193.151.159/smt.php/smt/496
+EYETV 戏剧,http://103.193.151.159/smt.php/smt/2101
+卫视中文台 Star Movies Chinese,http://103.193.151.159/smt.php/smt/2078
+博斯无限,http://103.193.151.159/smt.php/smt/2087
+MTV Live,http://103.193.151.159/smt.php/smt/2046
+阿里郎 Arirang,http://103.193.151.159/smt.php/smt/2080
+博斯运动 1,http://103.193.151.159/smt.php/smt/2083
+博斯运动 2,http://103.193.151.159/smt.php/smt/2084
+博斯高球2 HD,http://103.193.151.159/smt.php/smt/2085
+博斯网球 HD,http://103.193.151.159/smt.php/smt/2086
+Elta体育1台,http://103.193.151.159/smt.php/smt/2871
+Elta體育2台,http://103.193.151.159/smt.php/smt/1541
+Elta體育3台,http://103.193.151.159/smt.php/smt/2578
+iNews 互動新聞台,http://103.193.151.159/smt.php/smt/1619
+DAZN 1,http://103.193.151.159/smt.php/smt/2869
+DAZN 2,http://103.193.151.159/smt.php/smt/2870
+探索频道,http://103.193.151.159/smt.php/smt/2878
+DW,http://103.193.151.159/smt.php/smt/440
+好消息 2,http://103.193.151.159/smt.php/smt/2023
+大爱1台,http://103.193.151.159/smt.php/smt/550
+大爱2台,http://103.193.151.159/smt.php/smt/508
+亚洲美食,http://103.193.151.159/smt.php/smt/2035
+亚洲旅游 TLC Asia,http://103.193.151.159/smt.php/smt/2055
+WWE,http://103.193.151.159/smt.php/smt/1922
+Astrol Kplus,http://103.193.151.159/smt.php/smt/2697
+One,http://103.193.151.159/smt.php/smt/2294
+AEC,http://103.193.151.159/smt.php/smt/38
+AOD,http://103.193.151.159/smt.php/smt/2688
+华丽台 HD,http://103.193.151.159/smt.php/smt/1077
+欢喜台 HD,http://103.193.151.159/smt.php/smt/1076
+Astro QJ,http://103.193.151.159/smt.php/smt/1623
+TVB Jade,http://103.193.151.159/smt.php/smt/2728
+爱奇艺 iQiyi,http://103.193.151.159/smt.php/smt/1889
 
 抖音直播,#genre#,DE=3
 水水家猪蹄,http://live.iill.top/douyin/ssjzt777
