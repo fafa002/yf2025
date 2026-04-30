@@ -510,6 +510,7 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 极速NOW,#genre#,DE=3
+翡翠台,https://flv-play.clouda.com/live/fc-oG2vUiheKLJzdVprWHCECxdMNCOog9HMxnt6IoIZG07iNnIYLtElHP4EpcB9tiErfUyqWLD2NQ5zlbYxAFHiNt.flv
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
