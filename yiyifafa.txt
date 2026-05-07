@@ -1164,21 +1164,21 @@ HBO POP HD,http://nor3live.win:80/livehttpplay?channel_id=23362
 HBO EXTREME HD,http://nor3live.win:80/livehttpplay?channel_id=23363
 
 抖音直播,#genre#,DE=3
-水水家猪蹄,http://live.iill.top/douyin/ssjzt777
-格格睡醒了,http://live.iill.top/douyin/42347122605
-晓晓,http://live.iill.top/douyin/147258247158d
-朱朱,http://live.iill.top/douyin/36914825720a
-爱播,http://live.iill.top/douyin/72601999700
-解腻小馋猫,http://live.iill.top/douyin/57441738759
-曲琦,http://live.iill.top/douyin/87903335725
-清茶,http://live.iill.top/douyin/92367486793
-是安安吖,http://live.iill.top/douyin/anan20050512
-阿米Dol,http://live.iill.top/douyin/59123141128
-Y不歪,http://live.iill.top/douyin/49739112236
-蜡笔小瑶,http://live.iill.top/douyin/75636233170
-火鸡面梦女,http://live.iill.top/douyin/45652007446
-珍妮玛士多,http://live.iill.top/douyin/204336008
-不是陈cc,http://live.iill.top/douyin/91841348504
+水水家猪蹄,https://cdn-3.ttvb.eu.org/douyin/ssjzt777
+格格睡醒了,https://cdn-3.ttvb.eu.org/douyin/42347122605
+晓晓,https://cdn-3.ttvb.eu.org/douyin/147258247158d
+朱朱,https://cdn-3.ttvb.eu.org/douyin/36914825720a
+爱播,https://cdn-3.ttvb.eu.org/douyin/72601999700
+解腻小馋猫,https://cdn-3.ttvb.eu.org/douyin/57441738759
+曲琦,https://cdn-3.ttvb.eu.org/douyin/87903335725
+清茶,https://cdn-3.ttvb.eu.org/douyin/92367486793
+是安安吖,https://cdn-3.ttvb.eu.org/douyin/anan20050512
+阿米Dol,https://cdn-3.ttvb.eu.org/douyin/59123141128
+Y不歪,https://cdn-3.ttvb.eu.org/douyin/49739112236
+蜡笔小瑶,https://cdn-3.ttvb.eu.org/douyin/75636233170
+火鸡面梦女,https://cdn-3.ttvb.eu.org/douyin/45652007446
+珍妮玛士多,https://cdn-3.ttvb.eu.org/douyin/204336008
+不是陈cc,https://cdn-3.ttvb.eu.org/douyin/91841348504
 
 央视网,http://cfss.cc/cdn/dy/cctv.com.flv
 小央视频,http://cfss.cc/cdn/dy/cctv_video.flv
