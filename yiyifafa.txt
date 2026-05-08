@@ -511,6 +511,9 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 
 极速NOW,#genre#
 翡翠台,https://flv-play.clouda.com/live/fc-oG2vUiheKLJzdVprWHCECxdMNCOog9HMxnt6IoIZG07iNnIYLtElHP4EpcB9tiErfUyqWLD2NQ5zlbYxAFHiNt.flv
+无线新闻,https://flv-play.clouda.com/live/wxxw-PrjYXHNt8mryMgEqtujqXAFlhFyikJj6FxMLBgaPIvfG8jFcYPL1RDavsEcwOc7teWgx4EwkFM9xphPmgWpNN4.flv
+TVB plus,https://flv-play.clouda.com/live/tvb-2VHDPgWQ8xRwBFCabyiXImeAHX2KhGA3QCIqMzGFsc0lipfw0Pw9wNG6qOG8LADAiIEGqo9DbPIdLsxBxyFpNA.flv
+明珠台,https://flv-play.clouda.com/live/mz-dnyjgkXIxzCPvOCTONq8y8kIGcBB5GC4Kx9LOcL6lz8omT5vej9YY3gaCDTOndbkl9UQUGJvriuccFaiCTplkj.flv
 Now爆谷,rtmp://8.149.234.17/live/xianajiaoge-bg
 Now星影,rtmp://8.149.234.17/live/xianajiaoge-xy
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
