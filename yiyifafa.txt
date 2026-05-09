@@ -722,97 +722,243 @@ DayStar,http://clawcloud.goiptv.de5.net/litv.php?id=daystar&token=xiatianshigou
 龍華經典台,http://clawcloud.goiptv.de5.net/litv.php?id=litv-xinchuang21&token=xiatianshigou
 豬哥亮歌廳秀,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv006&token=xiatianshigou
 
-安博有线,#genre#
-翡翠台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D66dd1b8b%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd524d6abb36143066cd87fe76d6fbecc
-翡翠台 (Back up 1),http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWgyzCqbx5qejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77cf2410%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De6138dc56bb55f5451e1c6f5ac251f16
-iNews 互動新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWe4zZ6lZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dab1e6c95%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D1207432b85b743217c5efc5a5351505e
-J 2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWG7ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D7d8966df%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D19e4015bd2bc53cdb210311a57855e1d
-珍珠台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNteQZJ8ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D0a0909d3%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dded8c42fc5089769e5368dc4098ae1f8
-凤凰香港,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWykpCyuzUIgxsfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dbbfc00f5%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D0e00696c530d3706a8eb48211bc7a265
-无线财经资讯台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyuxUnyvUggVR6b6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6663ce6a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D944927398b08ae04994e4194dea30a4a
-RHK 31,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNJGvld2ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dc23c833a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dfd0926fe38c606f79c7b98df36cde5e5
-VIUTV1,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzg6Psb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6f2f82df%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Da914a1a14a93475d62afdf7601d17f09
-RHK 32,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNJGvld7ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D4ce7d4c1%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc7e8fd54a3cd67694b63744fdcf3c498
-Viu6,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzg6ZngxsfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da2a168ca%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D362eb1b2cf67d2ee462c7cab79710d7d
-TVBS 歡樂台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSWQcnG6Us4VCqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D9722e90c%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D64cafce61222ccd1f4be7725817ff80e
-TVBS HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSWQcdupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D5f391df5%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D515a9882f16da1a42bc3b281b5c12498
-中天娱乐 CTI Entertaiment,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBvUq46ifOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D21641458%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dfd1b467c6ce9f5e3a0e9534f0cec8c74
-中天综合 CTI Metro,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBvZgGVWIcvC0upC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77b69691%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D85f1f30dd81b085f24c1b322b849e0d6
-中天亚洲台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBvUslvUsb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D475d1196%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D17410706f96a7c182df16a522aa20415
-台视 TTV HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSB6efBQUeNQUhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D36a6b6c9%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D21b0c4a37a7b98a7a0055318ee6a1be3
-台视综合台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSB6cgGVWIcvC0upC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D114849e7%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D7dc345a8ec5b8e5dd21f9658f98dee9f
-中视 HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNgGVWIcpWygvCSb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D50f5cfe5%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd19c85442aba5f4aff05236d0884f3c3
-民视 HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWzB6Ry9ZNSyvZ6yVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dbdec545f%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Def8cecdb31ccd6e2b70fe71a98f213c0
-民视台湾台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWzB6cSyvZ6yVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D31ed21ec%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D124b32818d75e323c00fc6c83384d767
-华视 CTS HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBpWy9ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D39f4ac90%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D60756d87d462e2fc4fdfe1be2320ea30
-公视 CTV,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnB6LThZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcfe6b318%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dad1b5a01838543e10525b6f77fde4668
-八大第一 GTV First,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJyzCsRvZJl6ifOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcd0e961c%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D47132cd6145e69f2d290e1e45c620dd6
-八大综合 GTV Metro,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJyzCsovCf4zWyejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da08b3b9a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D1c976f544632a0ec51217d1ed4403ebe
-八大戏剧 GTV Drama,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJyzCs9pRsMQ3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D78010431%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Db4dbdbe8aa1cce8da95c92b143cb58bd
-八大娱乐 GTV Entertainment,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJyzCseVcSepcSyvUhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D5919965f%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D84a0dc71b30e1908a911081007fc8326
-HBO_HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyrVWy9ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dbfffa527%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D195b138bf2b52676288a647886d17260
-HBO_HITS,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyrVWyg65nb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D77e3b837%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D6de62effdb810a7d4b1553ec310fccb8
-HBO Signature Taiwan,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyrVNngzWIy65q7zqfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D02e79006%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dcd1bd40640381970d6d2b9e644edec1b
-Hollywood Movies,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyuVC2I6WfuzCau6ReepafB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D8182fdf3%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D78f7f8824f14b0701be9e2ab923b07d4
-三立台湾 Sanli Taiwan,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNnyVR2g6Csg6Ws4jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Ddee2fdb7%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D513de349d2eefd803b9f7232e9c0254c
-三立戏剧台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNnyVR2gxCeK6qfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D910a6105%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D61774b33ecc98db0a8e76ca2f8219b46
-三立综合 Sanli Metro,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNnyVR2gxRyuVR6Gz3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D4a2ee3b6%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D1f5527657917ce852f19eec28880d5cf
-三立都会台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNnyVR2gzCfav5qgZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D35d205b2%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D2eaad47eb7b510c0999694223da3031c
-东森综合 ETTV Metro,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65zovCf4zWyejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D8a5b1b54%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D99c6ecdda93af588836ae8605ffc9344
-东森戏剧 ETTV Drama,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65z9pRsMQ3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D239febfc%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D86fc1fa146db9138c33aa20b3e9e327c
-公视2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnB6LJb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D430f8d0e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D59d82392347aaafc6cc34d2c045f26e6
-大爱1台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSyQUeb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcb374eb1%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D5b9818efdf84b3f35e0130518e2afad7
-龙华戏剧 Lunghua Drama,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6G6UshvUgaZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dc2c68a2e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D2a2535062a82a5cdb51cafea66c62297
-龙华经典台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6G6UsKvUIczCeyVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da451db63%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D02ee56d787c980d3b47ae4d8e67e96ca
-龙华偶像,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6G6UsgzCf8ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dd4507485%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D1ea87c71fbe4b3df7ef6055e76547209
-AXN Taiwan,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWshVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Df9bca585%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D7450dcec3ce55315c08d1ca81aa64207
-靖天国际台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWggVR6BvUs4vUIBVsfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D02bdc1b8%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De8e3664d97f9e37b969cc45f514bf5e1
-CINEMAX,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWngVRqMQZyb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Db59c1eec%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D019167fa0a1b31e37fb288c336906ed6
-年代新闻,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWIgQUI9QUe4zZ6lZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dd7e68478%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D60a7e0269bf1a4406e2dc9c26f361874
-纬来日本台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4zCgypCs4jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcd089dc1%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc540174b5b4e931d5c452279218b39b5
-纬来电影台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4zCau6ReejNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dd49ddeed%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D5e86ec4bcbe9b5bfa148a67b1d296018
-纬来体育台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4z5nOVNJBjNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D0cb24743%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D8a6be72c0b855d829575727746b33784
-纬来综合台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4z5guVR6Gz3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D5d9da596%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc788bf80d507d0123e28606f103313d1
-纬来育乐,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4zCayxifOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D9dc6991a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Da0fa570986d0efe1a2c424eaaaab1e36
-纬来精彩,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNzgzCquVCs4z5SWjNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da9ac9791%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Daabe245d8d85f169402695ed0d36638e
-DW (Deutsch),http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSNZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D968450a9%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D3b8b551461ef0e3fce5b746c995f7afa
-好消息 2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW6uVW_7ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D771062cc%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc2f1132eefb3cba321a29fc7ca6eafc7
-大爱2台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSyQU97ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D3c327d05%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Db55187edf39a89a58d14f03d5579abcd
-亚洲美食,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWsRQafB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dad39ce0c%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D5277b44d3004567042ed7fea0da793c4
-亚洲旅游 TLC Asia,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNS8QafB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D10286c50%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D9d6263698212d9acdcd19635fa7ba9dd
-东森电影 ETTV Movie,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65zMVNzgz3fOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3De1335a78%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D81c337499a2290f789d72cdefb2e34bd
-阿里郎 Arirang,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWs7vZJyVR6b6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D10783999%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dba20460bb7814d47dee81ecdbf3e354b
-博斯运动 1,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWelpCf76Esb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D32f7230e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd6dbfd4fb0b2a338f2edf317271b6df6
-博斯运动 2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWelpCf76EJb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6f8de51e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Df68b7c6d0fbb99461a5f3dab2c646013
-博斯高球2 HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWecVW2RdefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D69e99e2e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D577a3dd89879580be002d517e01070a3
-博斯网球 HD,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWeBzUI4vZnb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da63049c9%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Db1ebf05fdae16a02d232b2bbb1156b77
-东森洋片 ETTV Western,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65zNzZnBzZJ4jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D3880bcac%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Da42fddd282d60d9a284c3df90bd249a5
-龙华洋片 Lunghua Western,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6G6UsNzZnBzZJ4ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D1a064186%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dbf18af30efa479d7ebbd20361c4fa9d4
-博斯无限,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWJupWeaVR2gVUeBzUSb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D7db2541a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dbde5bae5b0cfc34d03a10a7a79556cb8
-MTV Live,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWaB6Ry9ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D2b008d24%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dce980cffeb07e9271c626b5c494735a4
-龙详时代,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjW2aVR6hvUs4zNSgVUqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D4e4297e3%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dfe8508c49e23ce7de40481513e49469b
-EYETV 旅游,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqIzZSW65Jy6Rq8ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D74b57f34%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D37f2e24910909dcc066d55c901f55714
-靖天卡通台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWggVR6BvUs4QWs76CfuVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D97867f57%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D8c61c5639d625f68a91fe021815662ae
-EYETV 戏剧,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqIzZSWxCeK6qfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Daeea321a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Db8fee275d0777d5eb354ad7fe0a98085
-卫视中文台 Star Movies Chinese,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjN6evZnGvUnGvUIepWqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D74356086%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D03afea680c2d36c9b05466e649b188f7
-东森幼幼 Yoyo TV,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNeuxUfb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D0b2f61e8%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D855f412906ccb171b1be88a6803449f4
-美亚电影,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWaevZeyVUfWvUqb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D6ba8677e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Daa5468953c8596a7ad2c93ed23082178
-爱尔达戏剧台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWq86Cs9pRsMQqfB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D1e28c122%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D22fcfc0e35bc0d8f9750c2cf3f2c1fe4
-TVBS News 新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSWQcnbVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Db2bde892%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D21fa32458e69b421253d58699f2456b3
-東森新聞 ETTV News,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65z4zZ6ljNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Ddc5da557%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc8991f0cec5a67a277df5c5af872eede
-東森財經新聞 ETTV Business,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWqB65zLQUeKvUIcZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D2b4f161a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D06c51be01d6768c3f71a63275e2592c8
-非凡新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWzevUzyVRIe6Nnb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Da2913fb3%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D7fc1381d6d0f457f6a77fae4834dcd27
-中天新聞 CTI News,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWnBvUIe6NdupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D8ef2da1f%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dcb01702eb2abac64a5c0ece6e0c3964d
-台視新聞台 TTV News,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNSB6RIe6Nnb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D4752334e%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3De8587cb5c0d5d39683550e3ff0fbde3a
-Elta体育1台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWq86CslpCf76Esb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dea3975b6%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D44c564b6d0e6625d3fa1b50025ac1616
-Elta體育2台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWq86CslpCf76EJb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3De912b5d7%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dc81fab4861afef6defde8c074ff8a375
-Elta體育3台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWq86CslpCf76Enb6564jNt8QZe8vZnBjRBl6PF&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D0de98d40%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D4a9a14e8b45d3672a9b76159394350ab
-民視新聞台 FTV News,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWzB6RIe6afBQUeNQUhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D9d2ab8e4%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd50c570f94364170c9e9dba3d51a3251
-寰宇新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWyaQUII6ZygVc6eVefB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dfaf6156a%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Dd22003d207d7089418809cc05bd78c17
-中視新聞台,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjNgGVWIcpWygVRqNpafB6WhupC2yxU2gpN_4VPnaAm&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dcbb49495%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D58e55db81c488ff88ba85dc0b2b13fed
-DAZN 1,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSyxRh2ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D04fa4a23%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D0b3718b101d71e0bb28e5a5598f2ab4c
-DAZN 2,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSyxRh7ZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3Dedf16398%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3D49bd1395ffc9d18f8c59f22256c9a9b6
-探索频道,http://dbmlasvgas.sylu.cc:8080/smt.php?id=lr/dLQOnPmNjWSgpWnu6Rq7xUnGZNSNVrfOVCsIVCel6iIMdN0h&h=dbmlasvgas.sylu.cc&p=18081&q=cu%3D881505fa%26cd%3D94f3831d%26cp%3D5159f05c%26cn%3D5e292d03%26rp%3DdLmajLThn3h2dLQ4dPd2%26tid%3Dm9c00d3e4b8fb%26tsum%3Df71f17da2e26d180f9d6d9e628f92250
+TVH有线,#genre#
+港台電視 31,http://123.202.221.184:9983/stream/channelid/512708317?ticket=2ea930611b8b1d9b9c53d1baa9c6a41a163e4d9c&profile=pass
+港台電視 32,http://123.202.221.184:9983/stream/channelid/1947359012?ticket=1bf4fb67a48730228afa1b2c10a57177bbe5060b&profile=pass
+中央電視台綜合頻道（CCTV-1綜合),http://123.202.221.184:9983/stream/channelid/962050687?ticket=bb950973a308a13f5e9a4cd248377d7b8f9d379e&profile=pass
+*HOY TV,http://123.202.221.184:9983/stream/channelid/1771268893?ticket=1d77cf8dd2558f1a4b25822667c56ff8f089dd62&profile=pass
+*HOY 資訊台,http://123.202.221.184:9983/stream/channelid/1393968513?ticket=d8b26a8309d156f1f37f660c4aea6b7d8341e069&profile=pass
+*HOY 國際財經台,http://123.202.221.184:9983/stream/channelid/794554145?ticket=63a0d99a4f730bc29b4cf20f9c98cee536af2d41&profile=pass
+翡翠台,http://123.202.221.184:9983/stream/channelid/1425740866?ticket=0ba2bac5e9f9d0df93730a680482401330e60f6a&profile=pass
+TVB Plus,http://123.202.221.184:9983/stream/channelid/2082072924?ticket=f244f1d29def0c4f6e0e338891c90477539037f5&profile=pass
+無綫新聞台,http://123.202.221.184:9983/stream/channelid/2051586642?ticket=9d01cfc0e561544102db569f45dd26280e75c231&profile=pass
+明珠台,http://123.202.221.184:9983/stream/channelid/1803382046?ticket=cf6542625c88dbab6258ba7adb2fad10aa38efae&profile=pass
+鳳凰衛視香港台,http://123.202.221.184:9983/stream/channelid/1781676223?ticket=10c16c126f746af478f5fc228dff32c1930ded37&profile=pass
+ViuTVsix,http://123.202.221.184:9983/stream/channelid/2134513294?ticket=c56f07651406bbd211db6c63bebe0a7cb6dddd7f&profile=pass
+ViuTV,http://123.202.221.184:9983/stream/channelid/1336932033?ticket=33f04afcb774c8aae40ff481352ddbcd6d914026&profile=pass
+
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+TVB Plus,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+鳳凰衛視香港台,http://bziyunshao.synology.me:8890/bysid/85
+*HOY 國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+*HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+中央電視台綜合頻道（CCTV-1綜合),http://bziyunshao.synology.me:8892/bysid/33
+
+明珠台,http://zwg6818.vicp.net:28000/bysid/2
+TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
+無綫新聞台,http://zwg6818.vicp.net:28000/bysid/83
+鳳凰衛視香港台,http://zwg6818.vicp.net:28000/bysid/85
+
+CCTV1,http://clnas0001.top:9981/stream/channelid/1644429989?profile=pass
+CCTV2,http://clnas0001.top:9981/stream/channelid/151327893?profile=pass
+CCTV3,http://clnas0001.top:9981/stream/channelid/1149350553?profile=pass
+CCTV4,http://clnas0001.top:9981/stream/channelid/409039125?profile=pass
+CCTV5,http://clnas0001.top:9981/stream/channelid/1406818519?profile=pass
+CCTV6,http://clnas0001.top:9981/stream/channelid/136551173?profile=pass
+CCTV7,http://clnas0001.top:9981/stream/channelid/789031216?profile=pass
+CCTV8,http://clnas0001.top:9981/stream/channelid/299838124?profile=pass
+CCTV9,http://clnas0001.top:9981/stream/channelid/1719683045?profile=pass
+CCTV10,http://clnas0001.top:9981/stream/channelid/1423095694?profile=pass
+CCTV11,http://clnas0001.top:9981/stream/channelid/1467234848?profile=pass
+CCTV12,http://clnas0001.top:9981/stream/channelid/1864939799?profile=pass
+CCTV13,http://clnas0001.top:9981/stream/channelid/2090632621?profile=pass
+CCTV14,http://clnas0001.top:9981/stream/channelid/1439446400?profile=pass
+CCTV15,http://clnas0001.top:9981/stream/channelid/226737819?profile=pass
+CCTV5+,http://clnas0001.top:9981/stream/channelid/766097598?profile=pass
+CCTV17,http://clnas0001.top:9981/stream/channelid/1798704314?profile=pass
+4K乐享超清专区,http://clnas0001.top:9981/stream/channelid/158479548?profile=pass
+4K少儿专区,http://clnas0001.top:9981/stream/channelid/1623972449?profile=pass
+4K纪实专区,http://clnas0001.top:9981/stream/channelid/692129963?profile=pass
+4K视界专区,http://clnas0001.top:9981/stream/channelid/1192909080?profile=pass
+CCTV4K超高清,http://clnas0001.top:9981/stream/channelid/690307528?profile=pass
+东方卫视4K超高清,http://clnas0001.top:9981/stream/channelid/1248517242?profile=pass
+亲子趣学4K专区,http://clnas0001.top:9981/stream/channelid/1038400597?profile=pass
+北京卫视4K超高清,http://clnas0001.top:9981/stream/channelid/1480951990?profile=pass
+北京卫视4K超高清,http://clnas0001.top:9981/stream/channelid/662033263?profile=pass
+四川卫视4K超高清,http://clnas0001.top:9981/stream/channelid/923108987?profile=pass
+山东卫视4K超高清,http://clnas0001.top:9981/stream/channelid/224133703?profile=pass
+广东卫视4K超高清,http://clnas0001.top:9981/stream/channelid/148176740?profile=pass
+江苏卫视4K超高清,http://clnas0001.top:9981/stream/channelid/94323415?profile=pass
+浙江卫视4K超高清,http://clnas0001.top:9981/stream/channelid/214075293?profile=pass
+深圳卫视4K超高清（50P）,http://clnas0001.top:9981/stream/channelid/1717047522?profile=pass
+湖南卫视4K超高清,http://clnas0001.top:9981/stream/channelid/460386344?profile=pass
+爱上4K专区,http://clnas0001.top:9981/stream/channelid/2095311381?profile=pass
+绚影4K专区,http://clnas0001.top:9981/stream/channelid/345274984?profile=pass
+凤凰卫视中文台,http://clnas0001.top:9981/stream/channelid/2064247055?profile=pass
+凤凰卫视资讯台,http://clnas0001.top:9981/stream/channelid/2121009931?profile=pass
+星空卫视,http://clnas0001.top:9981/stream/channelid/1901935715?profile=pass
+CHANNELV,http://clnas0001.top:9981/stream/channelid/1771266480?profile=pass
+凤凰卫视香港台,http://clnas0001.top:9981/stream/channelid/708226058?profile=pass
+亚洲新闻台,http://clnas0001.top:9981/stream/channelid/1611434059?profile=pass
+ARIRANGTV,http://clnas0001.top:9981/stream/channelid/781054328?profile=pass
+NHKWORLDJPN,http://clnas0001.top:9981/stream/channelid/727527010?profile=pass
+DW,http://clnas0001.top:9981/stream/channelid/1570753547?profile=pass
+卡塔尔半岛电视台,http://clnas0001.top:9981/stream/channelid/1740806967?profile=pass
+TRTWORLDHD,http://clnas0001.top:9981/stream/channelid/995659942?profile=pass
+KARTOONCHANNEL,http://clnas0001.top:9981/stream/channelid/1797065406?profile=pass
+CGTN,http://clnas0001.top:9981/stream/channelid/330603301?profile=pass
+CGTN,http://clnas0001.top:9981/stream/channelid/489113662?profile=pass
+CGTN法语,http://clnas0001.top:9981/stream/channelid/785551730?profile=pass
+星空国际,http://clnas0001.top:9981/stream/channelid/2057589667?profile=pass
+动漫秀场,http://clnas0001.top:9981/stream/channelid/1912852200?profile=pass
+卡酷少儿,http://clnas0001.top:9981/stream/channelid/1796633409?profile=pass
+嘉佳卡通,http://clnas0001.top:9981/stream/channelid/85484277?profile=pass
+宝宝动画专区,http://clnas0001.top:9981/stream/channelid/1999641850?profile=pass
+江苏优漫卡通,http://clnas0001.top:9981/stream/channelid/1028343845?profile=pass
+金鹰卡通,http://clnas0001.top:9981/stream/channelid/1815549618?profile=pass
+青春动漫专区,http://clnas0001.top:9981/stream/channelid/654623691?profile=pass
+求索纪录,http://clnas0001.top:9981/stream/channelid/729762286?profile=pass
+CHC动作电影,http://clnas0001.top:9981/stream/channelid/1743737274?profile=pass
+CHC家庭影院,http://clnas0001.top:9981/stream/channelid/1234614713?profile=pass
+CHC影迷电影,http://clnas0001.top:9981/stream/channelid/730467663?profile=pass
+东方财经高清,http://clnas0001.top:9981/stream/channelid/1267487368?profile=pass
+中国交通,http://clnas0001.top:9981/stream/channelid/152732606?profile=pass
+中国天气,http://clnas0001.top:9981/stream/channelid/235773020?profile=pass
+乐游,http://clnas0001.top:9981/stream/channelid/1238213264?profile=pass
+乐龄学堂专区,http://clnas0001.top:9981/stream/channelid/34331367?profile=pass
+书画频道,http://clnas0001.top:9981/stream/channelid/1499121174?profile=pass
+健康养生专区,http://clnas0001.top:9981/stream/channelid/141417436?profile=pass
+先锋乒羽,http://clnas0001.top:9981/stream/channelid/779451772?profile=pass
+全球大片专区,http://clnas0001.top:9981/stream/channelid/332628978?profile=pass
+军事高清专区,http://clnas0001.top:9981/stream/channelid/618926742?profile=pass
+华语影院专区,http://clnas0001.top:9981/stream/channelid/1201361962?profile=pass
+四海钓鱼,http://clnas0001.top:9981/stream/channelid/1612342284?profile=pass
+地理高清专区,http://clnas0001.top:9981/stream/channelid/859884507?profile=pass
+墨宝高清专区,http://clnas0001.top:9981/stream/channelid/1391939423?profile=pass
+大爱四川高清专区,http://clnas0001.top:9981/stream/channelid/1261252106?profile=pass
+大爱旅游高清专区,http://clnas0001.top:9981/stream/channelid/359176666?profile=pass
+大爱时尚高清专区,http://clnas0001.top:9981/stream/channelid/1725624486?profile=pass
+大爱生活高清专区,http://clnas0001.top:9981/stream/channelid/1652812863?profile=pass
+天元围棋,http://clnas0001.top:9981/stream/channelid/1429204105?profile=pass
+家庭理财,http://clnas0001.top:9981/stream/channelid/386524971?profile=pass
+导视专区,http://clnas0001.top:9981/stream/channelid/281849946?profile=pass
+少儿动画高清专区,http://clnas0001.top:9981/stream/channelid/1054368403?profile=pass
+少儿天地专区,http://clnas0001.top:9981/stream/channelid/1529920639?profile=pass
+快乐垂钓,http://clnas0001.top:9981/stream/channelid/1393741815?profile=pass
+戏曲专区,http://clnas0001.top:9981/stream/channelid/1777238170?profile=pass
+戏曲精选专区,http://clnas0001.top:9981/stream/channelid/194193951?profile=pass
+收视指南专区,http://clnas0001.top:9981/stream/channelid/1381259998?profile=pass
+星光院线专区,http://clnas0001.top:9981/stream/channelid/482825087?profile=pass
+来钓鱼吧专区,http://clnas0001.top:9981/stream/channelid/1664646009?profile=pass
+梨园,http://clnas0001.top:9981/stream/channelid/1141902283?profile=pass
+欢笑剧场,http://clnas0001.top:9981/stream/channelid/495251171?profile=pass
+法治天地,http://clnas0001.top:9981/stream/channelid/506310005?profile=pass
+游戏风云,http://clnas0001.top:9981/stream/channelid/717259041?profile=pass
+热播剧场专区,http://clnas0001.top:9981/stream/channelid/1680687603?profile=pass
+热门剧场专区,http://clnas0001.top:9981/stream/channelid/612829795?profile=pass
+爱体育专区,http://clnas0001.top:9981/stream/channelid/1040657117?profile=pass
+爱体育专区,http://clnas0001.top:9981/stream/channelid/880022651?profile=pass
+爱动漫专区,http://clnas0001.top:9981/stream/channelid/689716280?profile=pass
+爱历史专区,http://clnas0001.top:9981/stream/channelid/646064972?profile=pass
+爱喜剧专区,http://clnas0001.top:9981/stream/channelid/1591782494?profile=pass
+爱奇谈专区,http://clnas0001.top:9981/stream/channelid/402505463?profile=pass
+爱宠宠物专区,http://clnas0001.top:9981/stream/channelid/2043036164?profile=pass
+爱幼教专区,http://clnas0001.top:9981/stream/channelid/1700743527?profile=pass
+爱悬疑专区,http://clnas0001.top:9981/stream/channelid/1667935321?profile=pass
+爱旅行专区,http://clnas0001.top:9981/stream/channelid/631229667?profile=pass
+爱浪漫专区,http://clnas0001.top:9981/stream/channelid/1053716378?profile=pass
+爱玩具专区,http://clnas0001.top:9981/stream/channelid/882884606?profile=pass
+爱生活高清专区,http://clnas0001.top:9981/stream/channelid/225360531?profile=pass
+爱科幻专区,http://clnas0001.top:9981/stream/channelid/1530050251?profile=pass
+爱谍战专区,http://clnas0001.top:9981/stream/channelid/592357038?profile=pass
+爱赛车专区,http://clnas0001.top:9981/stream/channelid/1724007016?profile=pass
+爱院线专区,http://clnas0001.top:9981/stream/channelid/1367643087?profile=pass
+环球旅游,http://clnas0001.top:9981/stream/channelid/1166147312?profile=pass
+生活时尚高清,http://clnas0001.top:9981/stream/channelid/605136205?profile=pass
+生活时尚,http://clnas0001.top:9981/stream/channelid/1848359668?profile=pass
+电竞天堂,http://clnas0001.top:9981/stream/channelid/586231319?profile=pass
+百变课堂专区,http://clnas0001.top:9981/stream/channelid/466344504?profile=pass
+看天下精选专区,http://clnas0001.top:9981/stream/channelid/918215411?profile=pass
+精彩导视,http://clnas0001.top:9981/stream/channelid/169435220?profile=pass
+精彩影视,http://clnas0001.top:9981/stream/channelid/20669588?profile=pass
+精彩推荐专区,http://clnas0001.top:9981/stream/channelid/468496144?profile=pass
+红色影院专区,http://clnas0001.top:9981/stream/channelid/2017474703?profile=pass
+经典剧场,http://clnas0001.top:9981/stream/channelid/2007674855?profile=pass
+经典电影专区,http://clnas0001.top:9981/stream/channelid/1555528610?profile=pass
+茶频道,http://clnas0001.top:9981/stream/channelid/1558514050?profile=pass
+蓉城先锋专区,http://clnas0001.top:9981/stream/channelid/1651814276?profile=pass
+解密高清专区,http://clnas0001.top:9981/stream/channelid/7929122?profile=pass
+谍战剧场专区,http://clnas0001.top:9981/stream/channelid/179497904?profile=pass
+财富天下,http://clnas0001.top:9981/stream/channelid/945934407?profile=pass
+足球高清专区,http://clnas0001.top:9981/stream/channelid/220236738?profile=pass
+都市剧场,http://clnas0001.top:9981/stream/channelid/1304627377?profile=pass
+金熊猫卡通高清专区,http://clnas0001.top:9981/stream/channelid/820188763?profile=pass
+金色学堂,http://clnas0001.top:9981/stream/channelid/1768223431?profile=pass
+音乐现场高清专区,http://clnas0001.top:9981/stream/channelid/1595707099?profile=pass
+魅力时尚高清专区,http://clnas0001.top:9981/stream/channelid/274690834?profile=pass
+麻辣体育专区,http://clnas0001.top:9981/stream/channelid/1610176921?profile=pass
+CETV1,http://clnas0001.top:9981/stream/channelid/117063950?profile=pass
+CETV2,http://clnas0001.top:9981/stream/channelid/599778590?profile=pass
+CETV4,http://clnas0001.top:9981/stream/channelid/676630329?profile=pass
+三沙卫视,http://clnas0001.top:9981/stream/channelid/1947895336?profile=pass
+东南卫视,http://clnas0001.top:9981/stream/channelid/519784185?profile=pass
+东方卫视,http://clnas0001.top:9981/stream/channelid/989863441?profile=pass
+云南卫视,http://clnas0001.top:9981/stream/channelid/248916351?profile=pass
+兵团卫视,http://clnas0001.top:9981/stream/channelid/1958634510?profile=pass
+内蒙古卫视,http://clnas0001.top:9981/stream/channelid/746878296?profile=pass
+北京卫视,http://clnas0001.top:9981/stream/channelid/859157583?profile=pass
+北京纪实,http://clnas0001.top:9981/stream/channelid/765319189?profile=pass
+厦门卫视,http://clnas0001.top:9981/stream/channelid/1040920062?profile=pass
+吉林卫视,http://clnas0001.top:9981/stream/channelid/289206431?profile=pass
+四川卫视,http://clnas0001.top:9981/stream/channelid/1962493847?profile=pass
+天津卫视,http://clnas0001.top:9981/stream/channelid/1646257421?profile=pass
+宁夏卫视,http://clnas0001.top:9981/stream/channelid/2050222477?profile=pass
+安多卫视,http://clnas0001.top:9981/stream/channelid/1487108322?profile=pass
+安徽卫视,http://clnas0001.top:9981/stream/channelid/728473999?profile=pass
+山东卫视,http://clnas0001.top:9981/stream/channelid/1752122378?profile=pass
+山东教育卫视,http://clnas0001.top:9981/stream/channelid/452248498?profile=pass
+山西卫视,http://clnas0001.top:9981/stream/channelid/364423548?profile=pass
+广东卫视,http://clnas0001.top:9981/stream/channelid/54874627?profile=pass
+广西卫视,http://clnas0001.top:9981/stream/channelid/1029296804?profile=pass
+康巴卫视,http://clnas0001.top:9981/stream/channelid/723972668?profile=pass
+延边卫视,http://clnas0001.top:9981/stream/channelid/372035518?profile=pass
+新疆卫视,http://clnas0001.top:9981/stream/channelid/1804730280?profile=pass
+江苏卫视,http://clnas0001.top:9981/stream/channelid/433895705?profile=pass
+江西卫视,http://clnas0001.top:9981/stream/channelid/1257693358?profile=pass
+河北卫视,http://clnas0001.top:9981/stream/channelid/1953481492?profile=pass
+河南卫视,http://clnas0001.top:9981/stream/channelid/1691501464?profile=pass
+浙江卫视,http://clnas0001.top:9981/stream/channelid/5657564?profile=pass
+海南卫视,http://clnas0001.top:9981/stream/channelid/1080688761?profile=pass
+深圳卫视,http://clnas0001.top:9981/stream/channelid/237611055?profile=pass
+湖北卫视,http://clnas0001.top:9981/stream/channelid/1615453167?profile=pass
+湖南卫视,http://clnas0001.top:9981/stream/channelid/2111718441?profile=pass
+甘肃卫视,http://clnas0001.top:9981/stream/channelid/1805347430?profile=pass
+西藏卫视,http://clnas0001.top:9981/stream/channelid/479575457?profile=pass
+贵州卫视,http://clnas0001.top:9981/stream/channelid/1504194237?profile=pass
+辽宁卫视,http://clnas0001.top:9981/stream/channelid/1267949461?profile=pass
+重庆卫视,http://clnas0001.top:9981/stream/channelid/74793527?profile=pass
+金鹰纪实高清,http://clnas0001.top:9981/stream/channelid/455582868?profile=pass
+陕西卫视,http://clnas0001.top:9981/stream/channelid/711290911?profile=pass
+青海卫视,http://clnas0001.top:9981/stream/channelid/18002046?profile=pass
+黑龙江卫视,http://clnas0001.top:9981/stream/channelid/978020991?profile=pass
+SCTV2,http://clnas0001.top:9981/stream/channelid/406106102?profile=pass
+SCTV3,http://clnas0001.top:9981/stream/channelid/1543579572?profile=pass
+SCTV4,http://clnas0001.top:9981/stream/channelid/1194077336?profile=pass
+SCTV5,http://clnas0001.top:9981/stream/channelid/808292010?profile=pass
+SCTV6高清,http://clnas0001.top:9981/stream/channelid/1750534599?profile=pass
+SCTV7,http://clnas0001.top:9981/stream/channelid/874875345?profile=pass
+SCTV科教高清,http://clnas0001.top:9981/stream/channelid/1760803948?profile=pass
+云看熊猫专区,http://clnas0001.top:9981/stream/channelid/814671682?profile=pass
+四川乡村高清,http://clnas0001.top:9981/stream/channelid/68085278?profile=pass
+峨眉电影高清,http://clnas0001.top:9981/stream/channelid/1712522669?profile=pass
+热门综艺高清专区,http://clnas0001.top:9981/stream/channelid/2083812284?profile=pass
+熊猫体娱高清专区,http://clnas0001.top:9981/stream/channelid/685237998?profile=pass
+熊猫少儿高清专区,http://clnas0001.top:9981/stream/channelid/82676141?profile=pass
+熊猫影院专区,http://clnas0001.top:9981/stream/channelid/797129647?profile=pass
+熊猫新闻高清专区,http://clnas0001.top:9981/stream/channelid/2024524644?profile=pass
+熊猫爱生活高清专区,http://clnas0001.top:9981/stream/channelid/1232590543?profile=pass
+CDTV1,http://clnas0001.top:9981/stream/channelid/1353208572?profile=pass
+CDTV2,http://clnas0001.top:9981/stream/channelid/1465964324?profile=pass
+CDTV3,http://clnas0001.top:9981/stream/channelid/299204796?profile=pass
+CDTV4,http://clnas0001.top:9981/stream/channelid/311446068?profile=pass
+CDTV5,http://clnas0001.top:9981/stream/channelid/1447917698?profile=pass
+CDTV6,http://clnas0001.top:9981/stream/channelid/710682769?profile=pass
+CDTV8高清,http://clnas0001.top:9981/stream/channelid/1912006958?profile=pass
+I成都,http://clnas0001.top:9981/stream/channelid/874305947?profile=pass
 
 国外UK1,#genre#,DE=3
 COZI TV SD,http://nor1live.win:80/livehttpplay?channel_id=23000
