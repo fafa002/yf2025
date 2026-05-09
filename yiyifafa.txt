@@ -516,11 +516,6 @@ TVB plus,https://flv-play.clouda.com/live/tvb-2VHDPgWQ8xRwBFCabyiXImeAHX2KhGA3QC
 明珠台,https://flv-play.clouda.com/live/mz-dnyjgkXIxzCPvOCTONq8y8kIGcBB5GC4Kx9LOcL6lz8omT5vej9YY3gaCDTOndbkl9UQUGJvriuccFaiCTplkj.flv
 Now爆谷,rtmp://8.149.234.17/live/xianajiaoge-bg
 Now星影,rtmp://8.149.234.17/live/xianajiaoge-xy
-Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
-Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
-Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
-ViuTV,https://t.ttvb.eu.org/tvb/ViuTV/index.m3u8
-ViuTVsix,https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
