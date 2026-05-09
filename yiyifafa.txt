@@ -963,6 +963,844 @@ CDTV6,http://clnas0001.top:9981/stream/channelid/710682769?profile=pass
 CDTV8高清,http://clnas0001.top:9981/stream/channelid/1912006958?profile=pass
 I成都,http://clnas0001.top:9981/stream/channelid/874305947?profile=pass
 
+今日极速,#genre#
+凤凰资讯台,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0&index=0
+凤凰资讯台,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0&index=1
+凤凰资讯台,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E5%8F%B0&index=2
+凤凰香港台,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0&index=0
+凤凰香港台,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0&index=1
+凤凰香港台,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF%E5%8F%B0&index=2
+凤凰中文台,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0&index=0
+凤凰中文台,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87%E5%8F%B0&index=1
+翡翠台,http://nn.7x9d.cn/xmcx.php?name=%E7%BF%A1%E7%BF%A0%E5%8F%B0&index=0
+翡翠台,http://nn.7x9d.cn/xmcx.php?name=%E7%BF%A1%E7%BF%A0%E5%8F%B0&index=1
+翡翠台,http://nn.7x9d.cn/xmcx.php?name=%E7%BF%A1%E7%BF%A0%E5%8F%B0&index=2
+翡翠台,http://nn.7x9d.cn/xmcx.php?name=%E7%BF%A1%E7%BF%A0%E5%8F%B0&index=3
+TVBPlus,http://nn.7x9d.cn/xmcx.php?name=TVBPlus&index=0
+无线新闻,http://nn.7x9d.cn/xmcx.php?name=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB&index=0
+明珠台,http://nn.7x9d.cn/xmcx.php?name=%E6%98%8E%E7%8F%A0%E5%8F%B0&index=0
+ViUTV,http://nn.7x9d.cn/xmcx.php?name=ViUTV&index=0
+ViUTVSix,http://nn.7x9d.cn/xmcx.php?name=ViUTVSix&index=0
+HOYTV,http://nn.7x9d.cn/xmcx.php?name=HOYTV&index=0
+HOY 信息台,http://nn.7x9d.cn/xmcx.php?name=HOY+%E4%BF%A1%E6%81%AF%E5%8F%B0&index=0
+HOY 财经台,http://nn.7x9d.cn/xmcx.php?name=HOY+%E8%B4%A2%E7%BB%8F%E5%8F%B0&index=0
+18 台,http://nn.7x9d.cn/xmcx.php?name=18+%E5%8F%B0&index=0
+Now 新闻台,http://nn.7x9d.cn/xmcx.php?name=Now+%E6%96%B0%E9%97%BB%E5%8F%B0&index=0
+Now 财经台,http://nn.7x9d.cn/xmcx.php?name=Now+%E8%B4%A2%E7%BB%8F%E5%8F%B0&index=0
+凤凰中文,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&index=0
+凤凰信息,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E4%BF%A1%E6%81%AF&index=0
+凤凰香港,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&index=0
+TVB 星河,http://nn.7x9d.cn/xmcx.php?name=TVB+%E6%98%9F%E6%B2%B3&index=0
+功夫台,http://nn.7x9d.cn/xmcx.php?name=%E5%8A%9F%E5%A4%AB%E5%8F%B0&index=0
+天映频道,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93&index=0
+天映经典,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&index=0
+天映经典,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&index=1
+天映经典,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&index=2
+天映经典,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&index=3
+天映经典,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8&index=4
+美亚电影台,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0&index=0
+爆谷星影台,http://nn.7x9d.cn/xmcx.php?name=%E7%88%86%E8%B0%B7%E6%98%9F%E5%BD%B1%E5%8F%B0&index=0
+POPC,http://nn.7x9d.cn/xmcx.php?name=POPC&index=0
+中国电影,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1&index=0
+港(备),http://nn.7x9d.cn/xmcx.php?name=%E6%B8%AF%28%E5%A4%87%29&index=0
+TVB Plus,http://nn.7x9d.cn/xmcx.php?name=TVB+Plus&index=0
+TVB Plus,http://nn.7x9d.cn/xmcx.php?name=TVB+Plus&index=1
+TVB Plus,http://nn.7x9d.cn/xmcx.php?name=TVB+Plus&index=2
+TVB Plus,http://nn.7x9d.cn/xmcx.php?name=TVB+Plus&index=3
+TVB Plus,http://nn.7x9d.cn/xmcx.php?name=TVB+Plus&index=4
+TVB无线新闻台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&index=0
+TVB无线新闻台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&index=1
+TVB无线新闻台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&index=2
+TVB无线新闻台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&index=3
+TVB明珠台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&index=0
+TVB明珠台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&index=1
+TVB明珠台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&index=2
+TVB明珠台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&index=3
+TVB明珠台,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&index=4
+TVB生活台,http://nn.7x9d.cn/xmcx.php?name=TVB%E7%94%9F%E6%B4%BB%E5%8F%B0&index=0
+TVB生活台,http://nn.7x9d.cn/xmcx.php?name=TVB%E7%94%9F%E6%B4%BB%E5%8F%B0&index=1
+TVB星河频道,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93&index=0
+TVB星河频道,http://nn.7x9d.cn/xmcx.php?name=TVB%E6%98%9F%E6%B2%B3%E9%A2%91%E9%81%93&index=1
+星空卫视,http://nn.7x9d.cn/xmcx.php?name=%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86&index=0
+TVB1,http://nn.7x9d.cn/xmcx.php?name=TVB1&index=0
+TVB Pearl Drama 明珠剧集台,http://nn.7x9d.cn/xmcx.php?name=TVB+Pearl+Drama+%E6%98%8E%E7%8F%A0%E5%89%A7%E9%9B%86%E5%8F%B0&index=0
+TVBJ1,http://nn.7x9d.cn/xmcx.php?name=TVBJ1&index=0
+TVB Drama 翡翠剧集台,http://nn.7x9d.cn/xmcx.php?name=TVB+Drama+%E7%BF%A1%E7%BF%A0%E5%89%A7%E9%9B%86%E5%8F%B0&index=0
+TVB E 翡翠娱乐台,http://nn.7x9d.cn/xmcx.php?name=TVB+E+%E7%BF%A1%E7%BF%A0%E5%A8%B1%E4%B9%90%E5%8F%B0&index=0
+POP C,http://nn.7x9d.cn/xmcx.php?name=POP+C&index=0
+POP C,http://nn.7x9d.cn/xmcx.php?name=POP+C&index=1
+Now爆谷台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%88%86%E8%B0%B7%E5%8F%B0&index=0
+Now爆谷台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%88%86%E8%B0%B7%E5%8F%B0&index=1
+Now爆谷台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%88%86%E8%B0%B7%E5%8F%B0&index=2
+Now爆谷台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%88%86%E8%B0%B7%E5%8F%B0&index=3
+Now爆谷星影台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%88%86%E8%B0%B7%E6%98%9F%E5%BD%B1%E5%8F%B0&index=0
+Now爆谷星影台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%88%86%E8%B0%B7%E6%98%9F%E5%BD%B1%E5%8F%B0&index=1
+Now爆谷星影台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%88%86%E8%B0%B7%E6%98%9F%E5%BD%B1%E5%8F%B0&index=2
+Now爆谷星影台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%88%86%E8%B0%B7%E6%98%9F%E5%BD%B1%E5%8F%B0&index=3
+Now华剧台,http://nn.7x9d.cn/xmcx.php?name=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&index=0
+Now华剧台,http://nn.7x9d.cn/xmcx.php?name=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&index=1
+Now华剧台,http://nn.7x9d.cn/xmcx.php?name=Now%E5%8D%8E%E5%89%A7%E5%8F%B0&index=2
+Now剧集台,http://nn.7x9d.cn/xmcx.php?name=Now%E5%89%A7%E9%9B%86%E5%8F%B0&index=0
+Now剧集台,http://nn.7x9d.cn/xmcx.php?name=Now%E5%89%A7%E9%9B%86%E5%8F%B0&index=1
+Now剧集台,http://nn.7x9d.cn/xmcx.php?name=Now%E5%89%A7%E9%9B%86%E5%8F%B0&index=2
+Now新闻台,http://nn.7x9d.cn/xmcx.php?name=Now%E6%96%B0%E9%97%BB%E5%8F%B0&index=0
+Now新闻台,http://nn.7x9d.cn/xmcx.php?name=Now%E6%96%B0%E9%97%BB%E5%8F%B0&index=1
+Now新闻台,http://nn.7x9d.cn/xmcx.php?name=Now%E6%96%B0%E9%97%BB%E5%8F%B0&index=2
+Now直播台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%9B%B4%E6%92%AD%E5%8F%B0&index=0
+Now直播台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%9B%B4%E6%92%AD%E5%8F%B0&index=1
+Now直播台,http://nn.7x9d.cn/xmcx.php?name=Now%E7%9B%B4%E6%92%AD%E5%8F%B0&index=2
+Now财经台,http://nn.7x9d.cn/xmcx.php?name=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0&index=0
+Now财经台,http://nn.7x9d.cn/xmcx.php?name=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0&index=1
+Now财经台,http://nn.7x9d.cn/xmcx.php?name=Now%E8%B4%A2%E7%BB%8F%E5%8F%B0&index=2
+NowJelli紫金国际,http://nn.7x9d.cn/xmcx.php?name=NowJelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85&index=0
+NowJelli紫金国际,http://nn.7x9d.cn/xmcx.php?name=NowJelli%E7%B4%AB%E9%87%91%E5%9B%BD%E9%99%85&index=1
+澳门莲花,http://nn.7x9d.cn/xmcx.php?name=%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1&index=0
+澳门莲花,http://nn.7x9d.cn/xmcx.php?name=%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1&index=1
+澳门莲花,http://nn.7x9d.cn/xmcx.php?name=%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1&index=2
+TVB功夫台,http://nn.7x9d.cn/xmcx.php?name=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0&index=0
+TVB功夫台,http://nn.7x9d.cn/xmcx.php?name=TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0&index=1
+凤凰电影,http://nn.7x9d.cn/xmcx.php?name=%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1&index=0
+龙祥电影,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E7%A5%A5%E7%94%B5%E5%BD%B1&index=0
+WOW TV,http://nn.7x9d.cn/xmcx.php?name=WOW+TV&index=0
+KTSF26美国旧金山,http://nn.7x9d.cn/xmcx.php?name=KTSF26%E7%BE%8E%E5%9B%BD%E6%97%A7%E9%87%91%E5%B1%B1&index=0
+KTSF26美国旧金山,http://nn.7x9d.cn/xmcx.php?name=KTSF26%E7%BE%8E%E5%9B%BD%E6%97%A7%E9%87%91%E5%B1%B1&index=1
+中国电影频道,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93&index=0
+中国电影频道,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93&index=1
+Thrill,http://nn.7x9d.cn/xmcx.php?name=Thrill&index=0
+Thrill,http://nn.7x9d.cn/xmcx.php?name=Thrill&index=1
+Thrill,http://nn.7x9d.cn/xmcx.php?name=Thrill&index=2
+香港卫视HKS,http://nn.7x9d.cn/xmcx.php?name=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86HKS&index=0
+香港卫视HKS,http://nn.7x9d.cn/xmcx.php?name=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86HKS&index=1
+HOY 76,http://nn.7x9d.cn/xmcx.php?name=HOY+76&index=0
+HOY 76,http://nn.7x9d.cn/xmcx.php?name=HOY+76&index=1
+HOY 76,http://nn.7x9d.cn/xmcx.php?name=HOY+76&index=2
+HOY 77,http://nn.7x9d.cn/xmcx.php?name=HOY+77&index=0
+HOY 77,http://nn.7x9d.cn/xmcx.php?name=HOY+77&index=1
+HOY 77,http://nn.7x9d.cn/xmcx.php?name=HOY+77&index=2
+HOY 78,http://nn.7x9d.cn/xmcx.php?name=HOY+78&index=0
+HOY 78,http://nn.7x9d.cn/xmcx.php?name=HOY+78&index=1
+HOY 78,http://nn.7x9d.cn/xmcx.php?name=HOY+78&index=2
+无线卫星亚洲台,http://nn.7x9d.cn/xmcx.php?name=%E6%97%A0%E7%BA%BF%E5%8D%AB%E6%98%9F%E4%BA%9A%E6%B4%B2%E5%8F%B0&index=0
+无线卫星亚洲台,http://nn.7x9d.cn/xmcx.php?name=%E6%97%A0%E7%BA%BF%E5%8D%AB%E6%98%9F%E4%BA%9A%E6%B4%B2%E5%8F%B0&index=1
+ViuTV,http://nn.7x9d.cn/xmcx.php?name=ViuTV&index=0
+ViuTV,http://nn.7x9d.cn/xmcx.php?name=ViuTV&index=1
+ViuTV,http://nn.7x9d.cn/xmcx.php?name=ViuTV&index=2
+ViuTV6,http://nn.7x9d.cn/xmcx.php?name=ViuTV6&index=0
+ViuTV6,http://nn.7x9d.cn/xmcx.php?name=ViuTV6&index=1
+ViuTV6,http://nn.7x9d.cn/xmcx.php?name=ViuTV6&index=2
+RTHK 31,http://nn.7x9d.cn/xmcx.php?name=RTHK+31&index=0
+RTHK 31,http://nn.7x9d.cn/xmcx.php?name=RTHK+31&index=1
+RTHK 31,http://nn.7x9d.cn/xmcx.php?name=RTHK+31&index=2
+RTHK 32,http://nn.7x9d.cn/xmcx.php?name=RTHK+32&index=0
+RTHK 32,http://nn.7x9d.cn/xmcx.php?name=RTHK+32&index=1
+RTHK 32,http://nn.7x9d.cn/xmcx.php?name=RTHK+32&index=2
+RTHK 33,http://nn.7x9d.cn/xmcx.php?name=RTHK+33&index=0
+RTHK 34,http://nn.7x9d.cn/xmcx.php?name=RTHK+34&index=0
+RTHK 35,http://nn.7x9d.cn/xmcx.php?name=RTHK+35&index=0
+新时代1,http://nn.7x9d.cn/xmcx.php?name=%E6%96%B0%E6%97%B6%E4%BB%A31&index=0
+新时代1,http://nn.7x9d.cn/xmcx.php?name=%E6%96%B0%E6%97%B6%E4%BB%A31&index=1
+新时代2,http://nn.7x9d.cn/xmcx.php?name=%E6%96%B0%E6%97%B6%E4%BB%A32&index=0
+新时代2,http://nn.7x9d.cn/xmcx.php?name=%E6%96%B0%E6%97%B6%E4%BB%A32&index=1
+新时代温哥华,http://nn.7x9d.cn/xmcx.php?name=%E6%96%B0%E6%97%B6%E4%BB%A3%E6%B8%A9%E5%93%A5%E5%8D%8E&index=0
+新时代温哥华,http://nn.7x9d.cn/xmcx.php?name=%E6%96%B0%E6%97%B6%E4%BB%A3%E6%B8%A9%E5%93%A5%E5%8D%8E&index=1
+城市电视,http://nn.7x9d.cn/xmcx.php?name=%E5%9F%8E%E5%B8%82%E7%94%B5%E8%A7%86&index=0
+城市电视,http://nn.7x9d.cn/xmcx.php?name=%E5%9F%8E%E5%B8%82%E7%94%B5%E8%A7%86&index=1
+中旺电视,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E6%97%BA%E7%94%B5%E8%A7%86&index=0
+FashionBox,http://nn.7x9d.cn/xmcx.php?name=FashionBox&index=0
+FashionBox,http://nn.7x9d.cn/xmcx.php?name=FashionBox&index=1
+tvN,http://nn.7x9d.cn/xmcx.php?name=tvN&index=0
+tvN,http://nn.7x9d.cn/xmcx.php?name=tvN&index=1
+tvN,http://nn.7x9d.cn/xmcx.php?name=tvN&index=2
+摇滚电影,http://nn.7x9d.cn/xmcx.php?name=%E6%91%87%E6%BB%9A%E7%94%B5%E5%BD%B1&index=0
+摇滚电影,http://nn.7x9d.cn/xmcx.php?name=%E6%91%87%E6%BB%9A%E7%94%B5%E5%BD%B1&index=1
+摇滚电影,http://nn.7x9d.cn/xmcx.php?name=%E6%91%87%E6%BB%9A%E7%94%B5%E5%BD%B1&index=2
+摇滚娱乐,http://nn.7x9d.cn/xmcx.php?name=%E6%91%87%E6%BB%9A%E5%A8%B1%E4%B9%90&index=0
+摇滚娱乐,http://nn.7x9d.cn/xmcx.php?name=%E6%91%87%E6%BB%9A%E5%A8%B1%E4%B9%90&index=1
+摇滚娱乐,http://nn.7x9d.cn/xmcx.php?name=%E6%91%87%E6%BB%9A%E5%A8%B1%E4%B9%90&index=2
+摇滚极限,http://nn.7x9d.cn/xmcx.php?name=%E6%91%87%E6%BB%9A%E6%9E%81%E9%99%90&index=0
+HKC18台,http://nn.7x9d.cn/xmcx.php?name=HKC18%E5%8F%B0&index=0
+HKC18台,http://nn.7x9d.cn/xmcx.php?name=HKC18%E5%8F%B0&index=1
+HKC18台,http://nn.7x9d.cn/xmcx.php?name=HKC18%E5%8F%B0&index=2
+C18跑马,http://nn.7x9d.cn/xmcx.php?name=C18%E8%B7%91%E9%A9%AC&index=0
+C18跑马,http://nn.7x9d.cn/xmcx.php?name=C18%E8%B7%91%E9%A9%AC&index=1
+C18跑马,http://nn.7x9d.cn/xmcx.php?name=C18%E8%B7%91%E9%A9%AC&index=2
+88跑马台,http://nn.7x9d.cn/xmcx.php?name=88%E8%B7%91%E9%A9%AC%E5%8F%B0&index=0
+黄金翡翠台,http://nn.7x9d.cn/xmcx.php?name=%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0&index=0
+黄金翡翠台,http://nn.7x9d.cn/xmcx.php?name=%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0&index=1
+黄金翡翠台,http://nn.7x9d.cn/xmcx.php?name=%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0&index=2
+MyTV千禧经典台,http://nn.7x9d.cn/xmcx.php?name=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0&index=0
+MyTV千禧经典台,http://nn.7x9d.cn/xmcx.php?name=MyTV%E5%8D%83%E7%A6%A7%E7%BB%8F%E5%85%B8%E5%8F%B0&index=1
+亚洲剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&index=0
+亚洲剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&index=1
+亚洲剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&index=2
+亚洲剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&index=3
+亚洲剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&index=4
+亚洲剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E5%89%A7%E5%8F%B0&index=5
+华语剧台,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&index=0
+华语剧台,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&index=1
+华语剧台,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&index=2
+华语剧台,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&index=3
+华语剧台,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%AF%AD%E5%89%A7%E5%8F%B0&index=4
+Kix,http://nn.7x9d.cn/xmcx.php?name=Kix&index=0
+Kix,http://nn.7x9d.cn/xmcx.php?name=Kix&index=1
+Kix,http://nn.7x9d.cn/xmcx.php?name=Kix&index=2
+Kix,http://nn.7x9d.cn/xmcx.php?name=Kix&index=3
+TVB娱乐新闻,http://nn.7x9d.cn/xmcx.php?name=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&index=0
+TVB娱乐新闻,http://nn.7x9d.cn/xmcx.php?name=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&index=1
+TVB娱乐新闻,http://nn.7x9d.cn/xmcx.php?name=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&index=2
+TVB娱乐新闻,http://nn.7x9d.cn/xmcx.php?name=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&index=3
+TVB娱乐新闻,http://nn.7x9d.cn/xmcx.php?name=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&index=4
+TVB娱乐新闻,http://nn.7x9d.cn/xmcx.php?name=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB&index=5
+亚洲综合娱乐台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E7%BB%BC%E5%90%88%E5%A8%B1%E4%B9%90%E5%8F%B0&index=0
+黄金华剧台,http://nn.7x9d.cn/xmcx.php?name=%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7%E5%8F%B0&index=0
+黄金华剧台,http://nn.7x9d.cn/xmcx.php?name=%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7%E5%8F%B0&index=1
+黄金华剧台,http://nn.7x9d.cn/xmcx.php?name=%E9%BB%84%E9%87%91%E5%8D%8E%E5%89%A7%E5%8F%B0&index=2
+TVBSuperFree,http://nn.7x9d.cn/xmcx.php?name=TVBSuperFree&index=0
+TVBSuperFree,http://nn.7x9d.cn/xmcx.php?name=TVBSuperFree&index=1
+TVBSuperFree,http://nn.7x9d.cn/xmcx.php?name=TVBSuperFree&index=2
+TVBSuperFree,http://nn.7x9d.cn/xmcx.php?name=TVBSuperFree&index=3
+戏曲台,http://nn.7x9d.cn/xmcx.php?name=%E6%88%8F%E6%9B%B2%E5%8F%B0&index=0
+戏曲台,http://nn.7x9d.cn/xmcx.php?name=%E6%88%8F%E6%9B%B2%E5%8F%B0&index=1
+戏曲台,http://nn.7x9d.cn/xmcx.php?name=%E6%88%8F%E6%9B%B2%E5%8F%B0&index=2
+Hands UP,http://nn.7x9d.cn/xmcx.php?name=Hands+UP&index=0
+Hands UP,http://nn.7x9d.cn/xmcx.php?name=Hands+UP&index=1
+ZooMoo,http://nn.7x9d.cn/xmcx.php?name=ZooMoo&index=0
+ZooMoo,http://nn.7x9d.cn/xmcx.php?name=ZooMoo&index=1
+Nickelodeon,http://nn.7x9d.cn/xmcx.php?name=Nickelodeon&index=0
+Nickelodeon,http://nn.7x9d.cn/xmcx.php?name=Nickelodeon&index=1
+NickJr儿童频道,http://nn.7x9d.cn/xmcx.php?name=NickJr%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93&index=0
+NickJr儿童频道,http://nn.7x9d.cn/xmcx.php?name=NickJr%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93&index=1
+DreamWorks,http://nn.7x9d.cn/xmcx.php?name=DreamWorks&index=0
+粤语片台,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0&index=0
+粤语片台,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0&index=1
+粤语片台,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%A4%E8%AF%AD%E7%89%87%E5%8F%B0&index=2
+美亚电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&index=0
+美亚电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&index=1
+美亚电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&index=2
+美亚电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&index=3
+美亚电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&index=4
+美亚电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&index=5
+HBO,http://nn.7x9d.cn/xmcx.php?name=HBO&index=0
+HBO,http://nn.7x9d.cn/xmcx.php?name=HBO&index=1
+HBO,http://nn.7x9d.cn/xmcx.php?name=HBO&index=2
+HBO,http://nn.7x9d.cn/xmcx.php?name=HBO&index=3
+HBOHits,http://nn.7x9d.cn/xmcx.php?name=HBOHits&index=0
+HBOFamily,http://nn.7x9d.cn/xmcx.php?name=HBOFamily&index=0
+HBOSignature,http://nn.7x9d.cn/xmcx.php?name=HBOSignature&index=0
+中视,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86&index=0
+中视,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86&index=1
+中视,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86&index=2
+中视,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86&index=3
+华视,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%A7%86&index=0
+华视,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%A7%86&index=1
+华视,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%A7%86&index=2
+华视,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%A7%86&index=3
+华视,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%A7%86&index=4
+民视,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86&index=0
+民视,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86&index=1
+民视,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86&index=2
+民视,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86&index=3
+民视台湾,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE&index=0
+民视第一,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80&index=0
+台视,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86&index=0
+台视,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86&index=1
+台视,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86&index=2
+台视,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86&index=3
+台视综合,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88&index=0
+台视综合,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88&index=1
+台视综合,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88&index=2
+公视,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A7%86&index=0
+公视,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A7%86&index=1
+公视,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A7%86&index=2
+中天综合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=0
+中天综合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=1
+中天综合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=2
+中天综合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88&index=3
+八大综合,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88&index=0
+八大第一,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80&index=0
+东森综合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=0
+东森综合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=1
+东森综合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=2
+东森综合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88&index=3
+东森电影,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&index=0
+东森电影,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&index=1
+东森电影,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&index=2
+东森电影,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&index=3
+纬来电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1&index=0
+纬来电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1&index=1
+纬来电影,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1&index=2
+三立都会,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A&index=0
+三立台湾,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE&index=0
+龙华偶像,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&index=0
+龙华偶像,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&index=1
+龙华偶像,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&index=2
+龙华偶像,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F&index=3
+龙华电影,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1&index=0
+龙华电影,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1&index=1
+龙华经典,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8&index=0
+龙华经典,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8&index=1
+龙翔时代,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E7%BF%94%E6%97%B6%E4%BB%A3&index=0
+好莱坞电影,http://nn.7x9d.cn/xmcx.php?name=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1&index=0
+好莱坞电影,http://nn.7x9d.cn/xmcx.php?name=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1&index=1
+好莱坞电影,http://nn.7x9d.cn/xmcx.php?name=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1&index=2
+好莱坞电影,http://nn.7x9d.cn/xmcx.php?name=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1&index=3
+TvbS,http://nn.7x9d.cn/xmcx.php?name=TvbS&index=0
+中天新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB&index=0
+中天新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB&index=1
+中天新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB&index=2
+东森新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&index=0
+东森新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&index=1
+东森新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&index=2
+东森新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&index=3
+环宇新闻,http://nn.7x9d.cn/xmcx.php?name=%E7%8E%AF%E5%AE%87%E6%96%B0%E9%97%BB&index=0
+中视新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&index=0
+中视新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&index=1
+中视新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&index=2
+中视新闻,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB&index=3
+台视新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&index=0
+台视新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&index=1
+台视新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&index=2
+台视新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB&index=3
+民视新闻,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB&index=0
+TVBS 新闻,http://nn.7x9d.cn/xmcx.php?name=TVBS+%E6%96%B0%E9%97%BB&index=0
+年代新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&index=0
+年代新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&index=1
+年代新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB&index=2
+壹新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%A3%B9%E6%96%B0%E9%97%BB&index=0
+壹新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%A3%B9%E6%96%B0%E9%97%BB&index=1
+壹新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%A3%B9%E6%96%B0%E9%97%BB&index=2
+壹新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%A3%B9%E6%96%B0%E9%97%BB&index=3
+非凡新闻,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&index=0
+非凡新闻,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&index=1
+非凡新闻,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&index=2
+非凡新闻,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB&index=3
+镜新闻,http://nn.7x9d.cn/xmcx.php?name=%E9%95%9C%E6%96%B0%E9%97%BB&index=0
+镜新闻,http://nn.7x9d.cn/xmcx.php?name=%E9%95%9C%E6%96%B0%E9%97%BB&index=1
+镜新闻,http://nn.7x9d.cn/xmcx.php?name=%E9%95%9C%E6%96%B0%E9%97%BB&index=2
+镜新闻,http://nn.7x9d.cn/xmcx.php?name=%E9%95%9C%E6%96%B0%E9%97%BB&index=3
+环宇台湾,http://nn.7x9d.cn/xmcx.php?name=%E7%8E%AF%E5%AE%87%E5%8F%B0%E6%B9%BE&index=0
+纬来体育,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2&index=0
+纬来体育,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2&index=1
+纬来体育,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2&index=2
+NBATV,http://nn.7x9d.cn/xmcx.php?name=NBATV&index=0
+中视经典,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8&index=0
+中视菁采,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87&index=0
+中视菁采,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A7%86%E8%8F%81%E9%87%87&index=1
+小公视,http://nn.7x9d.cn/xmcx.php?name=%E5%B0%8F%E5%85%AC%E8%A7%86&index=0
+公视戏剧,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A7%86%E6%88%8F%E5%89%A7&index=0
+公视戏剧,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A7%86%E6%88%8F%E5%89%A7&index=1
+公视台语台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A7%86%E5%8F%B0%E8%AF%AD%E5%8F%B0&index=0
+公视新闻网,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91&index=0
+民视第一台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0&index=0
+民视第一台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0&index=1
+民视第一台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0&index=2
+民视台湾台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0&index=0
+民视台湾台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0&index=1
+民视台湾台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0&index=2
+民视新闻台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&index=0
+民视新闻台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&index=1
+民视新闻台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&index=2
+民视新闻台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0&index=3
+民视影剧台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E5%BD%B1%E5%89%A7%E5%8F%B0&index=0
+民视影剧台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E5%BD%B1%E5%89%A7%E5%8F%B0&index=1
+民视旅游台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0&index=0
+民视旅游台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0&index=1
+民视综艺台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0&index=0
+民视综艺台,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0&index=1
+台视财经,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F&index=0
+台视财经,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E8%A7%86%E8%B4%A2%E7%BB%8F&index=1
+台湾戏剧,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E6%B9%BE%E6%88%8F%E5%89%A7&index=0
+台湾戏剧,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E6%B9%BE%E6%88%8F%E5%89%A7&index=1
+CTS华视新闻资讯,http://nn.7x9d.cn/xmcx.php?name=CTS%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF&index=0
+CTS华视新闻资讯,http://nn.7x9d.cn/xmcx.php?name=CTS%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E8%B5%84%E8%AE%AF&index=1
+霹雳台湾台,http://nn.7x9d.cn/xmcx.php?name=%E9%9C%B9%E9%9B%B3%E5%8F%B0%E6%B9%BE%E5%8F%B0&index=0
+壹电影,http://nn.7x9d.cn/xmcx.php?name=%E5%A3%B9%E7%94%B5%E5%BD%B1&index=0
+JET综合台,http://nn.7x9d.cn/xmcx.php?name=JET%E7%BB%BC%E5%90%88%E5%8F%B0&index=0
+年代Much,http://nn.7x9d.cn/xmcx.php?name=%E5%B9%B4%E4%BB%A3Much&index=0
+非凡商业,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%9E%E5%87%A1%E5%95%86%E4%B8%9A&index=0
+寰宇新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&index=0
+寰宇新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&index=1
+寰宇新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&index=2
+寰宇新闻,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB&index=3
+寰宇新闻台湾,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE&index=0
+寰宇新闻台湾,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE&index=1
+寰宇新闻台湾,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE&index=2
+寰宇财经,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E8%B4%A2%E7%BB%8F&index=0
+寰宇财经,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E8%B4%A2%E7%BB%8F&index=1
+东森超视美洲,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86%E7%BE%8E%E6%B4%B2&index=0
+东森超视美洲,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86%E7%BE%8E%E6%B4%B2&index=1
+东森美洲,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2&index=0
+东森美洲,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2&index=1
+东森美洲卫视,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2%E5%8D%AB%E8%A7%86&index=0
+东森美洲卫视,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E7%BE%8E%E6%B4%B2%E5%8D%AB%E8%A7%86&index=1
+东森中国台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E4%B8%AD%E5%9B%BD%E5%8F%B0&index=0
+东森中国台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E4%B8%AD%E5%9B%BD%E5%8F%B0&index=1
+东森超视,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86&index=0
+东森亚洲,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E4%BA%9A%E6%B4%B2&index=0
+东森财经,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F&index=0
+东森财经,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F&index=1
+东森财经,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F&index=2
+东森财经,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F&index=3
+东森LIVE,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AELIVE&index=0
+东森洋片,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&index=0
+东森洋片,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&index=1
+东森洋片,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&index=2
+东森戏剧,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&index=0
+东森戏剧,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&index=1
+东森戏剧,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&index=2
+东森幼幼,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC&index=0
+东森幼幼,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC&index=1
+东森亚洲幼幼,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E4%BA%9A%E6%B4%B2%E5%B9%BC%E5%B9%BC&index=0
+东森亚洲幼幼,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%9C%E6%A3%AE%E4%BA%9A%E6%B4%B2%E5%B9%BC%E5%B9%BC&index=1
+MOMO综合台,http://nn.7x9d.cn/xmcx.php?name=MOMO%E7%BB%BC%E5%90%88%E5%8F%B0&index=0
+MOMO综合台,http://nn.7x9d.cn/xmcx.php?name=MOMO%E7%BB%BC%E5%90%88%E5%8F%B0&index=1
+MOMO亲子台,http://nn.7x9d.cn/xmcx.php?name=MOMO%E4%BA%B2%E5%AD%90%E5%8F%B0&index=0
+MOMO台,http://nn.7x9d.cn/xmcx.php?name=MOMO%E5%8F%B0&index=0
+国兴卫视,http://nn.7x9d.cn/xmcx.php?name=%E5%9B%BD%E5%85%B4%E5%8D%AB%E8%A7%86&index=0
+龙祥时代,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3&index=0
+龙祥时代,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E7%A5%A5%E6%97%B6%E4%BB%A3&index=1
+龙华电视,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E7%94%B5%E8%A7%86&index=0
+龙华戏剧,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7&index=0
+龙华戏剧,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7&index=1
+龙华戏剧,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7&index=2
+龙华日韩,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E6%97%A5%E9%9F%A9&index=0
+龙华影剧,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E5%BD%B1%E5%89%A7&index=0
+龙华影剧,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E5%BD%B1%E5%89%A7&index=1
+龙华洋片,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87&index=0
+龙华洋片,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87&index=1
+龙华卡通,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%99%E5%8D%8E%E5%8D%A1%E9%80%9A&index=0
+三立都会台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0&index=0
+三立都会台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0&index=1
+三立都会台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0&index=2
+三立综合台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0&index=0
+三立综合台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0&index=1
+三立台湾台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0&index=0
+三立台湾台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0&index=1
+三立台湾台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0&index=2
+三立戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0&index=0
+三立戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0&index=1
+三立戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0&index=2
+三立戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0&index=3
+三立新闻台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0&index=0
+三立新闻台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0&index=1
+三立iNEWS,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8BiNEWS&index=0
+三立iNEWS,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8BiNEWS&index=1
+三立iNEWS,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8BiNEWS&index=2
+三立国际台,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E5%9B%BD%E9%99%85%E5%8F%B0&index=0
+LIVE三立,http://nn.7x9d.cn/xmcx.php?name=LIVE%E4%B8%89%E7%AB%8B&index=0
+中天娱乐,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90&index=0
+中天娱乐,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90&index=1
+中天娱乐,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90&index=2
+纬来综合,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88&index=0
+纬来综合,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88&index=1
+纬来精彩,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9&index=0
+纬来精彩,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9&index=1
+纬来戏剧,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7&index=0
+纬来戏剧,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E6%88%8F%E5%89%A7&index=1
+纬来日本,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC&index=0
+纬来日本,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC&index=1
+纬来育乐,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90&index=0
+纬来育乐,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90&index=1
+八大第一台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0&index=0
+八大第一台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0&index=1
+八大第一台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0&index=2
+八大戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0&index=0
+八大戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0&index=1
+八大戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7%E5%8F%B0&index=2
+八大综合台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0&index=0
+八大综合台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0&index=1
+八大综合台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0&index=2
+八大综艺台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%BB%BC%E8%89%BA%E5%8F%B0&index=0
+八大精彩台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0&index=0
+八大精彩台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0&index=1
+八大娱乐台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E5%A8%B1%E4%B9%90%E5%8F%B0&index=0
+八大娱乐台,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E5%A8%B1%E4%B9%90%E5%8F%B0&index=1
+TVBS新闻台,http://nn.7x9d.cn/xmcx.php?name=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&index=0
+TVBS新闻台,http://nn.7x9d.cn/xmcx.php?name=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0&index=1
+TVBS精采台,http://nn.7x9d.cn/xmcx.php?name=TVBS%E7%B2%BE%E9%87%87%E5%8F%B0&index=0
+TVBS欢乐台,http://nn.7x9d.cn/xmcx.php?name=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0&index=0
+TVBS欢乐台,http://nn.7x9d.cn/xmcx.php?name=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0&index=1
+TVBS,http://nn.7x9d.cn/xmcx.php?name=TVBS&index=0
+TVBS,http://nn.7x9d.cn/xmcx.php?name=TVBS&index=1
+TVBS NEWS,http://nn.7x9d.cn/xmcx.php?name=TVBS+NEWS&index=0
+靖天综合台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0&index=0
+靖天综合台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0&index=1
+靖天日本台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0&index=0
+靖天日本台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0&index=1
+靖天卡通台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0&index=0
+靖天卡通台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0&index=1
+靖洋卡通台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A%E5%8F%B0&index=0
+靖洋卡通台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A%E5%8F%B0&index=1
+靖天电影台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1%E5%8F%B0&index=0
+靖天资讯台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E8%B5%84%E8%AE%AF%E5%8F%B0&index=0
+靖天资讯台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E8%B5%84%E8%AE%AF%E5%8F%B0&index=1
+靖天国际台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0&index=0
+靖天国际台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0&index=1
+靖天国际台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0&index=2
+靖天戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7%E5%8F%B0&index=0
+靖洋戏剧台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E6%B4%8B%E6%88%8F%E5%89%A7%E5%8F%B0&index=0
+靖天育乐台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90%E5%8F%B0&index=0
+靖天映画台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB%E5%8F%B0&index=0
+靖天欢乐台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90%E5%8F%B0&index=0
+靖天欢乐台,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90%E5%8F%B0&index=1
+华艺MBC综合台,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%89%BAMBC%E7%BB%BC%E5%90%88%E5%8F%B0&index=0
+华艺MBC综合台,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E8%89%BAMBC%E7%BB%BC%E5%90%88%E5%8F%B0&index=1
+LUXE TV,http://nn.7x9d.cn/xmcx.php?name=LUXE+TV&index=0
+Trvl旅游台,http://nn.7x9d.cn/xmcx.php?name=Trvl%E6%97%85%E6%B8%B8%E5%8F%B0&index=0
+Trvl旅游台,http://nn.7x9d.cn/xmcx.php?name=Trvl%E6%97%85%E6%B8%B8%E5%8F%B0&index=1
+美食星球,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83&index=0
+美食星球,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83&index=1
+亚洲旅游台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0&index=0
+亚洲旅游台,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0&index=1
+台湾Plus,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%B0%E6%B9%BEPlus&index=0
+EYETV旅游,http://nn.7x9d.cn/xmcx.php?name=EYETV%E6%97%85%E6%B8%B8&index=0
+EYETV戏剧,http://nn.7x9d.cn/xmcx.php?name=EYETV%E6%88%8F%E5%89%A7&index=0
+DAZN1,http://nn.7x9d.cn/xmcx.php?name=DAZN1&index=0
+DAZN1,http://nn.7x9d.cn/xmcx.php?name=DAZN1&index=1
+DAZN1,http://nn.7x9d.cn/xmcx.php?name=DAZN1&index=2
+DAZN2,http://nn.7x9d.cn/xmcx.php?name=DAZN2&index=0
+DAZN2,http://nn.7x9d.cn/xmcx.php?name=DAZN2&index=1
+DAZN2,http://nn.7x9d.cn/xmcx.php?name=DAZN2&index=2
+ELTA日韩,http://nn.7x9d.cn/xmcx.php?name=ELTA%E6%97%A5%E9%9F%A9&index=0
+ELTA影剧,http://nn.7x9d.cn/xmcx.php?name=ELTA%E5%BD%B1%E5%89%A7&index=0
+ELTA影剧,http://nn.7x9d.cn/xmcx.php?name=ELTA%E5%BD%B1%E5%89%A7&index=1
+ELTA影剧,http://nn.7x9d.cn/xmcx.php?name=ELTA%E5%BD%B1%E5%89%A7&index=2
+ELTA影剧,http://nn.7x9d.cn/xmcx.php?name=ELTA%E5%BD%B1%E5%89%A7&index=3
+ELTA综合,http://nn.7x9d.cn/xmcx.php?name=ELTA%E7%BB%BC%E5%90%88&index=0
+ELTA综合,http://nn.7x9d.cn/xmcx.php?name=ELTA%E7%BB%BC%E5%90%88&index=1
+ELTA娱乐,http://nn.7x9d.cn/xmcx.php?name=ELTA%E5%A8%B1%E4%B9%90&index=0
+ELTA娱乐,http://nn.7x9d.cn/xmcx.php?name=ELTA%E5%A8%B1%E4%B9%90&index=1
+ELTA娱乐,http://nn.7x9d.cn/xmcx.php?name=ELTA%E5%A8%B1%E4%B9%90&index=2
+ELTA生活旅游,http://nn.7x9d.cn/xmcx.php?name=ELTA%E7%94%9F%E6%B4%BB%E6%97%85%E6%B8%B8&index=0
+ELTA体育1,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B21&index=0
+ELTA体育1,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B21&index=1
+ELTA体育2,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B22&index=0
+ELTA体育2,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B22&index=1
+ELTA体育3,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B23&index=0
+ELTA体育3,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B23&index=1
+ELTA体育4,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B24&index=0
+ELTA体育4,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B24&index=1
+ELTA体育MAX1,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B2MAX1&index=0
+ELTA体育MAX2,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B2MAX2&index=0
+ELTA体育MAX3,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B2MAX3&index=0
+ELTA体育MAX4,http://nn.7x9d.cn/xmcx.php?name=ELTA%E4%BD%93%E8%82%B2MAX4&index=0
+GinxTV电竞频道,http://nn.7x9d.cn/xmcx.php?name=GinxTV%E7%94%B5%E7%AB%9E%E9%A2%91%E9%81%93&index=0
+博斯运动1,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A81&index=0
+博斯运动1,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A81&index=1
+博斯运动2,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A82&index=0
+博斯运动2,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A82&index=1
+博斯高球1,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%831&index=0
+博斯高球1,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%831&index=1
+博斯高球2,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832&index=0
+博斯高球2,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832&index=1
+博斯网球,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83&index=0
+博斯网球,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83&index=1
+博斯无限,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90&index=0
+博斯无限2,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%902&index=0
+博斯无限2,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%902&index=1
+博斯魅力,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B&index=0
+智林体育台,http://nn.7x9d.cn/xmcx.php?name=%E6%99%BA%E6%9E%97%E4%BD%93%E8%82%B2%E5%8F%B0&index=0
+TRACE SportStars,http://nn.7x9d.cn/xmcx.php?name=TRACE+SportStars&index=0
+Z频道,http://nn.7x9d.cn/xmcx.php?name=Z%E9%A2%91%E9%81%93&index=0
+Cartoonito,http://nn.7x9d.cn/xmcx.php?name=Cartoonito&index=0
+CN卡通频道,http://nn.7x9d.cn/xmcx.php?name=CN%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&index=0
+CN卡通频道,http://nn.7x9d.cn/xmcx.php?name=CN%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&index=1
+CN卡通频道,http://nn.7x9d.cn/xmcx.php?name=CN%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&index=2
+尼克儿童频道,http://nn.7x9d.cn/xmcx.php?name=%E5%B0%BC%E5%85%8B%E5%84%BF%E7%AB%A5%E9%A2%91%E9%81%93&index=0
+Boomerang,http://nn.7x9d.cn/xmcx.php?name=Boomerang&index=0
+BBC Cbeebies,http://nn.7x9d.cn/xmcx.php?name=BBC+Cbeebies&index=0
+梦工厂动画,http://nn.7x9d.cn/xmcx.php?name=%E6%A2%A6%E5%B7%A5%E5%8E%82%E5%8A%A8%E7%94%BB&index=0
+精选动漫台,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%BE%E9%80%89%E5%8A%A8%E6%BC%AB%E5%8F%B0&index=0
+经典卡通台,http://nn.7x9d.cn/xmcx.php?name=%E7%BB%8F%E5%85%B8%E5%8D%A1%E9%80%9A%E5%8F%B0&index=0
+美亚电影台,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0&index=1
+美亚电影台,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0&index=2
+美亚电影台,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0&index=3
+Thrill惊悚,http://nn.7x9d.cn/xmcx.php?name=Thrill%E6%83%8A%E6%82%9A&index=0
+AXN频道,http://nn.7x9d.cn/xmcx.php?name=AXN%E9%A2%91%E9%81%93&index=0
+AXN频道,http://nn.7x9d.cn/xmcx.php?name=AXN%E9%A2%91%E9%81%93&index=1
+华纳电影,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E7%BA%B3%E7%94%B5%E5%BD%B1&index=0
+华纳电影,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E7%BA%B3%E7%94%B5%E5%BD%B1&index=1
+华纳电影,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%8E%E7%BA%B3%E7%94%B5%E5%BD%B1&index=2
+tVN,http://nn.7x9d.cn/xmcx.php?name=tVN&index=0
+StarMovies,http://nn.7x9d.cn/xmcx.php?name=StarMovies&index=0
+CinemaWorld,http://nn.7x9d.cn/xmcx.php?name=CinemaWorld&index=0
+CINEMAX,http://nn.7x9d.cn/xmcx.php?name=CINEMAX&index=0
+CINEMAX,http://nn.7x9d.cn/xmcx.php?name=CINEMAX&index=1
+HBO,http://nn.7x9d.cn/xmcx.php?name=HBO&index=4
+HBO原创,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%8E%9F%E5%88%9B&index=0
+HBO原创,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%8E%9F%E5%88%9B&index=1
+HBO强档,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%BC%BA%E6%A1%A3&index=0
+HBO强档,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%BC%BA%E6%A1%A3&index=1
+HBO强档,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%BC%BA%E6%A1%A3&index=2
+HBO家庭,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%AE%B6%E5%BA%AD&index=0
+HBO家庭,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%AE%B6%E5%BA%AD&index=1
+HBO家庭,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%AE%B6%E5%BA%AD&index=2
+amc最爱电影,http://nn.7x9d.cn/xmcx.php?name=amc%E6%9C%80%E7%88%B1%E7%94%B5%E5%BD%B1&index=0
+CatchPlay电影台,http://nn.7x9d.cn/xmcx.php?name=CatchPlay%E7%94%B5%E5%BD%B1%E5%8F%B0&index=0
+CatchPlay电影台,http://nn.7x9d.cn/xmcx.php?name=CatchPlay%E7%94%B5%E5%BD%B1%E5%8F%B0&index=1
+RockEntertainment,http://nn.7x9d.cn/xmcx.php?name=RockEntertainment&index=0
+RockAction,http://nn.7x9d.cn/xmcx.php?name=RockAction&index=0
+RockExtreme,http://nn.7x9d.cn/xmcx.php?name=RockExtreme&index=0
+经典电影台,http://nn.7x9d.cn/xmcx.php?name=%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0&index=0
+采昌影剧台,http://nn.7x9d.cn/xmcx.php?name=%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7%E5%8F%B0&index=0
+采昌影剧台,http://nn.7x9d.cn/xmcx.php?name=%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7%E5%8F%B0&index=1
+红豆电视,http://nn.7x9d.cn/xmcx.php?name=%E7%BA%A2%E8%B1%86%E7%94%B5%E8%A7%86&index=0
+信吉,http://nn.7x9d.cn/xmcx.php?name=%E4%BF%A1%E5%90%89&index=0
+信大,http://nn.7x9d.cn/xmcx.php?name=%E4%BF%A1%E5%A4%A7&index=0
+大立,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A7%E7%AB%8B&index=0
+达文西频道,http://nn.7x9d.cn/xmcx.php?name=%E8%BE%BE%E6%96%87%E8%A5%BF%E9%A2%91%E9%81%93&index=0
+Smart知识台,http://nn.7x9d.cn/xmcx.php?name=Smart%E7%9F%A5%E8%AF%86%E5%8F%B0&index=0
+电影原声台,http://nn.7x9d.cn/xmcx.php?name=%E7%94%B5%E5%BD%B1%E5%8E%9F%E5%A3%B0%E5%8F%B0&index=0
+客家电视台,http://nn.7x9d.cn/xmcx.php?name=%E5%AE%A2%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0&index=0
+原住民频道,http://nn.7x9d.cn/xmcx.php?name=%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A2%91%E9%81%93&index=0
+新唐人亚太台,http://nn.7x9d.cn/xmcx.php?name=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9A%E5%A4%AA%E5%8F%B0&index=0
+新唐人亚太台,http://nn.7x9d.cn/xmcx.php?name=%E6%96%B0%E5%94%90%E4%BA%BA%E4%BA%9A%E5%A4%AA%E5%8F%B0&index=1
+韩国娱乐台,http://nn.7x9d.cn/xmcx.php?name=%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%8F%B0&index=0
+Channel [V],http://nn.7x9d.cn/xmcx.php?name=Channel+%5BV%5D&index=0
+古典音乐台,http://nn.7x9d.cn/xmcx.php?name=%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%8F%B0&index=0
+MezzoLive,http://nn.7x9d.cn/xmcx.php?name=MezzoLive&index=0
+猪哥亮歌厅秀,http://nn.7x9d.cn/xmcx.php?name=%E7%8C%AA%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%8E%85%E7%A7%80&index=0
+麦哲伦频道,http://nn.7x9d.cn/xmcx.php?name=%E9%BA%A6%E5%93%B2%E4%BC%A6%E9%A2%91%E9%81%93&index=0
+幸福空间居家台,http://nn.7x9d.cn/xmcx.php?name=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%97%B4%E5%B1%85%E5%AE%B6%E5%8F%B0&index=0
+空中英语教室,http://nn.7x9d.cn/xmcx.php?name=%E7%A9%BA%E4%B8%AD%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AE%A4&index=0
+ELTV生活英语台,http://nn.7x9d.cn/xmcx.php?name=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AF%AD%E5%8F%B0&index=0
+ELTV生活英语台,http://nn.7x9d.cn/xmcx.php?name=ELTV%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AF%AD%E5%8F%B0&index=1
+互动英语频道,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%92%E5%8A%A8%E8%8B%B1%E8%AF%AD%E9%A2%91%E9%81%93&index=0
+鳳凰中文,http://nn.7x9d.cn/xmcx.php?name=%E9%B3%B3%E5%87%B0%E4%B8%AD%E6%96%87&index=0
+鳳凰中文,http://nn.7x9d.cn/xmcx.php?name=%E9%B3%B3%E5%87%B0%E4%B8%AD%E6%96%87&index=1
+鳳凰資訊,http://nn.7x9d.cn/xmcx.php?name=%E9%B3%B3%E5%87%B0%E8%B3%87%E8%A8%8A&index=0
+鳳凰資訊,http://nn.7x9d.cn/xmcx.php?name=%E9%B3%B3%E5%87%B0%E8%B3%87%E8%A8%8A&index=1
+鳳凰香港,http://nn.7x9d.cn/xmcx.php?name=%E9%B3%B3%E5%87%B0%E9%A6%99%E6%B8%AF&index=0
+鳳凰香港,http://nn.7x9d.cn/xmcx.php?name=%E9%B3%B3%E5%87%B0%E9%A6%99%E6%B8%AF&index=1
+鳳凰電影,http://nn.7x9d.cn/xmcx.php?name=%E9%B3%B3%E5%87%B0%E9%9B%BB%E5%BD%B1&index=0
+翡翠臺,http://nn.7x9d.cn/xmcx.php?name=%E7%BF%A1%E7%BF%A0%E8%87%BA&index=0
+翡翠臺(馬來),http://nn.7x9d.cn/xmcx.php?name=%E7%BF%A1%E7%BF%A0%E8%87%BA%28%E9%A6%AC%E4%BE%86%29&index=0
+TVB Plus,http://nn.7x9d.cn/xmcx.php?name=TVB+Plus&index=5
+無線新聞臺,http://nn.7x9d.cn/xmcx.php?name=%E7%84%A1%E7%B7%9A%E6%96%B0%E8%81%9E%E8%87%BA&index=0
+明珠臺,http://nn.7x9d.cn/xmcx.php?name=%E6%98%8E%E7%8F%A0%E8%87%BA&index=0
+RHK31,http://nn.7x9d.cn/xmcx.php?name=RHK31&index=0
+RHK32,http://nn.7x9d.cn/xmcx.php?name=RHK32&index=0
+VIU TV,http://nn.7x9d.cn/xmcx.php?name=VIU+TV&index=0
+VIU TV 6,http://nn.7x9d.cn/xmcx.php?name=VIU+TV+6&index=0
+HOY Infotainment,http://nn.7x9d.cn/xmcx.php?name=HOY+Infotainment&index=0
+HOY IBC,http://nn.7x9d.cn/xmcx.php?name=HOY+IBC&index=0
+HOY TV,http://nn.7x9d.cn/xmcx.php?name=HOY+TV&index=0
+粵語-TVB 星河,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%B5%E8%AA%9E-TVB+%E6%98%9F%E6%B2%B3&index=0
+國語-TVB 星河,http://nn.7x9d.cn/xmcx.php?name=%E5%9C%8B%E8%AA%9E-TVB+%E6%98%9F%E6%B2%B3&index=0
+粵語-TVB 功夫臺 ,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%B5%E8%AA%9E-TVB+%E5%8A%9F%E5%A4%AB%E8%87%BA+&index=0
+國語-TVB 功夫臺 ,http://nn.7x9d.cn/xmcx.php?name=%E5%9C%8B%E8%AA%9E-TVB+%E5%8A%9F%E5%A4%AB%E8%87%BA+&index=0
+粵語-天映電影,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%B5%E8%AA%9E-%E5%A4%A9%E6%98%A0%E9%9B%BB%E5%BD%B1&index=0
+國語-天映電影,http://nn.7x9d.cn/xmcx.php?name=%E5%9C%8B%E8%AA%9E-%E5%A4%A9%E6%98%A0%E9%9B%BB%E5%BD%B1&index=0
+天映經典,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A9%E6%98%A0%E7%B6%93%E5%85%B8&index=0
+TVB 經典,http://nn.7x9d.cn/xmcx.php?name=TVB+%E7%B6%93%E5%85%B8&index=0
+TVB 娛樂新聞,http://nn.7x9d.cn/xmcx.php?name=TVB+%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E&index=0
+TVB 華語劇 ,http://nn.7x9d.cn/xmcx.php?name=TVB+%E8%8F%AF%E8%AA%9E%E5%8A%87+&index=0
+TVB 亞洲劇 ,http://nn.7x9d.cn/xmcx.php?name=TVB+%E4%BA%9E%E6%B4%B2%E5%8A%87+&index=0
+TVB 戲曲 ,http://nn.7x9d.cn/xmcx.php?name=TVB+%E6%88%B2%E6%9B%B2+&index=0
+TVB 黃金華劇,http://nn.7x9d.cn/xmcx.php?name=TVB+%E9%BB%83%E9%87%91%E8%8F%AF%E5%8A%87&index=0
+TVB 黃金翡翠,http://nn.7x9d.cn/xmcx.php?name=TVB+%E9%BB%83%E9%87%91%E7%BF%A1%E7%BF%A0&index=0
+TVB 兒童 ,http://nn.7x9d.cn/xmcx.php?name=TVB+%E5%85%92%E7%AB%A5+&index=0
+Now TV,http://nn.7x9d.cn/xmcx.php?name=Now+TV&index=0
+Now 新聞 ,http://nn.7x9d.cn/xmcx.php?name=Now+%E6%96%B0%E8%81%9E+&index=0
+Now 財經 ,http://nn.7x9d.cn/xmcx.php?name=Now+%E8%B2%A1%E7%B6%93+&index=0
+粵語-Now爆穀臺 ,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%B5%E8%AA%9E-Now%E7%88%86%E7%A9%80%E8%87%BA+&index=0
+國語-Now爆穀臺,http://nn.7x9d.cn/xmcx.php?name=%E5%9C%8B%E8%AA%9E-Now%E7%88%86%E7%A9%80%E8%87%BA&index=0
+粵語-Now星影臺 ,http://nn.7x9d.cn/xmcx.php?name=%E7%B2%B5%E8%AA%9E-Now%E6%98%9F%E5%BD%B1%E8%87%BA+&index=0
+國語-Now星影臺,http://nn.7x9d.cn/xmcx.php?name=%E5%9C%8B%E8%AA%9E-Now%E6%98%9F%E5%BD%B1%E8%87%BA&index=0
+Now 華劇臺 ,http://nn.7x9d.cn/xmcx.php?name=Now+%E8%8F%AF%E5%8A%87%E8%87%BA+&index=0
+Now Sports 1,http://nn.7x9d.cn/xmcx.php?name=Now+Sports+1&index=0
+Now Sports 2,http://nn.7x9d.cn/xmcx.php?name=Now+Sports+2&index=0
+Now Sports Premier 1 ,http://nn.7x9d.cn/xmcx.php?name=Now+Sports+Premier+1+&index=0
+有線18臺 ,http://nn.7x9d.cn/xmcx.php?name=%E6%9C%89%E7%B7%9A18%E8%87%BA+&index=0
+POPC TV ,http://nn.7x9d.cn/xmcx.php?name=POPC+TV+&index=0
+KIX ,http://nn.7x9d.cn/xmcx.php?name=KIX+&index=0
+Thrill ,http://nn.7x9d.cn/xmcx.php?name=Thrill+&index=0
+Now Sports 641,http://nn.7x9d.cn/xmcx.php?name=Now+Sports+641&index=0
+澳視澳門,http://nn.7x9d.cn/xmcx.php?name=%E6%BE%B3%E8%A6%96%E6%BE%B3%E9%96%80&index=0
+澳門衛視,http://nn.7x9d.cn/xmcx.php?name=%E6%BE%B3%E9%96%80%E8%A1%9B%E8%A6%96&index=0
+澳門資訊,http://nn.7x9d.cn/xmcx.php?name=%E6%BE%B3%E9%96%80%E8%B3%87%E8%A8%8A&index=0
+星空衛視,http://nn.7x9d.cn/xmcx.php?name=%E6%98%9F%E7%A9%BA%E8%A1%9B%E8%A6%96&index=0
+中國電影 ,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%BD%B1+&index=0
+中視,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A6%96&index=0
+臺視,http://nn.7x9d.cn/xmcx.php?name=%E8%87%BA%E8%A6%96&index=0
+華視,http://nn.7x9d.cn/xmcx.php?name=%E8%8F%AF%E8%A6%96&index=0
+公視,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A6%96&index=0
+公視臺語,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A6%96%E8%87%BA%E8%AA%9E&index=0
+公視少兒,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AC%E8%A6%96%E5%B0%91%E5%85%92&index=0
+民視,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A6%96&index=0
+民視,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A6%96&index=1
+民視第一,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80&index=0
+民視臺灣,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A6%96%E8%87%BA%E7%81%A3&index=0
+臺視綜合,http://nn.7x9d.cn/xmcx.php?name=%E8%87%BA%E8%A6%96%E7%B6%9C%E5%90%88&index=0
+中視箐采,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A6%96%E7%AE%90%E9%87%87&index=0
+高點綜合,http://nn.7x9d.cn/xmcx.php?name=%E9%AB%98%E9%BB%9E%E7%B6%9C%E5%90%88&index=0
+高點育樂,http://nn.7x9d.cn/xmcx.php?name=%E9%AB%98%E9%BB%9E%E8%82%B2%E6%A8%82&index=0
+客家電視,http://nn.7x9d.cn/xmcx.php?name=%E5%AE%A2%E5%AE%B6%E9%9B%BB%E8%A6%96&index=0
+原住民,http://nn.7x9d.cn/xmcx.php?name=%E5%8E%9F%E4%BD%8F%E6%B0%91&index=0
+大愛,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A7%E6%84%9B&index=0
+大愛2,http://nn.7x9d.cn/xmcx.php?name=%E5%A4%A7%E6%84%9B2&index=0
+佛衛慈悲,http://nn.7x9d.cn/xmcx.php?name=%E4%BD%9B%E8%A1%9B%E6%85%88%E6%82%B2&index=0
+人間衛視,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%BA%E9%96%93%E8%A1%9B%E8%A6%96&index=0
+好消息,http://nn.7x9d.cn/xmcx.php?name=%E5%A5%BD%E6%B6%88%E6%81%AF&index=0
+好消息2,http://nn.7x9d.cn/xmcx.php?name=%E5%A5%BD%E6%B6%88%E6%81%AF2&index=0
+TVBS,http://nn.7x9d.cn/xmcx.php?name=TVBS&index=2
+TVBS歡樂,http://nn.7x9d.cn/xmcx.php?name=TVBS%E6%AD%A1%E6%A8%82&index=0
+TVBS亞洲,http://nn.7x9d.cn/xmcx.php?name=TVBS%E4%BA%9E%E6%B4%B2&index=0
+東森綜合,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E6%A3%AE%E7%B6%9C%E5%90%88&index=0
+東森戲劇,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87&index=0
+東森幼幼,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E6%A3%AE%E5%B9%BC%E5%B9%BC&index=0
+東森超視,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E6%A3%AE%E8%B6%85%E8%A6%96&index=0
+三立臺灣,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E8%87%BA%E7%81%A3&index=0
+三立都會,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E9%83%BD%E6%9C%83&index=0
+三立戲劇,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E6%88%B2%E5%8A%87&index=0
+中天綜合,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E7%B6%9C%E5%90%88&index=0
+中天娛樂,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E5%A8%9B%E6%A8%82&index=0
+中天亞洲,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2&index=0
+八大第一,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80&index=1
+八大綜合,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E7%B6%9C%E5%90%88&index=0
+八大戲劇,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E6%88%B2%E5%8A%87&index=0
+八大娛樂,http://nn.7x9d.cn/xmcx.php?name=%E5%85%AB%E5%A4%A7%E5%A8%9B%E6%A8%82&index=0
+緯來綜合,http://nn.7x9d.cn/xmcx.php?name=%E7%B7%AF%E4%BE%86%E7%B6%9C%E5%90%88&index=0
+緯來戲劇,http://nn.7x9d.cn/xmcx.php?name=%E7%B7%AF%E4%BE%86%E6%88%B2%E5%8A%87&index=0
+緯來育樂,http://nn.7x9d.cn/xmcx.php?name=%E7%B7%AF%E4%BE%86%E8%82%B2%E6%A8%82&index=0
+緯來日本,http://nn.7x9d.cn/xmcx.php?name=%E7%B7%AF%E4%BE%86%E6%97%A5%E6%9C%AC&index=0
+愛爾達綜合,http://nn.7x9d.cn/xmcx.php?name=%E6%84%9B%E7%88%BE%E9%81%94%E7%B6%9C%E5%90%88&index=0
+愛爾達影劇,http://nn.7x9d.cn/xmcx.php?name=%E6%84%9B%E7%88%BE%E9%81%94%E5%BD%B1%E5%8A%87&index=0
+愛爾達生活英語,http://nn.7x9d.cn/xmcx.php?name=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E8%8B%B1%E8%AA%9E&index=0
+龍華戲劇,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87&index=0
+龍華影劇,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%8D%E8%8F%AF%E5%BD%B1%E5%8A%87&index=0
+龍華偶像,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%8D%E8%8F%AF%E5%81%B6%E5%83%8F&index=0
+龍華經典,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%8D%E8%8F%AF%E7%B6%93%E5%85%B8&index=0
+靖天戲劇,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%88%B2%E5%8A%87&index=0
+靖天綜合,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88&index=0
+靖天育樂,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82&index=0
+靖天歡樂,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82&index=0
+壹電視綜合,http://nn.7x9d.cn/xmcx.php?name=%E5%A3%B9%E9%9B%BB%E8%A6%96%E7%B6%9C%E5%90%88&index=0
+國語-興衛視,http://nn.7x9d.cn/xmcx.php?name=%E5%9C%8B%E8%AA%9E-%E8%88%88%E8%A1%9B%E8%A6%96&index=0
+JET綜合,http://nn.7x9d.cn/xmcx.php?name=JET%E7%B6%9C%E5%90%88&index=0
+東風37,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E9%A2%A837&index=0
+霹靂臺灣,http://nn.7x9d.cn/xmcx.php?name=%E9%9C%B9%E9%9D%82%E8%87%BA%E7%81%A3&index=0
+華藝中文臺,http://nn.7x9d.cn/xmcx.php?name=%E8%8F%AF%E8%97%9D%E4%B8%AD%E6%96%87%E8%87%BA&index=0
+萬秀豬王,http://nn.7x9d.cn/xmcx.php?name=%E8%90%AC%E7%A7%80%E8%B1%AC%E7%8E%8B&index=0
+Z頻道,http://nn.7x9d.cn/xmcx.php?name=Z%E9%A0%BB%E9%81%93&index=0
+民視新聞,http://nn.7x9d.cn/xmcx.php?name=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E&index=0
+中視新聞,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E&index=0
+華視新聞,http://nn.7x9d.cn/xmcx.php?name=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E&index=0
+臺視新聞,http://nn.7x9d.cn/xmcx.php?name=%E8%87%BA%E8%A6%96%E6%96%B0%E8%81%9E&index=0
+臺視財經,http://nn.7x9d.cn/xmcx.php?name=%E8%87%BA%E8%A6%96%E8%B2%A1%E7%B6%93&index=0
+TVBS新聞,http://nn.7x9d.cn/xmcx.php?name=TVBS%E6%96%B0%E8%81%9E&index=0
+東森新聞,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E&index=0
+東森財經新聞,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E&index=0
+三立新聞,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9E&index=0
+寰宇新聞,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E&index=0
+寰宇新聞臺灣,http://nn.7x9d.cn/xmcx.php?name=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E8%87%BA%E7%81%A3&index=0
+年代新聞,http://nn.7x9d.cn/xmcx.php?name=%E5%B9%B4%E4%BB%A3%E6%96%B0%E8%81%9E&index=0
+非凡新聞,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%9E%E5%87%A1%E6%96%B0%E8%81%9E&index=0
+非凡商業,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%9E%E5%87%A1%E5%95%86%E6%A5%AD&index=0
+中天新聞,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E&index=0
+中天新聞,http://nn.7x9d.cn/xmcx.php?name=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E&index=1
+壹電視新聞,http://nn.7x9d.cn/xmcx.php?name=%E5%A3%B9%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E&index=0
+靖天資訊,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A&index=0
+龍祥時代,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%8D%E7%A5%A5%E6%99%82%E4%BB%A3&index=0
+好萊塢電影,http://nn.7x9d.cn/xmcx.php?name=%E5%A5%BD%E8%90%8A%E5%A1%A2%E9%9B%BB%E5%BD%B1&index=0
+東森電影,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1&index=0
+東森洋片,http://nn.7x9d.cn/xmcx.php?name=%E6%9D%B1%E6%A3%AE%E6%B4%8B%E7%89%87&index=0
+緯來電影,http://nn.7x9d.cn/xmcx.php?name=%E7%B7%AF%E4%BE%86%E9%9B%BB%E5%BD%B1&index=0
+龍華電影,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1&index=0
+龍華洋片,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%8D%E8%8F%AF%E6%B4%8B%E7%89%87&index=0
+靖天電影,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1&index=0
+靖天映畫,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB&index=0
+壹電視電影,http://nn.7x9d.cn/xmcx.php?name=%E5%A3%B9%E9%9B%BB%E8%A6%96%E9%9B%BB%E5%BD%B1&index=0
+美亞電影,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1&index=0
+美亞電影(HK),http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%28HK%29&index=0
+影迷數位電影臺,http://nn.7x9d.cn/xmcx.php?name=%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E8%87%BA&index=0
+HBO,http://nn.7x9d.cn/xmcx.php?name=HBO&index=5
+HBO強檔,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%BC%B7%E6%AA%94&index=0
+HBO家庭,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%AE%B6%E5%BA%AD&index=3
+HBO原創,http://nn.7x9d.cn/xmcx.php?name=HBO%E5%8E%9F%E5%89%B5&index=0
+Cinemax,http://nn.7x9d.cn/xmcx.php?name=Cinemax&index=0
+CATCHPLAY,http://nn.7x9d.cn/xmcx.php?name=CATCHPLAY&index=0
+CinemaWorld,http://nn.7x9d.cn/xmcx.php?name=CinemaWorld&index=1
+Amc電影,http://nn.7x9d.cn/xmcx.php?name=Amc%E9%9B%BB%E5%BD%B1&index=0
+緯來體育,http://nn.7x9d.cn/xmcx.php?name=%E7%B7%AF%E4%BE%86%E9%AB%94%E8%82%B2&index=0
+愛爾達體育1臺,http://nn.7x9d.cn/xmcx.php?name=%E6%84%9B%E7%88%BE%E9%81%94%E9%AB%94%E8%82%B21%E8%87%BA&index=0
+愛爾達體育2臺,http://nn.7x9d.cn/xmcx.php?name=%E6%84%9B%E7%88%BE%E9%81%94%E9%AB%94%E8%82%B22%E8%87%BA&index=0
+愛爾達體育3臺,http://nn.7x9d.cn/xmcx.php?name=%E6%84%9B%E7%88%BE%E9%81%94%E9%AB%94%E8%82%B23%E8%87%BA&index=0
+愛爾達體育4臺,http://nn.7x9d.cn/xmcx.php?name=%E6%84%9B%E7%88%BE%E9%81%94%E9%AB%94%E8%82%B24%E8%87%BA&index=0
+博斯高球,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83&index=0
+博斯高球Ⅱ,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E2%85%A1&index=0
+博斯運動,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95&index=0
+博斯運動Ⅱ,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E2%85%A1&index=0
+博斯網球,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E7%B6%B2%E7%90%83&index=0
+博斯無限,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90&index=0
+博斯無限Ⅱ,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E2%85%A1&index=0
+博斯魅力,http://nn.7x9d.cn/xmcx.php?name=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B&index=1
+DAZN1,http://nn.7x9d.cn/xmcx.php?name=DAZN1&index=3
+DAZN2,http://nn.7x9d.cn/xmcx.php?name=DAZN2&index=3
+歐洲體育,http://nn.7x9d.cn/xmcx.php?name=%E6%AD%90%E6%B4%B2%E9%AB%94%E8%82%B2&index=0
+MOMO TV,http://nn.7x9d.cn/xmcx.php?name=MOMO+TV&index=0
+MOMO親子臺,http://nn.7x9d.cn/xmcx.php?name=MOMO%E8%A6%AA%E5%AD%90%E8%87%BA&index=0
+龍華動畫,http://nn.7x9d.cn/xmcx.php?name=%E9%BE%8D%E8%8F%AF%E5%8B%95%E7%95%AB&index=0
+靖天卡通,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A&index=0
+ANIMAX(C),http://nn.7x9d.cn/xmcx.php?name=ANIMAX%28C%29&index=0
+CN卡通(C),http://nn.7x9d.cn/xmcx.php?name=CN%E5%8D%A1%E9%80%9A%28C%29&index=0
+Cbeebies,http://nn.7x9d.cn/xmcx.php?name=Cbeebies&index=0
+Nickelodeon,http://nn.7x9d.cn/xmcx.php?name=Nickelodeon&index=2
+曼迪日本臺,http://nn.7x9d.cn/xmcx.php?name=%E6%9B%BC%E8%BF%AA%E6%97%A5%E6%9C%AC%E8%87%BA&index=0
+靖天日本,http://nn.7x9d.cn/xmcx.php?name=%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC&index=0
+探索頻道,http://nn.7x9d.cn/xmcx.php?name=%E6%8E%A2%E7%B4%A2%E9%A0%BB%E9%81%93&index=0
+探索亞洲,http://nn.7x9d.cn/xmcx.php?name=%E6%8E%A2%E7%B4%A2%E4%BA%9E%E6%B4%B2&index=0
+探索科學,http://nn.7x9d.cn/xmcx.php?name=%E6%8E%A2%E7%B4%A2%E7%A7%91%E5%AD%B8&index=0
+探索動力,http://nn.7x9d.cn/xmcx.php?name=%E6%8E%A2%E7%B4%A2%E5%8B%95%E5%8A%9B&index=0
+國家地理,http://nn.7x9d.cn/xmcx.php?name=%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86&index=0
+Love Nature,http://nn.7x9d.cn/xmcx.php?name=Love+Nature&index=0
+Global Trekker,http://nn.7x9d.cn/xmcx.php?name=Global+Trekker&index=0
+動物星球,http://nn.7x9d.cn/xmcx.php?name=%E5%8B%95%E7%89%A9%E6%98%9F%E7%90%83&index=0
+麥哲倫頻道,http://nn.7x9d.cn/xmcx.php?name=%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93&index=0
+HGTV,http://nn.7x9d.cn/xmcx.php?name=HGTV&index=0
+BBC earth,http://nn.7x9d.cn/xmcx.php?name=BBC+earth&index=0
+BBC lifestyle,http://nn.7x9d.cn/xmcx.php?name=BBC+lifestyle&index=0
+幸福居家,http://nn.7x9d.cn/xmcx.php?name=%E5%B9%B8%E7%A6%8F%E5%B1%85%E5%AE%B6&index=0
+美食網,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E9%A3%9F%E7%B6%B2&index=0
+亞洲美食,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9E%E6%B4%B2%E7%BE%8E%E9%A3%9F&index=0
+美食星球,http://nn.7x9d.cn/xmcx.php?name=%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83&index=2
+亞洲旅遊,http://nn.7x9d.cn/xmcx.php?name=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A&index=0
+Travel Channel,http://nn.7x9d.cn/xmcx.php?name=Travel+Channel&index=0
+EYE旅遊,http://nn.7x9d.cn/xmcx.php?name=EYE%E6%97%85%E9%81%8A&index=0
+EYE戲劇,http://nn.7x9d.cn/xmcx.php?name=EYE%E6%88%B2%E5%8A%87&index=0
+TLC,http://nn.7x9d.cn/xmcx.php?name=TLC&index=0
+History,http://nn.7x9d.cn/xmcx.php?name=History&index=0
+視納華仁紀實,http://nn.7x9d.cn/xmcx.php?name=%E8%A6%96%E7%B4%8D%E8%8F%AF%E4%BB%81%E7%B4%80%E5%AF%A6&index=0
+MTV LIVE,http://nn.7x9d.cn/xmcx.php?name=MTV+LIVE&index=0
+Medici arts,http://nn.7x9d.cn/xmcx.php?name=Medici+arts&index=0
+LifeTime,http://nn.7x9d.cn/xmcx.php?name=LifeTime&index=0
+EVE,http://nn.7x9d.cn/xmcx.php?name=EVE&index=0
+CI,http://nn.7x9d.cn/xmcx.php?name=CI&index=0
+AXN動作,http://nn.7x9d.cn/xmcx.php?name=AXN%E5%8B%95%E4%BD%9C&index=0
+華納電視,http://nn.7x9d.cn/xmcx.php?name=%E8%8F%AF%E7%B4%8D%E9%9B%BB%E8%A6%96&index=0
+Rock Extreme,http://nn.7x9d.cn/xmcx.php?name=Rock+Extreme&index=0
+Rock Entertaiment,http://nn.7x9d.cn/xmcx.php?name=Rock+Entertaiment&index=0
+Rock Action,http://nn.7x9d.cn/xmcx.php?name=Rock+Action&index=0
+HITS,http://nn.7x9d.cn/xmcx.php?name=HITS&index=0
+韓國娛樂臺,http://nn.7x9d.cn/xmcx.php?name=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E8%87%BA&index=0
+tvN,http://nn.7x9d.cn/xmcx.php?name=tvN&index=3
+tvN Movies,http://nn.7x9d.cn/xmcx.php?name=tvN+Movies&index=0
+ONE,http://nn.7x9d.cn/xmcx.php?name=ONE&index=0
+Arirang,http://nn.7x9d.cn/xmcx.php?name=Arirang&index=0
+K-plus,http://nn.7x9d.cn/xmcx.php?name=K-plus&index=0
+NHK World,http://nn.7x9d.cn/xmcx.php?name=NHK+World&index=0
+KBS World,http://nn.7x9d.cn/xmcx.php?name=KBS+World&index=0
+Al Jazeera,http://nn.7x9d.cn/xmcx.php?name=Al+Jazeera&index=0
+CNA,http://nn.7x9d.cn/xmcx.php?name=CNA&index=0
+TV5MONDE,http://nn.7x9d.cn/xmcx.php?name=TV5MONDE&index=0
+DW,http://nn.7x9d.cn/xmcx.php?name=DW&index=0
+France 24,http://nn.7x9d.cn/xmcx.php?name=France+24&index=0
+Euronews,http://nn.7x9d.cn/xmcx.php?name=Euronews&index=0
+BBC World,http://nn.7x9d.cn/xmcx.php?name=BBC+World&index=0
+CNN,http://nn.7x9d.cn/xmcx.php?name=CNN&index=0
+BloomBerg,http://nn.7x9d.cn/xmcx.php?name=BloomBerg&index=0
+CNBC,http://nn.7x9d.cn/xmcx.php?name=CNBC&index=0
+
 国外UK1,#genre#,DE=3
 COZI TV SD,http://nor1live.win:80/livehttpplay?channel_id=23000
 TELEXITOS SD,http://nor1live.win:80/livehttpplay?channel_id=23001
