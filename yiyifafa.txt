@@ -630,6 +630,9 @@ TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 大愛一台,https://a3f1b2.kylintv.tv/live/daai_iphone.m3u8
 好消息2台,https://a3f1b2.kylintv.tv/live/gdtv2_iphone.m3u8
 
+中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
+台视,http://dbmlasvgas.sylu.cc:8880/stream/e307e16f-43bf-496f-9955-7440569a3e83/playlist.m3u8
+
 四季台湾2,#genre#
 靖天育樂台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv062&token=xiatianshigou
 東森新聞台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv152&token=xiatianshigou
