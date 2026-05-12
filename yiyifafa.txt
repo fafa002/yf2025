@@ -512,30 +512,6 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
-廣東體育4K,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=12028
-TVB亞洲劇臺,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=13022
-無線新聞台高清 ,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20123
-明珠台高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20125
-廣東體育高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20130
-ViuTV高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20131
-ViuTV6高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20132
-嶺南戲曲,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20142
-珠江臺,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20144
-HOY TV,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20152
-港臺電視31高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=20203
-TVB plus 超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30023
-無線新聞台超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30024
-翡翠台超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30025
-明珠台超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30026
-港臺電視32高清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30028
-CCTV 4K,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30029
-廣東體育超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30031
-ViuTV HD+,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30032
-ViuTV6 HD+,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30033
-港臺電視31超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30066
-港臺電視32超清,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=30067
-博斯網球,http://smteu.huayitv.vip:8080/livehttpplay?channel_id=42026
-
 极速NOW,#genre#
 翡翠台,https://flv-play.clouda.com/live/fc-oG2vUiheKLJzdVprWHCECxdMNCOog9HMxnt6IoIZG07iNnIYLtElHP4EpcB9tiErfUyqWLD2NQ5zlbYxAFHiNt.flv
 无线新闻,https://flv-play.clouda.com/live/wxxw-PrjYXHNt8mryMgEqtujqXAFlhFyikJj6FxMLBgaPIvfG8jFcYPL1RDavsEcwOc7teWgx4EwkFM9xphPmgWpNN4.flv
@@ -712,6 +688,23 @@ TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 
 中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
 台视,http://dbmlasvgas.sylu.cc:8880/stream/e307e16f-43bf-496f-9955-7440569a3e83/playlist.m3u8
+
+民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
+采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+靖天戏剧台,https://cdn12.178.indevs.in/163189/177d541552f78003
+靖天电影台,https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/25084ef5a2662aad
+影迷数位电影台,https://cdn12.178.indevs.in/163189/a643783ec587540e
+amc电影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+CinemaWorld,https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+My Cinema Europe,https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+经典电影台,https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+CMusic,https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+精选动漫台,https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 
 四季台湾2,#genre#
 靖天育樂台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv062&token=xiatianshigou
