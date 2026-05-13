@@ -513,10 +513,10 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
 
 极速NOW,#genre#
-翡翠台,https://flv-play.clouda.com/live/fc-oG2vUiheKLJzdVprWHCECxdMNCOog9HMxnt6IoIZG07iNnIYLtElHP4EpcB9tiErfUyqWLD2NQ5zlbYxAFHiNt.flv
-无线新闻,https://flv-play.clouda.com/live/wxxw-PrjYXHNt8mryMgEqtujqXAFlhFyikJj6FxMLBgaPIvfG8jFcYPL1RDavsEcwOc7teWgx4EwkFM9xphPmgWpNN4.flv
-TVB plus,https://flv-play.clouda.com/live/tvb-2VHDPgWQ8xRwBFCabyiXImeAHX2KhGA3QCIqMzGFsc0lipfw0Pw9wNG6qOG8LADAiIEGqo9DbPIdLsxBxyFpNA.flv
-明珠台,https://flv-play.clouda.com/live/mz-dnyjgkXIxzCPvOCTONq8y8kIGcBB5GC4Kx9LOcL6lz8omT5vej9YY3gaCDTOndbkl9UQUGJvriuccFaiCTplkj.flv
+翡翠台,https://flv-play.clouda.com/live/fc-HobLLf3dW4nB9nQMuFKNh0bpRdHHydvDLr3T6aW4VpCjyzH4cexufE6A845LlMDucBSORN7g1wXoCg6GXgiM0MhS.flv
+无线新闻,https://flv-play.clouda.com/live/wxxw-VwZhG1x9hLCwReaguCg88TzThcD106VyDTku9beoGAAb1gQ0ls3pI6Mw9dGLnnXEdgTWcLV4l9rttWgKHUFeHEbb.flv
+TVB plus,https://flv-play.clouda.com/live/tvb-FprfdHRC4E2zEY1wj7Pb4QGnSbcnZQUmKI312vWZBCiYtgtDLOyBp99qnWsgOOpwzBS6GW0yVjbAPGcFvA6sbnc3.flv
+明珠台,https://flv-play.clouda.com/live/mz-0tSKiaEPCx5XFB8L59XI04UCPNTxbG3EFgRr2p3qKYurvOF5o3UDDSfQhxsJFN4aS9nz3Z1MvB7PTrJG4X6Bym52.flv
 无线新闻台,https://iptv.707626.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
 TVB plus,https://iptv.707626.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
 娱乐新闻台,https://iptv.707626.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
