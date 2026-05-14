@@ -3821,90 +3821,90 @@ CCTV5+体育赛事,http://113.241.133.180:85/tsfile/live/0016_1.m3u8?key=txiptv&
 海南卫视,http://113.241.133.180:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 
 山西JD,#genre#,DE=3
-CCTV1-综合,http://1.69.114.51:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2 高清,http://1.69.114.51:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3 高清,http://1.69.114.51:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4 高清,http://1.69.114.51:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5 高清,http://1.69.114.51:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6 高清,http://1.69.114.51:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7 高清,http://1.69.114.51:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8 高清,http://1.69.114.51:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9 高清,http://1.69.114.51:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10 高清,http://1.69.114.51:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11 戏曲,http://1.69.114.51:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12 高清,http://1.69.114.51:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://1.69.114.51:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14少儿 高清,http://1.69.114.51:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15 音乐,http://1.69.114.51:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16 奥林匹克 高清,http://1.69.114.51:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17 农业农村 高清,http://1.69.114.51:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+ 高清,http://1.69.114.51:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv5+,http://1.69.114.51:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV1 高清,http://1.69.114.51:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV2 标清,http://1.69.114.51:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV4 标清,http://1.69.114.51:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-文体生活 高清,http://1.69.114.51:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-社会与法治 高清,http://1.69.114.51:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山西影视 高清,http://1.69.114.51:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-经济与科技 高清,http://1.69.114.51:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-山西黄河 高清,http://1.69.114.51:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视 高清,http://1.69.114.51:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视 高清,http://1.69.114.51:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视 高清,http://1.69.114.51:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视 高清,http://1.69.114.51:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视 高清,http://1.69.114.51:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视 高清,http://1.69.114.51:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视 高清,http://1.69.114.51:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视 高清,http://1.69.114.51:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视 高清,http://1.69.114.51:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视 高清,http://1.69.114.51:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视 高清,http://1.69.114.51:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视 高清,http://1.69.114.51:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视 高清,http://1.69.114.51:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视 高清,http://1.69.114.51:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视 高清,http://1.69.114.51:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-上海卫视 高清,http://1.69.114.51:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视 高清,http://1.69.114.51:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视 高清,http://1.69.114.51:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视 高清,http://1.69.114.51:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视 高清,http://1.69.114.51:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视 高清,http://1.69.114.51:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-南方卫视 标清,http://1.69.114.51:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视 标清,http://1.69.114.51:9901/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://1.69.114.51:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视 标清,http://1.69.114.51:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视 标清,http://1.69.114.51:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视 标清,http://1.69.114.51:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视 标清,http://1.69.114.51:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视 标清,http://1.69.114.51:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视 标清,http://1.69.114.51:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视 标清,http://1.69.114.51:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视 标清,http://1.69.114.51:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视 标清,http://1.69.114.51:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视 标清,http://1.69.114.51:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视 标清,http://1.69.114.51:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视 标清,http://1.69.114.51:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://1.69.114.51:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿 标清,http://1.69.114.51:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-快乐垂钓,http://1.69.114.51:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通 标清,http://1.69.114.51:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv3+,http://1.69.114.51:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv6+,http://1.69.114.51:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv8+,http://1.69.114.51:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-热播剧场,http://1.69.114.51:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://1.69.114.51:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-少儿动画,http://1.69.114.51:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-谍战剧场,http://1.69.114.51:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-野外,http://1.69.114.51:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-法治,http://1.69.114.51:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-精选,http://1.69.114.51:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-喜剧影院,http://1.69.114.51:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-动作影院,http://1.69.114.51:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-家庭影院,http://1.69.114.51:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-星影,http://1.69.114.51:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-武侠剧场,http://1.69.114.51:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-高清电影,http://1.69.114.51:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-动作电影,http://1.69.114.51:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://1.69.114.76:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2 高清,http://1.69.114.76:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3 高清,http://1.69.114.76:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4 高清,http://1.69.114.76:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5 高清,http://1.69.114.76:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6 高清,http://1.69.114.76:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7 高清,http://1.69.114.76:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8 高清,http://1.69.114.76:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9 高清,http://1.69.114.76:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10 高清,http://1.69.114.76:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11 戏曲,http://1.69.114.76:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12 高清,http://1.69.114.76:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://1.69.114.76:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿 高清,http://1.69.114.76:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15 音乐,http://1.69.114.76:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16 奥林匹克 高清,http://1.69.114.76:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17 农业农村 高清,http://1.69.114.76:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+ 高清,http://1.69.114.76:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv5+,http://1.69.114.76:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1 高清,http://1.69.114.76:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV2 标清,http://1.69.114.76:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV4 标清,http://1.69.114.76:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+文体生活 高清,http://1.69.114.76:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+社会与法治 高清,http://1.69.114.76:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+山西影视 高清,http://1.69.114.76:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+经济与科技 高清,http://1.69.114.76:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河 高清,http://1.69.114.76:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视 高清,http://1.69.114.76:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视 高清,http://1.69.114.76:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视 高清,http://1.69.114.76:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视 高清,http://1.69.114.76:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视 高清,http://1.69.114.76:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视 高清,http://1.69.114.76:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视 高清,http://1.69.114.76:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视 高清,http://1.69.114.76:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视 高清,http://1.69.114.76:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视 高清,http://1.69.114.76:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视 高清,http://1.69.114.76:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视 高清,http://1.69.114.76:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视 高清,http://1.69.114.76:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视 高清,http://1.69.114.76:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视 高清,http://1.69.114.76:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视 高清,http://1.69.114.76:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视 高清,http://1.69.114.76:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视 高清,http://1.69.114.76:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视 高清,http://1.69.114.76:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视 高清,http://1.69.114.76:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视 高清,http://1.69.114.76:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+南方卫视 标清,http://1.69.114.76:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视 标清,http://1.69.114.76:9901/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://1.69.114.76:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视 标清,http://1.69.114.76:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视 标清,http://1.69.114.76:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视 标清,http://1.69.114.76:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视 标清,http://1.69.114.76:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视 标清,http://1.69.114.76:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视 标清,http://1.69.114.76:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视 标清,http://1.69.114.76:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视 标清,http://1.69.114.76:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视 标清,http://1.69.114.76:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视 标清,http://1.69.114.76:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视 标清,http://1.69.114.76:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视 标清,http://1.69.114.76:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://1.69.114.76:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿 标清,http://1.69.114.76:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://1.69.114.76:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通 标清,http://1.69.114.76:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv3+,http://1.69.114.76:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv6+,http://1.69.114.76:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv8+,http://1.69.114.76:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+热播剧场,http://1.69.114.76:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://1.69.114.76:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+少儿动画,http://1.69.114.76:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+谍战剧场,http://1.69.114.76:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+野外,http://1.69.114.76:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+法治,http://1.69.114.76:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+精选,http://1.69.114.76:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+喜剧影院,http://1.69.114.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+动作影院,http://1.69.114.76:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+家庭影院,http://1.69.114.76:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+星影,http://1.69.114.76:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+武侠剧场,http://1.69.114.76:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+高清电影,http://1.69.114.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+动作电影,http://1.69.114.76:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 安徽JD,#genre#,DE=3
 CCTV1,http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -4820,92 +4820,6 @@ CHC动作电影,https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c1
 福建少儿,https://live.264788.xyz/channel/fujianshaoer?streamid=e835a9456b847a72e1a0b8d64b585300&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建教育,https://live.264788.xyz/channel/fujianjiaoyu?streamid=250b5a0e97980f68e40f3f91ab10ac74&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建教育,https://live.264788.xyz/channel/fujianjiaoyu?streamid=506de4ec9af969dd23f9c901b53d9582&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-湖南广电,#genre#,DE=3
-湖南卫视4K,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5216
-湖南经视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5377
-湖南娱乐高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5391
-湖南电影高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5405
-湖南都市高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5398
-湖南电视剧高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5412
-快乐购高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5426
-金鹰纪实高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5384
-湖南爱晚高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5419
-金鹰卡通高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5349
-导视频道,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5370
-湖南教育频道,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5356
-CCTV-1高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5104
-CCTV-2高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5111
-CCTV-3高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5118
-CCTV-4高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5125
-CCTV-5高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5139
-CCTV-6高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5146
-CCTV-7高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5153
-CCTV-8高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5160
-CCTV-9高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5167
-CCTV-10高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5174
-CCTV-11戏曲,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5517
-CCTV-12高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5538
-CCTV-13新闻,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5524
-CCTV-14高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5545
-CCTV-15音乐,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5531
-CCTV-17高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5552
-CCTV-4K,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6834
-CCTV-5+高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5132
-江苏卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5244
-浙江卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5237
-东方卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5258
-北京卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5223
-广东卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5251
-深圳卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5230
-天津卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5300
-湖北卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5265
-安徽卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5272
-重庆卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5307
-黑龙江卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5293
-辽宁卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5279
-广西卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5209
-青海卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5601
-山西卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5559
-内蒙古卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5608
-宁夏卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5573
-云南卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5181
-西藏卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5195
-陕西卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5580
-新疆卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5202
-兵团卫视高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5861
-卡酷动画,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5882
-CETV-1,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5896
-CETV-4,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6827
-红星党建,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6778
-CGTN,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6841
-CGTN-A,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6848
-CGTN-R,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6855
-CGTN-E,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6862
-CGTN-F,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6869
-快乐垂钓高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5685
-四海钓鱼高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5454
-茶频道高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5692
-先锋乒羽,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5657
-生活时尚高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5503
-劲爆体育高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5468
-多彩文体4K,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5475
-CHC高清电影,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5664
-游戏风云高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5489
-天元围棋高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5433
-动漫秀场高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5671
-书画频道,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5636
-乐游高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5482
-中华特产,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6876
-法治天地高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5678
-摄影频道,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5440
-财富天下,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5461
-求索记录高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6932
-都市剧场高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=5847
-求索生活高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6939
-求索科学高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6953
-CHC动作电影高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6911
-CHC家庭影院高清,http://www.kaniptv.cn/xz/xz_960a1fe828/湖南广电.php?id=6918
 
 蜀小果,#genre#
 CCTV-1,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-1H265
