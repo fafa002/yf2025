@@ -1,5 +1,5 @@
-抖音K歌,#genre#,DE=3
-盗源狗si全家 全家下地狱
+抖音K歌,#genre#
+切换EXO解码,1
 小米YU7,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg&ratio=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860&ratio=720p&line=0
 王扁-青春修炼手册,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct5htv7og65lsidd7i80&ratio=720p&line=0
@@ -217,8 +217,8 @@ F4-决不能失去你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f
 张韶涵-无名的人,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctari87og65ksgs0rnpg&ratio=720p&line=0
 张韶涵-12首合集,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct7cdovog65o09j282vg&ratio=720p&line=0
 
-清风DJ,#genre#,DE=3
-盗源狗si全家 全家下地狱
+清风DJ,#genre#
+切换EXO解码,1
 女孩DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2aa0qfog65vmvgg5sjg&ratio=720p&line=0
 gamgamDJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cr8r23nog65mnbf3616g&ratio=720p&line=0
 离开我的依赖DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2hio3nog65lre771jt0&ratio=720p&line=0
@@ -267,8 +267,8 @@ DJ珺宝-全粤语Electro音乐抖音热播全女声专辑车载串烧,https://m
 DJ傑少-全粤语Electro音乐受够我的骄傲全女声动感DJ串烧,https://mp4.djuu.com/c2/16/2025/72ad9cbcca850695.m4a
 DjErwin-全粤语Electro音乐不只爱情粤式情歌劲爆DJ串烧,https://mp4.djuu.com/c2/16/2025/4331430d1d6a6b5e.m4a
 
-欧美music,#genre#,DE=3
-盗源狗si全家 全家下地狱
+欧美music,#genre#
+切换EXO解码,1
 Nevada,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300ff30000but4f2452a13sf6temog&ratio=720p&line=0
 Unstoppable,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ce4av3bc77u7mqoje2kg&ratio=720p&line=0
 once upon a time,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cumt1mfog65krksdg31g&ratio=720p&line=0
@@ -5161,91 +5161,6 @@ CHC动作电影,http://ffei.itemdb.com:8808/rtsp/182.139.234.40/PLTV/446/224/322
 雅克音乐节宣传,http://ffei.itemdb.com:8808/rtsp/182.139.234.40/PLTV/88888896/224/3221228570/681159121.smil
 云演艺宣传,http://ffei.itemdb.com:8808/rtsp/182.139.234.40/PLTV/88888896/224/3221228538/678607124.smil
 华西证券,http://ffei.itemdb.com:8808/rtsp/182.139.234.40/PLTV/88888896/224/3221228657/720958029.smil
-
-蜀小果,#genre#
-CCTV-1,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-1H265
-CCTV-2,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-2H265
-CCTV-3,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-3H265
-CCTV-4,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-4H265
-CCTV-5,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-5H265
-CCTV-5+,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-5plusH265
-CCTV-6,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-6H265
-CCTV-7,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-7H265
-CCTV-8,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-8H265
-CCTV-9,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-9H265
-CCTV-10,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-10H265
-CCTV-11,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-11-H265
-CCTV-12,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-12H265
-CCTV-13,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-xw
-CCTV-14,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-14H265
-CCTV-15,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-15-yyH265
-CCTV-16,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-16
-CCTV-17,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CCTV-17
-凤凰中文,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=test1
-凤凰资讯,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=test2
-安徽卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=ahwsH265
-北京卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=bjwsH265
-兵团卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=btws
-重庆卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=cqwsH265
-东方卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=dfwsH265
-东南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=dnwsfjwsH265
-甘肃卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=gsws
-广东卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=gdwsH265
-广西卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=gxws
-贵州卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=gzwsH265
-海南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hnws
-河南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hnws35
-黑龙江卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hljwsH265
-湖北卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hbwsH265
-湖南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=hnwsH265
-吉林卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jlwsH265
-江苏卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jswsH265
-江西卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jxwsH265
-辽宁卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=lnwsHDH264
-内蒙古卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=nmgws
-山东教育卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=sdjy
-山东卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=sdwsH265
-山西卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=sxws42
-陕西卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=sxws
-深圳卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=szwsH265
-四川卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=scwsH265
-天津卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=tjwsH265
-云南卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=ynws
-浙江卫视,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=zjwsH265
-CETV-1,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CETV-1H264
-CHC动作电影,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=wqCHCdzdyH265
-CHC高清电影,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=lnwsCHC-HDH265
-CHC家庭影院,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jbtygqCHCjtyyH265
-动漫秀场,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=yybb-dmxc-H265
-都市剧场,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=yxfydsjcHDH265
-法治天地,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=fztx
-极速汽车,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jsqcH265
-家庭理财,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jtlc
-江苏财富天下,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=cftx
-金鹰纪实,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=jyjsHDH265
-劲爆体育,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=lqhxjcHDH265
-卡酷少儿,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=kkkt
-快乐垂钓,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=fyzqklcdHDH265
-乐游,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=qjs-HDH265
-梨园频道,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=ly
-魅力足球,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=mlyy
-生活时尚,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=shssH265
-四海钓鱼,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=shdy
-武术世界,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=wssj
-先锋乒羽,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=xfpy
-新视觉,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=ycxsjH265
-中国天气,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=zgqx
-四川文化旅游,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=SCTV-2-H265
-四川经济,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=SCTV-3-H265
-四川新闻,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=SCTV-4H265
-四川影视文艺,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=SCTV-5-scysH265
-四川科教,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=SCTV-ggSCTV-8
-四川峨嵋电影,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=emdygqH265
-成都新闻综合,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CDTV-1
-成都经济资讯,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CDTV-2
-成都都市生活,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CDTV-3
-成都影视文艺,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CDTV-4
-成都公共频道,http://simon-iptv.top/tv/sxg.php?/PLTV/&id=CDTV-5
 
 虎牙轮播,#genre#,DE=3
 盗源狗si全家 全家下地狱
