@@ -1040,7 +1040,7 @@ amc電影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 FOX Sports 1,https://iptv.852851.xyz/ch/ba08151b6f613745b7d32af909e949fa/master.m3u8
 NBA,https://iptv.852851.xyz/ch/3dec305a6256ffeeceda602872edbc26/master.m3u8
 
-斯玛特,#genre#
+斯玛特(挂梯流畅),#genre#
 翡翠台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1939
 翡翠台 (Back up 1),http://xsmt.ccwu.cc/xsmt/smt.php?id=2831
 iNews 互動新聞台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1619
