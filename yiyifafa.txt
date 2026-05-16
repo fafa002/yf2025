@@ -1,6 +1,6 @@
 抖音K歌,#genre#
 切换EXO解码,1
-小米YU7,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg&ratio=720p&line=0
+小米YU7,http://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg&ratio=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860&ratio=720p&line=0
 王扁-青春修炼手册,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct5htv7og65lsidd7i80&ratio=720p&line=0
 朴彩英/APT,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02f52g10003css23uiljht5d6b6mnq0&ratio=720p&line=0
