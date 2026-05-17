@@ -1084,358 +1084,6 @@ DAZN 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2869
 DAZN 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2870
 Eurosport,http://xsmt.ccwu.cc/xsmt/smt.php?id=2890
 
-国外UK1,#genre#,DE=3
-COZI TV SD,http://nor1live.win:80/livehttpplay?channel_id=23000
-TELEXITOS SD,http://nor1live.win:80/livehttpplay?channel_id=23001
-TELEMUNDO WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23002
-TELEMUNDO EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23003
-TELEMUNDO MOUNTAIN HD,http://nor1live.win:80/livehttpplay?channel_id=23004
-GOLF CHANNEL HD,http://nor1live.win:80/livehttpplay?channel_id=23005
-UNIVERSAL KIDS HD,http://nor1live.win:80/livehttpplay?channel_id=23006
-TV ONE HD,http://nor1live.win:80/livehttpplay?channel_id=23007
-E! WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23008
-MTV WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23009
-NICK EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23010
-MTV HITS HD,http://nor1live.win:80/livehttpplay?channel_id=23011
-PARAMOUND  WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23012
-PARAMOUND CANADÁ HD,http://nor1live.win:80/livehttpplay?channel_id=23013
-LOGO EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23014
-CMT WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23015
-AFN prime pacific HD ,http://nor1live.win:80/livehttpplay?channel_id=23016
-AFN family HD,http://nor1live.win:80/livehttpplay?channel_id=23017
-AFN movie HD,http://nor1live.win:80/livehttpplay?channel_id=23018
-AFN spectrum HD ,http://nor1live.win:80/livehttpplay?channel_id=23019
-AFN sports HD,http://nor1live.win:80/livehttpplay?channel_id=23020
-AFN sports 2 HD,http://nor1live.win:80/livehttpplay?channel_id=23021
-LAS ESTRELLAS HD,http://nor1live.win:80/livehttpplay?channel_id=23022
-LAS ESTRELLAS HD -1HORA,http://nor1live.win:80/livehttpplay?channel_id=23023
-LAS ESTRELLAS HD -2HORA,http://nor1live.win:80/livehttpplay?channel_id=23024
-CANAL 5 HD,http://nor1live.win:80/livehttpplay?channel_id=23025
-CANAL 5 HD -1 HORA ,http://nor1live.win:80/livehttpplay?channel_id=23026
-NU9VE HD,http://nor1live.win:80/livehttpplay?channel_id=23027
-AZTECA1 HD,http://nor1live.win:80/livehttpplay?channel_id=23028
-AZTECA1 HD -HORAS ,http://nor1live.win:80/livehttpplay?channel_id=23029
-ADN 40 HD,http://nor1live.win:80/livehttpplay?channel_id=23030
-a mas+HD ,http://nor1live.win:80/livehttpplay?channel_id=23031
-SKYSPORTS LA LIGA(DEMO),http://nor1live.win:80/livehttpplay?channel_id=23032
-FutTV HD ,http://nor1live.win:80/livehttpplay?channel_id=23033
-truTV HD,http://nor1live.win:80/livehttpplay?channel_id=23034
-DREAMWORKS HD,http://nor1live.win:80/livehttpplay?channel_id=23035
-GOLDEN HD,http://nor1live.win:80/livehttpplay?channel_id=23036
-Europa/europa HD,http://nor1live.win:80/livehttpplay?channel_id=23037
-GOLDEN EDGE HD,http://nor1live.win:80/livehttpplay?channel_id=23038
-GOLDEN PREMIER HD,http://nor1live.win:80/livehttpplay?channel_id=23039
-ÚNICABLE HD,http://nor1live.win:80/livehttpplay?channel_id=23040
-BANDAMAX HD,http://nor1live.win:80/livehttpplay?channel_id=23041
-TELEMUNDO HD,http://nor1live.win:80/livehttpplay?channel_id=23042
-DISTRITO COMEDIA HD,http://nor1live.win:80/livehttpplay?channel_id=23043
-NICK JR HD,http://nor1live.win:80/livehttpplay?channel_id=23044
-CARTOON NETWORK HD,http://nor1live.win:80/livehttpplay?channel_id=23045
-GOLDEN HD,http://nor1live.win:80/livehttpplay?channel_id=23046
-GOLDEN EDGE HD ,http://nor1live.win:80/livehttpplay?channel_id=23047
-TUDN MX HD,http://nor1live.win:80/livehttpplay?channel_id=23048
-HBO FAMILY HD,http://nor1live.win:80/livehttpplay?channel_id=23049
-UNIVERSAL PREMIER HD,http://nor1live.win:80/livehttpplay?channel_id=23050
-UNIVERSAL CINEMA HD,http://nor1live.win:80/livehttpplay?channel_id=23051
-UNIVERSAL CRIME HD,http://nor1live.win:80/livehttpplay?channel_id=23052
-UNIVERSAL REALITYKIT HD,http://nor1live.win:80/livehttpplay?channel_id=23053
-FOX PREMIUM HD,http://nor1live.win:80/livehttpplay?channel_id=23054
-FOX SPORTS 3 HD,http://nor1live.win:80/livehttpplay?channel_id=23055
-GOLTV HD ,http://nor1live.win:80/livehttpplay?channel_id=23056
-Hallmark East HD ,http://nor1live.win:80/livehttpplay?channel_id=23057
-Hallmark West HD ,http://nor1live.win:80/livehttpplay?channel_id=23058
-Hallmark Movie East HD,http://nor1live.win:80/livehttpplay?channel_id=23059
-Hallmark Movie west HD,http://nor1live.win:80/livehttpplay?channel_id=23060
-Hallmark Drama HD ,http://nor1live.win:80/livehttpplay?channel_id=23061
-BET Caribe HD,http://nor1live.win:80/livehttpplay?channel_id=23062
-BET Canadá HD ,http://nor1live.win:80/livehttpplay?channel_id=23063
-BET East HD ,http://nor1live.win:80/livehttpplay?channel_id=23064
-BET Her Caribe HD,http://nor1live.win:80/livehttpplay?channel_id=23065
-BET BET West HD,http://nor1live.win:80/livehttpplay?channel_id=23066
-OXYGEN West HD ,http://nor1live.win:80/livehttpplay?channel_id=23067
-OXYGEN EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23068
-USA HD,http://nor1live.win:80/livehttpplay?channel_id=23069
-BRAVO HD ,http://nor1live.win:80/livehttpplay?channel_id=23070
-SyFy East HD,http://nor1live.win:80/livehttpplay?channel_id=23071
-MGM+HD,http://nor1live.win:80/livehttpplay?channel_id=23072
-MGM+WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23073
-MGM+HITS HD,http://nor1live.win:80/livehttpplay?channel_id=23074
-MGM+MARQUE HD,http://nor1live.win:80/livehttpplay?channel_id=23075
-MGM+DRIVE HD,http://nor1live.win:80/livehttpplay?channel_id=23076
-CMT EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23077
-MTV EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23078
-NICK WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23079
-VH1 WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23080
-MTV LIVE HD ,http://nor1live.win:80/livehttpplay?channel_id=23081
-PARAMOUND EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23082
-COMEDY WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23083
-REVOLT HD,http://nor1live.win:80/livehttpplay?channel_id=23084
-Story HD ,http://nor1live.win:80/livehttpplay?channel_id=23085
-UNIVERSO EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23086
-UNIVERSO WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23087
-UNIVISION EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23088
-UNIVISION WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23089
-GALAVISION EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23090
-GALAVISION WEST HD,http://nor1live.win:80/livehttpplay?channel_id=23091
-UNIVISION TUDN USA HD,http://nor1live.win:80/livehttpplay?channel_id=23092
-UNIMAS EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23093
-UNIMAS WEST HD ,http://nor1live.win:80/livehttpplay?channel_id=23094
-Pac-12 Network HD,http://nor1live.win:80/livehttpplay?channel_id=23095
-MAVTV HD WEST,http://nor1live.win:80/livehttpplay?channel_id=23096
-HGTV HD WEST,http://nor1live.win:80/livehttpplay?channel_id=23097
-FOOD NETWORK HD WEST,http://nor1live.win:80/livehttpplay?channel_id=23098
-TRAVEL CHANNEL HD WEST,http://nor1live.win:80/livehttpplay?channel_id=23099
-GREAT AMERICAN FAMILY WEST,http://nor1live.win:80/livehttpplay?channel_id=23100
-MAGNOLIA HD WES,http://nor1live.win:80/livehttpplay?channel_id=23101
-Newsnation (WGNA) HD,http://nor1live.win:80/livehttpplay?channel_id=23102
-MLB NETWORK HD ,http://nor1live.win:80/livehttpplay?channel_id=23103
-A&amp;E HD ,http://nor1live.win:80/livehttpplay?channel_id=23104
-HISTORY EAST USA HD,http://nor1live.win:80/livehttpplay?channel_id=23105
-LIFETIME EAST HD,http://nor1live.win:80/livehttpplay?channel_id=23106
-LMN HD,http://nor1live.win:80/livehttpplay?channel_id=23107
-fyi HD ,http://nor1live.win:80/livehttpplay?channel_id=23108
-Vice HD ,http://nor1live.win:80/livehttpplay?channel_id=23109
-bravo HD ,http://nor1live.win:80/livehttpplay?channel_id=23110
-SyFy  HD,http://nor1live.win:80/livehttpplay?channel_id=23111
-USA HD ,http://nor1live.win:80/livehttpplay?channel_id=23112
-E! EAST HD ,http://nor1live.win:80/livehttpplay?channel_id=23113
-TV ONE HD,http://nor1live.win:80/livehttpplay?channel_id=23114
-CNBC HD ,http://nor1live.win:80/livehttpplay?channel_id=23115
-MSNBC HD,http://nor1live.win:80/livehttpplay?channel_id=23116
-CNBC WORLD HD ,http://nor1live.win:80/livehttpplay?channel_id=23117
-PARAMOUND CARIBE HD,http://nor1live.win:80/livehttpplay?channel_id=23118
-COMEDY CARIBE HD,http://nor1live.win:80/livehttpplay?channel_id=23119
-ESPN HD USA,http://nor1live.win:80/livehttpplay?channel_id=23120
-ESPN NEWS USA,http://nor1live.win:80/livehttpplay?channel_id=23121
-ESPN U USA,http://nor1live.win:80/livehttpplay?channel_id=23122
-ESPN 2 USA,http://nor1live.win:80/livehttpplay?channel_id=23123
-NFL USA ,http://nor1live.win:80/livehttpplay?channel_id=23124
-MLB USA ,http://nor1live.win:80/livehttpplay?channel_id=23125
-MAVTV USA ,http://nor1live.win:80/livehttpplay?channel_id=23126
-NHL USA ,http://nor1live.win:80/livehttpplay?channel_id=23127
-NBA USA ,http://nor1live.win:80/livehttpplay?channel_id=23128
-TENNIS USA ,http://nor1live.win:80/livehttpplay?channel_id=23129
-GOLF USA ,http://nor1live.win:80/livehttpplay?channel_id=23130
-FS1 FOXSPORTS 1 US,http://nor1live.win:80/livehttpplay?channel_id=23131
-CBS SPORTS USA,http://nor1live.win:80/livehttpplay?channel_id=23132
-TNT USA ,http://nor1live.win:80/livehttpplay?channel_id=23133
-FOX DEPORTES USA,http://nor1live.win:80/livehttpplay?channel_id=23134
-ESPN DEPORTES USA,http://nor1live.win:80/livehttpplay?channel_id=23135
-FANDUEL TV USA ,http://nor1live.win:80/livehttpplay?channel_id=23136
-PURSUIT CHANNEL ,http://nor1live.win:80/livehttpplay?channel_id=23137
-OUTDOOR CHANNEL ,http://nor1live.win:80/livehttpplay?channel_id=23138
-BIG NETWORK USA,http://nor1live.win:80/livehttpplay?channel_id=23139
-ESPN NETWORK USA,http://nor1live.win:80/livehttpplay?channel_id=23140
-ESPN ACCN USA ,http://nor1live.win:80/livehttpplay?channel_id=23141
-FS2 FOXSPORTS 2US,http://nor1live.win:80/livehttpplay?channel_id=23142
-NXT SPORTS USA,http://nor1live.win:80/livehttpplay?channel_id=23143
-NBC SPORTS BOSTON  USA ,http://nor1live.win:80/livehttpplay?channel_id=23144
-YES HD USA ,http://nor1live.win:80/livehttpplay?channel_id=23145
-MSG HD USA ,http://nor1live.win:80/livehttpplay?channel_id=23146
-MSG +HD USA ,http://nor1live.win:80/livehttpplay?channel_id=23147
-SNY (SPORTNET NY),http://nor1live.win:80/livehttpplay?channel_id=23148
-NBC SPORTS CHICAGO  USA ,http://nor1live.win:80/livehttpplay?channel_id=23149
-MOTORTREND USA ,http://nor1live.win:80/livehttpplay?channel_id=23150
-AXSTV USA ,http://nor1live.win:80/livehttpplay?channel_id=23151
-Olimpics Extra 1 HD ,http://nor1live.win:80/livehttpplay?channel_id=23152
-Olimpics Extra 2 HD ,http://nor1live.win:80/livehttpplay?channel_id=23153
-
-国外UK2,#genre#,DE=3
-RT RUSIA TODAY HD,http://nor2live.win:80/livehttpplay?channel_id=16500
-URONEWS HD,http://nor2live.win:80/livehttpplay?channel_id=16501
-UROCHANNEL HD,http://nor2live.win:80/livehttpplay?channel_id=16502
-RACE SPORTS HD,http://nor2live.win:80/livehttpplay?channel_id=16503
-TV HD ,http://nor2live.win:80/livehttpplay?channel_id=16504
-TIGO SPORTS ,http://nor2live.win:80/livehttpplay?channel_id=16505
-ARTOONITO ARG. HD,http://nor2live.win:80/livehttpplay?channel_id=16506
-ARTOON NETWORK ARG ,http://nor2live.win:80/livehttpplay?channel_id=16507
-SPACE ARG.,http://nor2live.win:80/livehttpplay?channel_id=16508
-PACE SURAMÉRICA,http://nor2live.win:80/livehttpplay?channel_id=16509
-NT ARGENTINA HD,http://nor2live.win:80/livehttpplay?channel_id=16510
-TNT SUR AMERICA ,http://nor2live.win:80/livehttpplay?channel_id=16511
-TNT SPORTS ARG.,http://nor2live.win:80/livehttpplay?channel_id=16512
-SPORTSMAX HD,http://nor2live.win:80/livehttpplay?channel_id=16513
-SPORTSMAX 2 HD,http://nor2live.win:80/livehttpplay?channel_id=16514
-in nombre,http://nor2live.win:80/livehttpplay?channel_id=16515
-ZOOMOO HD,http://nor2live.win:80/livehttpplay?channel_id=16516
-METRO SD ,http://nor2live.win:80/livehttpplay?channel_id=16517
-MAGAZINE SD,http://nor2live.win:80/livehttpplay?channel_id=16518
-RURAL HD,http://nor2live.win:80/livehttpplay?channel_id=16519
-CANAL (a),http://nor2live.win:80/livehttpplay?channel_id=16520
-VOLVER HD,http://nor2live.win:80/livehttpplay?channel_id=16521
-QUIERO MÚSICA HD,http://nor2live.win:80/livehttpplay?channel_id=16522
-AMÉRICA SPORTS HD,http://nor2live.win:80/livehttpplay?channel_id=16523
-TyC SPORTS LATINOAMÉRICA HD,http://nor2live.win:80/livehttpplay?channel_id=16524
-TyC NACIONAL HD ,http://nor2live.win:80/livehttpplay?channel_id=16525
-TN TODO NOTICIAS HD ,http://nor2live.win:80/livehttpplay?channel_id=16526
-EL TRECE INTERNACIONAL HD ,http://nor2live.win:80/livehttpplay?channel_id=16527
-EL TRECE NACIONAL HD ,http://nor2live.win:80/livehttpplay?channel_id=16528
-TELESUR HD,http://nor2live.win:80/livehttpplay?channel_id=16529
-BLOOMBERG HD,http://nor2live.win:80/livehttpplay?channel_id=16530
-BBC NEWS,http://nor2live.win:80/livehttpplay?channel_id=16531
-sin nombre ,http://nor2live.win:80/livehttpplay?channel_id=16532
-OFF,http://nor2live.win:80/livehttpplay?channel_id=16533
-CANAL 9 NICARAGUA ,http://nor2live.win:80/livehttpplay?channel_id=16534
-CANAL 2 NICARAGUA ,http://nor2live.win:80/livehttpplay?channel_id=16535
-T8N NICARAGUA ,http://nor2live.win:80/livehttpplay?channel_id=16536
-CANAL 4 COSTA RICA,http://nor2live.win:80/livehttpplay?channel_id=16537
-CANAL 6 COSTA RICA,http://nor2live.win:80/livehttpplay?channel_id=16538
-CANAL 11 COSTA RICA ,http://nor2live.win:80/livehttpplay?channel_id=16539
-CANAL 10 HD ARGENTINA ,http://nor2live.win:80/livehttpplay?channel_id=16540
-TNT SPORTS CHILE HD ,http://nor2live.win:80/livehttpplay?channel_id=16541
-TNT SPORTS 2 CHILE HD ,http://nor2live.win:80/livehttpplay?channel_id=16542
-TNT SPORTS 3 CHILE HD ,http://nor2live.win:80/livehttpplay?channel_id=16543
-TNT MÉXICO,http://nor2live.win:80/livehttpplay?channel_id=16544
-TNT COLOMBIA ,http://nor2live.win:80/livehttpplay?channel_id=16545
-TNT CHILE/PERU,http://nor2live.win:80/livehttpplay?channel_id=16546
-CARTOONITO,http://nor2live.win:80/livehttpplay?channel_id=16547
-GLITZ SD,http://nor2live.win:80/livehttpplay?channel_id=16548
-TNT SERIES MÉXICO ,http://nor2live.win:80/livehttpplay?channel_id=16549
-TNT SERIES COLOMBIA,http://nor2live.win:80/livehttpplay?channel_id=16550
-TNT SERIES ARGENTINA,http://nor2live.win:80/livehttpplay?channel_id=16551
-NICK NORTE SD ,http://nor2live.win:80/livehttpplay?channel_id=16552
-NICK JR LATÍN AMÉRICA SD,http://nor2live.win:80/livehttpplay?channel_id=16553
-NICK CENTRAL SD ,http://nor2live.win:80/livehttpplay?channel_id=16554
-NICK MUSIC SD,http://nor2live.win:80/livehttpplay?channel_id=16555
-COMEDY CENTRAL HD,http://nor2live.win:80/livehttpplay?channel_id=16556
-PARAMOUNT HD ,http://nor2live.win:80/livehttpplay?channel_id=16557
-TELEFE HD,http://nor2live.win:80/livehttpplay?channel_id=16558
-MTV HD,http://nor2live.win:80/livehttpplay?channel_id=16559
-MTV 00s HD,http://nor2live.win:80/livehttpplay?channel_id=16560
-TV CHILE HD ,http://nor2live.win:80/livehttpplay?channel_id=16561
-TVn CHILE ,http://nor2live.win:80/livehttpplay?channel_id=16562
-CNN CHILE HD,http://nor2live.win:80/livehttpplay?channel_id=16563
-CLEO HD,http://nor2live.win:80/livehttpplay?channel_id=23200
-PLAYBOY ING HD,http://nor2live.win:80/livehttpplay?channel_id=23201
-PLAYBOY ESPA HD,http://nor2live.win:80/livehttpplay?channel_id=23202
-THIS TV SD,http://nor2live.win:80/livehttpplay?channel_id=23203
-SONY CINE HD,http://nor2live.win:80/livehttpplay?channel_id=23204
-SONY MOVIES HD ,http://nor2live.win:80/livehttpplay?channel_id=23205
-OVATION HD,http://nor2live.win:80/livehttpplay?channel_id=23206
-14 ZEE LIVING HD,http://nor2live.win:80/livehttpplay?channel_id=23207
-PPV 1 HD,http://nor2live.win:80/livehttpplay?channel_id=23208
-PPV 2 HD,http://nor2live.win:80/livehttpplay?channel_id=23209
-HOT CHOICE ,http://nor2live.win:80/livehttpplay?channel_id=23210
-HISTORY USA ESPAÑOL ,http://nor2live.win:80/livehttpplay?channel_id=23211
-CRIME INVESTIGATION ,http://nor2live.win:80/livehttpplay?channel_id=23212
-MILITAR HISTORY ,http://nor2live.win:80/livehttpplay?channel_id=23213
-FANTASY SPORTS USA HD,http://nor2live.win:80/livehttpplay?channel_id=23214
-FIGHT NETWORK HD,http://nor2live.win:80/livehttpplay?channel_id=23215
-MULTIMEDIOS CD MEXICO,http://nor2live.win:80/livehttpplay?channel_id=23216
-MULTIMEDIOS MTY HD,http://nor2live.win:80/livehttpplay?channel_id=23217
-MULTIMEDIOS USA ,http://nor2live.win:80/livehttpplay?channel_id=23218
-MULTIMEDIOS COSTA RICA HD,http://nor2live.win:80/livehttpplay?channel_id=23219
-MILENIO HD,http://nor2live.win:80/livehttpplay?channel_id=23220
-TELERITMO HD,http://nor2live.win:80/livehttpplay?channel_id=23221
-CONCERT CHANNEL HD ,http://nor2live.win:80/livehttpplay?channel_id=23222
-CLARO CINEMA HD,http://nor2live.win:80/livehttpplay?channel_id=23223
-GAMAVISION SD ECUADOR,http://nor2live.win:80/livehttpplay?channel_id=23224
-GUATEVISION HD ,http://nor2live.win:80/livehttpplay?channel_id=23225
-AZTECA GUATEMALA ,http://nor2live.win:80/livehttpplay?channel_id=23226
-A MÁS GUATEMALA ,http://nor2live.win:80/livehttpplay?channel_id=23227
-TV AZTECA HONDURAS HD,http://nor2live.win:80/livehttpplay?channel_id=23228
-CINEMEXICANO SD,http://nor2live.win:80/livehttpplay?channel_id=23229
-VIDEOROLA ,http://nor2live.win:80/livehttpplay?channel_id=23230
-PLATINO HD ,http://nor2live.win:80/livehttpplay?channel_id=23231
-PLATINO 2 HD,http://nor2live.win:80/livehttpplay?channel_id=23232
-PÁNICO HD,http://nor2live.win:80/livehttpplay?channel_id=23233
-TVC DEPORTES HD ,http://nor2live.win:80/livehttpplay?channel_id=23234
-TVC DEPORTES 2 HD,http://nor2live.win:80/livehttpplay?channel_id=23235
-OROMAR TV SD,http://nor2live.win:80/livehttpplay?channel_id=23236
-PANAMERICANA,http://nor2live.win:80/livehttpplay?channel_id=23237
-FREETV HE,http://nor2live.win:80/livehttpplay?channel_id=23238
-PASIONES SD ,http://nor2live.win:80/livehttpplay?channel_id=23239
-EXCELSIOR TV HD,http://nor2live.win:80/livehttpplay?channel_id=23240
-AMC SD,http://nor2live.win:80/livehttpplay?channel_id=23241
-MASCHIC SD,http://nor2live.win:80/livehttpplay?channel_id=23242
-FILM&amp;ARTS SD ,http://nor2live.win:80/livehttpplay?channel_id=23243
-GOURMET SD,http://nor2live.win:80/livehttpplay?channel_id=23244
-MAYA TV SD HONDURAS,http://nor2live.win:80/livehttpplay?channel_id=23245
-GO TV SD HONDURAS,http://nor2live.win:80/livehttpplay?channel_id=23246
-GAMAVISION SD ECUADOR ,http://nor2live.win:80/livehttpplay?channel_id=23247
-FOXSPORTS HD,http://nor2live.win:80/livehttpplay?channel_id=23248
-FOXSPORTS 2 HD ,http://nor2live.win:80/livehttpplay?channel_id=23249
-FOXSPORTS 3 HD,http://nor2live.win:80/livehttpplay?channel_id=23250
-FOXSPORTS PREMIUM HD,http://nor2live.win:80/livehttpplay?channel_id=23251
-HOLA TV HD,http://nor2live.win:80/livehttpplay?channel_id=23252
-A3 CINE HD,http://nor2live.win:80/livehttpplay?channel_id=23253
-A3 SERIES HD ,http://nor2live.win:80/livehttpplay?channel_id=23254
-TELEUNIVERSO HD,http://nor2live.win:80/livehttpplay?channel_id=23255
-ECUADOR NACIONAL ,http://nor2live.win:80/livehttpplay?channel_id=23256
-ECUADOR INT. SD,http://nor2live.win:80/livehttpplay?channel_id=23257
-MEXICANAL HD ,http://nor2live.win:80/livehttpplay?channel_id=23258
-TELEMICRO HD,http://nor2live.win:80/livehttpplay?channel_id=23259
-KANAL D HD,http://nor2live.win:80/livehttpplay?channel_id=23260
-KANAL DRAMA USA HD ,http://nor2live.win:80/livehttpplay?channel_id=23261
-LAS USA HD,http://nor2live.win:80/livehttpplay?channel_id=23262
-AYM SPORTS ,http://nor2live.win:80/livehttpplay?channel_id=23263
-
-国外UK3,#genre#,DE=3
-AZTECA 1 HD ,http://nor3live.win:80/livehttpplay?channel_id=23300
-ESTRELLAS  HD,http://nor3live.win:80/livehttpplay?channel_id=23301
-IMAGEN HD,http://nor3live.win:80/livehttpplay?channel_id=23302
-CANAL5 HD,http://nor3live.win:80/livehttpplay?channel_id=23303
-AZTECA 7 HD,http://nor3live.win:80/livehttpplay?channel_id=23304
-STAR CHANNEL HD,http://nor3live.win:80/livehttpplay?channel_id=23305
-UNIVERSAL CHANEL HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23306
-SONY HD CENTRA,http://nor3live.win:80/livehttpplay?channel_id=23307
-WB HD,http://nor3live.win:80/livehttpplay?channel_id=23308
-AMC HD,http://nor3live.win:80/livehttpplay?channel_id=23309
-A3S SERIES HD,http://nor3live.win:80/livehttpplay?channel_id=23310
-AXN HD,http://nor3live.win:80/livehttpplay?channel_id=23311
-FX CENTRAL HD,http://nor3live.win:80/livehttpplay?channel_id=23312
-SPACE HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23313
-USA HD,http://nor3live.win:80/livehttpplay?channel_id=23314
-AE HD,http://nor3live.win:80/livehttpplay?channel_id=23315
-Investigation Discovery (ID),http://nor3live.win:80/livehttpplay?channel_id=23316
-Discovery HH HD,http://nor3live.win:80/livehttpplay?channel_id=23317
-Discovery World HD,http://nor3live.win:80/livehttpplay?channel_id=23318
-TLC DISCOVERY HD,http://nor3live.win:80/livehttpplay?channel_id=23319
-GOURMET HD,http://nor3live.win:80/livehttpplay?channel_id=23320
-Hola TV HD,http://nor3live.win:80/livehttpplay?channel_id=23321
-E! HD,http://nor3live.win:80/livehttpplay?channel_id=23322
-Comedia central HD,http://nor3live.win:80/livehttpplay?channel_id=23323
-MTV HD,http://nor3live.win:80/livehttpplay?channel_id=23324
-MTV LIVE HD,http://nor3live.win:80/livehttpplay?channel_id=23325
-DISNEY CHANNEL HD,http://nor3live.win:80/livehttpplay?channel_id=23326
-DISNEY JUNIOR,http://nor3live.win:80/livehttpplay?channel_id=23327
-TEEN NICK HD,http://nor3live.win:80/livehttpplay?channel_id=23328
-Discovery Kids HD,http://nor3live.win:80/livehttpplay?channel_id=23329
-Baby TV,http://nor3live.win:80/livehttpplay?channel_id=23330
-Cartoonito HD,http://nor3live.win:80/livehttpplay?channel_id=23331
-Discovery HD,http://nor3live.win:80/livehttpplay?channel_id=23332
-Discovery Theater HD,http://nor3live.win:80/livehttpplay?channel_id=23333
-NETGEO HD,http://nor3live.win:80/livehttpplay?channel_id=23334
-Animal planet HD,http://nor3live.win:80/livehttpplay?channel_id=23335
-HISTORY HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23336
-TYC SPORTS HD,http://nor3live.win:80/livehttpplay?channel_id=23337
-TELEMUNDO HD,http://nor3live.win:80/livehttpplay?channel_id=23338
-ESPN 2 HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23339
-ESPN4 HD CENTRAL,http://nor3live.win:80/livehttpplay?channel_id=23340
-TRACE SPORTS HD,http://nor3live.win:80/livehttpplay?channel_id=23341
-ESPN CENTRAL HD,http://nor3live.win:80/livehttpplay?channel_id=23342
-GOLF HD,http://nor3live.win:80/livehttpplay?channel_id=23343
-ESPN 3 HD,http://nor3live.win:80/livehttpplay?channel_id=23344
-Discovery Turbo HD,http://nor3live.win:80/livehttpplay?channel_id=23345
-NBA HD,http://nor3live.win:80/livehttpplay?channel_id=23346
-NFL NETWORK HD,http://nor3live.win:80/livehttpplay?channel_id=23347
-TNT HD,http://nor3live.win:80/livehttpplay?channel_id=23348
-MC HD,http://nor3live.win:80/livehttpplay?channel_id=23349
-Cinemax HD,http://nor3live.win:80/livehttpplay?channel_id=23350
-MULTIPREMIER HD,http://nor3live.win:80/livehttpplay?channel_id=23351
-CINECANAL CENTRAL HD,http://nor3live.win:80/livehttpplay?channel_id=23352
-FilmArts HD,http://nor3live.win:80/livehttpplay?channel_id=23353
-Studio Universal HD,http://nor3live.win:80/livehttpplay?channel_id=23354
-PARAMOINT CHANNEL HD,http://nor3live.win:80/livehttpplay?channel_id=23355
-HBO HD,http://nor3live.win:80/livehttpplay?channel_id=23356
-HBO 2 HD,http://nor3live.win:80/livehttpplay?channel_id=23357
-HBO FAMILY HD,http://nor3live.win:80/livehttpplay?channel_id=23358
-HBO PLUS HD,http://nor3live.win:80/livehttpplay?channel_id=23359
-HBO SIGNATURE HD,http://nor3live.win:80/livehttpplay?channel_id=23360
-HBO MUNDI HD,http://nor3live.win:80/livehttpplay?channel_id=23361
-HBO POP HD,http://nor3live.win:80/livehttpplay?channel_id=23362
-HBO EXTREME HD,http://nor3live.win:80/livehttpplay?channel_id=23363
-
 抖音直播,#genre#,DE=3
 水水家猪蹄,https://cdn-3.ttvb.eu.org/douyin/ssjzt777
 格格睡醒了,https://cdn-3.ttvb.eu.org/douyin/42347122605
@@ -7940,7 +7588,6 @@ SSNI-865,https://t33.cdn2020.com/video/m3u8/2025/12/29/cbfa103e/index.m3u8
 AKDLD-283,https://t33.cdn2020.com/video/m3u8/2025/12/29/08fea47e/index.m3u8
 LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 
-回歸企劃-感謝粉絲見面會下,https://t26.cdn2020.com/video/m3u8/2024/01/07/f2c12b0d/index.m3u8
 豆传媒.DG56785.夏云.兄乱抽的,https://t33.cdn2020.com/video/m3u8/2026/01/20/3c534750/index.m3u8
 豆传媒.DG56784.夏云.感医生下惑暴富小,https://t33.cdn2020.com/video/m3u8/2025/12/31/3b03be1c/index.m3u8
 豆传媒.DG56783.喵喵.少的极致惑任你玩,https://t33.cdn2020.com/video/m3u8/2025/12/31/01733c43/index.m3u8
@@ -7964,115 +7611,7 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 豆传媒.IDG5671.夏云.借宿表家.趁机打桩心心念念的婊,https://t33.cdn2020.com/video/m3u8/2025/08/15/3b9c1b7f/index.m3u8
 豆传媒.IDG5670.喵喵.工厂小伙.差阳错到美风介,https://t33.cdn2020.com/video/m3u8/2025/08/15/dc9cae48/index.m3u8
 豆传媒.IDG5669.喵喵.报复轨前.同城探花遇高冷小子,https://t33.cdn2020.com/video/m3u8/2025/08/15/d495dfcd/index.m3u8
-豆传媒.IDG5668.艾娃..居然是好友的单亲,https://t30.cdn2020.com/video/m3u8/2025/07/27/ec896922/index.m3u8
-豆传媒.IDG5667.艾娃.火愤.傲娇租客,https://t30.cdn2020.com/video/m3u8/2025/07/28/a65acff2/index.m3u8
-豆传媒.IDG5666.孟若羽.家教禁忌.学生,https://t30.cdn2020.com/video/m3u8/2025/07/28/12acf6d4/index.m3u8
-豆传媒.IDG5665.孟若羽.偶遇心机婊.只好用我狠狠她的,https://t30.cdn2020.com/video/m3u8/2025/07/27/c2f386e6/index.m3u8
-豆传媒.IDG5664.萧雅.子乱高考结束.和美貌后激一,https://t30.cdn2020.com/video/m3u8/2025/07/13/dc1dfd9d/index.m3u8
-豆传媒.IDG5663.萧雅.今天你是我老公.背着子偷韵小子,https://t30.cdn2020.com/video/m3u8/2025/07/12/20838003/index.m3u8
-豆传媒.IDG5662.梅梅.感儿下兼职.被爸爸小,https://t30.cdn2020.com/video/m3u8/2025/07/12/0a05cb58/index.m3u8
-豆传媒.IDG5661.梅梅.重拾校花小.沦落为下头牌一号,https://t30.cdn2020.com/video/m3u8/2025/07/12/5a2292ce/index.m3u8
-豆传媒.IDG5660.苏怡.毕业季狂欢.被无内小,https://t30.cdn2020.com/video/m3u8/2025/06/27/8c3c4251/index.m3u8
-豆传媒.IDG5659.苏怡.小子.的她双腿瘫软高潮,https://t30.cdn2020.com/video/m3u8/2025/07/10/f4daf573/index.m3u8
-豆传媒.IDG5658.小玲.馒头小娇喘不息.后漂亮的小,https://t30.cdn2020.com/video/m3u8/2025/06/27/1dd7971a/index.m3u8
-豆传媒.IDG5657.小玲.十八岁那年.被爸爸的朋友到高潮连连,https://t30.cdn2020.com/video/m3u8/2025/07/13/ffc58eaf/index.m3u8
-豆传媒.IDG5656.晓彤.漂亮秘书丢失工作下.遭遇前任老板,https://t30.cdn2020.com/video/m3u8/2025/06/27/a9d093f7/index.m3u8
-豆传媒.IDG5655.晓彤.离婚后耐不住寂寞.和儿发生了关系,https://t30.cdn2020.com/video/m3u8/2025/07/13/89de938e/index.m3u8
-豆传媒.IDG5654.夏云.激上位肆意蹂躏.偷吃风小表,https://t30.cdn2020.com/video/m3u8/2025/06/21/cc58a370/index.m3u8
-豆传媒.IDG5653.夏云.口巴.寂寞小子的深邀请,https://t30.cdn2020.com/video/m3u8/2025/06/24/470a59d5/index.m3u8
-豆传媒.IDG5652.敏儿.仰慕已久的神失恋.被我下强推,https://t30.cdn2020.com/video/m3u8/2025/06/21/bfd6b77d/index.m3u8
-豆传媒.IDG5651.敏儿.上了柔的小嫂子.趁不在下她,https://t30.cdn2020.com/video/m3u8/2025/06/24/f518b301/index.m3u8
-豆传媒.IDG5650.喵喵.从抗拒变主动迎合.给下催,https://t30.cdn2020.com/video/m3u8/2025/06/21/abaf566f/index.m3u8
-豆传媒.IDG5649.喵喵.无真紧.朋友的可,https://t30.cdn2020.com/video/m3u8/2025/06/24/0264887e/index.m3u8
-豆传媒.IDG5648.林沫.无能律师重振雄风.征服风秘书,https://t30.cdn2020.com/video/m3u8/2025/06/19/792d6a6c/index.m3u8
-豆传媒.IDG5647.林沫.寂寞少蕾.催释放内心的望,https://t30.cdn2020.com/video/m3u8/2025/06/19/c4d7aefd/index.m3u8
-豆传媒.IDG5646.小柒.18岁美主播室友.粉小被满,https://t30.cdn2020.com/video/m3u8/2025/06/16/c7060f42/index.m3u8
-豆传媒.IDG5645.小柒.醉酒后发.清纯小保姆,https://t30.cdn2020.com/video/m3u8/2025/06/16/302ed92e/index.m3u8
-豆传媒.IDG5644.夏云.名存实亡的婚姻.在背叛寻求刺激,https://t30.cdn2020.com/video/m3u8/2025/05/31/6dfc8d21/index.m3u8
-豆传媒.IDG5643.夏云.分手后的激重逢.超袜小酥,https://t30.cdn2020.com/video/m3u8/2025/05/31/a7f02bb5/index.m3u8
-豆传媒.IDG5642.萧雅.偶遇查无音信的.思念冲破禁忌的枷锁,https://t30.cdn2020.com/video/m3u8/2025/05/31/6f21ac0f/index.m3u8
-豆传媒.IDG5641.夏云.我与前再续良缘.分别已久的再度高潮,https://t30.cdn2020.com/video/m3u8/2025/05/27/2f4ddfa9/index.m3u8
-豆传媒.IDG5640.小茹.成功美艳太太.感货跪地承欢,https://t30.cdn2020.com/video/m3u8/2025/05/27/789c2d49/index.m3u8
-豆传媒.IDG5639.小茹.同城到童年月光.深长谈激一,https://t30.cdn2020.com/video/m3u8/2025/05/27/cfae6520/index.m3u8
-豆传媒.IDG5638.喵喵.再也不做舔了.用催让神变荡,https://t30.cdn2020.com/video/m3u8/2025/05/27/847e522c/index.m3u8
-豆传媒.IDG5637.萧雅.高傲未婚在的威下变身便器,https://t30.cdn2020.com/video/m3u8/2025/05/22/cdf67003/index.m3u8
-豆传媒.IDG5636.萧雅.弟弟到亲.揉扣让她高潮不断,https://t30.cdn2020.com/video/m3u8/2025/05/22/253f98f1/index.m3u8
-豆传媒.IDG5635.丽丽.叛逆学生为了突成绩.和教师激做,https://t30.cdn2020.com/video/m3u8/2025/05/22/a7debd4b/index.m3u8
-豆传媒.IDG5634.丽丽.鬼父高生儿.巴深喉口抽,https://t30.cdn2020.com/video/m3u8/2025/05/22/27e7674f/index.m3u8
-豆传媒.IDG5633.倩雪.快递员同城顾客.粉口活好,https://t30.cdn2020.com/video/m3u8/2025/05/16/ac72a8dd/index.m3u8
-豆传媒.IDG5632.倩雪.小偷亵熟.吸扣火难耐泻火,https://t30.cdn2020.com/video/m3u8/2025/05/16/17370abe/index.m3u8
-豆传媒.IDG5631.芳芳.小和偶遇碰撞激的火花,https://t30.cdn2020.com/video/m3u8/2025/05/16/bdf5afe5/index.m3u8
-豆传媒.IDG5630.芳芳.韵表为父还债和表乱激,https://t30.cdn2020.com/video/m3u8/2025/05/16/63a59582/index.m3u8
 豆传媒.IDG5629.贝娜.用开发双马尾,https://av6k.com/uploads/allimg/2505/D-051306331H96e5229A1.jpg
-豆传媒.IDG5628.馨儿.势力教师在的刺激下高潮迭起,https://t30.cdn2020.com/video/m3u8/2025/05/13/d3cc4972/index.m3u8
-豆传媒.IDG5627.芷媗.化高材生的反击.用让激荡,https://t30.cdn2020.com/video/m3u8/2025/05/13/1bfe8727/index.m3u8
-豆传媒.IDG5626.芷媗.被朋友下却被带回家,https://t30.cdn2020.com/video/m3u8/2025/05/11/28560c4c/index.m3u8
-豆传媒.IDG5625.安然.报复轨朋友陌生,https://t30.cdn2020.com/video/m3u8/2025/05/13/fdcb8e18/index.m3u8
-豆传媒.IDG5624.安然.儿子的美班主任.口床上就是,https://t30.cdn2020.com/video/m3u8/2025/05/11/a01a5a3e/index.m3u8
-豆传媒.IDG5623.林小曼.和气质模特美床上解锁荡姿势,https://t30.cdn2020.com/video/m3u8/2025/05/13/127397b4/index.m3u8
-豆传媒.IDG5622.林小曼.失业空沦为富豪的专属便器,https://t30.cdn2020.com/video/m3u8/2025/05/11/e2541a78/index.m3u8
-豆传媒.IDG5621.丽丽.同事变惊条.同订婚案后续,https://t30.cdn2020.com/video/m3u8/2025/05/02/7daa850c/index.m3u8
-豆传媒.IDG5620.斑斑.被房客发现不为知的秘密,https://t30.cdn2020.com/video/m3u8/2025/04/27/907b32a6/index.m3u8
-豆传媒.IDG5619.斑斑.学初恋友.让幻想成为现实,https://t30.cdn2020.com/video/m3u8/2025/04/25/4811b7c5/index.m3u8
-豆传媒.IDG5618.斑斑.美腿警察下班做头牌.被客用调教,https://t30.cdn2020.com/video/m3u8/2025/04/25/0f0e85c1/index.m3u8
-豆传媒.IDG5617.林小曼.同城小.释放积攒数月的精液,https://t30.cdn2020.com/video/m3u8/2025/04/25/211cc83a/index.m3u8
-豆传媒.IDG5616.林小曼.楚楚动的朋友.口舔呻吟不断,https://t30.cdn2020.com/video/m3u8/2025/04/25/17425984/index.m3u8
-豆传媒.IDG5615.喵喵.穿上紫战衣和激乱,https://t30.cdn2020.com/video/m3u8/2025/04/20/6f4389bb/index.m3u8
-豆传媒.IDG5614.喵喵.感阿.风韵犹存极品,https://t30.cdn2020.com/video/m3u8/2025/04/20/6cb0e5e7/index.m3u8
-豆传媒.IDG5613.小果.学师兄清纯学.幼身材虎美,https://t30.cdn2020.com/video/m3u8/2025/04/20/96700897/index.m3u8
-豆传媒.IDG5612.小果.独居孩误喝被偷窥无,https://t30.cdn2020.com/video/m3u8/2025/04/20/367bae18/index.m3u8
-豆传媒.IDG5611.玉兰.主管耐不住寂寞上门服务下属的,https://t30.cdn2020.com/video/m3u8/2025/04/20/ec092b1b/index.m3u8
-豆传媒.IDG5610.玉兰.教授变教课间学生调教,https://t30.cdn2020.com/video/m3u8/2025/04/20/e9c1e8d7/index.m3u8
-豆传媒.IDG5609.玉兰.同城遇同事.超软子榨精,https://t30.cdn2020.com/video/m3u8/2025/04/20/6f174912/index.m3u8
-豆传媒.IDG5608.辰辰.不良jk少和后爹激乱后喷,https://t30.cdn2020.com/video/m3u8/2025/04/20/085da52f/index.m3u8
-豆传媒.IDG5607.辰辰.分别已久的前.重燃激的火,https://t30.cdn2020.com/video/m3u8/2025/04/20/f13a0069/index.m3u8
-豆传媒.IDG5606.欣欣.趁老婆不在家长腿极品小子激做,https://t30.cdn2020.com/video/m3u8/2025/04/20/1506c3e4/index.m3u8
-豆传媒.IDG5605.欣欣.陪美老板差.用伟持久征服她的,https://t30.cdn2020.com/video/m3u8/2025/04/20/0cae4ec9/index.m3u8
-豆传媒.IDG5604.思思.七年之痒找回新婚前的激一发魂,https://t30.cdn2020.com/video/m3u8/2025/04/04/68159e9c/index.m3u8
-豆传媒.IDG5603.小.开小米SU7-Ultra.路拜金激车测评,https://t30.cdn2020.com/video/m3u8/2025/04/04/0c888051/index.m3u8
-豆传媒.IDG5602.喵喵.垂涎嫂子的子,https://t30.cdn2020.com/video/m3u8/2025/04/08/88d81e80/index.m3u8
-豆传媒.IDG5601.喵喵.学,https://t30.cdn2020.com/video/m3u8/2025/04/08/71c2ad74/index.m3u8
-豆传媒.IDG5600.丽丽.反差学成秒变荡,https://t30.cdn2020.com/video/m3u8/2025/04/04/79766baa/index.m3u8
-豆传媒.IDG5599.丽丽.与极品的美相逢,https://t30.cdn2020.com/video/m3u8/2025/04/04/51aca1df/index.m3u8
-豆传媒.IDG5598.萧雅.抑制不住的勃起.弟乱满满意,https://t30.cdn2020.com/video/m3u8/2025/04/04/c25c4912/index.m3u8
-豆传媒.IDG5597.萧雅.极品小子.后的啊啊叫,https://t30.cdn2020.com/video/m3u8/2025/04/04/4985b1bf/index.m3u8
-豆传媒.IDG5596.萧雅.报复欠薪老板娘,https://t30.cdn2020.com/video/m3u8/2025/03/16/824e23a3/index.m3u8
-豆传媒.IDG5595.萧雅.销魂小子.化身荡痴摆弄各种姿势抽,https://t30.cdn2020.com/video/m3u8/2025/03/16/af32d911/index.m3u8
-豆传媒.IDG5594.萧雅.我和的禁忌重逢.就要高潮不止,https://t30.cdn2020.com/video/m3u8/2025/03/16/3524adf6/index.m3u8
-豆传媒.IDG5593.林晓.得不到的在永远动,https://t30.cdn2020.com/video/m3u8/2025/03/11/12889597/index.m3u8
-豆传媒.IDG5592.林晓.秒用强力伟挽回求不满的友,https://t30.cdn2020.com/video/m3u8/2025/03/11/c8700004/index.m3u8
-豆传媒.IDG5591.灵溪.漂亮的旗袍同事,https://t30.cdn2020.com/video/m3u8/2025/03/07/3dfff66e/index.m3u8
-豆传媒.IDG5590.娜娜.阳痿丈凭借享久延时喷剂,https://t30.cdn2020.com/video/m3u8/2025/03/07/8126eebb/index.m3u8
-豆传媒.IDG5589.娜娜.满合租室友,https://t30.cdn2020.com/video/m3u8/2025/03/07/5665f26b/index.m3u8
-豆传媒.IDG5588.小柒.外卖员一面之缘的萝莉小,https://t30.cdn2020.com/video/m3u8/2025/03/01/af88174b/index.m3u8
-豆传媒.IDG5587.司语.梦萝莉小,https://t30.cdn2020.com/video/m3u8/2025/03/04/913989aa/index.m3u8
-豆传媒.IDG5586.露露.激源于生活神.寻找创作的灵感,https://t30.cdn2020.com/video/m3u8/2025/03/01/34d0766b/index.m3u8
-豆传媒.IDG5585.露露.按耐不住心的燥动.设计月光神,https://t30.cdn2020.com/video/m3u8/2025/03/04/1dcbf265/index.m3u8
-豆传媒..IDG5584.萧雅.沉于幻想的友.被好兄弟征服,https://t30.cdn2020.com/video/m3u8/2025/03/01/01005017/index.m3u8
-豆传媒.IDG5583.萧雅.单亲父亲把腴儿调教成奴,https://t30.cdn2020.com/video/m3u8/2025/03/04/58680bbe/index.m3u8
-豆传媒.IDG5582.萧雅.求不满的小.渴望被儿子的巴填满,https://t30.cdn2020.com/video/m3u8/2025/03/01/daa72e81/index.m3u8
-豆传媒.IDG5581.美心.学生化身荡痴高潮不断,https://t30.cdn2020.com/video/m3u8/2025/03/04/571cad1a/index.m3u8
-豆传媒.IDG5580.美心.公公在韵儿媳身上卖力抽,https://t30.cdn2020.com/video/m3u8/2025/02/18/668d248c/index.m3u8
-豆传媒.IDG5579.小叶.感美床上激成功拿下好老板,https://t30.cdn2020.com/video/m3u8/2025/02/18/f624d2be/index.m3u8
-豆传媒.IDG5578.小叶.兄弟的友,https://t30.cdn2020.com/video/m3u8/2025/02/18/918ba8d7/index.m3u8
-豆传媒.IDG5577.芳芳.下赚钱开房被狂,https://t30.cdn2020.com/video/m3u8/2025/02/18/dd6c3eba/index.m3u8
-豆传媒.IDG5576.芳芳.莫欺少年穷弟弟翻身做主,https://t30.cdn2020.com/video/m3u8/2025/02/19/fe9ee7df/index.m3u8
-豆传媒.IDG5575.丽丽.揭开波涛涌美背后神秘易,https://t30.cdn2020.com/video/m3u8/2025/02/19/07d78a9f/index.m3u8
-豆传媒.IDG5574.丽丽.感室友被慕者到高潮不断,https://t30.cdn2020.com/video/m3u8/2025/02/19/98f4d14d/index.m3u8
-豆传媒.IDG5573.梦琪.多年未见的邻家小,https://t30.cdn2020.com/video/m3u8/2025/01/25/b4109fb4/index.m3u8
-豆传媒.IDG5572.乔乔.到老婆的极品闺蜜享受偷的刺激,https://t30.cdn2020.com/video/m3u8/2025/01/25/ccf9cfee/index.m3u8
-豆传媒.IDG5571.乔乔.年会主持长腿细腰紧,https://t30.cdn2020.com/video/m3u8/2025/01/25/cf372937/index.m3u8
-豆传媒.IDG5570.夏云.看着友被陌生无比兴奋,https://t30.cdn2020.com/video/m3u8/2025/01/25/28629ace/index.m3u8
-豆传媒.IDG5569.夏云.风上司专治阳痿.一颗见效享受激,https://t30.cdn2020.com/video/m3u8/2025/01/25/47262175/index.m3u8
-豆传媒.IDG5568.小茹.长腿美活真好,https://t30.cdn2020.com/video/m3u8/2025/01/25/c1af2bfb/index.m3u8
-豆传媒.IDG5567.小茹.辛苦快递小少,https://t30.cdn2020.com/video/m3u8/2025/01/23/00403f7c/index.m3u8
-豆传媒.IDG5566.夏云.无德老板下秘书,https://t30.cdn2020.com/video/m3u8/2025/01/23/fb9346b6/index.m3u8
-豆传媒.IDG5565.梦萍.回家过年的风表,https://t30.cdn2020.com/video/m3u8/2025/01/23/26d55cb5/index.m3u8
-豆传媒.IDG5564.梦萍.趁舅舅不在家我和舅激做,https://t30.cdn2020.com/video/m3u8/2025/01/23/b7846676/index.m3u8
-豆传媒.IDG5563.孟娜.垂涎嫂子的美,https://t30.cdn2020.com/video/m3u8/2025/01/20/4a5f3fc5/index.m3u8
-豆传媒.IDG5562.孟娜.好的父亲背着儿子下儿媳,https://t30.cdn2020.com/video/m3u8/2025/01/22/f2135f04/index.m3u8
-豆传媒.IDG5561.小柒.清纯少用满她的小,https://t30.cdn2020.com/video/m3u8/2025/01/22/75875475/index.m3u8
-豆传媒.IDG5560.小柒.高考结束萝莉放飞自我,https://t30.cdn2020.com/video/m3u8/2025/01/21/29a78a9f/index.m3u8
 豆传媒.IDG5555.静怡.抖音网红美声甜呻吟很销魂,https://t33.cdn2020.com/video/m3u8/2025/01/11/7bd3d2d3/index.m3u8
 豆传媒.IDG5554.静怡.瑜伽少,https://t33.cdn2020.com/video/m3u8/2025/01/11/c752128d/index.m3u8
 豆传媒.IDG5553.婉婉.双向奔赴一激慰藉躁动的望,https://t33.cdn2020.com/video/m3u8/2025/01/05/2ca4cae1/index.m3u8
@@ -8218,121 +7757,58 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 豆传媒.IDG5412.晓曼.同城会之一日体验友,https://t33.cdn2020.com/video/m3u8/2024/03/17/fbb94f4c/index.m3u8
 豆传媒.IDG5411.晓曼.同城会之租个友回家拜年,https://t33.cdn2020.com/video/m3u8/2024/03/17/e3030710/index.m3u8
 豆传媒.IDG5410.嘉仪.同城会绿帽老公看着我被客,https://t26.cdn2020.com/video/m3u8/2024/03/08/f08dc7f9/index.m3u8
-豆传媒.IDG5409.嘉仪.同城会表沦为我的私玩物,https://t26.cdn2020.com/video/m3u8/2024/03/08/1fa6449b/index.m3u8
 豆传媒.IDG5408.小雨.同城会邻家小与我的小秘密,https://t26.cdn2020.com/video/m3u8/2024/03/08/af4e7889/index.m3u8
-豆传媒.IDG5407.小雨.同城会傲娇校花在我的跨下呻吟,https://t26.cdn2020.com/video/m3u8/2024/03/08/c24289c3/index.m3u8
-豆传媒.IDG5406.丽丽.同城会上门小竟是我心心念念的表,https://t26.cdn2020.com/video/m3u8/2024/02/12/9cb342db/index.m3u8
-豆传媒.ID5405.小梦.同城会上门子竟是小子,https://t26.cdn2020.com/video/m3u8/2024/02/12/7f457b3d/index.m3u8
-豆传媒.IDG5404.丽丽.同城会竟然遇到反差相亲对象,https://t26.cdn2020.com/video/m3u8/2024/02/12/ea26b539/index.m3u8
-豆传媒.IDG5403.小梦.同城会学生商务伴游极致体验,https://t26.cdn2020.com/video/m3u8/2024/02/12/aaf27291/index.m3u8
-豆传媒.IDG5402.璐璐.我的月光孩,https://t26.cdn2020.com/video/m3u8/2024/02/02/ee3e0d50/index.m3u8
 豆传媒.IDG5401.璐璐.体验红裙惑,https://t26.cdn2020.com/video/m3u8/2024/02/02/6d260f0f/index.m3u8
 豆传媒.ID5400.慧敏.迟来的导演潜规则,https://t33.cdn2020.com/video/m3u8/2024/07/04/40e0b505/index.m3u8
 豆传媒.ID5399.柔柔.我的榨汁姬老婆,https://t33.cdn2020.com/video/m3u8/2024/06/18/d14fdbc6/index.m3u8
 豆传媒.ID5398.慧敏.洗车场,https://t33.cdn2020.com/video/m3u8/2024/06/07/1890c230/index.m3u8
-豆传媒.IDG5397.丽萨.OL御的极致惑,https://t26.cdn2020.com/video/m3u8/2024/01/10/69e5e841/index.m3u8
 豆传媒.IDG5396.丽萨.技师上门体验,https://t26.cdn2020.com/video/m3u8/2024/01/10/3983fb43/index.m3u8
-豆传媒.IDG5395.月月.鲍线下友上演足惑,https://t26.cdn2020.com/video/m3u8/2024/01/04/d8f4b4cc/index.m3u8
-豆传媒.IDG5394.月月.十八岁小门小给你初恋般感觉,https://t26.cdn2020.com/video/m3u8/2024/01/04/6348d9bc/index.m3u8
-豆传媒.IDG5393.萱萱.OL酒店前台的双重身份,https://t26.cdn2020.com/video/m3u8/2023/12/28/9c26a3e9/index.m3u8
-豆传媒.IDG5392.冰冰.奇妙的成祭破处之旅,https://t26.cdn2020.com/video/m3u8/2023/12/28/8485c9ac/index.m3u8
 豆传媒.IDG5391.婷婷.风美调教娘帅,https://t26.cdn2020.com/video/m3u8/2023/12/08/bce452d0/index.m3u8
 豆传媒.IDG5390.露露.被同城小治愈的早,https://t26.cdn2020.com/video/m3u8/2023/11/30/dc0ada8f/index.m3u8
-豆传媒.IDG5389.露露.上门讨债居然在对方家里激做,https://t26.cdn2020.com/video/m3u8/2023/11/30/97edf700/index.m3u8
 豆传媒.IDG5388.芳芳.外卖小刁蛮顾客,https://t26.cdn2020.com/video/m3u8/2023/11/25/8e758bae/index.m3u8
-豆传媒.IDG5387.丹丹.上门的职业精神.老子完儿子,https://t26.cdn2020.com/video/m3u8/2023/11/23/24f62167/index.m3u8
-豆传媒.IDG5386.陈柠.同城对象居然是我的反差上司,https://t26.cdn2020.com/video/m3u8/2023/11/05/65a4d771/index.m3u8
 豆传媒.ID5385.米兰.高潮保险员,https://t33.cdn2020.com/video/m3u8/2024/05/21/db30a074/index.m3u8
 豆传媒.ID5384.惠敏.如愿以偿的多换运动,https://t33.cdn2020.com/video/m3u8/2024/05/09/b7968de8/index.m3u8
 豆传媒.ID5383.芷萱.偷心盗的完美任务,https://t33.cdn2020.com/video/m3u8/2024/04/23/6e405592/index.m3u8
-豆传媒.ID5382.乔安.乔安的漂流之旅,https://t26.cdn2020.com/video/m3u8/2024/02/16/f45ac58f/index.m3u8
-豆传媒.ID5381.心萱.放浪弟求不满的三行体验,https://t26.cdn2020.com/video/m3u8/2024/03/08/c1373fb3/index.m3u8
 豆传媒.ID5380.米兰.高冷文坛美竟然是个反差婊,https://t33.cdn2020.com/video/m3u8/2024/04/12/a2c9fd81/index.m3u8
-豆传媒.ID5379.芷萱.塑料间的友借风波,https://t26.cdn2020.com/video/m3u8/2024/01/10/4929608c/index.m3u8
 豆传媒.ID5378.米兰.那天不小心上了同学的友,https://t26.cdn2020.com/video/m3u8/2024/01/04/161b5efd/index.m3u8
 豆传媒.ID5377.米兰.身体力行的推销员,https://t26.cdn2020.com/video/m3u8/2024/01/04/f85976e6/index.m3u8
 豆传媒.ID5376.米兰.恩好无赖竟然索要身体补偿,https://t26.cdn2020.com/video/m3u8/2023/12/16/fd546e72/index.m3u8
 豆传媒.ID5375.晨沁.偷.绿奴丈居然看了,https://t26.cdn2020.com/video/m3u8/2024/01/18/0f383047/index.m3u8
 豆传媒.ID5374.小乔.同学聚会再已为的学,https://t26.cdn2020.com/video/m3u8/2023/12/24/6980a38d/index.m3u8
 豆传媒.ID5373.芷萱.美好友酣畅淋漓的精神抚慰,https://t26.cdn2020.com/video/m3u8/2023/12/08/e5ec8bcf/index.m3u8
-豆传媒.ID5372.乔安.怨给暴戾老公的绿帽报复,https://t26.cdn2020.com/video/m3u8/2023/12/21/3a97940c/index.m3u8
-豆传媒.ID5371.乔安.乱两个上门推销员,https://t26.cdn2020.com/video/m3u8/2023/11/30/9b65a09f/index.m3u8
-豆传媒.ID5370.乔安.糜体香,https://t26.cdn2020.com/video/m3u8/2023/11/10/ca851708/index.m3u8
-豆传媒.ID5369.莉娜.感模丁字裤导演,https://t26.cdn2020.com/video/m3u8/2023/11/23/b95f8d35/index.m3u8
 豆传媒.ID5368.慧敏.保镖干上助理,https://t26.cdn2020.com/video/m3u8/2023/11/18/674e40c1/index.m3u8
-豆传媒.ID5367.苗方.贴心友的恋润滑剂,https://t26.cdn2020.com/video/m3u8/2023/11/05/c3034236/index.m3u8
-豆传媒.ID5366.香菱.和侄突破禁忌的不之恋,https://t26.cdn2020.com/video/m3u8/2023/10/27/700c1f36/index.m3u8
-豆传媒.ID5365.沫沫.儿子不举公公强上反差儿媳,https://t26.cdn2020.com/video/m3u8/2023/10/15/c5d2cca5/index.m3u8
 豆传媒.ID5364.苗方.糜乱家庭调皮计上亲,https://t26.cdn2020.com/video/m3u8/2023/10/15/2429390c/index.m3u8
-豆传媒.ID5363.都可可.OL良家上班第一天被无耻老板,https://t26.cdn2020.com/video/m3u8/2023/10/13/1e312d5a/index.m3u8
-豆传媒.ID5362.优优.饥渴灌醉身骑,https://t26.cdn2020.com/video/m3u8/2023/10/08/155331bc/index.m3u8
-豆传媒.ID5361.乔安.寂寞主离异后的孪生缘,https://t26.cdn2020.com/video/m3u8/2023/10/05/01398991/index.m3u8
-豆传媒.ID5360.婧儿.与一起偷窥老婆偷,https://t26.cdn2020.com/video/m3u8/2023/10/05/0f559908/index.m3u8
 豆传媒.ID5359.晨沁.与外卖小一起3P调教,https://t26.cdn2020.com/video/m3u8/2023/09/29/f2d7cd51/index.m3u8
 豆传媒.ID5358.湘湘.土味话引客厅偷,https://t26.cdn2020.com/video/m3u8/2023/09/23/390910da/index.m3u8
 豆传媒.ID5357.乔安.乔安的献身36计,https://t26.cdn2020.com/video/m3u8/2023/09/21/529fd8a3/index.m3u8
-豆传媒.ID5356.阿柒.调教痴甜心教主的老公,https://t26.cdn2020.com/video/m3u8/2023/09/16/1ae696c5/index.m3u8
 豆传媒.ID5355.小洁.购房风波.临时假戏真做,https://t26.cdn2020.com/video/m3u8/2023/07/30/ad67cfc7/index.m3u8
 豆传媒.ID5354.湘湘.感病火难耐引主治医师,https://t26.cdn2020.com/video/m3u8/2023/09/15/9d8179f7/index.m3u8
-豆传媒.ID5353.珍珍.裁缝店老板上准新郎,https://t26.cdn2020.com/video/m3u8/2023/09/11/b080cfe0/index.m3u8
-豆传媒.ID5352.曼曼.小子假扮与同床共枕,https://t26.cdn2020.com/video/m3u8/2023/08/27/7cee2bd3/index.m3u8
-豆传媒.ID5351.雯茜.卑微的舔体验一亲芳泽的快乐,https://t26.cdn2020.com/video/m3u8/2023/09/03/9bf5f909/index.m3u8
 豆传媒.ID5350.惠敏.风尘与处弟弟的不之恋,https://t26.cdn2020.com/video/m3u8/2023/08/17/6ef3c3aa/index.m3u8
 豆传媒.ID5349.惠敏.宅主播挑战赛(下),https://t26.cdn2020.com/video/m3u8/2023/09/03/7a627456/index.m3u8
 豆传媒.ID5348.惠敏.宅主播挑战赛(上),https://t26.cdn2020.com/video/m3u8/2023/08/31/86af8648/index.m3u8
-豆传媒.ID5347.芷萱.鸳梦重温(下),https://t26.cdn2020.com/video/m3u8/2023/08/24/a6a944e7/index.m3u8
 豆传媒.ID5346.芷萱.鸳梦重温(上),https://t26.cdn2020.com/video/m3u8/2023/08/17/3c793686/index.m3u8
-豆传媒.ID5345.多多.健身房体,https://t26.cdn2020.com/video/m3u8/2023/08/21/7574e462/index.m3u8
-豆传媒.ID5344.语伊.无能丈欺辱子被戴绿帽,https://t26.cdn2020.com/video/m3u8/2023/08/13/1f514174/index.m3u8
 豆传媒.ID5343.灵枝.装佬混住单身舍,https://t26.cdn2020.com/video/m3u8/2023/07/28/8aaf6912/index.m3u8
-豆传媒.ID5342.语伊.驴得名场面服你,https://t26.cdn2020.com/video/m3u8/2023/08/10/1d436a9b/index.m3u8
-豆传媒.ID5341.思媛.高考不及格体贿赂,https://t26.cdn2020.com/video/m3u8/2023/08/13/1e41a5fa/index.m3u8
-豆传媒.ID5340.思嫒.村长的傻儿洞房还需岳父来帮忙,https://t26.cdn2020.com/video/m3u8/2023/08/07/93ed3da0/index.m3u8
 豆传媒.ID5339.阿柒.假冒日本引宅,https://t26.cdn2020.com/video/m3u8/2023/08/07/716981be/index.m3u8
-豆传媒.ID5338.雯茜.闺蜜的虚伪未婚,https://t26.cdn2020.com/video/m3u8/2023/08/10/57a64a1f/index.m3u8
-豆传媒.ID5337.惠敏.玩具推销员之波疗法,https://t26.cdn2020.com/video/m3u8/2023/08/02/65a07cfb/index.m3u8
 豆传媒.ID5336.芳.致命轨之血设计师,https://t26.cdn2020.com/video/m3u8/2023/08/02/37437eba/index.m3u8
-豆传媒.ID5335.妍予.为丈献身.上司的善良子,https://t26.cdn2020.com/video/m3u8/2023/07/30/fc48c963/index.m3u8
-豆传媒.ID5334.诗琪.特殊职业唇调师的日常,https://t26.cdn2020.com/video/m3u8/2023/07/28/8752e097/index.m3u8
-豆传媒.ID5333.文慧.夏日旅行和熟老板粽端午,https://t26.cdn2020.com/video/m3u8/2023/06/22/662b697e/index.m3u8
-豆传媒.ID5332.芷萱.秋团圆战三父子,https://t26.cdn2020.com/video/m3u8/2023/09/29/5bfc64df/index.m3u8
 豆传媒.ID5331.惠敏.优拍摄时候阳痿导演亲自搏,https://t26.cdn2020.com/video/m3u8/2023/07/23/1cef8941/index.m3u8
-豆传媒.ID5330.书涵.趁打游戏和嫂子厨房偷,https://t26.cdn2020.com/video/m3u8/2023/07/23/1f2ae43e/index.m3u8
-豆传媒.ID5329.书涵.为独吞拆迁款找闺蜜引老公,https://t26.cdn2020.com/video/m3u8/2023/07/10/5aa54c33/index.m3u8
 豆传媒.ID5328.紫寒.惩罚兄弟的轨,https://t26.cdn2020.com/video/m3u8/2023/07/20/db39059f/index.m3u8
 豆传媒.ID5327.雯茜.被第三者拯救的婚姻,https://t26.cdn2020.com/video/m3u8/2023/07/16/cd5a4f84/index.m3u8
-豆传媒.ID5326.惠敏.服务员公主病房客,https://t26.cdn2020.com/video/m3u8/2023/07/20/082c0ff7/index.m3u8
 豆传媒.ID5325.莉娜.子的好闺蜜借腹生子,https://t26.cdn2020.com/video/m3u8/2023/07/16/8ef7fd13/index.m3u8
-豆传媒.ID5324.清妍.面试官潜规则失败反被,https://t26.cdn2020.com/video/m3u8/2023/07/13/52b8df1c/index.m3u8
-豆传媒.ID5323.清妍.赌客千被抓惨遭惩罚,https://t26.cdn2020.com/video/m3u8/2023/07/03/9949749a/index.m3u8
-豆传媒.ID5322.诗琪.望同学会再初恋,https://t26.cdn2020.com/video/m3u8/2023/07/13/1065b4db/index.m3u8
-豆传媒.ID5321.晨沁.天盛筵游轮party乱5P,https://t26.cdn2020.com/video/m3u8/2023/07/10/f4a4d568/index.m3u8
 豆传媒.ID5320.惠敏.厌食症孩的营养,https://t26.cdn2020.com/video/m3u8/2023/06/22/f852f269/index.m3u8
-豆传媒.ID5319.瑶瑶.我被变态继父和轮了,https://t26.cdn2020.com/video/m3u8/2023/07/06/08098f2e/index.m3u8
 豆传媒.ID5318.凯丽.为了儿子上名校感少献身招生主任,https://t26.cdn2020.com/video/m3u8/2023/07/03/ca8f6699/index.m3u8
-豆传媒.ID5317.凯丽.听信闺蜜馋言被道士骗财骗,https://t26.cdn2020.com/video/m3u8/2023/06/16/90bcca1b/index.m3u8
 豆传媒.ID5316.觅嫣.父亲乱儿提高学习效率,https://t26.cdn2020.com/video/m3u8/2023/07/06/626936b8/index.m3u8
 豆传媒.ID5315.觅嫣.单身成功恋的秘密,https://t26.cdn2020.com/video/m3u8/2023/06/29/ffde66e7/index.m3u8
-豆传媒.ID5314.觅嫣.感艺化妆间引导演,https://t26.cdn2020.com/video/m3u8/2023/06/01/94c501f8/index.m3u8
 豆传媒.ID5313.觅嫣.业主买房潜规则感销售,https://t26.cdn2020.com/video/m3u8/2023/06/19/a73863e4/index.m3u8
 豆传媒.ID5312.婧儿.路边捡尸醉汉痴上位猛,https://t26.cdn2020.com/video/m3u8/2023/06/22/1532292c/index.m3u8
-豆传媒.ID5311.莉娜.离异包养初体验,https://t26.cdn2020.com/video/m3u8/2023/06/08/65a6eaa8/index.m3u8
-豆传媒.ID5310.灵枝.农村小媳偷学生,https://t26.cdn2020.com/video/m3u8/2023/06/29/8468f845/index.m3u8
-豆传媒.ID5309.紫寒.假恋真骗钱极品主播反被,https://t26.cdn2020.com/video/m3u8/2023/06/03/24a9fd89/index.m3u8
 豆传媒.ID5308.瑶瑶.怪癖老板攻略已婚,https://t26.cdn2020.com/video/m3u8/2023/06/19/5b9740ba/index.m3u8
 豆传媒.ID5307.灵枝.村主任上借种下田,https://t26.cdn2020.com/video/m3u8/2023/05/28/0af89115/index.m3u8
 豆传媒.ID5306.紫寒.友被横刀夺,https://t26.cdn2020.com/video/m3u8/2023/05/20/83102df5/index.m3u8
 豆传媒.ID5305.觅嫣.韵少引青涩足疗师,https://t26.cdn2020.com/video/m3u8/2023/06/08/8e6b8bed/index.m3u8
 豆传媒.ID5304.小薇.资助学生变易,https://t26.cdn2020.com/video/m3u8/2023/06/16/885267c8/index.m3u8
-豆传媒.ID5303.小微.明不说暗话之保健,https://t26.cdn2020.com/video/m3u8/2023/05/28/5d493b7e/index.m3u8
 豆传媒.ID5302.瑶瑶.腹他,https://t26.cdn2020.com/video/m3u8/2023/06/01/2a3da722/index.m3u8
 豆传媒.ID5301.小洁.下催兄示火乱,https://t26.cdn2020.com/video/m3u8/2023/06/11/7fa8bdae/index.m3u8
 豆传媒.ID5300.冬娜.将计就计嫖绿茶婊,https://t26.cdn2020.com/video/m3u8/2023/06/22/251f4bfb/index.m3u8
-豆传媒.ID5299.小洁.极品不可告的秘密,https://t26.cdn2020.com/video/m3u8/2023/06/03/00f2f3e7/index.m3u8
 豆传媒.ID5298.静秋.高傲御内心渴望被蹂躏,https://t26.cdn2020.com/video/m3u8/2023/06/11/ac5e0013/index.m3u8
-豆传媒.ID5297.芸溪.将合租室友变成玩物,https://t26.cdn2020.com/video/m3u8/2023/05/28/ac233e57/index.m3u8
-豆传媒.ID5296.觅嫣.假冒星探哄骗无知少,https://t26.cdn2020.com/video/m3u8/2023/05/20/2198f61b/index.m3u8
-豆传媒.ID5295.小洁.当着兄弟的面他老婆,https://t26.cdn2020.com/video/m3u8/2023/05/28/9a98e9f3/index.m3u8
 豆传媒.ID5294.惠敏.户外挑战乱party,https://t26.cdn2020.com/video/m3u8/2023/05/20/0a1864b6/index.m3u8
 豆传媒.ID5293.小洁.幼师轨家长被捉在床,https://t33.cdn2020.com/video/m3u8/2023/05/07/47aa1d14/index.m3u8
 豆传媒.ID5292.雯茜.友被强我却有了反应,https://t33.cdn2020.com/video/m3u8/2023/05/11/e4ea5b1a/index.m3u8
@@ -8427,10 +7903,6 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 豆传媒.ID5203.芯怡.饥渴父强上回家过年的儿,https://t33.cdn2020.com/video/m3u8/2023/01/24/dc422585/index.m3u8
 豆传媒.ID5202.妍希.凌辱下属美,https://t33.cdn2020.com/video/m3u8/2023/01/24/fe483832/index.m3u8
 豆传媒.ID5201.妍希.隔壁美成了我的言听计从奴隶,https://t33.cdn2020.com/video/m3u8/2023/01/24/a6752a0a/index.m3u8
-
-91ZCM-010.李蓉蓉.明星求姻缘被神棍,https://t26.cdn2020.com/video/m3u8/2023/06/14/35a7d427/index.m3u8
-91ZCM-012.李娜娜.榨仆的清洁,https://t26.cdn2020.com/video/m3u8/2023/06/16/0d613349/index.m3u8
-91ZCM-013.李蓉蓉.神奇壮.烈,https://t26.cdn2020.com/video/m3u8/2023/08/01/d5c194b6/index.m3u8
 91ZCM-014.李蓉蓉.曹穿越狠,https://t26.cdn2020.com/video/m3u8/2023/06/22/46222376/index.m3u8
 91ZCM-015.李蓉蓉.硬上风白富美,https://t26.cdn2020.com/video/m3u8/2023/06/29/40bf48c5/index.m3u8
 91BCM-001.李依依.少被邻居调教成,https://t33.cdn2020.com/video/m3u8/2022/11/10/62aca95c/index.m3u8
@@ -8524,7 +7996,6 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 91CM-078.黄雪纯.真实拍摄计划.腼腆少,https://t33.cdn2020.com/video/m3u8/2021/04/09/3cdaeef0/index.m3u8
 91CM-079.田恬.继与儿,https://t33.cdn2020.com/video/m3u8/2021/04/15/dfcbf6b4/index.m3u8
 91CM-080.李琼.继与儿2,https://t33.cdn2020.com/video/m3u8/2021/04/16/a966a047/index.m3u8
-91CM-081.田恬 李琼.继与儿3,https://t33.cdn2020.com/video/m3u8/2021/04/17/bf1523df/index.m3u8
 91CM-082.张晴.护士,https://t33.cdn2020.com/video/m3u8/2021/04/15/c7aa3ce9/index.m3u8
 91CM-083.聂小倩.换1,https://t33.cdn2020.com/video/m3u8/2021/04/20/b900209d/index.m3u8
 91CM-084.董小宛.换2,https://t33.cdn2020.com/video/m3u8/2021/04/21/548570ab/index.m3u8
@@ -8586,35 +8057,23 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 91CM-143.白晶晶.王的调教,https://t33.cdn2020.com/video/m3u8/2021/07/18/eb7daed3/index.m3u8
 91CM-144.林凤娇.蓝颜知己,https://t26.cdn2020.com/video/m3u8/2021/07/21/3f6a5dbc/index.m3u8
 91CM-145.戚小怜.少的报答,https://t26.cdn2020.com/video/m3u8/2021/07/22/d5323426/index.m3u8
-91CM-146.林妙可.堕落少,https://t26.cdn2020.com/video/m3u8/2021/07/23/3867e6dc/index.m3u8
-91CM-147.王美琪.再遇班花,https://t26.cdn2020.com/video/m3u8/2021/07/24/c845d5d0/index.m3u8
 91CM-149.谢语彤.家教老师,https://t26.cdn2020.com/video/m3u8/2021/07/28/3f40205e/index.m3u8
-91CM-150.吴语菲.弟弟的青春期,https://t26.cdn2020.com/video/m3u8/2021/07/29/3b3bad74/index.m3u8
 91CM-151.袁可妮.贤惠的子,https://t26.cdn2020.com/video/m3u8/2021/07/30/93f0d95d/index.m3u8
-91CM-152.李琼.岳.子轨岳偿,https://t26.cdn2020.com/video/m3u8/2021/07/31/c9a8c7cc/index.m3u8
 91CM-153.何苗.再遇潘金莲,https://t26.cdn2020.com/video/m3u8/2021/08/01/934e4c5b/index.m3u8
-91CM-154.钟媛.堕落律师,https://t26.cdn2020.com/video/m3u8/2021/08/03/150d5c63/index.m3u8
 91CM-155.白晶晶.不孕的子,https://t26.cdn2020.com/video/m3u8/2021/08/04/ae653d08/index.m3u8
-91CM-156.徐慧慧.反常的子,https://t26.cdn2020.com/video/m3u8/2021/08/05/550a8f5d/index.m3u8
 91CM-157.安娜.华料理.你压榨我工资.我你的老,https://t26.cdn2020.com/video/m3u8/2021/08/06/ce3110d2/index.m3u8
 91CM-158.杨桃.婚.你你的老.我玩我的小鲜,https://t26.cdn2020.com/video/m3u8/2021/08/07/f8e27ed8/index.m3u8
 91CM-159.陈美惠.东京故事之我的表,https://t26.cdn2020.com/video/m3u8/2021/08/08/cdb85dc1/index.m3u8
-91CM-160.苏凤敏.贤者的,https://t26.cdn2020.com/video/m3u8/2021/08/10/f2dde9c4/index.m3u8
 91CM-161.吉娜.被拐卖的外国美,https://t26.cdn2020.com/video/m3u8/2021/08/11/1f97dd04/index.m3u8
 91CM-162.张子瑜.小的沦陷,https://t26.cdn2020.com/video/m3u8/2021/08/12/e44ec01d/index.m3u8
-91CM-163.林凤娇.夫饶了我吧,https://t26.cdn2020.com/video/m3u8/2021/08/13/fcacb5d6/index.m3u8
 91CM-164.邓玉莲.小.伯结婚用房.小借住我家,https://t26.cdn2020.com/video/m3u8/2021/08/14/debd013d/index.m3u8
 91CM-165.卢珊珊.重逢.曾经的那么真.现在的那么深,https://t26.cdn2020.com/video/m3u8/2021/08/14/608659e7/index.m3u8
 91CM-166.潘甜甜.七夕.91节专题独家奉献,https://t26.cdn2020.com/video/m3u8/2021/08/14/50b13da7/index.m3u8
 91CM-167.吴语菲.差之旅.变对手同事变,https://t26.cdn2020.com/video/m3u8/2021/08/17/f616917d/index.m3u8
-91CM-168.安娜.外教.暗恋神居然是他处理工具,https://t26.cdn2020.com/video/m3u8/2021/08/18/0f8c80d9/index.m3u8
 91CM-169.林雨露.礼物.这是一份送给嫖娼的的礼物,https://t26.cdn2020.com/video/m3u8/2021/08/19/29fdbaab/index.m3u8
 91CM-170.谢语彤.穿越到王者荣耀的世界.第一集,https://t26.cdn2020.com/video/m3u8/2021/08/20/48b5ae1a/index.m3u8
 91CM-171.陈萌.合租.无法回房的他却成了我的,https://t26.cdn2020.com/video/m3u8/2021/08/21/185505ac/index.m3u8
-91CM-172.卢珊珊.失恋33天,https://t26.cdn2020.com/video/m3u8/2021/08/22/1a6c360b/index.m3u8
 91CM-173.杜娟.恋癖.义风韵犹存.之心愈演愈烈,https://t26.cdn2020.com/video/m3u8/2021/08/24/7ea436f0/index.m3u8
-91CM-174.谢语彤.表18岁.给表过生日换取的温柔,https://t26.cdn2020.com/video/m3u8/2021/08/25/41985efd/index.m3u8
-91CM-175.金巧巧.哥哥的小三,https://t26.cdn2020.com/video/m3u8/2021/08/26/2ea150db/index.m3u8
 91CM-176.李师师..哥被抓.子沦为小弟们的便器,https://t26.cdn2020.com/video/m3u8/2021/08/27/7f38ca4e/index.m3u8
 91CM-177.林凤娇.慈禧秘史.慈禧夺权享受万千宠,https://t33.cdn2020.com/video/m3u8/2021/08/28/a9cec9f2/index.m3u8
 91CM-179.谢语彤.穿越到王者荣耀的世界.第二集,https://t33.cdn2020.com/video/m3u8/2021/09/01/c7a2f387/index.m3u8
@@ -8643,36 +8102,20 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 91CM-202.张晴.寂寞.勾引外卖小哥直,https://t33.cdn2020.com/video/m3u8/2021/11/13/926297db/index.m3u8
 91CM-203.杜娟.的鼓励.沉沦在儿子粗壮的棒,https://t33.cdn2020.com/video/m3u8/2021/11/15/8b296113/index.m3u8
 91CM-204.白雪.清纯同学,https://t26.cdn2020.com/video/m3u8/2021/11/19/7e864fd4/index.m3u8
-91CM-205.季晓彤.合租之窥,https://t26.cdn2020.com/video/m3u8/2021/11/20/a44c549e/index.m3u8
 91CM-206.林丽.借贷偿,https://t26.cdn2020.com/video/m3u8/2021/11/24/8316f157/index.m3u8
 91CM-207.陆雪琪.的春天,https://t26.cdn2020.com/video/m3u8/2021/11/27/4365cd3c/index.m3u8
 91CM-208.梁如意.屈辱的美,https://t26.cdn2020.com/video/m3u8/2021/12/01/af36a4c9/index.m3u8
-91CM-209.苏然.拜金,https://t26.cdn2020.com/video/m3u8/2021/12/05/e712c057/index.m3u8
-91CM-210.唐月琴.秘书的呻吟,https://t26.cdn2020.com/video/m3u8/2021/12/08/eab4dca8/index.m3u8
 91CM-211.白晶晶.娘的蜕变(上集),https://t26.cdn2020.com/video/m3u8/2021/12/11/c56c216d/index.m3u8
-91CM-212.赵雅洁.子的温柔,https://t26.cdn2020.com/video/m3u8/2021/12/15/81fa45c0/index.m3u8
 91CM-213.白晶晶 李丽.娘的蜕变(下集),https://t26.cdn2020.com/video/m3u8/2021/12/19/eaae627c/index.m3u8
 91CM-214.萧悦儿.JK租客,https://t26.cdn2020.com/video/m3u8/2021/12/22/4fbdc830/index.m3u8
 91CM-215.叶柔.深夜嫖美腿车模,https://t26.cdn2020.com/video/m3u8/2021/12/31/744f8dc4/index.m3u8
-91CM-217.萧悦儿.采小蔍,https://t26.cdn2020.com/video/m3u8/2021/12/28/5f83e8de/index.m3u8
 91CM-218.何小丽.油按摩,https://t26.cdn2020.com/video/m3u8/2021/12/29/61699ce9/index.m3u8
 91CM-220.董欣.坠-上,https://t26.cdn2020.com/video/m3u8/2022/01/08/6cb568fc/index.m3u8
 91CM-221.梁如意.李雷和韩梅梅,https://t26.cdn2020.com/video/m3u8/2022/01/14/5da2979c/index.m3u8
-91CM-222.何小丽.说唱巨星的谋,https://t26.cdn2020.com/video/m3u8/2022/01/19/3a65c4b3/index.m3u8
-91CM-223.萧悦儿.时间静止.AV现场实录,https://t26.cdn2020.com/video/m3u8/2022/01/21/2de08212/index.m3u8
-91CM-224.范可可.荡前,https://t26.cdn2020.com/video/m3u8/2022/01/15/2fa8c52b/index.m3u8
 91CM-226.唐月琴 董欣.坠-下,https://t26.cdn2020.com/video/m3u8/2022/01/23/a8020817/index.m3u8
-91CM-227.陆雪琪.诱小子,https://t26.cdn2020.com/video/m3u8/2022/01/31/cde3e68e/index.m3u8
-91CM-230.萧悦儿.地铁轮计划,https://t26.cdn2020.com/video/m3u8/2022/02/09/0aa4387c/index.m3u8
-91CM-235.萧悦儿.优等生的桃交易,https://t26.cdn2020.com/video/m3u8/2022/03/20/525eebcb/index.m3u8
-91CM-236.秦梦可.,https://t26.cdn2020.com/video/m3u8/2022/03/12/ea2dcd88/index.m3u8
-91CM-237.张秀玲..上集,https://t26.cdn2020.com/video/m3u8/2022/03/18/1a08f4b9/index.m3u8
-91CM-239.张秀玲..下集,https://t26.cdn2020.com/video/m3u8/2022/03/27/ed3daef4/index.m3u8
-91CM-240.萧悦儿.AI形机器,https://t26.cdn2020.com/video/m3u8/2022/04/01/cdb78724/index.m3u8
 91CM-250.小艺.端午节特辑.粽.将美细致包裹,https://t33.cdn2020.com/video/m3u8/2022/06/04/3799b14f/index.m3u8
 91CM-255.叶莲娜 丽.同的快乐,https://t33.cdn2020.com/video/m3u8/2023/05/07/f5edf340/index.m3u8
 91MS-001.金巧巧.优面试一.91新試鏡.下部主你來定,https://t26.cdn2020.com/video/m3u8/2021/08/21/4f4f0f44/index.m3u8
-91MS-002.优面试二.初次试镜做.我们挑.你们定,https://t26.cdn2020.com/video/m3u8/2021/08/26/812034e9/index.m3u8
 91MS-003.王蓉.优面试三,https://t33.cdn2020.com/video/m3u8/2021/08/29/59421fec/index.m3u8
 91MS-004.优面试四,https://t33.cdn2020.com/video/m3u8/2021/08/31/c1e60658/index.m3u8
 91MS-005.苏然.优面试五,https://t33.cdn2020.com/video/m3u8/2021/09/02/efad3451/index.m3u8
@@ -8685,26 +8128,16 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 91MS-012.夏玉玲.E罩杯巨郎,https://t33.cdn2020.com/video/m3u8/2021/10/26/45031930/index.m3u8
 91MS-013.李萍.极品轻熟.验失禁快堕落,https://t33.cdn2020.com/video/m3u8/2021/11/02/1206d792/index.m3u8
 91MS-014.唐倩.巨清纯萌,https://t33.cdn2020.com/video/m3u8/2021/11/11/288f3999/index.m3u8
-91MS-015.张淑仪.十九岁D少,https://t26.cdn2020.com/video/m3u8/2021/11/16/6e20a00b/index.m3u8
 91PCM-001.蒂洁.清纯系JK学生.像极了初恋,https://t26.cdn2020.com/video/m3u8/2023/11/10/51b5c43b/index.m3u8
-91PCM-002.蒂洁.农民工上气质空.湿透的空来服务,https://t26.cdn2020.com/video/m3u8/2023/11/10/03935e90/index.m3u8
-91PCM-003.李娜娜.现代吸鬼传说.尽吸美嫩,https://t26.cdn2020.com/video/m3u8/2023/11/10/274acf52/index.m3u8
-91PCM-004.季妍希.狂野的,https://t26.cdn2020.com/video/m3u8/2023/11/14/a55349f5/index.m3u8
 91PCM-005.季妍希.放荡的救援,https://t26.cdn2020.com/video/m3u8/2023/11/14/4df22dc0/index.m3u8
-91PCM-006.优娜.激战变态导演.清纯演员的试镜,https://t26.cdn2020.com/video/m3u8/2023/12/20/ac08136d/index.m3u8
 91PCM-008.温芮欣.好家教的乱辅导,https://t33.cdn2020.com/video/m3u8/2023/12/24/d01c78e3/index.m3u8
 91PCM-009.岚可彤.小模外送榨服务,https://t26.cdn2020.com/video/m3u8/2023/12/24/896fde06/index.m3u8
 91PCM-010.岚可彤.极乐圣诞夜.气质美沦为玩物,https://t26.cdn2020.com/video/m3u8/2023/12/27/99cd0bbb/index.m3u8
-GDCM-001.苏然.熟上的解放,https://t26.cdn2020.com/video/m3u8/2022/03/06/0263742c/index.m3u8
-GDCM-002.谭苗苗.新的奉献,https://t26.cdn2020.com/video/m3u8/2022/04/08/3ae1062d/index.m3u8
 GDCM-003.余丽.子行计划1,https://t26.cdn2020.com/video/m3u8/2022/04/12/f89a6e1b/index.m3u8
 GDCM-004.云朵.家教的奖励,https://t26.cdn2020.com/video/m3u8/2022/04/17/18db6835/index.m3u8
-GDCM-005.林凤娇.小子的诱,https://t26.cdn2020.com/video/m3u8/2022/04/23/990eeb35/index.m3u8
 GDCM-006.余丽.子行计划2,https://t26.cdn2020.com/video/m3u8/2022/05/08/378cde5d/index.m3u8
-GDCM-007.茉莉 王玥.都是疫惹的祸,https://t26.cdn2020.com/video/m3u8/2022/05/31/c3f4e027/index.m3u8
 GDCM-008.董欣.劳模理疗师.上,https://t26.cdn2020.com/video/m3u8/2022/05/01/5d1d1f7e/index.m3u8
 GDCM-009.董欣.劳模理疗师.下,https://t26.cdn2020.com/video/m3u8/2022/05/01/dfe32a8a/index.m3u8
-GDCM-010.娜娜.相遇到流氓,https://t26.cdn2020.com/video/m3u8/2022/05/21/48967261/index.m3u8
 GDCM-011.茉莉 白英.别样的健,https://t26.cdn2020.com/video/m3u8/2022/05/28/5f8019b0/index.m3u8
 GDCM-012.云朵.邻居网红,https://t33.cdn2020.com/video/m3u8/2022/06/19/51d0624a/index.m3u8
 GDCM-013.林洋.尾随胁迫双马尾少,https://t33.cdn2020.com/video/m3u8/2022/06/13/b1e485c2/index.m3u8
@@ -8740,41 +8173,24 @@ GDCM-047.菜.疫邻居诱清纯,https://t33.cdn2020.com/video/m3u8/2023/02/16/17
 GDCM-052.莉娜.黄飞鸿与十三.上集,https://t33.cdn2020.com/video/m3u8/2023/05/03/e2f73afc/index.m3u8
 GDCM-053.莉娜.黄飞鸿与十三.下集,https://t33.cdn2020.com/video/m3u8/2023/05/05/57da4e26/index.m3u8
 GDCM-054.张群.饥渴的.上集,https://t26.cdn2020.com/video/m3u8/2023/08/15/68a3ffa4/index.m3u8
-GDCM-055.张群.饥渴的.下集,https://t26.cdn2020.com/video/m3u8/2023/08/23/abecec5e/index.m3u8
-GDCM-056.米欧 紫宸 苡琍.孤注一掷,https://t26.cdn2020.com/video/m3u8/2023/08/27/aa1e7e2e/index.m3u8
-GDCM-057.刘小芸 刘小雯.双胞胎的心有灵犀,https://t26.cdn2020.com/video/m3u8/2023/09/23/46157a66/index.m3u8
-GDCM-058.黎文.国好呻吟,https://t26.cdn2020.com/video/m3u8/2023/10/02/5db949dc/index.m3u8
 GDCM-059.曼语.空豪华上服务,https://t26.cdn2020.com/video/m3u8/2023/10/27/76b2c583/index.m3u8
 GDCM-060.陈梦洁.醉酒老公误把子当小三,https://t26.cdn2020.com/video/m3u8/2023/11/14/78b3262f/index.m3u8
-GDCM-061.优娜.封神.潮吹之歌,https://t26.cdn2020.com/video/m3u8/2024/01/02/2b6c8aca/index.m3u8
-GDCM-062.季梦.被抵债竟是我初恋,https://t26.cdn2020.com/video/m3u8/2024/01/26/e297f31c/index.m3u8
-GDCM-063.宋南伊.完蛋!我被美包围了!,https://t26.cdn2020.com/video/m3u8/2024/02/12/bfad5340/index.m3u8
 GDCM-066.米欧.周处三害,https://t33.cdn2020.com/video/m3u8/2024/07/04/4172f5c6/index.m3u8
 91FHT-001.粉红兔.的惊喜,https://t26.cdn2020.com/video/m3u8/2021/08/16/0be27e36/index.m3u8
-91CMX-001.范可可.蜜桃成熟时之干,https://t26.cdn2020.com/video/m3u8/2022/05/04/467411d3/index.m3u8
-91CMX-002.林凤娇.到府电工少,https://t26.cdn2020.com/video/m3u8/2022/05/08/d997fa0d/index.m3u8
 OM-001.佳芯.极乐圣诞.圣诞老的坏孩名单,https://t33.cdn2020.com/video/m3u8/2022/12/28/e089dad7/index.m3u8
 OM-002.Lilit.元旦特别企划.战,https://t33.cdn2020.com/video/m3u8/2023/01/05/cfe4f5d8/index.m3u8
 OM-003.邓紫晴.在囧途之台囧.二傻征之城,https://t33.cdn2020.com/video/m3u8/2023/01/26/60666f9e/index.m3u8
 OM-004.梁芸菲.钢铁猛变萌,https://t33.cdn2020.com/video/m3u8/2023/03/05/955c23df/index.m3u8
 WMOG-001.小.喷姬的潮吹释放,https://t26.cdn2020.com/video/m3u8/2023/09/07/9db5459f/index.m3u8
-WMOG-002.明里柚.害羞新COS首秀,https://t26.cdn2020.com/video/m3u8/2023/09/04/753c4d73/index.m3u8
 WMOG-003.明日花香.呆萌医生的上门服务,https://t26.cdn2020.com/video/m3u8/2023/09/18/3c6ebac0/index.m3u8
 WMOG-004.小.甜美幼教贷款,https://t26.cdn2020.com/video/m3u8/2023/09/21/59671f9a/index.m3u8
-WMOG-005.小.E神诱,https://t26.cdn2020.com/video/m3u8/2023/09/27/f3685532/index.m3u8
 WMOG-006.小.秘书的诱,https://t26.cdn2020.com/video/m3u8/2023/10/18/0c51df07/index.m3u8
 WMOG-007.小小酱.清纯袜,https://t26.cdn2020.com/video/m3u8/2023/11/05/0935241d/index.m3u8
 WMOG-008.小敏儿.室服的诱,https://t26.cdn2020.com/video/m3u8/2023/11/08/f5e50795/index.m3u8
-WMOG-009.明里柚.老师给予我的特殊教育,https://t26.cdn2020.com/video/m3u8/2023/11/12/16ba7d1a/index.m3u8
 WMOG-010.小.调教反差E瑜伽教练,https://t26.cdn2020.com/video/m3u8/2023/11/23/882416b8/index.m3u8
 WMOG-011.小.小游记,https://t26.cdn2020.com/video/m3u8/2023/12/10/9f8ddbf5/index.m3u8
-WMOG-012.SARA.亚冠赛后绝顶,https://t26.cdn2020.com/video/m3u8/2023/12/22/3dfa4a70/index.m3u8
-WMOG-013.小.被玩坏的圣诞礼物,https://t26.cdn2020.com/video/m3u8/2023/12/27/94bb7653/index.m3u8
-WMOG-014.北野.教师放荡的家访,https://t26.cdn2020.com/video/m3u8/2024/01/19/23e007a9/index.m3u8
-WMOG-015.小.销售的诱,https://t26.cdn2020.com/video/m3u8/2024/02/04/ac995cd6/index.m3u8
 WMOG-016.小.喷娃,https://t26.cdn2020.com/video/m3u8/2024/02/16/b6b4c0fe/index.m3u8
 WMOG-017.小.SM调教,https://t26.cdn2020.com/video/m3u8/2024/02/23/94818a35/index.m3u8
-WMOG-018.小.巨按摩师,https://t26.cdn2020.com/video/m3u8/2024/03/08/e0300d12/index.m3u8
 WMOG-019.小.E销售的全交易,https://t33.cdn2020.com/video/m3u8/2024/03/30/247eab91/index.m3u8
 WMOG-021.小敏儿.甜蜜少找房记,https://v2024.sysybf.com/20241123/E2uz1WiJ/index.m3u8
 WM-25031.嘉琪.少的饥渴望老公不在家贪恋小叔子的棒,https://t33.cdn2020.com/video/m3u8/2023/02/01/a8aa3cd1/index.m3u8
@@ -8795,24 +8211,11 @@ WM-25041.瑶瑶.面试,https://t33.cdn2020.com/video/m3u8/2023/02/08/46977454/in
 维秘传媒.冉冉学.极品夜店王的侍奉,https://t33.cdn2020.com/video/m3u8/2023/01/31/fb1aa778/index.m3u8
 维秘传媒.香菜公主.小货独特按摩,https://t33.cdn2020.com/video/m3u8/2023/01/31/aa8e5031/index.m3u8
 维秘传媒.菲欧娜.奴的调教,https://t33.cdn2020.com/video/m3u8/2023/01/26/bddb00b4/index.m3u8
-YMCM-003.坏坏.木兰当马骑,https://t26.cdn2020.com/video/m3u8/2023/09/04/8dc0b190/index.m3u8
-YMCM-002.樱樱.孤注一掷之奴篇,https://t26.cdn2020.com/video/m3u8/2023/09/04/65d7ba3d/index.m3u8
 YMCM-001.芷萱.穿越唐朝翻武则天,https://t26.cdn2020.com/video/m3u8/2023/09/04/fe6a0eb7/index.m3u8
-QQCM-001.前田由美.初遇邻居.桃花运来了挡都挡不住,https://t26.cdn2020.com/video/m3u8/2022/03/16/1cc603cb/index.m3u8
-QQCM-002.淑仪.考研诱辅导员,https://t26.cdn2020.com/video/m3u8/2022/03/23/870768b1/index.m3u8
-QQCM-003.美茹.一日,https://t26.cdn2020.com/video/m3u8/2022/03/24/dd39d7f5/index.m3u8
-QQCM-004.朵儿.我在探探上的子.粉嫩白虎少.紧致敏湿滑蜜.娇羞射,https://t26.cdn2020.com/video/m3u8/2022/03/29/0a06d7b6/index.m3u8
-QQCM-005.淑仪.前婚后轨我.现任无能前任来帮忙,https://t26.cdn2020.com/video/m3u8/2022/03/31/929a8db2/index.m3u8
 QQCM-006.甜心.专属仆.我的处理射专用仆,https://t26.cdn2020.com/video/m3u8/2022/04/13/25e7bc59/index.m3u8
 QQCM-007.兰心洁.子愉悦乱伦,https://t26.cdn2020.com/video/m3u8/2022/04/07/2d4076fe/index.m3u8
-QQCM-008.粉.足球宝贝,https://t26.cdn2020.com/video/m3u8/2022/04/07/ad4af1fe/index.m3u8
-QQCM-009.粉.秘书,https://t26.cdn2020.com/video/m3u8/2022/04/14/0132f8fc/index.m3u8
-QQCM-010.茉莉.袜OL与房东的高潮游戏,https://t26.cdn2020.com/video/m3u8/2022/04/20/03eff13e/index.m3u8
-QQCM-012.蒋梦琳.少盆挑战.外表清纯实则荡轮番榨干三优,https://t26.cdn2020.com/video/m3u8/2022/05/11/b664aa4c/index.m3u8
-QQCM-013.茉莉 兰心洁 蒋梦琳.白特烦恼之白菜换,https://t26.cdn2020.com/video/m3u8/2022/04/25/fca05d74/index.m3u8
 QQCM-014.茉莉 兰心洁.白特烦恼之白菜换2,https://t26.cdn2020.com/video/m3u8/2022/05/01/12895f59/index.m3u8
 QQCM-015.茉莉 兰心洁 蒋梦琳.白特烦恼之白菜换3.终极篇,https://t26.cdn2020.com/video/m3u8/2022/05/15/df7a2b38/index.m3u8
-QQCM-016.小鹿酱.勾引表哥用晶棒玩弄粉,https://t26.cdn2020.com/video/m3u8/2022/05/17/6337504e/index.m3u8
 QQCM-017.兰心洁.金牌销售的秘,https://t26.cdn2020.com/video/m3u8/2022/05/24/7b118950/index.m3u8
 QQCM-018.李小萤 家政,https://t33.cdn2020.com/video/m3u8/2022/06/09/bf326155/index.m3u8
 QQCM-019.叶子红.阴差错的乱伦,https://t33.cdn2020.com/video/m3u8/2022/07/15/63ea9095/index.m3u8
@@ -8821,7 +8224,6 @@ QQCM-021.叶子红.上实习生,https://t33.cdn2020.com/video/m3u8/2022/08/14/8a
 QQOG-002.粉.油光白极品萝莉,https://t33.cdn2020.com/video/m3u8/2022/10/11/181d5b3e/index.m3u8
 QQOG-003.粉.浴室镜子前极致,https://t33.cdn2020.com/video/m3u8/2022/10/11/67278475/index.m3u8
 QQOG-004.小敏儿.把套路上床干,https://t33.cdn2020.com/video/m3u8/2022/10/13/700305d6/index.m3u8
-QQOG-005.小敏儿.尤物学对我的酒后诱,https://t33.cdn2020.com/video/m3u8/2022/10/13/700305d6/index.m3u8
 QQOG-006.粉.青春学纹反差婊,https://t33.cdn2020.com/video/m3u8/2022/10/26/0f221fb3/index.m3u8
 QQOG-007.粉.诱小野猫,https://t33.cdn2020.com/video/m3u8/2022/10/26/50fbdc0c/index.m3u8
 QQOG-009.小敏儿.COS麻衣的学生,https://t33.cdn2020.com/video/m3u8/2022/11/02/329404e4/index.m3u8
@@ -8860,16 +8262,9 @@ QQOG-047.小敏儿.把小的小满液,https://t33.cdn2020.com/video/m3u8/2023/03
 QQOG-048.cola酱.护士为痿病制射,https://t33.cdn2020.com/video/m3u8/2023/03/25/b5638c91/index.m3u8
 QQOG-049.小猫咪.干爹的便器,https://t33.cdn2020.com/video/m3u8/2023/03/31/7a882ba4/index.m3u8
 QQOG-050.樱桃.老师的罚,https://t33.cdn2020.com/video/m3u8/2023/04/13/49bf0e9c/index.m3u8
-FSOG-115.小敏儿.粉嫩小厨娘,https://t26.cdn2020.com/video/m3u8/2023/08/01/f5cdf315/index.m3u8
-FSOG-114..AI,https://t26.cdn2020.com/video/m3u8/2023/09/03/a273009a/index.m3u8
 FSOG-113.小玩子.上日本巨技师,https://t26.cdn2020.com/video/m3u8/2023/08/15/e34a85ff/index.m3u8
-FSOG-112.91兔兔.cosplay-DVA宋哈娜,https://t26.cdn2020.com/video/m3u8/2023/08/01/d565278d/index.m3u8
-FSOG-111.小玩子.仆的叫醒服务,https://t26.cdn2020.com/video/m3u8/2023/08/01/c76bd853/index.m3u8
-FSOG-110.小敏儿.绑调教新入职的助理,https://t30.cdn2020.com/video/m3u8/2025/06/20/fd6e4180/index.m3u8
-FSOG-109.憨憨.特殊的家政服务,https://t26.cdn2020.com/video/m3u8/2023/07/06/4d015ef5/index.m3u8
 FSOG-108.小敏儿.美少的午后生活,https://t26.cdn2020.com/video/m3u8/2023/07/04/0b313940/index.m3u8
 FSOG-107.小玩子.巨搜查官,https://t26.cdn2020.com/video/m3u8/2023/06/30/8d2acf13/index.m3u8
-FSOG-101.软糖.差评威胁线下cos陪玩,https://t30.cdn2020.com/video/m3u8/2025/06/20/497363b3/index.m3u8
 FSOG-010.小鹿酱.职场潜规则,https://t33.cdn2020.com/video/m3u8/2022/07/12/832c4478/index.m3u8
 FSOG-009.粉.租赁的附加服务,https://t33.cdn2020.com/video/m3u8/2022/07/09/9b425812/index.m3u8
 FSOG-008.粉.二学的液注,https://t33.cdn2020.com/video/m3u8/2022/07/07/d0122483/index.m3u8
@@ -8903,31 +8298,16 @@ QDOG-001.粉.粉佳的极品美,https://t33.cdn2020.com/video/m3u8/2022/12/08/3f
 DAD-034.小林杏.爸气十足EP50,https://t33.cdn2020.com/video/m3u8/2024/08/29/a79a7737/index.m3u8
 DAD-033.橫井智美.爸气十足EP49,https://t33.cdn2020.com/video/m3u8/2024/04/14/effa850f/index.m3u8
 DAD-032.齐藤丽.爸气十足EP48,https://t33.cdn2020.com/video/m3u8/2024/03/17/43dc850d/index.m3u8
-DAD-031.南瑠奈.爸气十足EP47,https://t26.cdn2020.com/video/m3u8/2024/03/11/4d089b37/index.m3u8
-DAD-030.美雪理沙.爸气十足EP46,https://t26.cdn2020.com/video/m3u8/2024/01/21/82180557/index.m3u8
-DAD-029.塚本胡桃.爸气十足EP45,https://t26.cdn2020.com/video/m3u8/2023/12/10/701da93d/index.m3u8
 DAD-028.金井莉央.爸气十足EP44,https://t26.cdn2020.com/video/m3u8/2023/11/25/09eb3e55/index.m3u8
 DAD-027.小林瑤子.爸气十足EP43,https://t26.cdn2020.com/video/m3u8/2023/11/12/a5f9de34/index.m3u8
 DAD-026.緒方かなえ.爸气十足EP42,https://t26.cdn2020.com/video/m3u8/2023/11/05/b61902d3/index.m3u8
-DAD-025.菅本有纪.爸气十足EP41,https://t26.cdn2020.com/video/m3u8/2023/10/28/61b095d6/index.m3u8
-DAD-024.爸气十足EP40,https://t26.cdn2020.com/video/m3u8/2023/10/20/4b90638c/index.m3u8
 DAD-023.青山ひかる.爸气十足EP39,https://t26.cdn2020.com/video/m3u8/2023/10/13/feb4a3e2/index.m3u8
-DAD-022.田野百合.爸气十足EP38,https://t26.cdn2020.com/video/m3u8/2023/10/08/7336d998/index.m3u8
-DAD-021-02.加藤南.爸气十足EP37.下篇,https://t26.cdn2020.com/video/m3u8/2023/09/29/83eb205a/index.m3u8
-DAD-021-01.加藤南.爸气十足EP37.上篇,https://t26.cdn2020.com/video/m3u8/2023/09/23/c9327bf1/index.m3u8
 DAD-020.上原桃.爸气十足EP36,https://t26.cdn2020.com/video/m3u8/2023/09/16/345442d2/index.m3u8
 DAD-019.竹莉莉.爸气十足EP35,https://t26.cdn2020.com/video/m3u8/2023/09/09/b807dbc1/index.m3u8
 DAD-018.室井优.爸气十足EP34,https://t26.cdn2020.com/video/m3u8/2023/09/02/ede00617/index.m3u8
-DAD-017.小熊汐里.爸气十足EP33,https://t26.cdn2020.com/video/m3u8/2023/08/24/468c921a/index.m3u8
-DAD-016.香月怜.爸气十足EP32,https://t26.cdn2020.com/video/m3u8/2023/08/13/41e1860e/index.m3u8
 DAD-015.爸气十足EP31,https://t26.cdn2020.com/video/m3u8/2023/08/07/123f2091/index.m3u8
-DAD-014.爸气十足EP30,https://t26.cdn2020.com/video/m3u8/2023/07/30/cf8f73ef/index.m3u8
 DAD-013.爸气十足EP29,https://t26.cdn2020.com/video/m3u8/2023/07/23/6805b0b8/index.m3u8
 DAD-012.冰室梨花.爸气十足EP28,https://t26.cdn2020.com/video/m3u8/2023/07/16/fd097c54/index.m3u8
-DAD-011.爸气十足EP27,https://t26.cdn2020.com/video/m3u8/2023/07/08/a211bd26/index.m3u8
-DAD-010.广濑静香.爸气十足EP26,https://t26.cdn2020.com/video/m3u8/2023/06/23/155a99b0/index.m3u8
-DAD-009.神谷怜.爸气十足EP25,https://t26.cdn2020.com/video/m3u8/2023/06/19/d65f5445/index.m3u8
-DAD-008.真希波.爸气十足EP24,https://t26.cdn2020.com/video/m3u8/2023/06/11/883aeaf6/index.m3u8
 DAD-007.爸气十足EP23,https://t33.cdn2020.com/video/m3u8/2023/05/14/dab7cb30/index.m3u8
 DAD-006.爸气十足EP22,https://t33.cdn2020.com/video/m3u8/2023/05/07/282a067d/index.m3u8
 DAD-005.美樱.爸气十足EP21,https://t33.cdn2020.com/video/m3u8/2023/04/24/fb45a013/index.m3u8
@@ -8942,26 +8322,6 @@ TZ-205.七瀬恋.用陷阱夺走了的,https://t33.cdn2020.com/video/m3u8/2025/0
 TZ-204.伊藤小春.超痴射停不下来,https://t33.cdn2020.com/video/m3u8/2025/09/05/f0fff176/index.m3u8
 TZ-203.井美咲.巨乱颤液横飞,https://t33.cdn2020.com/video/m3u8/2025/08/22/89ae1921/index.m3u8
 TZ-202.Eren.混血少射到爽,https://t33.cdn2020.com/video/m3u8/2025/08/01/552d85d6/index.m3u8
-TZ-201.伊藤小春.随你摆布的痴视角,https://t30.cdn2020.com/video/m3u8/2025/07/16/e2ab74db/index.m3u8
-TZ-200.横井智美.兔郎的激射诱,https://t30.cdn2020.com/video/m3u8/2025/07/09/fa1ab889/index.m3u8
-TZ-199.樱花实录EP44.4P醉酒少,https://t30.cdn2020.com/video/m3u8/2025/06/11/d7d97597/index.m3u8
-TZ-198.香月怜.樱花实录EP43.温泉将的无限制发射服务,https://t30.cdn2020.com/video/m3u8/2025/06/04/3289259e/index.m3u8
-TZ-197.樱花实录EP42.蒙眼机疯狂,https://t30.cdn2020.com/video/m3u8/2025/05/29/d6513d6e/index.m3u8
-TZ-196.樱花实录EP41.酒后疯狂沙发激,https://t30.cdn2020.com/video/m3u8/2025/05/01/f4676b3d/index.m3u8
-TZ-195.樱花实录EP40.饥渴少无套,https://t30.cdn2020.com/video/m3u8/2025/04/16/3ea919c4/index.m3u8
-TZ-194.铃木美樱.樱花实录EP39.第一称沉浸式,https://t30.cdn2020.com/video/m3u8/2025/04/09/45e2b590/index.m3u8
-TZ-193.樱花实录EP38.顶级肥臀浴室,https://t30.cdn2020.com/video/m3u8/2025/04/02/3b1864e9/index.m3u8
-TZ-192.樱花实录EP37.机验,https://t30.cdn2020.com/video/m3u8/2025/03/26/9d7e50cd/index.m3u8
-TZ-191.天音美纱.樱花实录EP36.爸爸的仆好儿,https://t30.cdn2020.com/video/m3u8/2025/03/20/6b1feff0/index.m3u8
-TZ-190.九条兰.樱花实录EP35.巨肥臀激,https://t30.cdn2020.com/video/m3u8/2025/03/12/c691c44f/index.m3u8
-TZ-189.长谷川けいか.樱花实录EP34.巨肥臀油按摩,https://t30.cdn2020.com/video/m3u8/2025/03/05/4ed7a9bc/index.m3u8
-TZ-188.上原桃.樱花实录EP33.巨,https://t30.cdn2020.com/video/m3u8/2025/02/27/7dbd4695/index.m3u8
-TZ-187.一宮みほの.樱花实录EP32.酒店幽会,https://t30.cdn2020.com/video/m3u8/2025/02/19/8658be08/index.m3u8
-TZ-186.羽柴よしの.樱花实录EP31.床上小娃,https://t30.cdn2020.com/video/m3u8/2025/02/14/71151918/index.m3u8
-TZ-185.南瑠奈.樱花实录EP30.搭讪站街,https://t30.cdn2020.com/video/m3u8/2025/02/07/51c79967/index.m3u8
-TZ-184.芹泽由纪.樱花实录EP29.特殊按摩服务,https://t30.cdn2020.com/video/m3u8/2025/01/31/bb696671/index.m3u8
-TZ-183.条莉.樱花实录EP28.巨美艳少,https://t30.cdn2020.com/video/m3u8/2025/01/23/3889d24b/index.m3u8
-TZ-182.竹莉莉.樱花实录EP27.雪白巨嫩,https://t30.cdn2020.com/video/m3u8/2025/01/20/556cdf5f/index.m3u8
 TZ-181.樱花实录EP26.酒店幽会湿少,https://t33.cdn2020.com/video/m3u8/2025/01/08/676b8390/index.m3u8
 TZ-180.樱花实录EP25.射少,https://t33.cdn2020.com/video/m3u8/2024/12/26/1d31cc8d/index.m3u8
 TZ-179.樱花实录EP24.着少白虎美,https://t33.cdn2020.com/video/m3u8/2024/12/20/c13d3d51/index.m3u8
@@ -8999,53 +8359,30 @@ TZ-149.田奈奈.樱花实录EP1.处童贞毕业,https://t33.cdn2020.com/video/m
 TZ-148.南瑠奈.与混血的,https://6m7d1.cdnedge.live/file/avple-asserts/hls/66040e2c93385d2c0ab570a9/playlist.m3u8
 TZ-147.北条玲香.和室潜入搜查官,https://l87ul1.cdnedge.live/file/avple-asserts/hls/6600cfcafe177e743527bb59/playlist.m3u8
 TZ-146.菅本有纪.日本超美花魁.第一视角沉浸验,https://t33.cdn2020.com/video/m3u8/2024/03/13/644fe91b/index.m3u8
-TZ-145.芹泽由纪.双马尾美少,https://t26.cdn2020.com/video/m3u8/2024/03/07/4c51ee1e/index.m3u8
-TZ-144.北条玲香.兔子按摩院EP10.长腿巨贴服务,https://t26.cdn2020.com/video/m3u8/2024/02/29/f8d74292/index.m3u8
-TZ-143.浅尾美羽.超贴秘书.办公室的激,https://t26.cdn2020.com/video/m3u8/2024/02/23/a8b7d3ee/index.m3u8
-TZ-142.青木零.双子兄弟EP7.坚难填的,https://t26.cdn2020.com/video/m3u8/2024/02/16/f2428e01/index.m3u8
-TZ-141.香月怜.长腿房客的诡计,https://t26.cdn2020.com/video/m3u8/2024/02/08/7bc28939/index.m3u8
-TZ-140.望月优奈.日式混浴.超痴制交,https://t26.cdn2020.com/video/m3u8/2024/02/01/4f85e5e4/index.m3u8
-TZ-139.兔子按摩院EP9.少初次验,https://t26.cdn2020.com/video/m3u8/2024/01/26/2c9cfe18/index.m3u8
 TZ-138.天音美纱.双子兄弟EP6.3P战巨根挑战,https://t26.cdn2020.com/video/m3u8/2024/01/17/ce79e7c8/index.m3u8
-TZ-137.北条玲香.3P潜入搜查官 废墟凌辱长腿美,https://t26.cdn2020.com/video/m3u8/2024/01/10/2829e46a/index.m3u8
-TZ-136.三叶奈奈.日本孩的巨根,https://t26.cdn2020.com/video/m3u8/2024/01/04/dbf68ad3/index.m3u8
 TZ-135.变态干爹的调教,https://t26.cdn2020.com/video/m3u8/2023/12/28/21f97787/index.m3u8
-TZ-134.兔子按摩院EP8.验岛国熟按摩,https://t26.cdn2020.com/video/m3u8/2023/12/21/5b1a552c/index.m3u8
 TZ-132.月野静.别墅潜入搜查官,https://t26.cdn2020.com/video/m3u8/2023/12/07/b396a801/index.m3u8
 TZ-131.柚木诗.兔子按摩院EP7,https://t26.cdn2020.com/video/m3u8/2023/11/30/89903c6f/index.m3u8
-TZ-130.条莉.我的寂寞荡老师,https://t26.cdn2020.com/video/m3u8/2023/11/23/74c8481a/index.m3u8
 TZ-129.室井优.新开发超纯学生,https://t26.cdn2020.com/video/m3u8/2023/11/18/0c81a1a1/index.m3u8
-TZ-128.小熊汐里.儿的成礼,https://t26.cdn2020.com/video/m3u8/2023/11/08/6c8765af/index.m3u8
-TZ-127.香月怜.赌场潜入搜查官,https://t26.cdn2020.com/video/m3u8/2023/11/01/c5418ff6/index.m3u8
-TZ-126-1.侣搭讪游戏(上) 30分钟挑战,https://t26.cdn2020.com/video/m3u8/2023/10/18/0c6f44cb/index.m3u8
 TZ-126-2.侣搭讪游戏(下) 不知道的秘,https://t26.cdn2020.com/video/m3u8/2023/10/27/9359a7ca/index.m3u8
 TZ-125.真希波.南兰.全裸3P家族,https://t26.cdn2020.com/video/m3u8/2023/10/11/95d79fb2/index.m3u8
 TZ-124.原圣子.职场法则 岛国神,https://t26.cdn2020.com/video/m3u8/2023/10/05/5f179317/index.m3u8
-TZ-123.铃木美樱.岛国野外羞耻露,https://t26.cdn2020.com/video/m3u8/2023/09/28/16411e0a/index.m3u8
 TZ-122.七濑恋.我们的定,https://t26.cdn2020.com/video/m3u8/2023/09/21/a4bbae4f/index.m3u8
-TZ-121.小岛凛.小岛凛道作,https://t26.cdn2020.com/video/m3u8/2023/09/13/0d69f90f/index.m3u8
 TZ-120.绫波丽.优私生活公开,https://t26.cdn2020.com/video/m3u8/2023/09/06/51735be6/index.m3u8
 TZ-119.石川律子.乱钢琴教师的私生活,https://t26.cdn2020.com/video/m3u8/2023/08/31/b677045c/index.m3u8
-TZ-118.真希波.东京夜,https://t26.cdn2020.com/video/m3u8/2023/08/23/494ec47c/index.m3u8
-TZ-117.月野静.面试惨遭潜规则,https://t26.cdn2020.com/video/m3u8/2023/08/17/d88e7cac/index.m3u8
-TZ-116.香月怜.乱新闻主播,https://t26.cdn2020.com/video/m3u8/2023/08/10/ebc62679/index.m3u8
 TZ-115.望月优奈.变态公公调教儿媳,https://t26.cdn2020.com/video/m3u8/2023/08/02/d8ef06e0/index.m3u8
 TZ-114.天音美纱.户外特辑之岩洞荒野求,https://t26.cdn2020.com/video/m3u8/2023/07/19/37e7a6c0/index.m3u8
 TZ-113.绫波丽.我的百变,https://t26.cdn2020.com/video/m3u8/2023/07/12/12126ee3/index.m3u8
 TZ-112.原圣子.兔子按摩院EP6.国宝极K杯巨,https://t26.cdn2020.com/video/m3u8/2023/07/06/b716b22d/index.m3u8
 TZ-111.羽月萌音.日式油按摩上门服务,https://t26.cdn2020.com/video/m3u8/2023/07/28/343c726a/index.m3u8
 TZ-110.小岛凛.节巨儿,https://t26.cdn2020.com/video/m3u8/2023/06/16/b5d9fa65/index.m3u8
-TZ-109-01.绫波丽.轮搜查官.上篇,https://t26.cdn2020.com/video/m3u8/2023/06/08/42ca7ed5/index.m3u8
-TZ-109-02.绫波丽.轮搜查官.下篇,https://t26.cdn2020.com/video/m3u8/2023/06/30/7640bf36/index.m3u8
 TZ-108.绫波丽.痴与植物丈夫,https://t26.cdn2020.com/video/m3u8/2023/05/28/930b2ffc/index.m3u8
-TZ-107.香月怜.痴汉尾行之餐厅露,https://t26.cdn2020.com/video/m3u8/2023/05/20/42aec801/index.m3u8
 TZ-106.条莉.节特别篇给儿子的礼物,https://t33.cdn2020.com/video/m3u8/2023/05/11/3b3e3761/index.m3u8
 TZ-105.原圣子.岛国特泡泡浴EP4.K杯神美享受,https://t33.cdn2020.com/video/m3u8/2023/05/05/3114e7f0/index.m3u8
 TZ-104.白石麻衣.兔子按摩院EP5.巨技师贴服务,https://t33.cdn2020.com/video/m3u8/2023/04/28/a3b52dfe/index.m3u8
 TZ-103.真希波.酒醉捡回家EP4.寂寞OL深夜谈心,https://t33.cdn2020.com/video/m3u8/2023/04/21/87289463/index.m3u8
 TZ-102.凌波丽.兔子按摩院EP4.颜值神激烈,https://t33.cdn2020.com/video/m3u8/2023/04/14/faeaed75/index.m3u8
 TZ-101.美樱.突然袭击乱入3P,https://t33.cdn2020.com/video/m3u8/2023/04/07/c0d87b85/index.m3u8
-TZ-100.绫波丽.乱4P忘年会.无休止的轮,https://t26.cdn2020.com/video/m3u8/2023/06/03/3b82a9e9/index.m3u8
 TZ-099.浅尾美羽.春之夜与她一夜久难忘,https://t33.cdn2020.com/video/m3u8/2023/03/23/0266a92f/index.m3u8
 TZ-098.增田枫.与的一天,https://t33.cdn2020.com/video/m3u8/2023/03/16/54d9ddc9/index.m3u8
 TZ-097.香月怜.痴社长的玩物,https://t33.cdn2020.com/video/m3u8/2023/03/09/ae6abc66/index.m3u8
@@ -9090,32 +8427,17 @@ TZ-063.绫波丽.机初验,https://t33.cdn2020.com/video/m3u8/2022/07/01/3ab1284
 TZ-062-02.樱井美里.两天一夜持续侵犯.后篇,https://t33.cdn2020.com/video/m3u8/2022/06/23/3fc909a7/index.m3u8
 TZ-062-01.樱井美里.两天一夜持续侵犯.前篇,https://t33.cdn2020.com/video/m3u8/2022/06/16/3adfa17f/index.m3u8
 TZ-061.明日香.上门按摩东瀛,https://t33.cdn2020.com/video/m3u8/2022/06/09/defd27ee/index.m3u8
-TZ-060.七濑恋.清纯初验,https://t26.cdn2020.com/video/m3u8/2022/06/02/47a6d3b2/index.m3u8
-TZ-059.白川麻衣.爸气十足EP11.超敏痉挛质,https://t26.cdn2020.com/video/m3u8//2022/05/26/7825d488/index.m3u8
 TZ-058.绫波丽.土下座痴OL.奉仕谢罪,https://t26.cdn2020.com/video/m3u8/2022/05/20/3e1dc57f/index.m3u8
-TZ-057.西村铃奈.爸气十足EP10.萝莉学生,https://t26.cdn2020.com/video/m3u8/2022/05/13/cc8795a2/index.m3u8
-TZ-055.野惠子.秘搜查官,https://t26.cdn2020.com/video/m3u8/2022/04/30/35892426/index.m3u8
-TZ-054.冬月结衣.爸气十足EP9.和服赏樱花,https://t26.cdn2020.com/video/m3u8/2022/05/04/2e025b8f/index.m3u8
-TZ-053.凌波丽.泡泡浴G美少,https://t26.cdn2020.com/video/m3u8/2022/04/07/9386ac60/index.m3u8
-TZ-052.花音咲.双子兄弟之3P实录.纯少童颜巨,https://t26.cdn2020.com/video/m3u8/2022/04/14/31928860/index.m3u8
-TZ-051.花音咲.爸气十足EP8.童颜巨G学生,https://t26.cdn2020.com/video/m3u8/2022/03/24/b3887891/index.m3u8
 TZ-050.明日香.东京故事EP8.蒙眼手铐3P,https://t26.cdn2020.com/video/m3u8/2022/03/15/682ecb24/index.m3u8
-TZ-049.明日香.东京故事EP7.乱未婚狂乱,https://t26.cdn2020.com/video/m3u8/2022/03/15/470fe72f/index.m3u8
 TZ-048.明日香.樱井美里.痴3P后篇.激榨,https://t26.cdn2020.com/video/m3u8/2022/03/10/1cf2f450/index.m3u8
-TZ-047.明日香.樱井美里.痴3P前篇.双夹击,https://t26.cdn2020.com/video/m3u8/2022/03/04/f43d6490/index.m3u8
 TZ-046.羽月萌音.街头搭讪小猫,https://t26.cdn2020.com/video/m3u8/2022/02/23/5edf380e/index.m3u8
 TZ-045.明日香.东京故事EP6.机虽好不如,https://t26.cdn2020.com/video/m3u8/2022/02/17/de20e672/index.m3u8
 TZ-044.明日香.东京故事EP5.意乱发,https://t26.cdn2020.com/video/m3u8/2022/02/10/b6d5bced/index.m3u8
-TZ-043.樱井美里.过年后篇.鲍鱼香肠饺子宴,https://t26.cdn2020.com/video/m3u8/2022/02/07/7b5eebe8/index.m3u8
 TZ-042.樱井美里.过年前篇.巨领红包,https://t26.cdn2020.com/video/m3u8/2022/02/07/0c7f8933/index.m3u8
 TZ-041.野惠子.岛国仆为你服务,https://t26.cdn2020.com/video/m3u8/2022/01/20/cfb723db/index.m3u8
 TZ-040.双子兄弟EP4.巨少疯狂榨,https://t26.cdn2020.com/video/m3u8/2022/01/13/081d936c/index.m3u8
-TZ-039.绫波丽.当初恋已成,https://t26.cdn2020.com/video/m3u8/2022/01/06/89b82a97/index.m3u8
 TZ-029.宫泽蓝.双子兄弟EP3.王求不满,https://t33.cdn2020.com/video/m3u8/2021/11/11/61c3e350/index.m3u8
 PS035.青木零.雨天搭讪岛国,https://t26.cdn2020.com/video/m3u8/2023/12/24/3bdfb1fa/index.m3u8
-PS034.森川智悠.探秘久保公园,https://t26.cdn2020.com/video/m3u8/2023/12/17/33fd0847/index.m3u8
-PS033.羽田美香.岛国上错车,https://t26.cdn2020.com/video/m3u8/2023/12/04/cbafd332/index.m3u8
-PS032.芹泽由纪.变态露少,https://t26.cdn2020.com/video/m3u8/2023/11/19/86074fed/index.m3u8
 PS031.板仓宁宁.留学少网吧,https://t26.cdn2020.com/video/m3u8/2023/11/01/1e900907/index.m3u8
 PS030.田香.搭讪失恋少邻居,https://t33.cdn2020.com/video/m3u8/2023/05/03/5be30355/index.m3u8
 PS029.齐藤丽.咖啡店搭讪温柔,https://t33.cdn2020.com/video/m3u8/2023/04/18/a703c32c/index.m3u8
@@ -9145,9 +8467,6 @@ PS003.铃木美樱.海边搭讪多高生,https://t33.cdn2020.com/video/m3u8/2022
 PS002.七濑恋.搭讪早稻田学生,https://t33.cdn2020.com/video/m3u8/2022/07/01/834908c0/index.m3u8
 PS001.真希波.搭讪20岁日本辣,https://t33.cdn2020.com/video/m3u8/2022/06/17/3f7bea72/index.m3u8
 兔子先生.樱井美里.日本金莲领我回家.万圣节紧急企画,https://t33.cdn2020.com/video/m3u8/2021/10/31/c30062bc/index.m3u8
-JDKR055.羽濑纱织.专属毒龙极上验,https://t26.cdn2020.com/video/m3u8/2024/02/04/2cd839e0/index.m3u8
-JDKR054.小泽丽.混血网和我在酒店的第一次会,https://t26.cdn2020.com/video/m3u8/2024/01/28/8f7a551f/index.m3u8
-JDKR053.三叶奈奈.海滩搭讪美回房间喝酒微醺,https://t26.cdn2020.com/video/m3u8/2024/01/28/89f62231/index.m3u8
 JDKR052.青木澪.与阪网奔现东京酒店,https://t26.cdn2020.com/video/m3u8/2024/01/24/f5a0f5c4/index.m3u8
 JDKR034.寂寞的失恋学,https://t26.cdn2020.com/video/m3u8/2023/06/27/6d377cdc/index.m3u8
 JDKR033.学告白,https://t26.cdn2020.com/video/m3u8/2023/06/25/d017a3a5/index.m3u8
@@ -9175,12 +8494,7 @@ JDKR004.望月优奈.抗日奇侠.NO4.忘记交电费的邻居,https://t33.cdn20
 JDKR003.抗日奇侠.NO3.私拍日本单纯的白虎嫩,https://t33.cdn2020.com/video/m3u8/2022/11/10/059ab604/index.m3u8
 JDKR001.藤田美绪.抗日奇侠.NO1.我射了日本丰韵的兼职,https://t33.cdn2020.com/video/m3u8/2022/11/09/04c1456c/index.m3u8
 JDXYX037.黎芷萱.高傲上司被下属,https://t26.cdn2020.com/video/m3u8/2023/12/22/0325a5c5/index.m3u8
-JDXYX036.宛冰.反差面试官,https://t26.cdn2020.com/video/m3u8/2023/12/16/33fbc7bb/index.m3u8
-JDXYX035.莫云雪.误入弟的秘花园,https://t26.cdn2020.com/video/m3u8/2023/11/29/cf3b998d/index.m3u8
-JDXYX034.孟舒.相的跪式服务,https://t26.cdn2020.com/video/m3u8/2023/11/25/5258cc72/index.m3u8
-JJDXYX031.南兰.侵犯年轻子,https://t26.cdn2020.com/video/m3u8/2023/11/15/4dac287f/index.m3u8
 JDXYX030.芹泽由纪 临时借宿的小婊,https://t26.cdn2020.com/video/m3u8/2023/12/16/2375bf00/index.m3u8
-JDXYX029.辉月梨奈.给的独特礼物,https://t26.cdn2020.com/video/m3u8/2023/12/16/944f915c/index.m3u8
 JDXYX028.香月怜.帮我的处朋子,https://t26.cdn2020.com/video/m3u8/2023/11/08/3ad1eb46/index.m3u8
 JDXYX027.林思妤.处的搭讪计划,https://t33.cdn2020.com/video/m3u8/2023/01/29/fe0d89b2/index.m3u8
 JDXYX026.小婕.叛徒神器.货只在神器,https://t33.cdn2020.com/video/m3u8/2023/01/27/058929c7/index.m3u8
@@ -9243,13 +8557,7 @@ JDYP010.吉吉.侣啪考验,https://t33.cdn2020.com/video/m3u8/2022/06/16/0920f0
 JDYP009.KK.纪实司机啪嫩模,https://t33.cdn2020.com/video/m3u8/2022/06/17/e31152e6/index.m3u8
 JDYP008.安安.子帮丈夫,https://t33.cdn2020.com/video/m3u8/2022/06/09/8984ddd5/index.m3u8
 JDYP007.Aida.农民工啪小嫩,https://t33.cdn2020.com/video/m3u8/2022/06/05/1a58872a/index.m3u8
-JDYP006.夏夏.嗑啪,https://t26.cdn2020.com/video/m3u8/2022/06/02/506009bc/index.m3u8
-JDYP005.李可欣.啪到班花,https://t26.cdn2020.com/video/m3u8/2022/05/31/027a16c0/index.m3u8
 JDYP004.米娅.啪到了,https://t26.cdn2020.com/video/m3u8/2022/05/28/0339ce39/index.m3u8
-JDYP003.冬月结衣.我用啪到日本子,https://t26.cdn2020.com/video/m3u8/2022/05/26/2549cca0/index.m3u8
-JDYP002.瑶瑶.到初恋,https://t26.cdn2020.com/video/m3u8/2022/05/24/2e179fa7/index.m3u8
-JD153.伊东濑.游记EP02.横滨篇,https://t33.cdn2020.com/video/m3u8/2024/08/25/88d0220d/index.m3u8
-JD151.伦敦森林EP01,https://t33.cdn2020.com/video/m3u8/2024/08/14/175070ec/index.m3u8
 JD150.苡若.十三号星期五.杰森02,https://t33.cdn2020.com/video/m3u8/2023/05/18/e95e469e/index.m3u8
 JD149.苡若.十三号星期五.杰森01,https://t33.cdn2020.com/video/m3u8/2023/05/13/26a0e2c1/index.m3u8
 JD148.心萱.就算被老公发现也没关系.我和公公是真,https://t33.cdn2020.com/video/m3u8/2023/05/10/2c10c9be/index.m3u8
@@ -9281,43 +8589,18 @@ JD122.桥本菜.真希波.藤田美绪.高桥熏.夜勤病栋(上),https://t33.c
 JD121.桥本菜.子轮啪家庭教师,https://t33.cdn2020.com/video/m3u8/2022/06/04/f18193c3/index.m3u8
 JD120.优优.你是我的眼之为献,https://t26.cdn2020.com/video/m3u8/2022/06/01/fdb0b2b4/index.m3u8
 JD119.苏小小.隐退作品.你是我的眼,https://t33.cdn2020.com/video/m3u8/2022/06/04/fbc6deb2/index.m3u8
-JD118.神谷怜.东仆调教手册,https://t26.cdn2020.com/video/m3u8/2022/05/31/9f857389/index.m3u8
-JD117.绫波丽.我与上司的不伦之恋.为求上位主动献,https://t26.cdn2020.com/video/m3u8/2022/05/28/59486737/index.m3u8
 JD116.欣欣.闷求不满3,https://t26.cdn2020.com/video/m3u8/2022/05/25/5bef3e8e/index.m3u8
-JD114.张雨欣.东捡尸.酒吧门偶遇神小.带回酒店连两次,https://t26.cdn2020.com/video/m3u8/2022/05/15/6bf50497/index.m3u8
-JD113.瑶瑶.不良教师.清纯学惨遭麻辣教师调教,https://t26.cdn2020.com/video/m3u8/2022/05/15/6bf50497/index.m3u8
-JD112.桥本菜.转角遇见你.结婚七年之痒轨,https://t26.cdn2020.com/video/m3u8/2022/05/08/c3b94e13/index.m3u8
-JD110.冬月结衣.又到樱花绽放时,https://t26.cdn2020.com/video/m3u8/2022/05/01/623ec2df/index.m3u8
-JD109.朵朵.我被闺蜜肛了,https://t26.cdn2020.com/video/m3u8/2022/04/30/8e03f9bc/index.m3u8
-JD108.真希波.轨富二代.老公无能不能满足,https://t26.cdn2020.com/video/m3u8/2022/04/25/1c6637f3/index.m3u8
 JD107.王晶晶.我的是,https://t33.cdn2020.com/video/m3u8/2022/08/11/670d3f22/index.m3u8
-JD106.雯子.子凌辱学院.奈奈篇,https://t26.cdn2020.com/video/m3u8/2022/04/17/25c98c31/index.m3u8
 JD105.董欣.东按摩院.第一称视角带你临其境受极致验,https://t26.cdn2020.com/video/m3u8/2022/04/15/0ded9797/index.m3u8
-JD104.妲己.的逆袭.气高冷神,https://t26.cdn2020.com/video/m3u8/2022/04/09/1366ac90/index.m3u8
-JD103.浅野美羽.提枪上阵为国争光.岛国偶遇失恋神,https://t26.cdn2020.com/video/m3u8/2022/04/08/16aad086/index.m3u8
-JD102.小影.波霸总监是我,https://t26.cdn2020.com/video/m3u8/2022/04/03/df3306e4/index.m3u8
 JD101.我的是,https://pg2z71.cdnedge.live/file/avple-asserts/hls/63e4ee7372d51e77e837515b/playlist.m3u8
 JD100.苏小小.疫无间有,https://t26.cdn2020.com/video/m3u8/2021/12/26/505a7365/index.m3u8
-JD098.贝琳娜.我的是后,https://t26.cdn2020.com/video/m3u8/2022/03/24/89f99785/index.m3u8
-JD097.七濑恋.的教育.哥哥看AV献说教,https://t26.cdn2020.com/video/m3u8/2022/03/20/55c1208e/index.m3u8
 JD096.张晴.闷求不满2,https://t26.cdn2020.com/video/m3u8/2022/03/13/5f464ee9/index.m3u8
 JD095.芳芳.我的老公在乌克兰.闷借酒消愁,https://t26.cdn2020.com/video/m3u8/2022/03/12/cec61966/index.m3u8
-JD094.琪琪.青春18禁关系,https://t26.cdn2020.com/video/m3u8/2022/03/27/b505e7e4/index.m3u8
 JD093.绫波丽.街头搭讪岛国美.自慰高潮主动求,https://t26.cdn2020.com/video/m3u8/2022/03/02/5da2d0a8/index.m3u8
-JD092.七七.玩弄主播,https://t26.cdn2020.com/video/m3u8/2022/01/31/9c544b83/index.m3u8
-JD091.林凤娇.我唾弃你的坟墓,https://t26.cdn2020.com/video/m3u8/2022/01/16/a3af6175/index.m3u8
-JD090.宁宁.乱一家.激群P火热互动轮番射,https://t26.cdn2020.com/video/m3u8/2022/01/08/7c05ab2c/index.m3u8
 JD089.萧悦儿.万万没想到之魔法少,https://t26.cdn2020.com/video/m3u8/2021/12/19/6c8b7a2f/index.m3u8
-JD088.唐月琴.逆袭的保姆,https://t26.cdn2020.com/video/m3u8/2021/12/16/0c5e5c99/index.m3u8
 JD087.小舞.空阿莲的合租生活,https://t26.cdn2020.com/video/m3u8/2021/12/14/70aea41b/index.m3u8
-JD086.张晴.道心2,https://t26.cdn2020.com/video/m3u8/2021/12/10/258bb840/index.m3u8
-JD085.兄弟深.一起3P京城第一名妓,https://t26.cdn2020.com/video/m3u8/2021/12/05/292cbbbd/index.m3u8
 JD084.林凤娇.逆袭之农民工,https://t26.cdn2020.com/video/m3u8/2021/12/02/34db055d/index.m3u8
-JD083.婉婉.斗罗陆.比比东万岁,https://t26.cdn2020.com/video/m3u8/2021/11/28/fce4ea6a/index.m3u8
-JD082.我.兄弟三玩三通.,https://t26.cdn2020.com/video/m3u8/2021/11/25/72353c09/index.m3u8
 JD081.辣辣.小鹿.吸九尾狐,https://t26.cdn2020.com/video/m3u8/2021/11/21/a56fabb0/index.m3u8
-JD080.婉婉.JK萌家教.学习勾引老师,https://t26.cdn2020.com/video/m3u8/2021/11/19/18c61c76/index.m3u8
-JD079.萧悦儿.颅高潮.臭哥哥把家弄痛了,https://t26.cdn2020.com/video/m3u8/2021/11/17/7540a1a9/index.m3u8
 JD078.王小思.闷求不满.制服调教,https://t33.cdn2020.com/video/m3u8/2021/11/15/837baaaf/index.m3u8
 JD077.张晴.道心,https://t33.cdn2020.com/video/m3u8/2021/11/13/14ffd03b/index.m3u8
 JD076.可可.我是帽奴,https://t33.cdn2020.com/video/m3u8/2021/11/11/f4ba3946/index.m3u8
@@ -9342,19 +8625,12 @@ JD058.囡囡.知画.邻家之隔壁张叔给我破处,https://t33.cdn2020.com/vi
 JD057.夏天.我的茶,https://t33.cdn2020.com/video/m3u8/2021/09/05/4299e70d/index.m3u8
 JD056.真子丹面试粉,https://t33.cdn2020.com/video/m3u8/2021/08/31/cd70c10e/index.m3u8
 JD055.凌雨萱.道风云之吃,https://t33.cdn2020.com/video/m3u8/2021/08/28/5a092b4b/index.m3u8
-JD054.虞姬.我的闺蜜是个GAY,https://t26.cdn2020.com/video/m3u8/2021/08/19/d971f701/index.m3u8
 JD053.许诺.团之类高质量相记,https://t26.cdn2020.com/video/m3u8/2021/08/18/e318b697/index.m3u8
-JD052.克莱儿..为了工程主动送上,https://t26.cdn2020.com/video/m3u8/2021/08/17/03eb1a4a/index.m3u8
-JD051.凌雨萱.轮势上司,https://t26.cdn2020.com/video/m3u8/2021/08/14/f9d39dcd/index.m3u8
-JD050.艾咪.我的乞丐.轨处子之献乞丐,https://t26.cdn2020.com/video/m3u8/2021/08/12/5e85a14b/index.m3u8
-JD049.露西.类高质量相记.D杯美相遇渣,https://t26.cdn2020.com/video/m3u8/2021/08/10/60b06cfe/index.m3u8
 JD048.秋霞.少为救老公.诱王局长,https://t26.cdn2020.com/video/m3u8/2021/08/09/db8c9ec4/index.m3u8
 JD047.克莱儿.百变神克莱尔.我的老师为何这么好看,https://t26.cdn2020.com/video/m3u8/2021/08/06/8b4720e4/index.m3u8
 JD046.凌雨萱.原始社会好.美考古博士梦回石器时代,https://t26.cdn2020.com/video/m3u8/2021/08/05/c3e069ef/index.m3u8
-JD045.艾咪.花花.咪呀.真实上演乱伦战,https://t26.cdn2020.com/video/m3u8/2021/08/01/e9601aba/index.m3u8
 JD044.克莱儿.诱ID.多重格为而,https://t26.cdn2020.com/video/m3u8/2021/07/30/fec11c5e/index.m3u8
 JD043.秋霞.团有你之子图鉴.风尘子从良再下海,https://t26.cdn2020.com/video/m3u8/2021/07/29/dd11ae5a/index.m3u8
-JD042.艾咪.我不是赌神,https://t26.cdn2020.com/video/m3u8/2021/07/25/f3a42966/index.m3u8
 JD040.艾咪.克莱儿.找替.鬼化租客,https://t33.cdn2020.com/video/m3u8/2021/07/18/35fc4d31/index.m3u8
 JD039.雪见.爸爸谢谢你收养我,https://t33.cdn2020.com/video/m3u8/2021/07/10/224efe31/index.m3u8
 JD038.玲珑.雪见.雪卉.苏小小,https://t33.cdn2020.com/video/m3u8/2021/07/04/174b39a1/index.m3u8
@@ -9389,10 +8665,8 @@ JD008.苏小小.那些年一起追过的孩,https://t33.cdn2020.com/video/m3u8/2
 JD007.雪卉.的,https://t33.cdn2020.com/video/m3u8/2021/01/23/6bb3a512/index.m3u8
 JD006.兮颜.我的家教老师,https://t33.cdn2020.com/video/m3u8/2021/01/21/d77485f9/index.m3u8
 JD005.雪见.叔叔与侄,https://t33.cdn2020.com/video/m3u8/2021/01/21/3b0a7436/index.m3u8
-JD004.雪卉.欠债还,https://t33.cdn2020.com/video/m3u8/2021/01/13/a397bae2/index.m3u8
 JD003.苏小小.的,https://t33.cdn2020.com/video/m3u8/2021/01/12/3dbc82b2/index.m3u8
 JD002.梦瑶.我的东经历,https://t33.cdn2020.com/video/m3u8/2021/01/12/5ae041af/index.m3u8
-JD001.苏小小.我的老公是东,https://t33.cdn2020.com/video/m3u8/2021/02/12/1ca1c2ec/index.m3u8
 JDMZ005.条莉.学生上老师,https://t33.cdn2020.com/video/m3u8/2022/11/18/79bbdec7/index.m3u8
 JDMZ004.望月优奈.学的诱,https://t33.cdn2020.com/video/m3u8/2022/11/10/8cdb43c3/index.m3u8
 JDMZ003.同学假扮老师PLAY同学,https://t33.cdn2020.com/video/m3u8/2022/11/09/aa461228/index.m3u8
@@ -9429,35 +8703,21 @@ JDTY003.莉娜.科学奇迹敏质,https://t33.cdn2020.com/video/m3u8/2022/11/28/
 JDTY002.莉娜.守寡贵诱管家,https://t33.cdn2020.com/video/m3u8/2022/12/01/e67d4344/index.m3u8
 JDTY001.莉娜.理学教授学生,https://t33.cdn2020.com/video/m3u8/2022/11/29/47c632da/index.m3u8
 JDBC081.都可可.给钱就能的拜金,https://t26.cdn2020.com/video/m3u8/2023/09/23/1155d649/index.m3u8
-JDBC080.都可可.我的神是野,https://t26.cdn2020.com/video/m3u8/2023/09/21/380a664c/index.m3u8
-JDBC079.桃子.蜜惩罚势利员工,https://t26.cdn2020.com/video/m3u8/2023/09/16/5e294d13/index.m3u8
 JDBC078.桃子.逆袭神送嫩,https://t26.cdn2020.com/video/m3u8/2023/09/12/c63fd08a/index.m3u8
 JDBC077.婉青.一心想被房东包养的房客,https://t26.cdn2020.com/video/m3u8/2023/09/09/bddc288a/index.m3u8
-JDBC076.希汶.诱电工自己,https://t26.cdn2020.com/video/m3u8/2023/09/06/edbf2c1f/index.m3u8
-JDBC075.热可可.网聊少去酒店交痛快做,https://t26.cdn2020.com/video/m3u8/2023/09/02/3d4dee7d/index.m3u8
-JDBC074.希汶.老板假借差名义单纯少,https://t26.cdn2020.com/video/m3u8/2023/08/31/872c7eef/index.m3u8
 JDBC073.希汶.半夜把气民宿老板娘得娇喘不息,https://t26.cdn2020.com/video/m3u8/2023/08/27/619a5648/index.m3u8
 JDBC072.妍希.风湿小娃被翻,https://t26.cdn2020.com/video/m3u8/2023/08/24/70844cbd/index.m3u8
-JDBC071.李微微.不穿裤的律师,https://t26.cdn2020.com/video/m3u8/2023/07/11/b2c00119/index.m3u8
-JDBC070.林可菲.狂送上门的保险业务员,https://t26.cdn2020.com/video/m3u8/2023/07/08/5b8a09c7/index.m3u8
 JDBC069.李微微.教授对学生的生物教学,https://t26.cdn2020.com/video/m3u8/2023/07/06/ba47e972/index.m3u8
 JDBC068.林可菲.虚荣主播主动献处膜,https://t26.cdn2020.com/video/m3u8/2023/07/04/b3780002/index.m3u8
 JDBC067.小婕.银行理专被变态客户,https://t26.cdn2020.com/video/m3u8/2023/06/30/19869e0d/index.m3u8
-JDBC066.咪咪.技师挑战翻外国,https://t26.cdn2020.com/video/m3u8/2023/06/29/95ffa723/index.m3u8
 JDBC065.小婕.美按摩师为钱卖自己的,https://t26.cdn2020.com/video/m3u8/2023/06/27/97d5f636/index.m3u8
 JDBC064.咪咪.趁朋喝醉她的异国,https://t26.cdn2020.com/video/m3u8/2023/06/25/392e72cf/index.m3u8
-JDBC063.斑斑.专业医师的治疗,https://t26.cdn2020.com/video/m3u8/2023/06/22/df9d3de3/index.m3u8
 JDBC062.季妍希.把理发师按在床上,https://t26.cdn2020.com/video/m3u8/2023/06/21/86c7bd82/index.m3u8
 JDBC061.斑斑.荡信贷业务员的诱,https://t26.cdn2020.com/video/m3u8/2023/06/19/6271b5fe/index.m3u8
-JDBC060.季妍希.学渣同学诱风家访导师,https://t26.cdn2020.com/video/m3u8/2023/06/16/fbad33b4/index.m3u8
 JDBC059.坏坏.邻居来我家当家教,https://t26.cdn2020.com/video/m3u8/2023/06/14/07d50bdf/index.m3u8
-JDBC058.优娜.美朋以报恩,https://t26.cdn2020.com/video/m3u8/2023/06/10/d3a9e3a0/index.m3u8
-JDBC057.坏坏.用缴房租,https://t26.cdn2020.com/video/m3u8/2023/06/08/9d6c80da/index.m3u8
 JDBC056.优娜.为了借钱只好把儿献给兄弟,https://t26.cdn2020.com/video/m3u8/2023/06/08/edef823a/index.m3u8
 JDBC055.吴文淇.极致美胸.小职员诱经理,https://t26.cdn2020.com/video/m3u8/2023/06/03/9ffcedc4/index.m3u8
 JDBC054.黎芷媗.嫩背着丈夫去借,https://t26.cdn2020.com/video/m3u8/2023/07/13/9a7aaa9b/index.m3u8
-JDBC053.吴文淇.弟乱伦的第一次验,https://t26.cdn2020.com/video/m3u8/2023/05/31/e042ad2c/index.m3u8
-JDBC052.黎芷媗.疯狂开房里的小姑,https://t26.cdn2020.com/video/m3u8/2023/05/29/ec072df0/index.m3u8
 JDBC051.苡若.我的荡小叫声真好听,https://t33.cdn2020.com/video/m3u8/2023/04/29/c37c680c/index.m3u8
 JDBC050.宛冰.OL舅让我液不断射,https://t33.cdn2020.com/video/m3u8/2023/04/25/22e781a1/index.m3u8
 JDBC049.湘湘.夫趁老不在自闭小子,https://t33.cdn2020.com/video/m3u8/2023/04/24/b3fc04eb/index.m3u8
@@ -9559,21 +8819,12 @@ JDYL003.清洛.现代潘金莲,https://t33.cdn2020.com/video/m3u8/2022/08/23/e17
 JDYL002.吉吉.上闺蜜,https://t33.cdn2020.com/video/m3u8/2022/08/23/03c78018/index.m3u8
 JDYL001.吉吉.榜一哥上主播被直播,https://t33.cdn2020.com/video/m3u8/2022/07/15/f7ea3cbe/index.m3u8
 JDMY040.克莱儿.囡囡第四十集,https://t26.cdn2020.com/video/m3u8/2021/12/19/441fddc5/index.m3u8
-JDMY039.克莱儿.囡囡第三十九集,https://t26.cdn2020.com/video/m3u8/2021/12/19/9259ce60/index.m3u8
-JDMY038.克莱儿.囡囡第三十八集,https://t26.cdn2020.com/video/m3u8/2021/12/19/85b73ec7/index.m3u8
 JDMY037.克莱儿.囡囡第三十七集,https://t26.cdn2020.com/video/m3u8/2021/12/14/6deb5e27/index.m3u8
-JDMY036.克莱儿.囡囡第三十六集,https://t26.cdn2020.com/video/m3u8/2021/12/10/39b594bd/index.m3u8
-JDMY035.克莱儿.囡囡第三十五集,https://t26.cdn2020.com/video/m3u8/2021/12/10/0f29209b/index.m3u8
-JDMY034.克莱儿.囡囡第三十四集,https://t26.cdn2020.com/video/m3u8/2021/12/05/c38ff0fd/index.m3u8
 JDMY033.克莱儿.囡囡第三十三集,https://t26.cdn2020.com/video/m3u8/2021/12/02/73485e7e/index.m3u8
 JDMY032.克莱儿.囡囡第三十二集,https://t26.cdn2020.com/video/m3u8/2021/11/28/f7c17431/index.m3u8
-JDMY031.克莱儿.囡囡第三十一集,https://t26.cdn2020.com/video/m3u8/2021/11/28/f7c17431/index.m3u8
 JDMY030.克莱儿.囡囡第三十集,https://t26.cdn2020.com/video/m3u8/2021/11/27/cbc20182/index.m3u8
 JDMY029.克莱儿.囡囡第二十九集,https://t26.cdn2020.com/video/m3u8/2021/11/25/7d85514a/index.m3u8
-JDMY028.克莱儿.囡囡第二十八集,https://t26.cdn2020.com/video/m3u8/2021/11/21/fcc81bf1/index.m3u8
 JDMY027.克莱儿.囡囡第二十七集,https://t26.cdn2020.com/video/m3u8/2021/11/19/ef05f977/index.m3u8
-JDMY026.克莱儿.囡囡第二十六集,https://t26.cdn2020.com/video/m3u8/2021/11/17/1ae40ede/index.m3u8
-JDMY025.克莱儿.囡囡第二十五集,https://t26.cdn2020.com/video/m3u8/2021/11/16/4c1fa607/index.m3u8
 JDMY024.克莱儿.囡囡第二十四集,https://t33.cdn2020.com/video/m3u8/2021/11/13/ed4c6a33/index.m3u8
 JDMY023.克莱儿.囡囡第二十三集,https://t33.cdn2020.com/video/m3u8/2021/11/11/ec12af90/index.m3u8
 JDMY022.克莱儿.囡囡第二十二集,https://t33.cdn2020.com/video/m3u8/2021/11/09/c0dcb681/index.m3u8
@@ -9598,16 +8849,6 @@ JDMY004.克莱儿.囡囡第四集,https://t33.cdn2020.com/video/m3u8/2021/10/06/
 JDMY003.克莱儿.囡囡第三集,https://t33.cdn2020.com/video/m3u8/2021/10/06/13668b7b/index.m3u8
 JDMY002.克莱儿.囡囡第二集,https://t33.cdn2020.com/video/m3u8/2021/10/06/0d5f47e6/index.m3u8
 JDMY001.克莱儿.囡囡第一集,https://t33.cdn2020.com/video/m3u8/2021/10/06/b9b4b9ff/index.m3u8
-JDQP010.仙儿媛.美足交惩罚变态邻居,https://t30.cdn2020.com/video/m3u8/2025/03/08/f35796de/index.m3u8
-JDQP009.黎芷媗.子心切子乱伦,https://t30.cdn2020.com/video/m3u8/2025/03/08/d884870e/index.m3u8
-JDQP008.优娜.欠干的小烧杯同事,https://t30.cdn2020.com/video/m3u8/2025/03/08/254aa38e/index.m3u8
-JDQP007.坏坏.路边搭讪的巨姑娘,https://t30.cdn2020.com/video/m3u8/2025/03/08/df70a392/index.m3u8
-JDQP006.斑斑.帮我追生的好可,https://t30.cdn2020.com/video/m3u8/2025/03/07/da7ee0ed/index.m3u8
-JDQP005.若雨.上班下班挨,https://t30.cdn2020.com/video/m3u8/2025/03/07/9648240f/index.m3u8
-JDQP004.彤彤.代替慰藉,https://t30.cdn2020.com/video/m3u8/2025/03/07/a0a3a581/index.m3u8
-JDQP003.王晓霞.痿治疗所,https://t30.cdn2020.com/video/m3u8/2025/03/06/ad99b77e/index.m3u8
-JDQP002.小宁.的玉腿,https://t30.cdn2020.com/video/m3u8/2025/03/06/ee9ed261/index.m3u8
-JDQP001.吴霜.轨的教师,https://t30.cdn2020.com/video/m3u8/2025/03/06/03e3eecb/index.m3u8
 JDYG033.COS娜美满足好宅心愿,https://t33.cdn2020.com/video/m3u8/2024/12/15/2cea7c37/index.m3u8
 JDYG032.看房反被房东上,https://t33.cdn2020.com/video/m3u8/2024/12/15/118eb404/index.m3u8
 JDYG031.隐形,https://t33.cdn2020.com/video/m3u8/2024/12/08/bac32dde/index.m3u8
@@ -9629,11 +8870,7 @@ JDYG013.我们三,https://t33.cdn2020.com/video/m3u8/2024/10/09/42d61165/index.m
 JDYG012.街头素采访.我可以去你家吗,https://t33.cdn2020.com/video/m3u8/2024/10/09/8fd6b488/index.m3u8
 JDYG009.波鬼的贱瑜伽,https://t33.cdn2020.com/video/m3u8/2024/09/22/6fb38eea/index.m3u8
 JDYG003.伦敦少遗失手机私影片流,https://t26.cdn2020.com/video/m3u8/2023/08/12/8883dc43/index.m3u8
-JDYG002.英国动漫少被亚洲小伙,https://t26.cdn2020.com/video/m3u8/2023/08/12/4a374dd5/index.m3u8
-JDYG001.无法抗拒的棍征服我小,https://t26.cdn2020.com/video/m3u8/2023/08/12/a2011fac/index.m3u8
 JDAM001.坏坏.AV片场的梳化,https://t33.cdn2020.com/video/m3u8/2022/10/13/6e9be138/index.m3u8
-JDKY002.萧悦儿.寂寞小姑的课后辅导,https://t26.cdn2020.com/video/m3u8/2022/02/14/d5b90b80/index.m3u8
-JDKY001.韩清怡.见起意继子后,https://t26.cdn2020.com/video/m3u8/2022/02/09/d8fbb79b/index.m3u8
 JDTC001.清洛.兼多职的美老师,https://t33.cdn2020.com/video/m3u8/2022/07/25/0e55c8ea/index.m3u8
 JDTC002.薛梦琪.网司机教学,https://t33.cdn2020.com/video/m3u8/2022/09/09/b77be1e0/index.m3u8
 JDTYC005.乐奈子.艺校美面试被浅规则,https://t33.cdn2020.com/video/m3u8/2022/08/25/12476903/index.m3u8
@@ -9651,43 +8888,24 @@ JDSY044.奈奈.实习医生被,https://t33.cdn2020.com/video/m3u8/2022/06/13/601
 JDSY043.Aida.拜金被相对像,https://t33.cdn2020.com/video/m3u8/2022/08/23/f5d14350/index.m3u8
 JDSY042.兔小白.天降喜乞丐少,https://t33.cdn2020.com/video/m3u8/2022/06/05/c1e5d4ca/index.m3u8
 JDSY041.安安.年轻少孕检被入,https://t26.cdn2020.com/video/m3u8/2022/06/02/e3191c48/index.m3u8
-JDSY040.夏夏.街拍素配对做,https://t26.cdn2020.com/video/m3u8/2022/05/31/c78fe487/index.m3u8
 JDSY039.米娅.摄影师骗模特,https://t26.cdn2020.com/video/m3u8/2022/05/28/8d443f13/index.m3u8
-JDSY038.米娅.高生胸家教,https://t26.cdn2020.com/video/m3u8/2022/05/26/024c4142/index.m3u8
-JDSY037.小影.老板设局上员工,https://t26.cdn2020.com/video/m3u8/2022/05/24/c1f3c8c8/index.m3u8
-JDSY036.笑笑.和表在网吧激做,https://t26.cdn2020.com/video/m3u8/2022/05/21/dc11d5ce/index.m3u8
-JDSY035.米娅.帽老公无能叫兄弟子,https://t26.cdn2020.com/video/m3u8/2022/05/19/89b92863/index.m3u8
-JDSY034.兔小白.荡后教学帮继子破处,https://t26.cdn2020.com/video/m3u8/2022/05/18/ea988fba/index.m3u8
 JDSY033.Aida.近相破处弟弟,https://t26.cdn2020.com/video/m3u8/2022/05/15/5986f55c/index.m3u8
 JDSY032.兔小白.商战之间谍,https://t26.cdn2020.com/video/m3u8/2022/05/13/80cc8789/index.m3u8
-JDSY031.香菱.禽兽老师上学生,https://t26.cdn2020.com/video/m3u8/2022/05/11/666d9735/index.m3u8
-JDSY030.丽.熏心硬上年轻保洁,https://t26.cdn2020.com/video/m3u8/2022/05/08/439774a3/index.m3u8
-JDSY029.肖云.新婚子被主管搞上床,https://t26.cdn2020.com/video/m3u8/2022/05/06/94d2f823/index.m3u8
-JDSY028.肖云.货,https://t26.cdn2020.com/video/m3u8/2022/05/11/6c85b07f/index.m3u8
 JDSY027.草莓.温柔家教帮学生破处,https://t26.cdn2020.com/video/m3u8/2022/05/24/5139eacc/index.m3u8
 JDSY026.咪.学生微信群里被叫卖,https://t26.cdn2020.com/video/m3u8/2022/05/01/b9247b21/index.m3u8
 JDSY025.妲己.老的瑜伽老师,https://t26.cdn2020.com/video/m3u8/2022/04/30/ca9976c1/index.m3u8
-JDSY024.墨涵.怒高傲高管,https://t26.cdn2020.com/video/m3u8/2022/04/27/cdd5464c/index.m3u8
-JDSY023.小影.老公不在家嫩乱伦小叔子,https://t26.cdn2020.com/video/m3u8/2022/04/26/731e91bc/index.m3u8
 JDSY022.林凤娇.叫叫到到高潮,https://t26.cdn2020.com/video/m3u8/2022/04/23/51fc91cb/index.m3u8
-JDSY021.邦妮.婿抓着巨上丈娘,https://t26.cdn2020.com/video/m3u8/2022/04/23/d9e30017/index.m3u8
 JDSY020.艾丽.子酒店同住乱伦,https://t26.cdn2020.com/video/m3u8/2022/04/21/4360cc43/index.m3u8
 JDSY019.邦妮.巨小安慰继子被哭,https://t26.cdn2020.com/video/m3u8/2022/04/20/a1bbdf54/index.m3u8
 JDSY018.艾咪.住家小保姆,https://t33.cdn2020.com/video/m3u8/2022/08/23/381928aa/index.m3u8
 JDSY017.杨思敏.帽老公看着我被小叔,https://t26.cdn2020.com/video/m3u8/2022/04/20/14c1b31e/index.m3u8
-JDSY016.凌雨萱.蛋糕店年轻老板娘,https://t26.cdn2020.com/video/m3u8/2022/04/17/f97f8254/index.m3u8
 JDSY015.妲己.微信到混血辣疯狂干,https://t26.cdn2020.com/video/m3u8/2022/04/15/545cb5ed/index.m3u8
-JDSY014.Aida.酒店X电工,https://t26.cdn2020.com/video/m3u8/2022/04/14/c9a2f0d7/index.m3u8
 JDSY013.妲己.香菱.特殊门诊两个医生,https://t26.cdn2020.com/video/m3u8/2022/04/03/448b3f4e/index.m3u8
 JDSY012.杨思敏.货车司机上年轻的小子,https://t26.cdn2020.com/video/m3u8/2022/04/03/0b71d8c3/index.m3u8
 JDSY011.菲菲.和健教练激换了好多姿势,https://t26.cdn2020.com/video/m3u8/2022/04/01/2ae4a79e/index.m3u8
-JDSY010.黏无套硬上哥,https://t26.cdn2020.com/video/m3u8/2022/03/31/b1c245fa/index.m3u8
 JDSY009.瑶瑶.被怒叛逆儿,https://t33.cdn2020.com/video/m3u8/2022/03/31/b0fe05e1/index.m3u8
 JDSY008.墨涵.寂寞小上受伤儿子,https://t26.cdn2020.com/video/m3u8/2022/03/29/dafb5a87/index.m3u8
-JDSY007.风小被下,https://t26.cdn2020.com/video/m3u8/2022/03/27/f84bd419/index.m3u8
-JDSY006.余丽.上门射基金经理,https://t26.cdn2020.com/video/m3u8/2022/03/26/c4ec6fd4/index.m3u8
 JDSY005.瑶贝.空调修理工清高少,https://t26.cdn2020.com/video/m3u8/2022/03/23/b53f6e6d/index.m3u8
-JDSY004..萧悦儿憨厚表哥被勾引,https://t26.cdn2020.com/video/m3u8/2022/03/20/6b798f23/index.m3u8
 JDSY003.丽纵小姑上快递员到高,https://t26.cdn2020.com/video/m3u8/2022/03/18/3b16fb87/index.m3u8
 JDY001.Rona.派遣按摩师的交易,https://t33.cdn2020.com/video/m3u8/2023/03/14/34bc3bf7/index.m3u8
 XKVP111.凌波丽.外卖员竟是学同学,https://t33.cdn2020.com/video/m3u8/2024/09/01/5fb10dda/index.m3u8
@@ -9704,50 +8922,24 @@ XKG040.真希波.酒店过夜硬上乱入美少,https://t33.cdn2020.com/video/m3
 XKG039.冬月结衣.与清纯家教的秘日语教学,https://t33.cdn2020.com/video/m3u8/2022/09/12/4e970d6c/index.m3u8
 XKG038.神谷怜.极品医生的特殊服务,https://t33.cdn2020.com/video/m3u8/2022/09/12/27dae2a6/index.m3u8
 XKG003.吴心语.极品在家轮流被,https://t26.cdn2020.com/video/m3u8/2022/04/15/26f1f9d2/index.m3u8
-XKG002.香菱.堕落成.给弟弟狂,https://t26.cdn2020.com/video/m3u8/2022/03/13/13a14734/index.m3u8
 XKG001.肖云.放纵.小叔小子,https://t26.cdn2020.com/video/m3u8/2022/03/12/49c4816b/index.m3u8
-XKGA042.小野.公公对症下治疗饥渴儿媳,https://t26.cdn2020.com/video/m3u8/2023/10/22/dfe0c109/index.m3u8
 XKGA041.梅子.垂涎已久的美室成为我下便器,https://t26.cdn2020.com/video/m3u8/2023/10/22/400d4724/index.m3u8
 XKGA040.昀希.哥哥对我的18岁成教育,https://t26.cdn2020.com/video/m3u8/2023/10/20/1ff06c9e/index.m3u8
-XKGA039.小野.为抵债JK生惨遭,https://t26.cdn2020.com/video/m3u8/2023/10/15/100c6341/index.m3u8
-XKGA038.乔乔.妙龄下属被上司狠狠入,https://t26.cdn2020.com/video/m3u8/2023/10/15/92243431/index.m3u8
-XKGA037.茉莉.对昏的制入治疗,https://t26.cdn2020.com/video/m3u8/2023/10/13/11338116/index.m3u8
 XKGA036.小琦.与寂寞少的深入交流二三事,https://t26.cdn2020.com/video/m3u8/2023/10/08/27e43ffe/index.m3u8
 XKGA035.湘湘.小侄诱导叔叔入自己,https://t26.cdn2020.com/video/m3u8/2023/10/08/c58a9171/index.m3u8
 XKGA034.宋可.真侣游戏.刺激贯彻到底,https://t26.cdn2020.com/video/m3u8/2023/10/08/3e7908f6/index.m3u8
 XKGA033.溏芯.痴榨游戏.食客,https://t26.cdn2020.com/video/m3u8/2023/10/02/1abf0538/index.m3u8
-XKGA032.柔伊.办公室严厉上司,https://t26.cdn2020.com/video/m3u8/2023/10/01/e1adbcf5/index.m3u8
-XKGA031.宋南伊.高冷班主任成为我的奴,https://t26.cdn2020.com/video/m3u8/2023/09/29/13a6d301/index.m3u8
-XKGA029.茉莉.替继被我双洞开发,https://t26.cdn2020.com/video/m3u8/2023/09/23/a20a0850/index.m3u8
-XKGA027.金铭.扑倒闺蜜吊直我的小,https://t26.cdn2020.com/video/m3u8/2023/09/17/e3fdf401/index.m3u8
 XKGA026.季妍希.与足球宝贝不断交合,https://t26.cdn2020.com/video/m3u8/2023/09/16/9735bb0e/index.m3u8
-XKGA025.香菱.KTV与娇小美纵射,https://t26.cdn2020.com/video/m3u8/2023/09/16/01855510/index.m3u8
 XKGA024.柔伊.用钱诱吃我的棒,https://t26.cdn2020.com/video/m3u8/2023/09/11/5e6eed68/index.m3u8
-XKGA023.宋可.老公的棒狠狠入我讨厌闺蜜的,https://t26.cdn2020.com/video/m3u8/2023/09/09/4083e608/index.m3u8
 XKGA022.季妍希.长腿兔郎牌桌诱我深入,https://t26.cdn2020.com/video/m3u8/2023/09/09/f45e6882/index.m3u8
-XKGA021.橙子.痴老师成家访,https://t26.cdn2020.com/video/m3u8/2023/09/03/a5d71ab6/index.m3u8
-XKGA020.欣欣.美护士自慰引诱病入,https://t26.cdn2020.com/video/m3u8/2023/09/02/51fa041e/index.m3u8
 XKGA019.白允儿.宅恐怖厕所之旅,https://t26.cdn2020.com/video/m3u8/2023/09/01/0515ca1e/index.m3u8
-XKGA018.橙子.猥琐公公杨花儿媳,https://t26.cdn2020.com/video/m3u8/2023/08/27/02ae317c/index.m3u8
 XKGA017.白允儿.模特写真实录,https://t26.cdn2020.com/video/m3u8/2023/08/25/4ac2b6bc/index.m3u8
-XKGA016.宋可.吃公公猛的不行干的高潮不断,https://t26.cdn2020.com/video/m3u8/2023/08/24/69361585/index.m3u8
 XKGA015.王程程.拍摄做视频送给老公做生日礼物,https://t26.cdn2020.com/video/m3u8/2023/08/21/59286a86/index.m3u8
-XKGA014.金铭.前闺蜜为了钱爬上我的床,https://t26.cdn2020.com/video/m3u8/2023/08/19/38d053e5/index.m3u8
 XKGA013.波妮.痴班长诱同学深入,https://t26.cdn2020.com/video/m3u8/2023/08/19/347334fe/index.m3u8
-XKGA012.白熙雨.在病床上了照顾我的护士,https://t26.cdn2020.com/video/m3u8/2023/08/13/f4e8dbd3/index.m3u8
 XKGA010.珠珠.瞒着备胎与疯狂做,https://t26.cdn2020.com/video/m3u8/2023/08/12/2c56d900/index.m3u8
-XKGA009.王心悦.秘书上位,https://t26.cdn2020.com/video/m3u8/2023/08/07/7f8c7baa/index.m3u8
-XKGA008.白婷婷.威胁蛇蝎少在我下呻吟,https://t26.cdn2020.com/video/m3u8/2023/08/05/2efe6cc4/index.m3u8
 XKGA007.桥本菜.重温白月光温暖紧,https://t26.cdn2020.com/video/m3u8/2023/08/05/e0f3f437/index.m3u8
-XKGA006.白熙雨.塞蛋高潮不止不断,https://t26.cdn2020.com/video/m3u8/2023/07/30/d5dfd5b2/index.m3u8
 XKGA005.李丹彤.无法满足的望少深夜墙,https://t26.cdn2020.com/video/m3u8/2023/07/28/e14503e4/index.m3u8
-XKGA004.花花.下上了隔壁可双马尾孩,https://t26.cdn2020.com/video/m3u8/2023/07/28/cc614c44/index.m3u8
-XKGA003.欣欣.温柔上司床上秒变气,https://t26.cdn2020.com/video/m3u8/2023/07/23/c8aef832/index.m3u8
 XKGA002.冬月结衣.极品萝莉超日系.日语家教发,https://t26.cdn2020.com/video/m3u8/2023/07/21/80c99da7/index.m3u8
-XKGA001.神谷伶.含棒的绝美医生,https://t26.cdn2020.com/video/m3u8/2023/07/19/02aad58e/index.m3u8
-XKTC105.喵喵.主播惨遭榜一哥暴力调教并射,https://t30.cdn2020.com/video/m3u8/2025/05/02/4aaa10ba/index.m3u8
-XKTC104.米菲兔.为了业绩销售用诱勾引我她的蜜,https://t30.cdn2020.com/video/m3u8/2025/05/02/e17ae87f/index.m3u8
-XKTC103.妮可.巨上门按摩,https://t30.cdn2020.com/video/m3u8/2025/05/03/772e888c/index.m3u8
 XKTC017.冰室梨花.唤醒失忆,https://t33.cdn2020.com/video/m3u8/2022/11/02/461bf32b/index.m3u8
 XKTC016.望月优奈.哥兽下纯,https://t33.cdn2020.com/video/m3u8/2022/10/22/bd436370/index.m3u8
 XKTC011.条莉.寂寞不已风丈娘勾引婿,https://t33.cdn2020.com/video/m3u8/2022/10/13/982fd8de/index.m3u8
@@ -9761,14 +8953,11 @@ XKTC004.樱桃.请兄弟嫖娼,https://t33.cdn2020.com/video/m3u8/2022/09/14/293
 XKTC003.橙子.校花神援交记,https://t33.cdn2020.com/video/m3u8/2022/09/09/c423fdde/index.m3u8
 XKTC002.汁汁.共享,https://t33.cdn2020.com/video/m3u8/2022/09/09/387aa899/index.m3u8
 XKTC001.李丹彤.的反转生.又到初恋,https://t33.cdn2020.com/video/m3u8/2022/09/09/29bb2acf/index.m3u8
-XKYP010.欣欣.错乱伦.小叔叔错嫖新姪,https://t30.cdn2020.com/video/m3u8/2025/05/25/5c6ea088/index.m3u8
 XKYP009.橙子.同学会我闻到了昔日班花上的荡气息,https://t33.cdn2020.com/video/m3u8/2022/09/09/b9546f7d/index.m3u8
 XKYP008.条莉.室的秘,https://t33.cdn2020.com/video/m3u8/2022/09/14/c298f6ea/index.m3u8
 XKYP006.樱井美里.差艳遇邂逅日本一夜,https://t33.cdn2020.com/video/m3u8/2022/08/14/93fa3aab/index.m3u8
 XKYP005.桥本菜.哟啪日本超甜豆,https://t33.cdn2020.com/video/m3u8/2022/08/14/641045db/index.m3u8
 XKYP003.香菱.啪刚下海的高生,https://t33.cdn2020.com/video/m3u8/2022/08/07/71d117cb/index.m3u8
-XKYP002.NicoLove妮可.调教极品美,https://t30.cdn2020.com/video/m3u8/2025/03/23/c6fb28bd/index.m3u8
-XKYP001.NicoLove妮可.OL反差上司,https://t30.cdn2020.com/video/m3u8/2025/03/23/3cf23001/index.m3u8
 PMD006.辉月杏梨.尾行调教实录,https://t33.cdn2020.com/video/m3u8/2021/11/13/3f7bdc89/index.m3u8
 PMD005.陈圆圆.暴我的一日.猥琐粉行入神,https://t33.cdn2020.com/video/m3u8/2021/09/19/dcc34cf0/index.m3u8
 PMD004.陈圆圆.粉突袭作战.突袭神解锁姿势,https://t33.cdn2020.com/video/m3u8/2021/10/02/0627c7b4/index.m3u8
@@ -9777,8 +8966,6 @@ PMD002.疫威胁,https://t33.cdn2020.com/video/m3u8/2021/04/27/fe45c812/index.m3
 PMD001.辉月杏梨.东京故事3.告白心动的他,https://t33.cdn2020.com/video/m3u8/2021/05/20/4c174c1d/index.m3u8
 PMD001.辉月杏梨.东京故事2.日本留学生的恋美梦,https://t33.cdn2020.com/video/m3u8/2021/05/02/b7c23a93/index.m3u8
 PMD001.辉月杏梨.东京故事.日本留学生的恋美梦,https://t33.cdn2020.com/video/m3u8/2021/03/22/765275bf/index.m3u8
-JDSY-550.Mily.越南继被国哥,https://t33.cdn2020.com/video/m3u8/2026/04/12/0fe95c81/index.m3u8
-JDSY-549.Hilly.桃按摩店白嫩泰骑乘位,https://t33.cdn2020.com/video/m3u8/2026/04/11/f0ed76db/index.m3u8
 JDSY-054.用安慰伤的,https://t33.cdn2020.com/video/m3u8/2024/08/06/f4be4622/index.m3u8
 JDSY-053.社畜叔偶遇神待少,https://t33.cdn2020.com/video/m3u8/2024/08/05/bf309d97/index.m3u8
 JDSY-052.陪玩小公主.陪玩陪吃陪打,https://t33.cdn2020.com/video/m3u8/2024/08/05/6a325b07/index.m3u8
@@ -9907,11 +9094,6 @@ JUL-087 今夜、僕レイコ,https://t33.cdn2020.com/video/m3u8/2022/10/15/fe56
 MIAB-556 帆,https://t33.cdn2020.com/video/m3u8/2025/10/31/f1ba7dbf/index.m3u8
 CAWD-871 オンナ 超イカセSEX！,https://t33.cdn2020.com/video/m3u8/2025/10/19/ea3dcf5f/index.m3u8
 MIDA-271 【女オ,https://t33.cdn2020.com/video/m3u8/2025/09/11/58f951a6/index.m3u8
-MIDA-156 「オッパなボ,https://t30.cdn2020.com/video/m3u8/2025/05/29/c80eabc3/index.m3u8
-SONE-724 七,https://t30.cdn2020.com/video/m3u8/2025/04/30/3ad467e6/index.m3u8
-MIDA-101 えっ精 石川澪,https://t30.cdn2020.com/video/m3u8/2025/04/07/cf702fc7/index.m3u8
-IPZZ-484 童貞レン,https://t30.cdn2020.com/video/m3u8/2025/02/23/4fd848f4/index.m3u8
-HMN-671 Pe 本田瞳,https://t30.cdn2020.com/video/m3u8/2025/02/16/7ba49a55/index.m3u8
 SONE-434 潮吹き女王くるHow to SEX,https://t33.cdn2020.com/video/m3u8/2025/10/03/046d1ce0/index.m3u8
 PRED-708 How t山岸あや花,https://t33.cdn2020.com/video/m3u8/2025/11/12/afeab6f8/index.m3u8
 IPZZ-677 手がカレン,https://t33.cdn2020.com/video/m3u8/2025/10/20/7c57d33a/index.m3u8
@@ -9920,7 +9102,6 @@ IPZZ-435 まくった,https://t33.cdn2020.com/video/m3u8/2025/09/16/71d96b7b/ind
 IPZZ-261 「奥さ員カレン,https://t33.cdn2020.com/video/m3u8/2026/02/12/cddf48c7/index.m3u8
 IPZZ-242 教育実習カレン,https://t33.cdn2020.com/video/m3u8/2026/02/16/8c54018a/index.m3u8
 IPZZ-170 楓カ再び。,https://t33.cdn2020.com/video/m3u8/2023/12/10/3e64a0c5/index.m3u8
-MIDA-039 楓カレンと女らSpecial,https://t30.cdn2020.com/video/m3u8/2025/03/03/71897af5/index.m3u8
 FSDSS-627 もっレモン,https://t33.cdn2020.com/video/m3u8/2023/08/01/933c4dee/index.m3u8
 FSDSS-615 彼女の姉田中レモン,https://t33.cdn2020.com/video/m3u8/2023/07/26/a8856101/index.m3u8
 FSDSS-610 最高レモン,https://t33.cdn2020.com/video/m3u8/2023/05/31/4350129f/index.m3u8
@@ -9930,7 +9111,6 @@ IPX-811 -媚薬 楓カレン,https://t33.cdn2020.com/video/m3u8/2022/02/17/5c7b1
 IPX-776 身代わレン,https://t33.cdn2020.com/video/m3u8/2022/01/13/190ebb5f/index.m3u8
 IPX-758 あなた楓カレン,https://t33.cdn2020.com/video/m3u8/2021/11/18/736df1f5/index.m3u8
 IPX-742 楓カンズエステ,https://t33.cdn2020.com/video/m3u8/2021/10/20/f38b7000/index.m3u8
-IPX-724 「私、したレン,https://t33.cdn2020.com/video/m3u8/2021/09/19/67ec453f/index.m3u8
 IPX-689 ぬほカレン,https://t33.cdn2020.com/video/m3u8/2021/08/09/cd3db9e3/index.m3u8
 IPX-673 純谷,https://t33.cdn2020.com/video/m3u8/2021/08/08/76107a8f/index.m3u8
 IPX-658 新 逆楓カレン,https://t33.cdn2020.com/video/m3u8/2026/01/31/2d9a5bbc/index.m3u8
@@ -9950,8 +9130,8 @@ IPX-320 絶頂84回！ランス絶頂FUCK 楓カレン,https://t33.cdn2020.com/v
 IPX-305 瞬ン 私がなかった…,https://t33.cdn2020.com/video/m3u8/2023/06/13/ebe93eb8/index.m3u8
 IPX-291 ピュア美少接吻とセックス 楓カレン,https://jkunnzyx.com/20230301/5KWwQUfH/hls/index.m3u8
 IPX-278 白衣の神対応然も！ 楓カレン,https://t33.cdn2020.com/video/m3u8/2019/07/24/4b2df664/index.m3u8
-IPX-235 FIRST IMPRES誕生― 楓カレン,https://t30.cdn2020.com/video/m3u8/2025/03/16/84469145/index.m3u8
 IPX-484 彼女 楓カレン,https://t33.cdn2020.com/video/m3u8/2023/06/24/ba6bd43c/index.m3u8
+
 JAV點播_169169,#genre#,DE=3
 10周年紀念特別篇著名演員,https://t33.cdn2020.com/video/m3u8/2024/10/03/922abb2b/index.m3u8
 18歲美少看似清純實際很蕩,https://t33.cdn2020.com/video/m3u8/2024/04/14/5f5c3a43/index.m3u8
