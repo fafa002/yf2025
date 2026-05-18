@@ -517,15 +517,8 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 无线新闻,https://flv-play.clouda.com/live/wxxw-VwZhG1x9hLCwReaguCg88TzThcD106VyDTku9beoGAAb1gQ0ls3pI6Mw9dGLnnXEdgTWcLV4l9rttWgKHUFeHEbb.flv
 TVB plus,https://flv-play.clouda.com/live/tvb-FprfdHRC4E2zEY1wj7Pb4QGnSbcnZQUmKI312vWZBCiYtgtDLOyBp99qnWsgOOpwzBS6GW0yVjbAPGcFvA6sbnc3.flv
 明珠台,https://flv-play.clouda.com/live/mz-0tSKiaEPCx5XFB8L59XI04UCPNTxbG3EFgRr2p3qKYurvOF5o3UDDSfQhxsJFN4aS9nz3Z1MvB7PTrJG4X6Bym52.flv
-无线新闻台,https://iptv.707626.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
-TVB plus,https://iptv.707626.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
-娱乐新闻台,https://iptv.707626.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
-星影台,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
-爆谷台,https://iptv.707626.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
-PopC,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
-功夫台,https://iptv.707626.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
-千禧经典台,https://iptv.707626.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
-星河频道,https://iptv.707626.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
+NOW星影台,rtmp://pushtx-live.genshuixue.com/live/xiangjiaoge-xy
+NOW爆谷台,rtmp://pushtx-live.genshuixue.com/live/xiangjiaoge-bg
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
@@ -685,9 +678,6 @@ TVBS,https://a3f1b2.kylintv.tv/live/tvbshd_iphone.m3u8
 民視,https://a3f1b2.kylintv.tv/live/formosatv_iphone.m3u8
 大愛一台,https://a3f1b2.kylintv.tv/live/daai_iphone.m3u8
 好消息2台,https://a3f1b2.kylintv.tv/live/gdtv2_iphone.m3u8
-
-中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
-台视,http://dbmlasvgas.sylu.cc:8880/stream/e307e16f-43bf-496f-9955-7440569a3e83/playlist.m3u8
 
 民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
