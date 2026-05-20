@@ -517,8 +517,8 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 无线新闻,https://flv-play.clouda.com/live/wxxw-VwZhG1x9hLCwReaguCg88TzThcD106VyDTku9beoGAAb1gQ0ls3pI6Mw9dGLnnXEdgTWcLV4l9rttWgKHUFeHEbb.flv
 TVB plus,https://flv-play.clouda.com/live/tvb-FprfdHRC4E2zEY1wj7Pb4QGnSbcnZQUmKI312vWZBCiYtgtDLOyBp99qnWsgOOpwzBS6GW0yVjbAPGcFvA6sbnc3.flv
 明珠台,https://flv-play.clouda.com/live/mz-0tSKiaEPCx5XFB8L59XI04UCPNTxbG3EFgRr2p3qKYurvOF5o3UDDSfQhxsJFN4aS9nz3Z1MvB7PTrJG4X6Bym52.flv
-NOW星影台,rtmp://digital-live-push.zegonetwork.com/live/xiangjiaoge-xy
-NOW爆谷台,rtmp://digital-live-push.zegonetwork.com/live/xiangjiaoge-bg
+NOW星影台,rtmp://digital-live-pull.zegonetwork.com/live/xiangjiaoge-xy
+NOW爆谷台,rtmp://digital-live-pull.zegonetwork.com/live/xiangjiaoge-bg
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
@@ -639,7 +639,7 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 
 四季台湾,#genre#
 中天新闻,rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
-中天新闻,rtmp://digital-live-push.zegonetwork.com/live/nb-py-ztxw
+中天新闻,rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
 中天新闻(备),http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
 TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
