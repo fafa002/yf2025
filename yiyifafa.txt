@@ -559,10 +559,8 @@ NOW体育6,http://206.212.246.239/live/Cori/123456/236725.m3u8
 NOW体育7,http://206.212.246.239/live/Cori/123456/236726.m3u8
 NOW体育精选,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/313830.m3u8
 NOW体育4K 1,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/641325.m3u8
-NOW体育4K 1 粤语,http://154.222.16.140:9999/2746691
 NOW英超 TV,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/313829.m3u8
 NOW英超1,http://206.212.246.239/live/Cori/123456/236727.m3u8
-NOW英超1粤语,http://154.222.16.140:9999/2746690
 NOW英超2,http://206.212.246.239/live/Cori/123456/236728.m3u8
 NOW英超3,http://206.212.246.239/live/Cori/123456/236729.m3u8
 NOW英超4,http://206.212.246.239/live/Cori/123456/236730.m3u8
