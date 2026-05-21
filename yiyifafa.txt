@@ -530,14 +530,15 @@ NOW 618,http://mxint00.palior.com:8888/3
 NOW 641,http://mxint00.palior.com:8888/6
 NOW 4K1,http://mxint00.palior.com:8888/2
 
-now sports2,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
-now sports3,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
-now sports4,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
-now sports5,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
-now sports6,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
-now sports7,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
-now sports8,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
-now sports9,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748438.m3u8
+NOW sports1,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748430.m3u8
+NOW sports2,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
+NOW sports3,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
+NOW sports4,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
+NOW sports5,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
+NOW sports6,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
+NOW sports7,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
+NOW sports8,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
+NOW sports9,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748438.m3u8
 
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
