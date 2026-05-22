@@ -683,6 +683,16 @@ DAZN-体育,rtmp://f13h.mine.nu/sat/tv731
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv741
 momo'tv,rtmp://f13h.mine.nu/sat/tv761
 
+TVB新闻,https://3ea9e6-31f5e6.kylintv.tv/live/tvbnews_iphone.m3u8
+莲花卫视,https://3ea9e6-31f5e6.kylintv.tv/live/lotustv_iphone.m3u8
+TVBS电视台https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8
+中天新闻,https://3ea9e6-31f5e6.kylintv.tv/live/cti_iphone.m3u8
+大爱电视,https://3ea9e6-31f5e6.kylintv.tv/live/daai_iphone.m3u8
+东森综合,https://3ea9e6-31f5e6.kylintv.tv/live/ebcvtv_iphone.m3u8
+好消息2,https://3ea9e6-31f5e6.kylintv.tv/live/gdtv2_iphone.m3u8
+华视,https://3ea9e6-31f5e6.kylintv.tv/live/ctshd_iphone.m3u8
+民视,https://3ea9e6-31f5e6.kylintv.tv/live/formosatv_iphone.m3u8
+
 民视影剧台,https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 公视戏剧,https://cdn12.178.indevs.in/163189/2973b910e7719c08
 采昌影剧台,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
