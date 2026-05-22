@@ -3907,6 +3907,25 @@ CCTV-卫生健康,http://198.204.228.26/live/wsjk.m3u8
 林正英影院,http://198.204.228.26/live/lblzy.m3u8
 
 央视频5,#genre#,DE=3
+CCTV1-1,http://101.42.182.75/tv?id=CCTV1&token=88889
+CCTV1-2,http://101.42.182.75/tv?id=CCTV2&token=88889
+CCTV1-3,http://101.42.182.75/tv?id=CCTV3&token=88889
+CCTV1-4,http://101.42.182.75/tv?id=CCTV4&token=88889
+CCTV1-5,http://101.42.182.75/tv?id=CCTV5&token=88889
+CCTV1-6,http://101.42.182.75/tv?id=CCTV6&token=88889
+CCTV1-7,http://101.42.182.75/tv?id=CCTV7&token=88889
+CCTV1-8,http://101.42.182.75/tv?id=CCTV8&token=88889
+CCTV1-9,http://101.42.182.75/tv?id=CCTV9&token=88889
+CCTV1-10,http://101.42.182.75/tv?id=CCTV10&token=88889
+CCTV1-11,http://101.42.182.75/tv?id=CCTV11&token=88889
+CCTV1-12,http://101.42.182.75/tv?id=CCTV12&token=88889
+CCTV1-13,http://101.42.182.75/tv?id=CCTV13&token=88889
+CCTV1-14,http://101.42.182.75/tv?id=CCTV14&token=88889
+CCTV1-15,http://101.42.182.75/tv?id=CCTV15&token=88889
+CCTV1-16,http://101.42.182.75/tv?id=CCTV16&token=88889
+CCTV1-17,http://101.42.182.75/tv?id=CCTV17&token=88889
+CCTV1-5+,http://101.42.182.75/tv?id=CCTV5P&token=88889
+
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
