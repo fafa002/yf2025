@@ -749,7 +749,7 @@ E1i-Fun動漫台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv15&token=https:/
 好消息2台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv17&token=https://t.me/GPT_858
 半島國際新聞台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv10&token=https://t.me/GPT_858
 
-8528极速,#genre#
+8528极速(挂梯子),#genre#
 功夫台,https://iptv.852851.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
 千禧經典台,https://iptv.852851.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
 娛樂新聞台,https://iptv.852851.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
@@ -1521,7 +1521,7 @@ KITV-TV ABC 4 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rU
 KGMB-TV CBS 5 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89530.ts
 KHNL-TV NBC 13 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89532.ts
 
-日本,#genre# 
+日本(挂梯子),#genre# 
 NHK G HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 NHK E HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
 NTV HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
