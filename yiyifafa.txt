@@ -1716,18 +1716,6 @@ DV现场,http://cfss.cc/cdn/dy/gdtvdvxc.flv
 财联社,http://cfss.cc/cdn/dy/clscccaijing.flv
 小强热线浙江教科,http://cfss.cc/cdn/dy/ZTV4.flv
 
-好听老歌（24小时听歌),http://live.iill.top/douyin/sS5.zZ2.0Oo1
-好听音乐（24小时音乐）,http://live.iill.top/douyin/73840102937
-24小时音乐,http://live.iill.top/douyin/11810687
-经典老歌70.80.90.,http://live.iill.top/douyin/dyv9sncck3z4
-南一FM,http://live.iill.top/douyin/nanyiFM
-若初FM,http://live.iill.top/douyin/4357638866.
-岁月歌单（24h听歌）,http://live.iill.top/douyin/O0oZ2z.8Bbl1IS5s
-我是海燕FM,http://live.iill.top/douyin/22930066273
-汐汐🎙音乐FM,http://live.iill.top/douyin/21601585217
-辰辰🎧音乐FM,http://live.iill.top/douyin/291881148
-安然音乐,http://live.iill.top/douyin/887483788
-
 广东本地,#genre#,DE=3
 盗源狗si全家 全家下地狱
 大湾区卫视,http://119.123.78.80:8086/hls/29/index.m3u8
@@ -1847,11 +1835,6 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 广东荔枝网,#genre#,DE=3
 盗源狗si全家 全家下地狱
-广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
-广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
-大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
-广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
-
 广东珠江3,http://m.061899.xyz/mg/gdzj
 广东新闻,http://m.061899.xyz/mg/gdxw
 广东民生2,http://m.061899.xyz/mg/gdms
@@ -1889,6 +1872,8 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 盗源狗si全家 全家下地狱
 广东珠江,http://8.138.7.223/tv/gdzj.m3u8
 大湾区卫视,http://8.138.7.223/tv/dwq.m3u8
+广东珠江频道,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8
+广东大湾区卫视,http://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8
 
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
 广东影视,http://go.bkpcp.top/mg/gdys
