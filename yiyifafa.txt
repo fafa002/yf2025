@@ -704,98 +704,154 @@ DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 金光布袋戏,https://cdn12.178.indevs.in/163189/5479c245d9d580b5
 
 四季台湾2,#genre#
-民視第一台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv003&token=https://t.me/GPT_858
-民視台灣台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv001&token=https://t.me/GPT_858
-中視,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
-華視,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv041&token=https://t.me/GPT_858
-客家電視台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv043&token=https://t.me/GPT_858
-八大綜藝台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv039&token=https://t.me/GPT_858
-愛爾達娛樂台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv070&token=https://t.me/GPT_858
-靖天綜合台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv046&token=https://t.me/GPT_858
-靖天日本台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv047&token=https://t.me/GPT_858
-阿里郎頻道,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv079&token=https://t.me/GPT_858
-達文西頻道,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv018&token=https://t.me/GPT_858
-靖天卡通台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv044&token=https://t.me/GPT_858
-靖洋卡通,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv057&token=https://t.me/GPT_858
-E1i-Fun動漫台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv15&token=https://t.me/GPT_858
-東森新聞台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv152&token=https://t.me/GPT_858
-華視新聞,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv052&token=https://t.me/GPT_858
-民視新聞台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv13&token=https://t.me/GPT_858
-東森財經新聞台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv153&token=https://t.me/GPT_858
-中視新聞,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
-中天新聞台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
-寰宇新聞台,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
-民視綜藝台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv004&token=https://t.me/GPT_858
-豬哥亮歌廳秀,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
-靖天育樂台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv062&token=https://t.me/GPT_858
-靖天國際台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv063&token=https://t.me/GPT_858
-靖天歡樂台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv054&token=https://t.me/GPT_858
-靖天資訊台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
-古典樂,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv059&token=https://t.me/GPT_858
-智林體育台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv101&token=https://t.me/GPT_858
-時尚運動,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv014&token=https://t.me/GPT_858
-民視旅遊台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv07&token=https://t.me/GPT_858
-環遊旅行家,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv016&token=https://t.me/GPT_858
-公視戲劇,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv042&token=https://t.me/GPT_858
-民視影劇台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv09&token=https://t.me/GPT_858
-八大精彩台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv034&token=https://t.me/GPT_858
-靖天戲劇台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858
-靖洋戲劇台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv045&token=https://t.me/GPT_858
-視納華仁紀實頻道,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv013&token=https://t.me/GPT_858
-采昌影劇台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv049&token=https://t.me/GPT_858
-靖天映畫,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
-靖天電影台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv061&token=https://t.me/GPT_858
-影迷數位電影台,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv011&token=https://t.me/GPT_858
-好消息2台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv17&token=https://t.me/GPT_858
-半島國際新聞台,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv10&token=https://t.me/GPT_858
+4gtv,#genre#
+民視第一台,https://4gtv.158.qzz.io/163189/57170774-ef9b-4091-94fb-55f6faf13691/
+民視第一台,https://4gtv.158.qzz.io/163189/4e693d45-7ab4-4894-a983-fb494ad9a0f7/
+民視第一台,https://4gtv.158.qzz.io/163189/371b5477-368d-43c5-ad69-f8b56c40c6ca/
+民視台灣台,https://4gtv.158.qzz.io/163189/aecbd4e5-757e-45e7-a3a7-33f83efc98a5/
+民視台灣台,https://4gtv.158.qzz.io/163189/73c6ffb5-cddd-4b68-bf4b-7083fd5c08d3/
+民視台灣台,https://4gtv.158.qzz.io/163189/e75ce7b6-beac-42b9-bb54-798f21e20a00/
+民視,https://4gtv.158.qzz.io/163189/83f24df6-a3d3-41c2-a66b-f5f0ef081cdc/
+民視,https://4gtv.158.qzz.io/163189/98cda848-bb98-4632-87ed-d3b69d7a4f43/
+民視,https://4gtv.158.qzz.io/163189/faa1b685-2fd0-4c9b-b5a7-385befd8c1a4/
+大愛電視,https://4gtv.158.qzz.io/163189/36587122-152c-451b-9d6b-83a856574489/
+中視,https://4gtv.158.qzz.io/163189/430fbb09-b79e-42ca-9cf4-b67f83b4eaf6/
+華視,https://4gtv.158.qzz.io/163189/b6656a22-9521-40ee-85d5-d4bee1560858/
+三立綜合台,https://4gtv.158.qzz.io/163189/3d610e6d-aa4f-48bf-8516-eb823977d10f/
+客家電視台,https://4gtv.158.qzz.io/163189/97058609-f76d-4885-877b-8e99dcc05e84/
+八大綜藝台,https://4gtv.158.qzz.io/163189/d8836828-137d-48d3-8c54-8291eedd9c9a/
+八大綜藝台,https://4gtv.158.qzz.io/163189/8e8c7f99-29ad-4985-aa5a-b46b77dfd004/
+TVBS精采台,https://4gtv.158.qzz.io/163189/acd6cbf9-8405-49c0-bf37-f7c620ccc391/
+愛爾達寵物運動台,https://4gtv.158.qzz.io/163189/c21507f6-d50c-4dc2-9133-2bf9dd7ac0e2/
+靖天綜合台,https://4gtv.158.qzz.io/163189/46bac370-f61c-446e-8eed-9b67ec322064/
+靖天日本台,https://4gtv.158.qzz.io/163189/9f56958f-4a50-4fc6-9407-a7e8b23a34e0/
+ARIRANG阿里郎頻道,https://4gtv.158.qzz.io/163189/d839706e-fb42-46f4-9af9-b72dd8970665/
+Global Trekker,https://4gtv.158.qzz.io/163189/015d1d60-bca6-4930-af84-2c825eeeb960/
+原住民族電視台,https://4gtv.158.qzz.io/163189/8e9f9872-a1f1-4276-a6ce-12a630f96f4c/
+東森購物四台,https://4gtv.158.qzz.io/163189/bae65350-95a7-4551-898e-a34943d27ff1/
+LiveABC互動英語頻道,https://4gtv.158.qzz.io/163189/bf42dc19-2471-49cf-9176-408204dae893/
+達文西頻道,https://4gtv.158.qzz.io/163189/dca116e2-20c9-405a-9d98-99eab80821aa/
+ELTV生活英語台,https://4gtv.158.qzz.io/163189/0b942ba0-d954-4863-a7ff-82d05e7aede4/
+Nick Jr. 兒童頻道,https://4gtv.158.qzz.io/163189/9b83d9e3-c78d-406f-9437-dbca99af27fb/
+尼克兒童頻道,https://4gtv.158.qzz.io/163189/f95b1f70-493b-49ed-8e36-e3d4ba58b891/
+DreamWorks 夢工廠動畫,https://4gtv.158.qzz.io/163189/cb8de1e9-bd8e-4231-a4e3-bcb6b084b683/
+靖天卡通台,https://4gtv.158.qzz.io/163189/1692dd72-f823-4fb6-9ffa-683037f8fe98/
+靖洋卡通Nice Bingo,https://4gtv.158.qzz.io/163189/0e3c076d-4821-4417-bb62-903988847011/
+MOMO親子台,https://4gtv.158.qzz.io/163189/4e7af03f-ef5e-4a0b-a2ef-0cb6a51351a9/
+東森購物一台,https://4gtv.158.qzz.io/163189/bf5d92e4-dd35-43b9-9e42-26bcd5684184/
+鏡電視新聞台,https://4gtv.158.qzz.io/163189/cd3d7097-895c-47c8-8b43-4d22e758cf55/
+東森新聞台,https://4gtv.158.qzz.io/163189/98256d48-5a4f-4bd8-a5fe-d4abf0027819/
+東森新聞台,https://4gtv.158.qzz.io/163189/dfc3ed8e-8cf6-451f-b6d2-b2e00d190b9f/
+華視新聞,https://4gtv.158.qzz.io/163189/5570e8fd-69cc-43ad-8de6-e1ac63895bd4/
+華視新聞,https://4gtv.158.qzz.io/163189/5e7d363e-59f1-4c46-84e4-7b4c4774d7ba/
+民視新聞台,https://4gtv.158.qzz.io/163189/ca241422-9067-424c-bbd7-9aab4a6a39b0/
+民視新聞台,https://4gtv.158.qzz.io/163189/23cdb7e8-e336-4e46-955e-a14654148f1d/
+民視新聞台,https://4gtv.158.qzz.io/163189/4bf91164-f334-4d42-88b9-fc15662dd11d/
+三立新聞iNEWS,https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
+TVBS新聞,https://4gtv.158.qzz.io/163189/c8e17fe8-dcc5-426b-ae9a-a898fe305d30/
+TVBS新聞,https://4gtv.158.qzz.io/163189/59c88c85-193e-4be8-a7ed-6e225192abf1/
+東森財經新聞台,https://4gtv.158.qzz.io/163189/15801af6-42b5-47b0-9c68-908ce9d1ae29/
+東森財經新聞台,https://4gtv.158.qzz.io/163189/87a8d376-80a1-4f5a-9c3f-b415e3feb689/
+中視新聞,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
+中視新聞,https://4gtv.158.qzz.io/163189/7a579ec9-d021-47f3-8ae0-756db38c4d63/
+中天新聞台,https://4gtv.158.qzz.io/163189/612531e0-184b-40f1-b9ec-8157d4c44935/
+中天新聞台,https://4gtv.158.qzz.io/163189/61385f10-c9c1-448d-94ef-91b18d1849cf/
+Bloomberg TV,https://4gtv.158.qzz.io/163189/0757afc8-8e51-42fd-b9b8-18c01e0a270d/
+寰宇新聞台,https://4gtv.158.qzz.io/163189/36b214e7-fc2f-4402-b16f-bebe0ef9c1be/
+寰宇新聞台,https://4gtv.158.qzz.io/163189/7ee7e1f5-edc1-4181-9038-140e768a17d1/
+寰宇新聞台灣台,https://4gtv.158.qzz.io/163189/ca41743f-7a1b-4040-872a-bc8c26229a4f/
+SBN全球財經台,https://4gtv.158.qzz.io/163189/3fc0661e-19b5-4fa7-9120-f70cb5554945/
+TVBS,https://4gtv.158.qzz.io/163189/5c95e227-8109-4d5a-ad31-a5456eeba506/
+TVBS,https://4gtv.158.qzz.io/163189/ac9fc30c-1caf-401e-a373-9a8cc054b527/
+東森購物二台,https://4gtv.158.qzz.io/163189/8fd3115b-b8ac-41f2-be29-15f0df2c1799/
+民視綜藝台,https://4gtv.158.qzz.io/163189/41a2c075-fa1f-43b5-acfd-ea3be3f317db/
+豬哥亮歌廳秀,https://4gtv.158.qzz.io/163189/b0f042ad-8b42-4a86-b8ab-266988e66c93/
+靖天育樂台,https://4gtv.158.qzz.io/163189/74d22190-85b7-4309-8772-691535d0b97b/
+KLT-靖天國際台,https://4gtv.158.qzz.io/163189/a122b888-3eec-48da-ba4a-5ddea680d35a/
+Nice TV 靖天歡樂台,https://4gtv.158.qzz.io/163189/b896f891-31c2-42d1-9760-78a5b4c99934/
+靖天資訊台,https://4gtv.158.qzz.io/163189/0600b6ab-9b6a-4a64-836b-2f981cdd010e/
+TVBS歡樂台,https://4gtv.158.qzz.io/163189/1e0bdf17-436e-40d9-b442-ca3e2bf3d1db/
+韓國娛樂台 KMTV,https://4gtv.158.qzz.io/163189/ecc7bca0-5f78-4a1b-aeee-0c7957aa9f66/
+ROCK Entertainment,https://4gtv.158.qzz.io/163189/4ac19df8-b33e-4599-842e-ff4e2b8a6ec1/
+Lifetime 娛樂頻道,https://4gtv.158.qzz.io/163189/df9bc57b-b797-4ed4-bf25-d2e8b6064d74/
+電影原聲台CMusic,https://4gtv.158.qzz.io/163189/555e3c58-571d-4752-84a1-2ec96d89999f/
+TRACE Urban,https://4gtv.158.qzz.io/163189/a895ffaa-939e-461e-b1fb-0364b0cbc223/
+Mezzo Live HD,https://4gtv.158.qzz.io/163189/c1f05c7f-f387-44dd-a343-271eefb19aab/
+CLASSICA 古典樂,https://4gtv.158.qzz.io/163189/0e1292cf-b6be-49e7-821b-8135daf6832f/
+東森購物三台,https://4gtv.158.qzz.io/163189/87fbff72-61a6-4576-a520-8ac51a8ccf00/
+INULTRA,https://4gtv.158.qzz.io/163189/e03b2084-716c-4239-a6ae-c745a3a8aa41/
+博斯高球台,https://4gtv.158.qzz.io/163189/abd439e4-dbf9-4294-a540-ce42b089b8b9/
+博斯高球台,https://4gtv.158.qzz.io/163189/cdf9b2f5-4789-4931-9ef9-30236288ca67/
+博斯高球二台,https://4gtv.158.qzz.io/163189/ecb429b0-2fda-4201-9239-9ccd3e03ca42/
+博斯運動一台,https://4gtv.158.qzz.io/163189/8fcf856e-8f25-4978-b533-43b9d1a391a9/
+博斯運動一台,https://4gtv.158.qzz.io/163189/9699d3e0-6f00-408d-ab5c-51b740e5333e/
+博斯無限台,https://4gtv.158.qzz.io/163189/a5c966b1-71c5-4cc1-9914-2d31bb8a8297/
+博斯無限台,https://4gtv.158.qzz.io/163189/a4af1efe-44d4-40b0-b2ac-2a3147f19be8/
+博斯網球台,https://4gtv.158.qzz.io/163189/a4c8fc3a-73a0-4fe6-a64f-f05ec19c7dad/
+博斯網球台,https://4gtv.158.qzz.io/163189/0921b1fa-61de-40ec-96b4-f9d0b1b70883/
+博斯運動二台,https://4gtv.158.qzz.io/163189/b95916c7-8bbb-49db-8b21-bef27dd6b994/
+博斯魅力台,https://4gtv.158.qzz.io/163189/51f4f51e-e740-4803-b751-6a30a46d42db/
+博斯無限二台,https://4gtv.158.qzz.io/163189/dc6bd7bf-d963-4e08-9ef9-2163d52d2f43/
+TRACE Sport Stars,https://4gtv.158.qzz.io/163189/f3a40fec-20a4-4217-bb52-a4dccb029c22/
+智林體育台,https://4gtv.158.qzz.io/163189/4686f6c9-b849-408e-9936-5cab41fc07fa/
+時尚運動X,https://4gtv.158.qzz.io/163189/cf7ef929-0f52-4a1d-96e9-a2640f8d8825/
+時尚運動X,https://4gtv.158.qzz.io/163189/469d850c-12ba-4454-b2c6-0e7f7fc5f974/
+車迷TV,https://4gtv.158.qzz.io/163189/2e5865de-67f5-475c-a7de-ae2ab12cc596/
+GINX Esports TV,https://4gtv.158.qzz.io/163189/b57bad74-0361-4522-8475-11ef84dffa99/
+Pet Club TV,https://4gtv.158.qzz.io/163189/122a233e-4a47-4518-8384-f60f8d46966f/
+民視旅遊台,https://4gtv.158.qzz.io/163189/d1b273d2-cec3-4526-aadf-aefcea29787f/
+滾動力rollor,https://4gtv.158.qzz.io/163189/f5871ebf-9d94-4e72-bb2a-2b8f55bcab3e/
+亞洲旅遊台,https://4gtv.158.qzz.io/163189/2e3ba7b4-9e33-4bda-acd2-b65b45f9cfc2/
+亞洲旅遊台,https://4gtv.158.qzz.io/163189/9d3f4fa7-11b2-4d24-82d9-cfdc4f2eb787/
+fun探索娛樂台,https://4gtv.158.qzz.io/163189/d14bf1ef-ee2c-4644-bac4-dc635ac77efd/
+幸福空間居家台,https://4gtv.158.qzz.io/163189/0486c120-e05f-4d74-8689-047735930777/
+Love Nature,https://4gtv.158.qzz.io/163189/0ca25d44-a9ea-4d65-b4fb-74fb1a66b5d4/
+History 歷史頻道,https://4gtv.158.qzz.io/163189/598ae4db-7b05-4f78-824c-59702a66a3d6/
+愛爾達生活旅遊台,https://4gtv.158.qzz.io/163189/21bed47a-8701-4eda-b4de-aa0ef278ec7d/
+LUXE TV Channel,https://4gtv.158.qzz.io/163189/fa5afe6f-de73-4d79-ac14-7b75a387a59d/
+TV5MONDE STYLE HD 生活時尚,https://4gtv.158.qzz.io/163189/694746ef-6221-4f8f-a689-a28cb15ae03e/
+MagellanTV頻道 (麥哲倫頻道),https://4gtv.158.qzz.io/163189/3b0e6050-85e3-456f-9f52-98a4af034e01/
+ROCK Xstream搖滾極限頻道,https://4gtv.158.qzz.io/163189/8715001f-bde9-490d-ba8a-6005efa818d3/
+公視戲劇,https://4gtv.158.qzz.io/163189/cf75a2db-204c-4d68-a959-fd49f0c5f6ad/
+民視影劇台,https://4gtv.158.qzz.io/163189/1bdede17-7384-47ca-9474-67137cd4f62c/
+HITS頻道,https://4gtv.158.qzz.io/163189/3b4c04e4-dce7-4082-9954-22281734ebb0/
+八大精彩台,https://4gtv.158.qzz.io/163189/d1238afb-3506-40c4-ae8b-75778230b243/
+靖天戲劇台,https://4gtv.158.qzz.io/163189/cb08ca08-c955-4719-a594-f145c78c9209/
+靖洋戲劇台,https://4gtv.158.qzz.io/163189/92b87e73-d494-48ec-8a2e-776c952a248e/
+CI 罪案偵查頻道,https://4gtv.158.qzz.io/163189/21d72a62-e813-4e43-add1-ecdbffdb8c17/
+視納華仁紀實頻道,https://4gtv.158.qzz.io/163189/4ef238ec-f098-4d4e-9d00-c07045116137/
+影迷數位紀實台,https://4gtv.158.qzz.io/163189/509503ab-8f6e-46ea-ae92-babebc53c591/
+金光布袋戲,https://4gtv.158.qzz.io/163189/f0f186fc-6537-4e82-bdb2-d4f63ff42eea/
+ROCK Action,https://4gtv.158.qzz.io/163189/5580f139-0755-47fe-8321-2a5750977b97/
+GagaOOLala 精選LGBTQ+好劇,https://4gtv.158.qzz.io/163189/55f528c6-f68b-4a20-b893-2c88ce9883f1/
+采昌影劇台,https://4gtv.158.qzz.io/163189/7a4d9a2d-2421-4f95-8d63-1b6f2dbd830a/
+靖天映畫,https://4gtv.158.qzz.io/163189/5c69ffac-f232-47eb-b15e-6f8a0caeaa6c/
+靖天電影台,https://4gtv.158.qzz.io/163189/ac91480e-8572-41b6-af5d-2421f2bf0d78/
+影迷數位電影台,https://4gtv.158.qzz.io/163189/f52c1c46-267d-465d-b78c-0a89d6e47178/
+amc電影台,https://4gtv.158.qzz.io/163189/516897fd-240f-4633-83ae-525f55275205/
+CinemaWorld,https://4gtv.158.qzz.io/163189/5347a3c7-230e-4685-b140-c2fa30672ed2/
+My Cinema Europe HD 我的歐洲電影,https://4gtv.158.qzz.io/163189/f5d645fe-d9c3-4062-a818-4d95b0588c3e/
+好消息,https://4gtv.158.qzz.io/163189/1fcde3a2-01b9-47af-b06e-7cce3647be3a/
+好消息2台,https://4gtv.158.qzz.io/163189/8cf4824b-f4b5-474d-b968-bbdce11feeb7/
+大愛二台,https://4gtv.158.qzz.io/163189/ceba680a-2d6c-4279-b623-b971c2e7eda4/
+人間衛視,https://4gtv.158.qzz.io/163189/3c3bab19-4fe1-47b0-accf-4911d65dc9d0/
+NHK WORLD-JAPAN,https://4gtv.158.qzz.io/163189/d1000134-2b98-4444-ac82-43d0473c46ba/
+FRANCE24 英文台,https://4gtv.158.qzz.io/163189/3d06a384-6fd8-455d-8de3-6d95bba222f5/
+半島國際新聞台,https://4gtv.158.qzz.io/163189/98ac1e27-b5c4-48f4-a99d-22b3fab9c29d/
+CNBC Asia 財經台,https://4gtv.158.qzz.io/163189/8d5dc8c4-b71e-4986-94aa-e3e4d65ef723/
+DW德國之聲,https://4gtv.158.qzz.io/163189/fc475089-9d02-4d07-baa1-5c39ed853a55/
+香蕉直擊台,https://4gtv.158.qzz.io/163189/8fcd5a34-76d5-4509-a33a-e600038715a5/
+芭樂直擊台,https://4gtv.158.qzz.io/163189/214de3ea-a923-40c7-9e0b-54034f691166/
+國會頻道1,https://4gtv.158.qzz.io/163189/8b766d3b-3d85-4630-80a3-d05ec3a53274/
+國會頻道2,https://4gtv.158.qzz.io/163189/aa0262cf-8fe7-475e-9517-6b4659bfbd44/
+TVBS綜藝台,https://4gtv.158.qzz.io/163189/c51c7491-9544-4c60-8a52-561bb11d4c7f/
+TVBS台劇台,https://4gtv.158.qzz.io/163189/a5943c7d-606d-495c-89c3-17a678a35207/
+經典電影台,https://4gtv.158.qzz.io/163189/e792dce9-ee6d-45bf-9b52-a7c8df7f4a4b/
+經典卡通台,https://4gtv.158.qzz.io/163189/a895102c-0b07-4a3c-9613-f719f2ae8817/
+精選動漫台,https://4gtv.158.qzz.io/163189/14f62d29-bba5-4a45-8e3a-956b2dcc5bf2/
 
 8528极速(挂梯子),#genre#
-功夫台,https://iptv.852851.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
-千禧經典台,https://iptv.852851.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
-娛樂新聞台,https://iptv.852851.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
-年代新闻,https://iptv.852851.xyz/ch/f92bee3f634772070bc7e3b4b6e5909b/master.m3u8
-戲曲台,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u8
-星河頻道,https://iptv.852851.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
-無綫新聞台,https://iptv.852851.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
-美亞電影台,https://iptv.852851.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
-翡翠台,https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
-鳳凰衛視中文台,https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
-鳳凰衛視資訊台,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
-鳳凰衛視香港台,https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
-黃金華劇台,https://iptv.852851.xyz/ch/bcc1153e60543383e03929cf124bc34c/master.m3u8
-龙祥时代,https://iptv.852851.xyz/ch/f37266a1a2c1dc8d8989851e93c5b22f/master.m3u8
 HITS頻道,https://iptv.852851.xyz/ch/33cd3aa3235f1e08dc5b94bb3dde1bbb/master.m3u8
-Asian Action 亚洲武侠台,https://iptv.852851.xyz/ch/ac1768836d705f59898489a16be124e3/master.m3u8
-HOYTV,https://iptv.852851.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
-HOY资讯台,https://iptv.852851.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
-Nick Jr.,https://iptv.852851.xyz/ch/7378138d7df213f3e16411960dbd2322/master.m3u8
-Nickelodeon,https://iptv.852851.xyz/ch/c86c29b2edfc72379273947448977aee/master.m3u8
-Now Sports 1,https://iptv.852851.xyz/ch/cb54507de44f69262ecc8913ed958294/master.m3u8
-Now Sports 2,https://iptv.852851.xyz/ch/f62fe735f8cb6871fe11b6da65ef1704/master.m3u8
-Now Sports 3,https://iptv.852851.xyz/ch/7d47f9714dbb7aa678b76b7d0b83e447/master.m3u8
-Now Sports 4,https://iptv.852851.xyz/ch/0d49608b8cf594236940c258638e6839/master.m3u8
-Now Sports 4K 1,https://iptv.852851.xyz/ch/0325871cc62ec8754c1cc7fa93813c19/master.m3u8
-Now Sports 5,https://iptv.852851.xyz/ch/e164c9692d4064f1ddedc3d0c122b392/master.m3u8
-Now Sports 6,https://iptv.852851.xyz/ch/e7d67f8f528630b00389ce5d4a65a9ab/master.m3u8
-Now Sports 641,https://iptv.852851.xyz/ch/da539034d579bba63d6502d4c996683b/master.m3u8
-Now Sports 651,https://iptv.852851.xyz/ch/61ac05394efb1e85df05cca7df6764ec/master.m3u8
-Now Sports 7,https://iptv.852851.xyz/ch/951ec11f555e9289166e1e06d1c53ffc/master.m3u8
-Now Sports 精選,https://iptv.852851.xyz/ch/7fb12e9f9ce6696478dadea629117325/master.m3u8
-Now Sports 英超1台,https://iptv.852851.xyz/ch/8242c3384a56e993f5859a46ca69bd10/master.m3u8
-Now Sports 英超2台,https://iptv.852851.xyz/ch/9addc6bbb8551c5dc40e1654b9871405/master.m3u8
-Now Sports 英超3台,https://iptv.852851.xyz/ch/a011adc494e53e1bb0456dd82857fd76/master.m3u8
-Now Sports 英超4台,https://iptv.852851.xyz/ch/138e150e94b4e08cdcda4cb1a9272b00/master.m3u8
-Now Sports 英超5台,https://iptv.852851.xyz/ch/4465baf175c32e7078606b90f4229869/master.m3u8
-Now新闻台,https://iptv.852851.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.m3u8
-Now星影台,https://iptv.852851.xyz/ch/d435662d54b451d96cdb1bc534b4de82/master.m3u8
-Now爆谷台,https://iptv.852851.xyz/ch/68527adcbbc4f6f0c815314a24d71aaf/master.m3u8
-Now直播台,https://iptv.852851.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
-PopC,https://iptv.852851.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
-ROCK Action,https://iptv.852851.xyz/ch/b26842b3897cd4c06af028d2ef030d79/master.m3u8
-TVB Plus,https://iptv.852851.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
-Thrill,https://iptv.852851.xyz/ch/e37675b4b09b0cb6f5520ecef524d0fd/master.m3u8
-Viu TV,https://iptv.852851.xyz/ch/148e6121b1ccfbfb72fa733e0a3bcc53/master.m3u8
-ZooMoo,https://iptv.852851.xyz/ch/0b411acd6886ed1598ae839a8895dd06/master.m3u8
 ROCK Action,https://iptv.852851.xyz/ch/7764b570509d615773e0897940ae8543/master.m3u8
 TVBS,https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
 TVBS新聞,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
@@ -831,6 +887,8 @@ amc電影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 民視旅遊台,https://iptv.852851.xyz/ch/725bcfd457065c449b059334d1045e31/master.m3u8
 民視第一台,https://iptv.852851.xyz/ch/7e8d37126af8220458bc8254e3281cc6/master.m3u8
 民視綜藝台,https://iptv.852851.xyz/ch/350c39eb0281a4483d7ac781bcb7a9f4/master.m3u8
+纬来日本台,https://iptv.852851.xyz/ch/d49ea24ab0fa52b6c57e9bd22fdae832/master.m3u8
+纬来电影,https://iptv.852851.xyz/ch/dffe7a7d276d1f8b96092ed1acb34115/master.m3u8
 華視,https://iptv.852851.xyz/ch/7a872af54b1cf5759760cda101a96322/master.m3u8
 華視新聞,https://iptv.852851.xyz/ch/aded50059a1800c43d8550835d5bffc7/master.m3u8
 豬哥亮歌廳秀,https://iptv.852851.xyz/ch/14db6078bae8ec9eeb8ca5aab68b4b39/master.m3u8
@@ -840,14 +898,101 @@ amc電影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 靖天映畫,https://iptv.852851.xyz/ch/13eaf1f8e1b5a94d2350dccab165849a/master.m3u8
 靖天電影台,https://iptv.852851.xyz/ch/3a322f04f5ad7923c21dbce8f8f0d885/master.m3u8
 靖洋戲劇台,https://iptv.852851.xyz/ch/c6a9a10a88d2d16d79ff1731fa6634d1/master.m3u8
+龍華偶像台,https://iptv.852851.xyz/ch/6887447fa3dd5da928657594fdd94a14/master.m3u8
 龍華卡通台,https://iptv.852851.xyz/ch/fd24ac9670b0d1bd570e35b909305fd4/master.m3u8
 龍華戲劇台,https://iptv.852851.xyz/ch/8662603184068c5777341d6e1ceba6f4/master.m3u8
 龍華日韓台,https://iptv.852851.xyz/ch/b55884742800a3ac267333601d531c9e/master.m3u8
 龍華洋片台,https://iptv.852851.xyz/ch/db7da14340301f72a63c6ebd60906abc/master.m3u8
 龍華經典台,https://iptv.852851.xyz/ch/53d26cc49d311819ec22de7e8b572c97/master.m3u8
 龍華電影台,https://iptv.852851.xyz/ch/d8c5ad2e2692bdb5b1714937fbd0f7ee/master.m3u8
+Asian Action 亚洲武侠台,https://iptv.852851.xyz/ch/ac1768836d705f59898489a16be124e3/master.m3u8
+HOYTV,https://iptv.852851.xyz/ch/6d72308eed709c8c883fe93daebddd95/master.m3u8
+HOY资讯台,https://iptv.852851.xyz/ch/f87fbca6f344f30626f5913f801b13a2/master.m3u8
+Nick Jr.,https://iptv.852851.xyz/ch/7378138d7df213f3e16411960dbd2322/master.m3u8
+Nickelodeon,https://iptv.852851.xyz/ch/c86c29b2edfc72379273947448977aee/master.m3u8
+Now Sports 1,https://iptv.852851.xyz/ch/cb54507de44f69262ecc8913ed958294/master.m3u8
+Now Sports 2,https://iptv.852851.xyz/ch/f62fe735f8cb6871fe11b6da65ef1704/master.m3u8
+Now Sports 3,https://iptv.852851.xyz/ch/7d47f9714dbb7aa678b76b7d0b83e447/master.m3u8
+Now Sports 4,https://iptv.852851.xyz/ch/0d49608b8cf594236940c258638e6839/master.m3u8
+Now Sports 4K 1,https://iptv.852851.xyz/ch/0325871cc62ec8754c1cc7fa93813c19/master.m3u8
+Now Sports 4K 1(待修复),https://iptv.852851.xyz/ch/8bfaf066bb251b2a9764d5b67159a550/master.m3u8
+Now Sports 5,https://iptv.852851.xyz/ch/e164c9692d4064f1ddedc3d0c122b392/master.m3u8
+Now Sports 6,https://iptv.852851.xyz/ch/e7d67f8f528630b00389ce5d4a65a9ab/master.m3u8
+Now Sports 651,https://iptv.852851.xyz/ch/61ac05394efb1e85df05cca7df6764ec/master.m3u8
+Now Sports 7,https://iptv.852851.xyz/ch/951ec11f555e9289166e1e06d1c53ffc/master.m3u8
+Now Sports Premier League TV,https://iptv.852851.xyz/ch/9458fce2aeded20c2dedc9e99e52bb30/master.m3u8
+Now Sports 精選,https://iptv.852851.xyz/ch/7fb12e9f9ce6696478dadea629117325/master.m3u8
+Now Sports 英超1台,https://iptv.852851.xyz/ch/8242c3384a56e993f5859a46ca69bd10/master.m3u8
+Now Sports 英超1台(待修复),https://iptv.852851.xyz/ch/e03d9423c4d2b9d0dfdfc7bc9f0a71eb/master.m3u8
+Now Sports 英超2台,https://iptv.852851.xyz/ch/9addc6bbb8551c5dc40e1654b9871405/master.m3u8
+Now Sports 英超2台(待修复),https://iptv.852851.xyz/ch/7b5bbf5b56774ade1a83be81c2791470/master.m3u8
+Now Sports 英超3台,https://iptv.852851.xyz/ch/a011adc494e53e1bb0456dd82857fd76/master.m3u8
+Now Sports 英超4台,https://iptv.852851.xyz/ch/138e150e94b4e08cdcda4cb1a9272b00/master.m3u8
+Now Sports 英超5台,https://iptv.852851.xyz/ch/4465baf175c32e7078606b90f4229869/master.m3u8
+Now Sports 英超6台,https://iptv.852851.xyz/ch/367cc31c7ffce099535766096bd4667b/master.m3u8
+Now 爆谷台,https://iptv.852851.xyz/ch/c97305fddd3888efb0fc1578cf647793/master.m3u8
+Now新闻台,https://iptv.852851.xyz/ch/7706bf435bcea7af3d335d8482a8a844/master.m3u8
+Now爆谷星影台,https://iptv.852851.xyz/ch/815a7c36f14e012532f1aeabb786d187/master.m3u8
+Now直播台,https://iptv.852851.xyz/ch/0772672454f35d2525b52125814a2287/master.m3u8
+PopC,https://iptv.852851.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
+ROCK Action,https://iptv.852851.xyz/ch/b26842b3897cd4c06af028d2ef030d79/master.m3u8
+TVB Plus,https://iptv.852851.xyz/ch/c5b298dd4959390d55e5028330511be1/master.m3u8
+Thrill,https://iptv.852851.xyz/ch/e37675b4b09b0cb6f5520ecef524d0fd/master.m3u8
+Viu TV,https://iptv.852851.xyz/ch/148e6121b1ccfbfb72fa733e0a3bcc53/master.m3u8
+ZooMoo,https://iptv.852851.xyz/ch/0b411acd6886ed1598ae839a8895dd06/master.m3u8
+功夫台,https://iptv.852851.xyz/ch/30116d4d4a2bffae6048fcf2b8df944a/master.m3u8
+千禧經典台,https://iptv.852851.xyz/ch/76a00255d5a3433482bd21dcab9c2493/master.m3u8
+娛樂新聞台,https://iptv.852851.xyz/ch/ad60506f0a7a41a03d9dbd1b59129066/master.m3u8
+年代新闻,https://iptv.852851.xyz/ch/f92bee3f634772070bc7e3b4b6e5909b/master.m3u8
+戲曲台,https://iptv.852851.xyz/ch/946d411d2abf0ef028a65d1658e7865b/master.m3u8
+星河頻道,https://iptv.852851.xyz/ch/35a8b1635c056f83fcb56fe163a0b487/master.m3u8
+無綫新聞台,https://iptv.852851.xyz/ch/6be62e159f4a470cce4593fc6a780cd5/master.m3u8
+美亞電影台,https://iptv.852851.xyz/ch/a4b55ca9ac177e194e6df0d37b500a3c/master.m3u8
+翡翠台,https://iptv.852851.xyz/ch/dcd9af2a8c211c18caf57e82f18e78a9/master.m3u8
+鳳凰衛視中文台,https://iptv.852851.xyz/ch/b10f1a92a9e4876471425f3f287304fa/master.m3u8
+鳳凰衛視資訊台,https://iptv.852851.xyz/ch/760ba15d1f66242bafcc850c92f3f60e/master.m3u8
+鳳凰衛視香港台,https://iptv.852851.xyz/ch/1183bed3a5b7e98e94e1ca51f890a1bb/master.m3u8
+黃金華劇台,https://iptv.852851.xyz/ch/bcc1153e60543383e03929cf124bc34c/master.m3u8
+龙祥时代,https://iptv.852851.xyz/ch/f37266a1a2c1dc8d8989851e93c5b22f/master.m3u8
+FIGHT SPORTS HD,https://iptv.852851.xyz/ch/4a60d42b902d9825f9a14f143a7bf5bc/master.m3u8
+Hub Premier 1 HD,https://iptv.852851.xyz/ch/da42c0f533aa38f73db22add60558883/master.m3u8
+Hub Premier 2 HD,https://iptv.852851.xyz/ch/b4259bd9ec0d1ef0ce94273192e7f166/master.m3u8
+Hub Premier 3 HD,https://iptv.852851.xyz/ch/330e4486b7f750077b8c59a49273f7b5/master.m3u8
+Hub Premier 4 HD,https://iptv.852851.xyz/ch/0351d46bc501451fbb9d1ce8cd306dff/master.m3u8
+Hub Premier 5 HD,https://iptv.852851.xyz/ch/026a05e593ba60ad3802d7e8db0de100/master.m3u8
+Hub Premier 6 HD,https://iptv.852851.xyz/ch/d540360177c34f8380a302eaa129621c/master.m3u8
+Hub Premier 7 HD,https://iptv.852851.xyz/ch/200551b34cdec1c466b1b43697cfb3ee/master.m3u8
+Hub Premier 8 HD,https://iptv.852851.xyz/ch/245264daf11067d9b89222b1bc725e1e/master.m3u8
+Hub Sports 1 HD,https://iptv.852851.xyz/ch/b9ca32abe8f6c8e0e913ae7fb7b76e7c/master.m3u8
+Hub Sports 2 HD,https://iptv.852851.xyz/ch/8d255436fe68691047dad7651709ea34/master.m3u8
+Hub Sports 3 HD,https://iptv.852851.xyz/ch/874e51c0f277826e87073125e044dad9/master.m3u8
+Hub Sports 4 HD,https://iptv.852851.xyz/ch/24f90e2bf4ba913c0d297ccd5e0684ce/master.m3u8
+Hub Sports 5 HD,https://iptv.852851.xyz/ch/6a0c4b49ecf7a9f8c84d23f2d88ed22d/master.m3u8
+Hub Sports 6 HD,https://iptv.852851.xyz/ch/734b2377606bd6de69ec71436c224d40/master.m3u8
+Hub Sports 7 HD,https://iptv.852851.xyz/ch/9590989cb53f0e47448f53abe5ff4ee8/master.m3u8
+Hub Sports 8 HD,https://iptv.852851.xyz/ch/187295c39cc8f118e8c128aa5703e470/master.m3u8
+beIN Sports 2 HD,https://iptv.852851.xyz/ch/b6f0ba78ab0ef875376319e73782ddd5/master.m3u8
+beIN Sports 3 HD,https://iptv.852851.xyz/ch/30cc0805acb2aada8da9e2ae3fad5b5c/master.m3u8
+beIN Sports 4 HD,https://iptv.852851.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/master.m3u8
+beIN Sports 5 HD,https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
+AEC,https://iptv.852851.xyz/ch/91251ae2ef6b6370ddbfd299778c99a4/master.m3u8
+AOD,https://iptv.852851.xyz/ch/cd70fca0fc4f13e2065a87f7c5fb5485/master.m3u8
+HBO,https://iptv.852851.xyz/ch/1c1ff433a5b7004a9e02c88f2566da85/master.m3u8
+HBO Family,https://iptv.852851.xyz/ch/638ac7966afd362e4037c45ca6e7f3e9/master.m3u8
+HBO Hits,https://iptv.852851.xyz/ch/5646664fb7060236b8ab65607aec5e7b/master.m3u8
+Hua Hee Dai,https://iptv.852851.xyz/ch/e7e3e533264d65adc608b0efbe3a6297/master.m3u8
+TVB Jade,https://iptv.852851.xyz/ch/6465962c575c09cd87e5fb873dfdb7aa/master.m3u8
+beIN SPORTS 1,https://iptv.852851.xyz/ch/673fc49af155175186892fb8dc133578/master.m3u8
+beIN SPORTS 2,https://iptv.852851.xyz/ch/c75ae247b5b0202f3ba3baedc8f1c9cc/master.m3u8
+beIN SPORTS 3,https://iptv.852851.xyz/ch/f573b33d85d2d272f76b27a7f0ee57ad/master.m3u8
+beIN SPORTS 4,https://iptv.852851.xyz/ch/3b6e35bcf16e1604cc9caf0c3c47bb8f/master.m3u8
+iQIYI,https://iptv.852851.xyz/ch/58e01ece842818fff79b14b4d5bf5825/master.m3u8
+one,https://iptv.852851.xyz/ch/f95f0adc7864addf96dbe412bac257bb/master.m3u8
 
 极速9469,#genre#,DE=3
+Now新闻台,https://test.946985.filegear-sg.me/proxy/0320d778835e2848
+Now星影台,https://test.946985.filegear-sg.me/proxy/84de4c236d106553
+Now爆谷台,https://test.946985.filegear-sg.me/proxy/d82d2bda2cc2cbaa
 功夫台,https://test.946985.filegear-sg.me/proxy/d1e9143b859804b8
 千禧經典台,https://test.946985.filegear-sg.me/proxy/31368ba8378b5adf
 娛樂新聞台,https://test.946985.filegear-sg.me/proxy/19a95b082c7372e5
@@ -862,88 +1007,53 @@ amc電影台,https://iptv.852851.xyz/ch/6788c3866786a8fffece835298a4a93c/master.
 鳳凰衛視香港台,https://test.946985.filegear-sg.me/proxy/ba40adf45ca80e66
 黃金華劇台,https://test.946985.filegear-sg.me/proxy/4b8aad30b1ac0856
 龙祥时代,https://test.946985.filegear-sg.me/proxy/005cf3860426d8bf
-Asian Action 亚洲武侠台,https://test.946985.filegear-sg.me/proxy/4e3e3e759980561d
-HOYTV,https://test.946985.filegear-sg.me/proxy/ba17d1f96e6841ad
-HOY资讯台,https://test.946985.filegear-sg.me/proxy/f8e49c3e309b2c89
-Nick Jr.,https://test.946985.filegear-sg.me/proxy/2abbb0c23f525e84
-Nickelodeon,https://test.946985.filegear-sg.me/proxy/aa8311cbcf760e45
-Now Sports 1,https://test.946985.filegear-sg.me/proxy/87345485371cf0e4
-Now Sports 2,https://test.946985.filegear-sg.me/proxy/646c87d53f794245
-Now Sports 3,https://test.946985.filegear-sg.me/proxy/b1a7d57c58d4ab94
-Now Sports 4,https://test.946985.filegear-sg.me/proxy/1094660c2cfa756e
-Now Sports 4K 1,https://test.946985.filegear-sg.me/proxy/9afad48c3fe43840
-Now Sports 5,https://test.946985.filegear-sg.me/proxy/024cd94830d883e7
-Now Sports 6,https://test.946985.filegear-sg.me/proxy/9de74074708d58be
-Now Sports 641,https://test.946985.filegear-sg.me/proxy/6a7b681d439cbdae
-Now Sports 651,https://test.946985.filegear-sg.me/proxy/f0ba25a8328f4753
-Now Sports 7,https://test.946985.filegear-sg.me/proxy/f2faa128159d1688
-Now Sports 精選,https://test.946985.filegear-sg.me/proxy/f7b7ab65facf0c43
-Now Sports 英超1台,https://test.946985.filegear-sg.me/proxy/c170b363f3ff846f
-Now Sports 英超2台,https://test.946985.filegear-sg.me/proxy/0f8c28bdfbda1282
-Now Sports 英超3台,https://test.946985.filegear-sg.me/proxy/747e6af802eb3c46
-Now Sports 英超4台,https://test.946985.filegear-sg.me/proxy/f2f4d229b6966797
-Now Sports 英超5台,https://test.946985.filegear-sg.me/proxy/e061888d1ddbdff7
-Now新闻台,https://test.946985.filegear-sg.me/proxy/0320d778835e2848
-Now星影台,https://test.946985.filegear-sg.me/proxy/84de4c236d106553
-Now爆谷台,https://test.946985.filegear-sg.me/proxy/d82d2bda2cc2cbaa
-Now直播台,https://test.946985.filegear-sg.me/proxy/b3c200fb524cf30c
-PopC,https://test.946985.filegear-sg.me/proxy/37414657af7ded2b
-ROCK Action,https://test.946985.filegear-sg.me/proxy/f146d0e593c924e4
-TVB Plus,https://test.946985.filegear-sg.me/proxy/017a0e2f8f6d4269
-Thrill,https://test.946985.filegear-sg.me/proxy/68311ec6dc2a16c2
-Viu TV,https://test.946985.filegear-sg.me/proxy/375e0424688639d2
-ZooMoo,https://test.946985.filegear-sg.me/proxy/92199c9e1fccab7c
-HITS頻道,https://test.946985.filegear-sg.me/proxy/71bebe25fbff499f
-ROCK Action,https://test.946985.filegear-sg.me/proxy/a233cc1a87cac018
-TVBS,https://test.946985.filegear-sg.me/proxy/9376eaeb02d189d2
-TVBS新聞,https://test.946985.filegear-sg.me/proxy/aeeed2eb197331b1
-TVBS歡樂台,https://test.946985.filegear-sg.me/proxy/84820d3dc03cb8b7
-TVBS精采台,https://test.946985.filegear-sg.me/proxy/6cece77d92558ddc
-amc電影台,https://test.946985.filegear-sg.me/proxy/b76b254f6596b0e4
-三立新聞iNEWS,https://test.946985.filegear-sg.me/proxy/00de5aa900efc4a6
-中天新聞台,https://test.946985.filegear-sg.me/proxy/3afbd1dfcb523c6e
-中視,https://test.946985.filegear-sg.me/proxy/643626fecd860e6a
-中視新聞,https://test.946985.filegear-sg.me/proxy/12cee55b2872c75a
-亞洲旅遊台,https://test.946985.filegear-sg.me/proxy/a57d52fb47fe96fa
-八大精彩台,https://test.946985.filegear-sg.me/proxy/9061feac2ccad080
-八大綜藝台,https://test.946985.filegear-sg.me/proxy/98783bd6d30c6172
-公視戲劇,https://test.946985.filegear-sg.me/proxy/d830b64591d455c8
-博斯無限二台,https://test.946985.filegear-sg.me/proxy/00408842a6a94b0c
-博斯無限台,https://test.946985.filegear-sg.me/proxy/2b2601bab98ad272
-博斯網球台,https://test.946985.filegear-sg.me/proxy/88cbc68cd535170c
-博斯運動一台,https://test.946985.filegear-sg.me/proxy/0f1906324484e7eb
-博斯運動二台,https://test.946985.filegear-sg.me/proxy/8e78202334dfc36f
-博斯高球二台,https://test.946985.filegear-sg.me/proxy/95179e59bf62f976
-博斯高球台,https://test.946985.filegear-sg.me/proxy/36caeba73fc322ef
-博斯魅力台,https://test.946985.filegear-sg.me/proxy/5f7ea293cf539100
-寰宇新聞台,https://test.946985.filegear-sg.me/proxy/e3f6ff0bccdd3743
-寰宇新聞台灣台,https://test.946985.filegear-sg.me/proxy/64b4966bb4966779
-愛爾達寵物運動台,https://test.946985.filegear-sg.me/proxy/b18f339c2433896a
-智林體育台,https://test.946985.filegear-sg.me/proxy/7e69d00b35b3e08a
-東森新聞台,https://test.946985.filegear-sg.me/proxy/666a3149098342a0
-東森財經新聞台,https://test.946985.filegear-sg.me/proxy/f12538d1a3c40515
-民視,https://test.946985.filegear-sg.me/proxy/348ebdc98156cdf9
-民視台灣台,https://test.946985.filegear-sg.me/proxy/4f5c2cf340ccf1e4
-民視影劇台,https://test.946985.filegear-sg.me/proxy/46f98b6f81c5bae4
-民視新聞台,https://test.946985.filegear-sg.me/proxy/479c35ac28aa5673
-民視旅遊台,https://test.946985.filegear-sg.me/proxy/1bb9dd3c90eeebaf
-民視第一台,https://test.946985.filegear-sg.me/proxy/2962700ad2363590
-民視綜藝台,https://test.946985.filegear-sg.me/proxy/942f93dffd0ffc88
-華視,https://test.946985.filegear-sg.me/proxy/c33507c461152579
-華視新聞,https://test.946985.filegear-sg.me/proxy/db5de5d676197e66
-豬哥亮歌廳秀,https://test.946985.filegear-sg.me/proxy/988de8fc9a1ee44c
-采昌影劇台,https://test.946985.filegear-sg.me/proxy/59a9aa38b14b8497
-金光布袋戲,https://test.946985.filegear-sg.me/proxy/de85d3abfade1908
-靖天戲劇台,https://test.946985.filegear-sg.me/proxy/e15a73b3e057b98b
-靖天映畫,https://test.946985.filegear-sg.me/proxy/dec613a636983708
-靖天電影台,https://test.946985.filegear-sg.me/proxy/b1055577a34476e4
-靖洋戲劇台,https://test.946985.filegear-sg.me/proxy/575625e186c53934
-龍華卡通台,https://test.946985.filegear-sg.me/proxy/1af4357b087a4014
-龍華戲劇台,https://test.946985.filegear-sg.me/proxy/0cd15ef7dac65487
-龍華日韓台,https://test.946985.filegear-sg.me/proxy/e22b032d5a9990af
-龍華洋片台,https://test.946985.filegear-sg.me/proxy/fef9924d15fe3615
-龍華經典台,https://test.946985.filegear-sg.me/proxy/496083282139729f
-龍華電影台,https://test.946985.filegear-sg.me/proxy/3e25c26d79d21d2d
+爱尔达体育一台,https://test.946985.filegear-sg.me/proxy/dc9542866ba197e2
+hami体育一台,https://test.946985.filegear-sg.me/proxy/7b76aee207b5af3e
+hami足球一台,https://test.946985.filegear-sg.me/proxy/cdacd7823411edd8
+hami棒球1台,https://test.946985.filegear-sg.me/proxy/6a8741aea167b62a
+欧洲体育1,https://test.946985.filegear-sg.me/proxy/0ec0634135a2cd3e
+欧洲体育2,https://test.946985.filegear-sg.me/proxy/60fbadb5d9cb8c73
+法国beIN体育1,https://test.946985.filegear-sg.me/proxy/d4607e328de9276d
+法国beIN体育2,https://test.946985.filegear-sg.me/proxy/036c7921c2126f1c
+法国beIN体育3,https://test.946985.filegear-sg.me/proxy/7219fff9bec70249
+法国CANAL +FOOT,https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
+法国CANAL +SPORT,https://test.946985.filegear-sg.me/proxy/2aa21fe914880e6a
+法国CANAL +SPORT 360,https://test.946985.filegear-sg.me/proxy/3ea1678cd883a5de
+法国CANAL GOLF+,https://test.946985.filegear-sg.me/proxy/6f6259c47fc0783c
+法国CANAL+ LIVE 1,https://test.946985.filegear-sg.me/proxy/f5ead7385ef9e3d7
+法国CANAL+ LIVE 2,https://test.946985.filegear-sg.me/proxy/9b5f8a8854074719
+法国CANAL+ LIVE 3,https://test.946985.filegear-sg.me/proxy/a820824fa7237a0d
+罗马尼亚PRIMA Sport1,https://test.946985.filegear-sg.me/proxy/031a3f93785f5e10
+罗马尼亚PRIMA Sport2,https://test.946985.filegear-sg.me/proxy/234ec786219f8851
+罗马尼亚PRIMA Sport3,https://test.946985.filegear-sg.me/proxy/920332fcf92f7eec
+罗马尼亚PRIMA Sport4,https://test.946985.filegear-sg.me/proxy/ae7af16a08df032d
+罗马尼亚PRIMA Sport5,https://test.946985.filegear-sg.me/proxy/fda91827991eb386
+波兰Polsat Sport Premium 1,https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823
+波兰Polsat Sport Premium 2,https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac
+波兰CANAL+ Sport,https://test.946985.filegear-sg.me/proxy/4bcdff64289c1f4b
+波兰CANAL+ Sport 2,https://test.946985.filegear-sg.me/proxy/4be17144e088af8c
+葡萄牙sport•tv 1,https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e
+葡萄牙sport•tv 2,https://test.946985.filegear-sg.me/proxy/8ce632cfdf21dc5e
+葡萄牙sport•tv 3,https://test.946985.filegear-sg.me/proxy/ad07dd4338ccb671
+葡萄牙sport•tv 4,https://test.946985.filegear-sg.me/proxy/6df3bb711f916488
+葡萄牙sport•tv 5,https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd
+葡萄牙sport•tv 6,https://test.946985.filegear-sg.me/proxy/4ff930484c5dcc99
+葡萄牙sport•tv 7,https://test.946985.filegear-sg.me/proxy/a8c7608240dec023
+德国Deluxe Music,https://test.946985.filegear-sg.me/proxy/a341324bc76a1184
+法国M6 音乐,https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+法国Mezzo,https://test.946985.filegear-sg.me/proxy/b3e72e32c5be5e8e
+法国Mezzo Live,https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
+法国NRJ Hits,https://test.946985.filegear-sg.me/proxy/a23981548880f405
+法国1台,https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9
+法国1台 4K,https://test.946985.filegear-sg.me/proxy/8bf6d62eb9dc2206
+法国2台,https://test.946985.filegear-sg.me/proxy/053bf6fe5cb58e79
+法国2台 4K,https://test.946985.filegear-sg.me/proxy/69bf3d28c4a2aea9
+法国3台,https://test.946985.filegear-sg.me/proxy/9a98c5ce88baad6e
+法国4台,https://test.946985.filegear-sg.me/proxy/407c8b4eed931f9f
+法国5台,https://test.946985.filegear-sg.me/proxy/2790b25f56f45e5f
+法国M6,https://test.946985.filegear-sg.me/proxy/cda17ffd0436edbe
+法国gulli,https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96
+法国Canal+,https://test.946985.filegear-sg.me/proxy/9d114bb59c1b6cab
 
 美国US,#genre#,DE=3
 COZI TV SD,http://108.181.20.255:27347/livehttpplay?channel_id=23000
