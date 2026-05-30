@@ -487,31 +487,6 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 娱乐新闻,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-极速港台2,#genre#,DE=3
-无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=20123
-无线新闻台,http://67.220.71.199:2347/livehttpplay?channel_id=30024
-翡翠台,http://67.220.71.199:2347/livehttpplay?channel_id=30025
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=20125
-明珠台,http://67.220.71.199:2347/livehttpplay?channel_id=30026
-TVB PLUS,http://67.220.71.199:2347/livehttpplay?channel_id=30023
-MYTV SUPER 1,http://67.220.71.199:2347/livehttpplay?channel_id=13022
-HOY 77,http://67.220.71.199:2347/livehttpplay?channel_id=20152
-VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=20131
-VIUTV,http://67.220.71.199:2347/livehttpplay?channel_id=30032
-VIUTV 6,http://67.220.71.199:2347/livehttpplay?channel_id=20132
-VIUTV 6,http://67.220.71.199:2347/livehttpplay?channel_id=30033
-RTHK 31,http://67.220.71.199:2347/livehttpplay?channel_id=30066
-RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=20203
-RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30028
-RTHK 32,http://67.220.71.199:2347/livehttpplay?channel_id=30067
-CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
-广东珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=30031
-广东岭南戏曲,http://67.220.71.199:2347/livehttpplay?channel_id=20142
-博斯網球,http://67.220.71.199:2347/livehttpplay?channel_id=42026
-
 极速NOW,#genre#
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
