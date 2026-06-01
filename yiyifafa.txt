@@ -667,9 +667,7 @@ DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
 民視台灣台,https://4gtv.158.qzz.io/163189/aecbd4e5-757e-45e7-a3a7-33f83efc98a5/
 民視台灣台,https://4gtv.158.qzz.io/163189/73c6ffb5-cddd-4b68-bf4b-7083fd5c08d3/
 民視台灣台,https://4gtv.158.qzz.io/163189/e75ce7b6-beac-42b9-bb54-798f21e20a00/
-民視,https://4gtv.158.qzz.io/163189/83f24df6-a3d3-41c2-a66b-f5f0ef081cdc/
-民視,https://4gtv.158.qzz.io/163189/98cda848-bb98-4632-87ed-d3b69d7a4f43/
-民視,https://4gtv.158.qzz.io/163189/faa1b685-2fd0-4c9b-b5a7-385befd8c1a4/
+民視,https://4g.158.qzz.io/163189/0294790909bc9b0e
 大愛電視,https://4gtv.158.qzz.io/163189/36587122-152c-451b-9d6b-83a856574489/
 中視,https://4gtv.158.qzz.io/163189/430fbb09-b79e-42ca-9cf4-b67f83b4eaf6/
 華視,https://4gtv.158.qzz.io/163189/b6656a22-9521-40ee-85d5-d4bee1560858/
@@ -696,29 +694,24 @@ DreamWorks 夢工廠動畫,https://4gtv.158.qzz.io/163189/cb8de1e9-bd8e-4231-a4e
 MOMO親子台,https://4gtv.158.qzz.io/163189/4e7af03f-ef5e-4a0b-a2ef-0cb6a51351a9/
 東森購物一台,https://4gtv.158.qzz.io/163189/bf5d92e4-dd35-43b9-9e42-26bcd5684184/
 鏡電視新聞台,https://4gtv.158.qzz.io/163189/cd3d7097-895c-47c8-8b43-4d22e758cf55/
-東森新聞台,https://4gtv.158.qzz.io/163189/98256d48-5a4f-4bd8-a5fe-d4abf0027819/
-東森新聞台,https://4gtv.158.qzz.io/163189/dfc3ed8e-8cf6-451f-b6d2-b2e00d190b9f/
+東森新聞台,https://4g.158.qzz.io/163189/d7e9f69dcbba2a23
 華視新聞,https://4gtv.158.qzz.io/163189/5570e8fd-69cc-43ad-8de6-e1ac63895bd4/
 華視新聞,https://4gtv.158.qzz.io/163189/5e7d363e-59f1-4c46-84e4-7b4c4774d7ba/
 民視新聞台,https://4gtv.158.qzz.io/163189/ca241422-9067-424c-bbd7-9aab4a6a39b0/
 民視新聞台,https://4gtv.158.qzz.io/163189/23cdb7e8-e336-4e46-955e-a14654148f1d/
 民視新聞台,https://4gtv.158.qzz.io/163189/4bf91164-f334-4d42-88b9-fc15662dd11d/
 三立新聞iNEWS,https://4gtv.158.qzz.io/163189/6fb8aec9-e4b2-4bed-8832-b5e9cce4a830/
-TVBS新聞,https://4gtv.158.qzz.io/163189/c8e17fe8-dcc5-426b-ae9a-a898fe305d30/
-TVBS新聞,https://4gtv.158.qzz.io/163189/59c88c85-193e-4be8-a7ed-6e225192abf1/
+TVBS新聞,https://4g.158.qzz.io/163189/351e8567ea4a6f99
 東森財經新聞台,https://4gtv.158.qzz.io/163189/15801af6-42b5-47b0-9c68-908ce9d1ae29/
 東森財經新聞台,https://4gtv.158.qzz.io/163189/87a8d376-80a1-4f5a-9c3f-b415e3feb689/
 中視新聞,https://4gtv.158.qzz.io/163189/1a62f7fd-8d11-4540-a6c7-ae34d9f059ee/
 中視新聞,https://4gtv.158.qzz.io/163189/7a579ec9-d021-47f3-8ae0-756db38c4d63/
-中天新聞台,https://4gtv.158.qzz.io/163189/612531e0-184b-40f1-b9ec-8157d4c44935/
-中天新聞台,https://4gtv.158.qzz.io/163189/61385f10-c9c1-448d-94ef-91b18d1849cf/
+中天新聞台,https://4g.158.qzz.io/163189/60f5c767b807519a
 Bloomberg TV,https://4gtv.158.qzz.io/163189/0757afc8-8e51-42fd-b9b8-18c01e0a270d/
-寰宇新聞台,https://4gtv.158.qzz.io/163189/36b214e7-fc2f-4402-b16f-bebe0ef9c1be/
-寰宇新聞台,https://4gtv.158.qzz.io/163189/7ee7e1f5-edc1-4181-9038-140e768a17d1/
+寰宇新聞台,https://4g.158.qzz.io/163189/404c15e617dc9581
 寰宇新聞台灣台,https://4gtv.158.qzz.io/163189/ca41743f-7a1b-4040-872a-bc8c26229a4f/
 SBN全球財經台,https://4gtv.158.qzz.io/163189/3fc0661e-19b5-4fa7-9120-f70cb5554945/
-TVBS,https://4gtv.158.qzz.io/163189/5c95e227-8109-4d5a-ad31-a5456eeba506/
-TVBS,https://4gtv.158.qzz.io/163189/ac9fc30c-1caf-401e-a373-9a8cc054b527/
+TVBS,https://4g.158.qzz.io/163189/1bcf344d4a0ea28c
 東森購物二台,https://4gtv.158.qzz.io/163189/8fd3115b-b8ac-41f2-be29-15f0df2c1799/
 民視綜藝台,https://4gtv.158.qzz.io/163189/41a2c075-fa1f-43b5-acfd-ea3be3f317db/
 豬哥亮歌廳秀,https://4gtv.158.qzz.io/163189/b0f042ad-8b42-4a86-b8ab-266988e66c93/
@@ -944,72 +937,6 @@ beIN SPORTS 3,https://iptv.852851.xyz/ch/f573b33d85d2d272f76b27a7f0ee57ad/master
 beIN SPORTS 4,https://iptv.852851.xyz/ch/3b6e35bcf16e1604cc9caf0c3c47bb8f/master.m3u8
 iQIYI,https://iptv.852851.xyz/ch/58e01ece842818fff79b14b4d5bf5825/master.m3u8
 one,https://iptv.852851.xyz/ch/f95f0adc7864addf96dbe412bac257bb/master.m3u8
-
-极速9469,#genre#,DE=3
-Now新闻台,https://test.946985.filegear-sg.me/proxy/0320d778835e2848
-Now星影台,https://test.946985.filegear-sg.me/proxy/84de4c236d106553
-Now爆谷台,https://test.946985.filegear-sg.me/proxy/d82d2bda2cc2cbaa
-功夫台,https://test.946985.filegear-sg.me/proxy/d1e9143b859804b8
-千禧經典台,https://test.946985.filegear-sg.me/proxy/31368ba8378b5adf
-娛樂新聞台,https://test.946985.filegear-sg.me/proxy/19a95b082c7372e5
-年代新闻,https://test.946985.filegear-sg.me/proxy/2f4c5ba2e00c4edd
-戲曲台,https://test.946985.filegear-sg.me/proxy/98562dfaecb635da
-星河頻道,https://test.946985.filegear-sg.me/proxy/e4eda8b9fe5f6076
-無綫新聞台,https://test.946985.filegear-sg.me/proxy/0aea173d24cb1a67
-美亞電影台,https://test.946985.filegear-sg.me/proxy/bdc068338650cbe8
-翡翠台,https://test.946985.filegear-sg.me/proxy/5d5c47fa663940ad
-鳳凰衛視中文台,https://test.946985.filegear-sg.me/proxy/262c16de37dff45a
-鳳凰衛視資訊台,https://test.946985.filegear-sg.me/proxy/323659c69c899335
-鳳凰衛視香港台,https://test.946985.filegear-sg.me/proxy/ba40adf45ca80e66
-黃金華劇台,https://test.946985.filegear-sg.me/proxy/4b8aad30b1ac0856
-龙祥时代,https://test.946985.filegear-sg.me/proxy/005cf3860426d8bf
-爱尔达体育一台,https://test.946985.filegear-sg.me/proxy/dc9542866ba197e2
-hami体育一台,https://test.946985.filegear-sg.me/proxy/7b76aee207b5af3e
-hami足球一台,https://test.946985.filegear-sg.me/proxy/cdacd7823411edd8
-hami棒球1台,https://test.946985.filegear-sg.me/proxy/6a8741aea167b62a
-欧洲体育1,https://test.946985.filegear-sg.me/proxy/0ec0634135a2cd3e
-欧洲体育2,https://test.946985.filegear-sg.me/proxy/60fbadb5d9cb8c73
-法国beIN体育1,https://test.946985.filegear-sg.me/proxy/d4607e328de9276d
-法国beIN体育2,https://test.946985.filegear-sg.me/proxy/036c7921c2126f1c
-法国beIN体育3,https://test.946985.filegear-sg.me/proxy/7219fff9bec70249
-法国CANAL +FOOT,https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
-法国CANAL +SPORT,https://test.946985.filegear-sg.me/proxy/2aa21fe914880e6a
-法国CANAL +SPORT 360,https://test.946985.filegear-sg.me/proxy/3ea1678cd883a5de
-法国CANAL GOLF+,https://test.946985.filegear-sg.me/proxy/6f6259c47fc0783c
-法国CANAL+ LIVE 1,https://test.946985.filegear-sg.me/proxy/f5ead7385ef9e3d7
-法国CANAL+ LIVE 2,https://test.946985.filegear-sg.me/proxy/9b5f8a8854074719
-法国CANAL+ LIVE 3,https://test.946985.filegear-sg.me/proxy/a820824fa7237a0d
-罗马尼亚PRIMA Sport1,https://test.946985.filegear-sg.me/proxy/031a3f93785f5e10
-罗马尼亚PRIMA Sport2,https://test.946985.filegear-sg.me/proxy/234ec786219f8851
-罗马尼亚PRIMA Sport3,https://test.946985.filegear-sg.me/proxy/920332fcf92f7eec
-罗马尼亚PRIMA Sport4,https://test.946985.filegear-sg.me/proxy/ae7af16a08df032d
-罗马尼亚PRIMA Sport5,https://test.946985.filegear-sg.me/proxy/fda91827991eb386
-波兰Polsat Sport Premium 1,https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823
-波兰Polsat Sport Premium 2,https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac
-波兰CANAL+ Sport,https://test.946985.filegear-sg.me/proxy/4bcdff64289c1f4b
-波兰CANAL+ Sport 2,https://test.946985.filegear-sg.me/proxy/4be17144e088af8c
-葡萄牙sport•tv 1,https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e
-葡萄牙sport•tv 2,https://test.946985.filegear-sg.me/proxy/8ce632cfdf21dc5e
-葡萄牙sport•tv 3,https://test.946985.filegear-sg.me/proxy/ad07dd4338ccb671
-葡萄牙sport•tv 4,https://test.946985.filegear-sg.me/proxy/6df3bb711f916488
-葡萄牙sport•tv 5,https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd
-葡萄牙sport•tv 6,https://test.946985.filegear-sg.me/proxy/4ff930484c5dcc99
-葡萄牙sport•tv 7,https://test.946985.filegear-sg.me/proxy/a8c7608240dec023
-德国Deluxe Music,https://test.946985.filegear-sg.me/proxy/a341324bc76a1184
-法国M6 音乐,https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
-法国Mezzo,https://test.946985.filegear-sg.me/proxy/b3e72e32c5be5e8e
-法国Mezzo Live,https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
-法国NRJ Hits,https://test.946985.filegear-sg.me/proxy/a23981548880f405
-法国1台,https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9
-法国1台 4K,https://test.946985.filegear-sg.me/proxy/8bf6d62eb9dc2206
-法国2台,https://test.946985.filegear-sg.me/proxy/053bf6fe5cb58e79
-法国2台 4K,https://test.946985.filegear-sg.me/proxy/69bf3d28c4a2aea9
-法国3台,https://test.946985.filegear-sg.me/proxy/9a98c5ce88baad6e
-法国4台,https://test.946985.filegear-sg.me/proxy/407c8b4eed931f9f
-法国5台,https://test.946985.filegear-sg.me/proxy/2790b25f56f45e5f
-法国M6,https://test.946985.filegear-sg.me/proxy/cda17ffd0436edbe
-法国gulli,https://test.946985.filegear-sg.me/proxy/7e0a9ae6a27eee96
-法国Canal+,https://test.946985.filegear-sg.me/proxy/9d114bb59c1b6cab
 
 美国US,#genre#,DE=3
 COZI TV SD,http://108.181.20.255:27347/livehttpplay?channel_id=23000
