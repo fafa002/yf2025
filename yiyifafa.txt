@@ -3973,18 +3973,6 @@ CCTV-卫生健康,http://198.204.228.26/live/wsjk.m3u8
 林正英影院,http://198.204.228.26/live/lblzy.m3u8
 
 央视频5,#genre#,DE=3
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
-CCTV-2,http://69.30.245.50/live/cctv2.m3u8
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
-CCTV-4,http://69.30.245.50/live/cctv4.m3u8
-CCTV-5,http://69.30.245.50/live/cctv5.m3u8
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
-CCTV-7,http://69.30.245.50/live/cctv7.m3u8
-CCTV-8,http://69.30.245.50/live/cctv8.m3u8
-CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-10,http://69.30.245.50/live/cctv10.m3u8
-CCTV-11,http://69.30.245.50/live/cctv11.m3u8
-
 CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV-3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
