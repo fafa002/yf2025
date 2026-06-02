@@ -1514,6 +1514,117 @@ KITV-TV ABC 4 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rU
 KGMB-TV CBS 5 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89530.ts
 KHNL-TV NBC 13 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89532.ts
 
+英国UK(挂梯子),#genre# 
+London TV,http://81.137.213.119:4206/bysid/32842
+High Street TV,http://81.137.213.119:4206/bysid/34176
+wedotv Movies UK,http://81.137.213.119:4206/bysid/34496
+U&DaveJaVu,http://81.137.213.119:4206/bysid/34624
+TLC+1,http://81.137.213.119:4206/bysid/34688
+QUEST+1,http://81.137.213.119:4206/bysid/34752
+BBC TWO HD,http://81.137.213.119:4202/bysid/17472
+BBC ONE Lon HD,http://81.137.213.119:4202/bysid/17536
+ITV1 HD,http://81.137.213.119:4202/bysid/17604
+Channel 4 HD,http://81.137.213.119:4202/bysid/17664
+HD,http://81.137.213.119:4202/bysid/17728
+BBC THREE HD,http://81.137.213.119:4202/bysid/17920
+BBC FOUR HD,http://81.137.213.119:4202/bysid/18048
+CBBC HD,http://81.137.213.119:4202/bysid/18112
+CBeebies HD,http://81.137.213.119:4202/bysid/18176
+U&Eden,http://81.137.213.119:4202/bysid/19968
+LEGEND XTRA,http://81.137.213.119:4202/bysid/20032
+TBN UK,http://81.137.213.119:4202/bysid/20160
+5SELECT,http://81.137.213.119:4202/bysid/20256
+BBC ONE Lon,http://81.137.213.119:4200/bysid/4164
+BBC TWO,http://81.137.213.119:4200/bysid/4287
+BBC THREE,http://81.137.213.119:4200/bysid/4288
+BBC NEWS,http://81.137.213.119:4200/bysid/4352
+BBC Red Button,http://81.137.213.119:4200/bysid/4416
+BBC FOUR,http://81.137.213.119:4200/bysid/4544
+CBBC,http://81.137.213.119:4200/bysid/4608
+CBeebies,http://81.137.213.119:4200/bysid/4672
+BBC Parliament,http://81.137.213.119:4200/bysid/4736
+BBC RB 1,http://81.137.213.119:4200/bysid/7168
+ITV1,http://81.137.213.119:4201/bysid/8261
+ITV3,http://81.137.213.119:4201/bysid/8294
+ITV2,http://81.137.213.119:4201/bysid/8325
+ITV4,http://81.137.213.119:4201/bysid/8330
+ITV Quiz,http://81.137.213.119:4201/bysid/8340
+ITV1+1,http://81.137.213.119:4201/bysid/8361
+Channel 4,http://81.137.213.119:4201/bysid/8384
+Film4,http://81.137.213.119:4201/bysid/8385
+More 4,http://81.137.213.119:4201/bysid/8442
+E4,http://81.137.213.119:4201/bysid/8448
+Channel 4+1,http://81.137.213.119:4201/bysid/8452
+E4+1,http://81.137.213.119:4201/bysid/8458
+4seven,http://81.137.213.119:4201/bysid/8460
+5,http://81.137.213.119:4201/bysid/8500
+That's 20th Century,http://81.137.213.119:4201/bysid/8700
+Sky News,http://81.137.213.119:4204/bysid/22080
+Sky Mix,http://81.137.213.119:4204/bysid/22208
+Sky Arts,http://81.137.213.119:4204/bysid/22144
+Challenge,http://81.137.213.119:4204/bysid/22226
+U&Drama+1,http://81.137.213.119:4204/bysid/22336
+U&Dave,http://81.137.213.119:4204/bysid/22272
+E4 Extra,http://81.137.213.119:4204/bysid/22368
+ADULT smileTV3,http://81.137.213.119:4204/bysid/22400
+That's TV 2,http://81.137.213.119:4204/bysid/23152
+Mast Have Ideas,http://81.137.213.119:4204/bysid/23680
+Really,http://81.137.213.119:4204/bysid/23712
+Quest Red,http://81.137.213.119:4204/bysid/23744
+Food Network,http://81.137.213.119:4204/bysid/23040
+SonLife,http://81.137.213.119:4204/bysid/23184
+That's 70s,http://81.137.213.119:4204/bysid/23904
+Great TV,http://81.137.213.119:4204/bysid/23968
+ADULT Section,http://81.137.213.119:4204/bysid/24128
+Film4+1,http://81.137.213.119:4204/bysid/22464
+Gemporia,http://81.137.213.119:4204/bysid/24448
+STAR,http://81.137.213.119:4203/bysid/12928
+USA,http://81.137.213.119:4203/bysid/12992
++1,http://81.137.213.119:4203/bysid/13024
+Blaze,http://81.137.213.119:4203/bysid/14384
+Blaze+1,http://81.137.213.119:4203/bysid/14388
+Great Action,http://81.137.213.119:4203/bysid/15576
+Great Movies,http://81.137.213.119:4203/bysid/15584
+ITV4+1,http://81.137.213.119:4203/bysid/15920
+ITV2+1,http://81.137.213.119:4203/bysid/15952
+ITV3+1,http://81.137.213.119:4203/bysid/16016
+5ACTION,http://81.137.213.119:4203/bysid/16112
+LEGEND,http://81.137.213.119:4203/bysid/14480
+TRUE CRIME,http://81.137.213.119:4203/bysid/14448
+TRUE CRIME XTRA,http://81.137.213.119:4203/bysid/14456
+U&Drama,http://81.137.213.119:4203/bysid/16208
+QVC,http://81.137.213.119:4203/bysid/13120
+QVC2,http://81.137.213.119:4203/bysid/14416
+TJC,http://81.137.213.119:4203/bysid/15592
+WildEarth,http://81.137.213.119:4203/bysid/14464
+Together TV,http://81.137.213.119:4203/bysid/16364
+Shop On TV,http://81.137.213.119:4203/bysid/16394
+U&W,http://81.137.213.119:4203/bysid/12298
+Great TV,http://81.137.213.119:4205/bysid/27168
+Jewellery Maker,http://81.137.213.119:4205/bysid/27200
+Shop Unlimited,http://81.137.213.119:4205/bysid/27232
+Great Romance,http://81.137.213.119:4205/bysid/27296
+Together TV+1,http://81.137.213.119:4205/bysid/27392
+ADULT Xpanded TV,http://81.137.213.119:4205/bysid/27648
+ADULT Babestn,http://81.137.213.119:4205/bysid/27904
+That's TV (UK),http://81.137.213.119:4205/bysid/27936
+PBS America,http://81.137.213.119:4205/bysid/27968
+TLC,http://81.137.213.119:4205/bysid/28000
+U&Yesterday,http://81.137.213.119:4205/bysid/25792
+GB News,http://81.137.213.119:4205/bysid/27360
+That's 60s,http://81.137.213.119:4205/bysid/28032
+TalkingPictures TV,http://81.137.213.119:4205/bysid/28224
+QUEST,http://81.137.213.119:4205/bysid/27328
+DMAX,http://81.137.213.119:4205/bysid/27680
+ADULT Section,http://81.137.213.119:4205/bysid/27584
+POP UP,http://81.137.213.119:4205/bysid/27424
+Rewind TV,http://81.137.213.119:4205/bysid/27744
+HobbyMaker,http://81.137.213.119:4205/bysid/27840
+Ideal World,http://81.137.213.119:4205/bysid/25920
+Great Mystery,http://81.137.213.119:4205/bysid/27872
+Great Player,http://81.137.213.119:4205/bysid/28352
+Great TV +1,http://81.137.213.119:4205/bysid/28384
+
 日本(挂梯子),#genre# 
 NHK G HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 NHK E HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
