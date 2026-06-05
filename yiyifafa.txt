@@ -487,6 +487,12 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 极速NOW,#genre#
+翡翠台1,https://rtmp.play.live.tieba.com/live/DwFQG0j26sdShfv9TETFGOHDMhOZNJdCW9pDTHlOHS6xkOIqYjvSWJdZFnXpMTG5pRLZC4YywdrJD9ZjngXAdwYF.flv
+无线新闻1,https://rtmp.play.live.tieba.com/live/zaNAD4IWI45hM2InUxuW7Y3sHrPehS5t8MuVmUEYGSG42Wqe5l0AwVPihxoRjBqvuPBbXGEUuQzGvlMUyD1llbYa.flv
+TVB PLUS 1,https://rtmp.play.live.tieba.com/live/IrYNUBAIZfBSRtoPy8yr3vDIxdFKn9nc4slBW93ipYXzxmWFYvYepSDH8hpyQSLEvQ409AVRFN3p9HUuo3325yIo.flv
+明珠台1,https://rtmp.play.live.tieba.com/live/3XNVCyhT4Af2im0lSIUMEnzDTtqrUWeGWBrro6LCcwqnMyp3sTJvvc16Fzl06a3BjzCpjnLseuHK8A2pTefakuAJ.flv
+HOY77 1,https://rtmp.play.live.tieba.com/live/OdlbWoN9KhgS5wZ6DDL3qMI2dBVh8Zvr1yoKz8zREgVeCxtYvAEdGrCp9nHZFOGImAX96cOEJM1sjPFf3m4rkifC.flv
+HOY78 1,https://rtmp.play.live.tieba.com/live/dCukhP7swVJHnZklbVnktxvH8HsVCV6l9biujifxIx7nRmdVPRQaiPHTeXbUBCZLMnP0Js45nIyJok2lQ0vHoXGm.flv
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
