@@ -1,4 +1,4 @@
-抖音K歌,#genre#
+抖音K歌,#genre#,DE=3
 切换EXO解码,1
 小米YU7,http://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg&ratio=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860&ratio=720p&line=0
@@ -217,7 +217,7 @@ F4-决不能失去你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f
 张韶涵-无名的人,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctari87og65ksgs0rnpg&ratio=720p&line=0
 张韶涵-12首合集,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct7cdovog65o09j282vg&ratio=720p&line=0
 
-清风DJ,#genre#
+清风DJ,#genre#,DE=3
 切换EXO解码,1
 女孩DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2aa0qfog65vmvgg5sjg&ratio=720p&line=0
 gamgamDJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cr8r23nog65mnbf3616g&ratio=720p&line=0
@@ -267,7 +267,7 @@ DJ珺宝-全粤语Electro音乐抖音热播全女声专辑车载串烧,https://m
 DJ傑少-全粤语Electro音乐受够我的骄傲全女声动感DJ串烧,https://mp4.djuu.com/c2/16/2025/72ad9cbcca850695.m4a
 DjErwin-全粤语Electro音乐不只爱情粤式情歌劲爆DJ串烧,https://mp4.djuu.com/c2/16/2025/4331430d1d6a6b5e.m4a
 
-欧美music,#genre#
+欧美music,#genre#,DE=3
 切换EXO解码,1
 Nevada,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300ff30000but4f2452a13sf6temog&ratio=720p&line=0
 Unstoppable,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ce4av3bc77u7mqoje2kg&ratio=720p&line=0
