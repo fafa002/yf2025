@@ -497,16 +497,6 @@ HOY78 1,https://rtmp.play.live.tieba.com/live/dCukhP7swVJHnZklbVnktxvH8HsVCV6l9b
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
 
-NOW sports1,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748430.m3u8
-NOW sports2,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
-NOW sports3,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
-NOW sports4,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
-NOW sports5,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
-NOW sports6,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
-NOW sports7,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
-NOW sports8,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
-NOW sports9,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748438.m3u8
-
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
 NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
@@ -517,22 +507,6 @@ NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stre
 NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 
-NOW体育1,http://206.212.246.239/live/Cori/123456/236720.m3u8
-NOW体育2,http://206.212.246.239/live/Cori/123456/236721.m3u8
-NOW体育3,http://206.212.246.239/live/Cori/123456/236722.m3u8
-NOW体育4,http://206.212.246.239/live/Cori/123456/236723.m3u8
-NOW体育5,http://206.212.246.239/live/Cori/123456/236724.m3u8
-NOW体育6,http://206.212.246.239/live/Cori/123456/236725.m3u8
-NOW体育7,http://206.212.246.239/live/Cori/123456/236726.m3u8
-NOW体育精选,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/313830.m3u8
-NOW体育4K 1,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/641325.m3u8
-NOW英超 TV,http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/313829.m3u8
-NOW英超1,http://206.212.246.239/live/Cori/123456/236727.m3u8
-NOW英超2,http://206.212.246.239/live/Cori/123456/236728.m3u8
-NOW英超3,http://206.212.246.239/live/Cori/123456/236729.m3u8
-NOW英超4,http://206.212.246.239/live/Cori/123456/236730.m3u8
-NOW英超5,http://206.212.246.239/live/Cori/123456/236731.m3u8
-NOW英超6,http://206.212.246.239/live/Cori/123456/236732.m3u8
 德甲1,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1138922.m3u8
 德甲1,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1138922.m3u8
 德甲2,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1030380.m3u8
