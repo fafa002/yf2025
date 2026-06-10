@@ -507,6 +507,25 @@ NOW体育7,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stre
 NOW体育4K1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
 NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 
+HUB SPORTS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451817
+HUB SPORTS 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280827
+HUB SPORTS 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280828
+HUB SPORTS 3,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280829
+HUB SPORTS 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280830
+HUB SPORTS 5,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/280831
+
+NOW SPORTS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451767
+SKY SPORTS NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236217
+SKY SPORTS ACTION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236226
+SKY SPORTS CRICKET,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236223
+SKY SPORTS F1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236225
+SKY SPORTS FOOTBALL,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236220
+SKY SPORTS GOLF,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236224
+SKY SPORTS MAIN EVENT,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236218
+SKY SPORTS MIX,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236228
+SKY SPORTS PREMIER LEAGUE,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236219
+SKY SPORTS RACING,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236227
+
 德甲1,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1138922.m3u8
 德甲1,http://seatv.xyz/live/3Z4SFBM0NJX0N9H/yVVlYoaT60/1138922.m3u8
 德甲2,http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/1030380.m3u8
@@ -1358,117 +1377,152 @@ KGMB-TV CBS 5 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rU
 KHNL-TV NBC 13 (Honolulu HI),http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89532.ts
 
 英国UK(挂梯子),#genre# 
-London TV,http://81.137.213.119:4206/bysid/32842
-High Street TV,http://81.137.213.119:4206/bysid/34176
-wedotv Movies UK,http://81.137.213.119:4206/bysid/34496
-U&DaveJaVu,http://81.137.213.119:4206/bysid/34624
-TLC+1,http://81.137.213.119:4206/bysid/34688
-QUEST+1,http://81.137.213.119:4206/bysid/34752
-BBC TWO HD,http://81.137.213.119:4202/bysid/17472
-BBC ONE Lon HD,http://81.137.213.119:4202/bysid/17536
-ITV1 HD,http://81.137.213.119:4202/bysid/17604
-Channel 4 HD,http://81.137.213.119:4202/bysid/17664
-HD,http://81.137.213.119:4202/bysid/17728
-BBC THREE HD,http://81.137.213.119:4202/bysid/17920
-BBC FOUR HD,http://81.137.213.119:4202/bysid/18048
-CBBC HD,http://81.137.213.119:4202/bysid/18112
-CBeebies HD,http://81.137.213.119:4202/bysid/18176
-U&Eden,http://81.137.213.119:4202/bysid/19968
-LEGEND XTRA,http://81.137.213.119:4202/bysid/20032
-TBN UK,http://81.137.213.119:4202/bysid/20160
-5SELECT,http://81.137.213.119:4202/bysid/20256
-BBC ONE Lon,http://81.137.213.119:4200/bysid/4164
-BBC TWO,http://81.137.213.119:4200/bysid/4287
-BBC THREE,http://81.137.213.119:4200/bysid/4288
-BBC NEWS,http://81.137.213.119:4200/bysid/4352
-BBC Red Button,http://81.137.213.119:4200/bysid/4416
-BBC FOUR,http://81.137.213.119:4200/bysid/4544
-CBBC,http://81.137.213.119:4200/bysid/4608
-CBeebies,http://81.137.213.119:4200/bysid/4672
-BBC Parliament,http://81.137.213.119:4200/bysid/4736
-BBC RB 1,http://81.137.213.119:4200/bysid/7168
-ITV1,http://81.137.213.119:4201/bysid/8261
-ITV3,http://81.137.213.119:4201/bysid/8294
-ITV2,http://81.137.213.119:4201/bysid/8325
-ITV4,http://81.137.213.119:4201/bysid/8330
-ITV Quiz,http://81.137.213.119:4201/bysid/8340
-ITV1+1,http://81.137.213.119:4201/bysid/8361
-Channel 4,http://81.137.213.119:4201/bysid/8384
-Film4,http://81.137.213.119:4201/bysid/8385
-More 4,http://81.137.213.119:4201/bysid/8442
-E4,http://81.137.213.119:4201/bysid/8448
-Channel 4+1,http://81.137.213.119:4201/bysid/8452
-E4+1,http://81.137.213.119:4201/bysid/8458
-4seven,http://81.137.213.119:4201/bysid/8460
-5,http://81.137.213.119:4201/bysid/8500
-That's 20th Century,http://81.137.213.119:4201/bysid/8700
-Sky News,http://81.137.213.119:4204/bysid/22080
-Sky Mix,http://81.137.213.119:4204/bysid/22208
-Sky Arts,http://81.137.213.119:4204/bysid/22144
-Challenge,http://81.137.213.119:4204/bysid/22226
-U&Drama+1,http://81.137.213.119:4204/bysid/22336
-U&Dave,http://81.137.213.119:4204/bysid/22272
-E4 Extra,http://81.137.213.119:4204/bysid/22368
-ADULT smileTV3,http://81.137.213.119:4204/bysid/22400
-That's TV 2,http://81.137.213.119:4204/bysid/23152
-Mast Have Ideas,http://81.137.213.119:4204/bysid/23680
-Really,http://81.137.213.119:4204/bysid/23712
-Quest Red,http://81.137.213.119:4204/bysid/23744
-Food Network,http://81.137.213.119:4204/bysid/23040
-SonLife,http://81.137.213.119:4204/bysid/23184
-That's 70s,http://81.137.213.119:4204/bysid/23904
-Great TV,http://81.137.213.119:4204/bysid/23968
-ADULT Section,http://81.137.213.119:4204/bysid/24128
-Film4+1,http://81.137.213.119:4204/bysid/22464
-Gemporia,http://81.137.213.119:4204/bysid/24448
-STAR,http://81.137.213.119:4203/bysid/12928
-USA,http://81.137.213.119:4203/bysid/12992
-+1,http://81.137.213.119:4203/bysid/13024
-Blaze,http://81.137.213.119:4203/bysid/14384
-Blaze+1,http://81.137.213.119:4203/bysid/14388
-Great Action,http://81.137.213.119:4203/bysid/15576
-Great Movies,http://81.137.213.119:4203/bysid/15584
-ITV4+1,http://81.137.213.119:4203/bysid/15920
-ITV2+1,http://81.137.213.119:4203/bysid/15952
-ITV3+1,http://81.137.213.119:4203/bysid/16016
-5ACTION,http://81.137.213.119:4203/bysid/16112
-LEGEND,http://81.137.213.119:4203/bysid/14480
-TRUE CRIME,http://81.137.213.119:4203/bysid/14448
-TRUE CRIME XTRA,http://81.137.213.119:4203/bysid/14456
-U&Drama,http://81.137.213.119:4203/bysid/16208
-QVC,http://81.137.213.119:4203/bysid/13120
-QVC2,http://81.137.213.119:4203/bysid/14416
-TJC,http://81.137.213.119:4203/bysid/15592
-WildEarth,http://81.137.213.119:4203/bysid/14464
-Together TV,http://81.137.213.119:4203/bysid/16364
-Shop On TV,http://81.137.213.119:4203/bysid/16394
-U&W,http://81.137.213.119:4203/bysid/12298
-Great TV,http://81.137.213.119:4205/bysid/27168
-Jewellery Maker,http://81.137.213.119:4205/bysid/27200
-Shop Unlimited,http://81.137.213.119:4205/bysid/27232
-Great Romance,http://81.137.213.119:4205/bysid/27296
-Together TV+1,http://81.137.213.119:4205/bysid/27392
-ADULT Xpanded TV,http://81.137.213.119:4205/bysid/27648
-ADULT Babestn,http://81.137.213.119:4205/bysid/27904
-That's TV (UK),http://81.137.213.119:4205/bysid/27936
-PBS America,http://81.137.213.119:4205/bysid/27968
-TLC,http://81.137.213.119:4205/bysid/28000
-U&Yesterday,http://81.137.213.119:4205/bysid/25792
-GB News,http://81.137.213.119:4205/bysid/27360
-That's 60s,http://81.137.213.119:4205/bysid/28032
-TalkingPictures TV,http://81.137.213.119:4205/bysid/28224
-QUEST,http://81.137.213.119:4205/bysid/27328
-DMAX,http://81.137.213.119:4205/bysid/27680
-ADULT Section,http://81.137.213.119:4205/bysid/27584
-POP UP,http://81.137.213.119:4205/bysid/27424
-Rewind TV,http://81.137.213.119:4205/bysid/27744
-HobbyMaker,http://81.137.213.119:4205/bysid/27840
-Ideal World,http://81.137.213.119:4205/bysid/25920
-Great Mystery,http://81.137.213.119:4205/bysid/27872
-Great Player,http://81.137.213.119:4205/bysid/28352
-Great TV +1,http://81.137.213.119:4205/bysid/28384
+UK ULTRA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451783
+SERVICE INFORMATION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1515133
+BBC1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693835
+BBC2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693836
+BBC NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693834
+SKY CINEMA FAMILY,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138166
+SKY CINEMA ACTION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138160
+SKY SPORTS ACTION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190954
+ALIBI ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693833
+Bloomberg,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693837
+Boomerang,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693838
+Cartoon Network,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693839
+CHANNEL 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693840
+CHANNEL 5,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693841
+Colors,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693842
+Comedy Central,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693843
+Crime Investigation,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693844
+Dazn PPV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693897
+Discovery,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693845
+E4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693846
+Eurosports 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693847
+Eurosports 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693848
+FILM 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693849
+GB News,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693850
+GOLD,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693851
+ITV1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693855
+ITV 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693852
+ITV 3,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693853
+ITV 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693854
+LFC,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693856
+More4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693857
+MTV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693858
+MUTV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693859
+Nat Geo WIld,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693860
+National Geo,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693861
+Nick Jr,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693863
+NICK,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693862
+RTE 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693865
+RTE 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693866
+SKY ARTS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693867
+SKY ATLANTIC,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693868
+SKY COMEDY,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693869
+SKY CRIME,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693870
+SKY HISTORY 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693872
+SKY KIDS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693873
+SKY NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693875
+SKY SHOWCASE,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693876
+SKY SPORTS NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138133
+Sky Sports News,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693881
+Sky Sports Football,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693877
+Sky Sports Golf,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693878
+Sky Sports Main Events,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693879
+Sky Sports Mix,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693880
+Sky Sports Premier League,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693882
+Sky Sports Racing,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693883
+SKY WITNESS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693884
+SONY MAX,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693885
+SONY TV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693886
+SYFY,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693887
+TLC,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693888
+UTSAV GOLD,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693889
+UTSAV PLUS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693890
+Viaplay 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693891
+Viaplay 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693892
+Virgin 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693893
+VIRGIN 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693894
+Watch,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693895
+Zee Tv,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693896
+SKY CINEMA PREMIERE,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138157
+SKY CINEMA HITS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138161
+SKY CINEMA COMEDY,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138164
+SKY CINEMA DRAMA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138165
+SKY CINEMA SCIFI & HORROR,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138162
+SKY CINEMA THRILLER,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138163
+SKY CINEMA GREATS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138159
+SKY CINEMA SELECT,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138158
+SKY CINEMA ANIMATION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138167
+PREMIER SPORTS 1 IR,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138151
+PREMIER SPORTS 1 UK,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138153
+PREMIER SPORTS 2 IR,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138152
+PREMIER SPORTS 2 UK,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138154
+SKY SPORTS MAIN EVENT,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138134
+TNT SPORTS 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190957
+SKY CINEMA PREMIER,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190958
+SKY SPORTS MIX,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190955
+SKY SPORTS PREMIER LEAGUE,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190956
+SKY SPORTS FOOTBALL,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138135
+SKY SPORTS CRICKET,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138140
+SKY SPORTS GOLF,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138139
+SKY SPORTS F1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138141
+SKY SPORTS ARENA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138137
+SKY SPORTS RACING,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138143
+BOXNATION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138168
+TNT SPORT 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138145
+TNT SPORT 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138146
+TNT SPORT 3 ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138147
+TNT SPORT 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138148
+TNT SPORTS 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/309614
+TNT SPORTS 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/309613
+TNT SPORTS 3,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/309612
+TNT SPORTS 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/309611
+Sky Nature,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693874
+RACING UK,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693864
+NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1491133
+SKY NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10536
+SKY  NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13639
+BLOOMBERG NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13642
+BBC NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10582
+BBC PARLIAMENT,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/77363
+BBC WORLD NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13645
+BBC ONE NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/77360
+CNN ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10576
+EURONEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/246753
+EURONEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13638
+ALJAZEERA NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13644
+GB NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/148668
+CBS NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/246756
+FOX NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13640
+RTE NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13643
+BBC GENERAL,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451779
+BBC 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/22246
+BBC ᴴᴰ 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10580
+BBC 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/22244
+BBC ᴴᴰ 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10579
+BBC ᴴᴰ 3 CBBC ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10578
+BBC 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/22243
+BBC CBBC ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10581
+BBC 2 Northern Ireland,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690833
+BBC ALBA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690824
+BBC FOUR,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690823
+BBC One Channel Islands,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690825
+BBC One North East & Cumbria,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690827
+BBC One Northern Ireland,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690822
+BBC One North West,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690828
+BBC One South East,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690829
+BBC One Wales,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690821
+BBC One West,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690830
+BBC One Yorkshire & Lincolnshire,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690826
+BBC One Yorkshire,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690831
+BBC Red Button 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690832
+BBC SCOTLAND ˢᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690818
+BBC SCOTLAND ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690819
+BBC SCOTLAND ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690820
+BBC NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/22242
 
-日本(挂梯子),#genre# 
+日本JP(挂梯子),#genre# 
 NHKGHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=10&bind=0&uin=159413&playseek=
 NHKEHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02&isp=10&bind=0&uin=159413&playseek=
 NTVHD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03&isp=10&bind=0&uin=159413&playseek=
@@ -1547,7 +1601,7 @@ TBSNews,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&
 pigoo,https://nl.utako.moe/pigoo/index.m3u8
 NecoChannel,https://nl.utako.moe/neco/index.m3u8
 
-韩国,#genre#
+韩国KR,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
  BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
