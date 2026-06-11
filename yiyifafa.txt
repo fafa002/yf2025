@@ -2,12 +2,13 @@
 切换EXO解码,1
 小米YU7,http://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg&ratio=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860&ratio=720p&line=0
-王扁-青春修炼手册,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct5htv7og65lsidd7i80&ratio=720p&line=0
-朴彩英/APT,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02f52g10003css23uiljht5d6b6mnq0&ratio=720p&line=0
+朴彩英-APT,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02f52g10003css23uiljht5d6b6mnq0&ratio=720p&line=0
 wonder girls-Nobody,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c6loblbc77u7hd3mel20&ratio=720p&line=0
 街道办GDC/欧阳耀莹-春娇与志明,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cskdftnog65s1b5rtimg&ratio=720p&line=0
 handsome lau/HYPEEZY/冯泳-梦醒,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cd2h8erc77u41qn32org&ratio=720p&line=0
-王心凌-第一次爱的人,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ca7f43jc77u3aleiupe0&ratio=720p&line=0
+欧阳耀莹-戒不掉,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cpa5fhvog65hgvocq0vg&ratio=720p&line=0
+陈芯怡-不需要挽留,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmj9767og65mocrpq5fg&ratio=720p&line=0
+王心凌-第一次爱的人,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c8kod7rc77u382vs27jg&ratio=720p&line=0
 王心凌-当你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ciro1jbc77u72t4qmdpg&ratio=720p&line=0
 陈冠希-战争,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ch5hv2jc77udla7jom10&ratio=720p&line=0
 蔡依林-日不落,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ch00eijc77u0akslavig&ratio=720p&line=0
