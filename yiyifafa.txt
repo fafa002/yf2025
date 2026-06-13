@@ -498,6 +498,16 @@ HOY78 1,https://rtmp.play.live.tieba.com/live/dCukhP7swVJHnZklbVnktxvH8HsVCV6l9b
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
 凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
 
+NOW616,http://77.90.60.172:55555/6
+NOW617,http://77.90.60.172:55555/8
+NOW618,http://77.90.60.172:55555/3
+NOW619,http://77.90.60.172:55555/4
+TSN 4K,http://77.90.60.172:55555/1
+广东体育,http://77.90.60.172:55555/2
+福克斯4K,http://77.90.60.172:55555/5
+福克斯体育1,http://77.90.60.172:55555/7
+德语ORF 1,http://77.90.60.172:55555/9
+
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
 NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
