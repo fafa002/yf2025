@@ -494,7 +494,7 @@ CCTV5,https://live12.szyac.com/live/85042987.m3u8
 澳门体育,https://live12.szyac.com/live/77795881.m3u8
 小红书,https://live12.szyac.com/live/79298159.m3u8
 ELTA体育1,https://live12.szyac.com/live/13212901.m3u8
-央视频,https://live.666666.zip/live/4460950.m3u8
+央视频,https://live13.quzeay.com/live/12345678.m3u8
 
 咪咕频道,https://live.666666.zip/stream/12871538.m3u8
 广东体育,https://live.666666.zip/stream/37111391.m3u8
