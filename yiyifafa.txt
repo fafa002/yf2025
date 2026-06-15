@@ -488,12 +488,12 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 2026世界杯,#genre#
-咪咕频道,https://live12.xiazhix1.top/live/12871538.m3u8
-广东体育,https://live12.xiazhix1.top/live/37111391.m3u8
-CCTV5,https://live12.xiazhix1.top/live/85042987.m3u8
-澳门体育,https://live12.xiazhix1.top/live/77795881.m3u8
-小红书,https://live12.xiazhix1.top/live/79298159.m3u8
-ELTA体育1,https://live12.xiazhix1.top/live/13212901.m3u8
+咪咕频道,https://live12.szyac.com/live/12871538.m3u8
+广东体育,https://live12.szyac.com/live/37111391.m3u8
+CCTV5,https://live12.szyac.com/live/85042987.m3u8
+澳门体育,https://live12.szyac.com/live/77795881.m3u8
+小红书,https://live12.szyac.com/live/79298159.m3u8
+ELTA体育1,https://live12.szyac.com/live/13212901.m3u8
 央视频,https://live.666666.zip/live/4460950.m3u8
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
