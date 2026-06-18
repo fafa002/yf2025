@@ -509,20 +509,20 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 
 2026世界杯,#genre#
-咪咕频道,https://live.wxinxi.com/live/12871538.m3u8
+咪咕频道,https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
 广东体育,https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
 CCTV5,https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 澳门体育,https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
 ELTA体育1,https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
 NOW618,https://live.wxinxi.com/live/48439940.m3u8
-小红书,https://live.wxinxi.com/live/79298159.m3u8
+小红书,https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
 
-咪咕频道,https://live.666666.zip/stream/12871538.m3u8
+咪咕频道,https://live.666666.zip/stream/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
 广东体育,https://live.666666.zip/stream/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
 CCTV5,https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 澳门体育,https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
 ELTA体育1,https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-NOW618,https://live.666666.zip/stream/48439940.m3u8
+NOW618,https://live.666666.zip/stream/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
 小红书,https://live.666666.zip/stream/79298159.m3u8
 
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
