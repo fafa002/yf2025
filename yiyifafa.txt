@@ -509,21 +509,21 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 
 2026世界杯,#genre#
-咪咕频道,https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
-广东体育,https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-CCTV5,https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-澳门体育,https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-ELTA体育1,https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-NOW618,https://live.wxinxi.com/live/48439940.m3u8
-小红书,https://live.wxinxi.com/live/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
+咪咕频道,https://live01-cn-ali.kbazwa.com/live/80427327.m3u8
+广东体育,https://live01-cn-ali.kbazwa.com/live/90149826.m3u8
+CCTV5,https://live01-cn-ali.kbazwa.com/live/20233432.m3u8
+澳门体育,https://live01-cn-ali.kbazwa.com/live/38143826.m3u8
+ELTA体育1,https://live01-cn-ali.kbazwa.com/live/16697898.m3u8
+NOW618,https://live01-cn-ali.kbazwa.com/live/83083629.m3u8
+小红书,https://live01-cn-ali.kbazwa.com/live/22539477.m3u8
 
-咪咕频道,https://live.666666.zip/stream/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
-广东体育,https://live.666666.zip/stream/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-CCTV5,https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-澳门体育,https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-ELTA体育1,https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-NOW618,https://live.666666.zip/stream/19673350_q7rn7eycborzhybgd54yqch2o2c908vf.m3u8
-小红书,https://live.666666.zip/stream/79298159.m3u8
+咪咕频道,https://live.666666.zip/stream/80427327.m3u8
+广东体育,https://live.666666.zip/stream/90149826.m3u8
+CCTV5,https://live.666666.zip/stream/20233432.m3u8
+澳门体育,https://live.666666.zip/stream/38143826.m3u8
+ELTA体育1,https://live.666666.zip/stream/16697898.m3u8
+NOW618,https://live.666666.zip/stream/83083629.m3u8
+小红书,https://live.666666.zip/stream/22539477.m3u8
 
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
