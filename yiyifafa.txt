@@ -513,16 +513,18 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 CCTV5,https://live.666666.zip/stream/20233432.m3u8
 澳门体育,https://live.666666.zip/stream/38143826.m3u8
 ELTA体育1,https://live.666666.zip/stream/16697898.m3u8
+ELTA体育2,https://live.666666.zip/stream/28361755.m3u8
 CCTV5+,https://live.666666.zip/stream/79635460.m3u8
 小红书,https://live.666666.zip/stream/22539477.m3u8
 
-咪咕频道,https://live13a.jynrrs.com/live/80427327.m3u8
-广东体育,https://live13a.jynrrs.com/live/90149826.m3u8
-CCTV5,https://live13a.jynrrs.com/live/20233432.m3u8
-澳门体育,https://live13a.jynrrs.com/live/38143826.m3u8
-ELTA体育1,https://live13a.jynrrs.com/live/16697898.m3u8
-CCTV5+,https://live13a.jynrrs.com/live/79635460.m3u8
-小红书,https://live13a.jynrrs.com/live/22539477.m3u8
+咪咕频道,https://live06.zuqiu106.com/live/80427327.m3u8
+广东体育,https://live06.zuqiu106.com/live/90149826.m3u8
+CCTV5,https://live06.zuqiu106.com/live/20233432.m3u8
+澳门体育,https://live06.zuqiu106.com/live/38143826.m3u8
+ELTA体育1,https://live06.zuqiu106.com/live/16697898.m3u8
+ELTA体育2,https://live06.zuqiu106.com/live/28361755.m3u8
+CCTV5+,https://live06.zuqiu106.com/live/79635460.m3u8
+小红书,https://live06.zuqiu106.com/live/22539477.m3u8
 
 凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
 凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
