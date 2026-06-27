@@ -527,13 +527,15 @@ ELTA体育2,https://live06.zuqiu106.com/live/28361755.m3u8
 CCTV5+,https://live06.zuqiu106.com/live/79635460.m3u8
 小红书,https://live06.zuqiu106.com/live/22539477.m3u8
 
-凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
-凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
-凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
-
 咪咕1,https://www.rtmpcdn.com/live/migu1.m3u8
 咪咕2,https://www.rtmpcdn.com/live/migu2.m3u8
 
+CCTV5(临时),http://82.156.243.185:36888/av3a/cctv5n.m3u8
+CCTV5+(临时),http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+
+凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
+凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
+凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
 NOW体育1,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
 NOW体育2,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
 NOW体育3,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
