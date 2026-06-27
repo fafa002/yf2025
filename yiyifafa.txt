@@ -410,37 +410,31 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 极速港台,#genre#,DE=3
 盗源狗si全家 全家下地狱
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台,https://hls.163189.xyz/163189/0205c25f6b2ce920
-翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,https://cdn10.163189.xyz/163189/fct/
 翡翠台广电,http://cdn6.163189.xyz/163189/fct
 翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
 无线新闻台,http://cdn6.163189.xyz/163189/wxxw
 NOW新闻台,http://cdn.163189.xyz/163189/now
 TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
-TVB PLUS,https://hls.163189.xyz/163189/a2beac471af96802
+TVB PLUS,https://cdn10.163189.xyz/163189/tvbp/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,https://hls.163189.xyz/163189/d6a00a3009bf239e
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
+明珠台,https://cdn10.163189.xyz/163189/mzt/
 HOYTV,http://cdn6.163189.xyz/163189/hoy
 HOYTV,http://cdn.163189.xyz/163189/hoy
-HOY国际财经台,https://cdn11.163189.xyz/163189/2c86601a7180416e
+HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
 HOY资讯台,http://cdn.163189.xyz/163189/hoy78
-VIUTV,https://cdn10.163189.xyz/stream/163189/viu/
-VIUTVSIX,https://cdn10.163189.xyz/stream/163189/viu6/
+VIUTV,https://cdn10.163189.xyz/163189/viu/
+VIUTVSIX,https://cdn10.163189.xyz/163189/viu6/
 RTHK 31,http://cdn.163189.xyz/163189/rthk31
 RTHK 32,http://cdn.163189.xyz/163189/rthk32
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 CCTV1港澳版,http://cdn6.163189.xyz/163189/cctv1
-CCTV13,http://cdn3.163189.xyz/163189/cctv13
-五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+五星体育,https://cdn15.163189.xyz/163189/wxty
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 广东珠江,http://cdn2.163189.xyz/163189/gdzj
 广东体育,http://cdn2.163189.xyz/163189/gdty
-广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
-广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
-广州南国都市,https://cdn15.163189.xyz/163189/90871926591ebcbc
 澳视澳门,http://cdn6.163189.xyz/163189/asam
 澳视卫星,http://cdn6.163189.xyz/163189/as
 澳门体育,http://cdn6.163189.xyz/163189/amty
@@ -454,9 +448,10 @@ TVB亚洲武侠,http://cdn6.163189.xyz/163189/yzwx
 娱乐新闻台,http://cdn6.163189.xyz/163189/ylxw
 TVB星河,http://cdn6.163189.xyz/163189/tvbxh
 TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
-TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
-天映新加坡,https://cdn10.163189.xyz/stream/163189/typd/
-天映经典频道,https://cdn10.163189.xyz/stream/163189/ccm/
+TVB星河,https://cdn10.163189.xyz/163189/xinghe/
+黄金华剧台,https://cdn10.163189.xyz/163189/hjhjt/
+天映新加坡,https://cdn10.163189.xyz/163189/typd/
+天映经典频道,https://cdn10.163189.xyz/163189/ccm/
 千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
 天映频道,http://o11.163189.xyz/stream/live/typd/
 天映经典频道,http://o11.163189.xyz/stream/live/ccm/
@@ -468,13 +463,19 @@ TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe/
 金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
 ASTRO AOD,http://o11.163189.xyz/stream/live/aod/
 ASTRO AEC,http://o11.163189.xyz/stream/live/aec/
-ASTRO QJ,http://o11.163189.xyz/stream/live/qj/
 ASTRO 欢喜台,http://o11.163189.xyz/stream/live/hxt/
 IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
 八度空间,http://cdn6.163189.xyz/163189/8tv
 CHANNEL 5,http://cdn6.163189.xyz/163189/ch5
 CHANNEL 8,http://cdn6.163189.xyz/163189/ch8
 CHANNEL U,http://cdn6.163189.xyz/163189/chu
+纬来电影台,https://smt.1678520.xyz/163189/wldy
+纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
+纬来体育台,https://smt.1678520.xyz/163189/wlty
+龙祥时代,https://smt.1678520.xyz/163189/lxsd
+东森电影,https://smt.1678520.xyz/163189/dsdy
+东森戏剧,https://smt.1678520.xyz/163189/dsxj
+东森洋片,https://smt.1678520.xyz/163189/dsyp
 
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
