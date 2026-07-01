@@ -509,11 +509,11 @@ HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 
 2026世界杯,#genre#
-咪咕频道,https://live.666666.zip/stream/80427327.m3u8
-广东体育,https://live.666666.zip/stream/90149826.m3u8
+咪咕频道,https://live.666666.zip/migu/1.m3u8
+广东体育,http://cdn2.163189.xyz/163189/gdty
 CCTV5,https://live.666666.zip/stream/20233432.m3u8
 CCTV5,https://live.666666.zip/cctv/5.m3u8
-澳门体育,https://live.666666.zip/stream/38143826.m3u8
+澳门体育,http://cdn6.163189.xyz/163189/amty
 ELTA体育1,https://live.666666.zip/stream/16697898.m3u8
 ELTA体育1,https://live.666666.zip/elta/index.m3u8
 ELTA体育2,https://live.666666.zip/stream/28361755.m3u8
@@ -521,7 +521,7 @@ CCTV5+,https://live.666666.zip/stream/79635460.m3u8
 CCTV5+,https://live.666666.zip/cctv/5p.m3u8
 小红书1,https://live.666666.zip/xiaohongshu/1.m3u8
 小红书2,https://live.666666.zip/xiaohongshu/2.m3u8
-
+NOW618,https://live.666666.zip/yueyu/index.m3u8
 咪咕1,https://www.rtmpcdn.com/live/migu1.m3u8
 咪咕2,https://www.rtmpcdn.com/live/migu2.m3u8
 
