@@ -407,7 +407,7 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 新澳门直播,https://play3636.zdwafis.com/live/mosixmark.flv
 老澳门直播,https://vdm6-ali.hrypl168.com/live/a6.flv
 
-极速港台(失效）,#genre#,DE=3
+极速港台,#genre#,DE=3
 盗源狗si全家 全家下地狱
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
