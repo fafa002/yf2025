@@ -409,73 +409,61 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 
 极速港台(失效）,#genre#,DE=3
 盗源狗si全家 全家下地狱
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
-翡翠台,https://cdn10.163189.xyz/163189/fct/
-翡翠台广电,http://cdn6.163189.xyz/163189/fct
-翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
-无线新闻台,http://cdn6.163189.xyz/163189/wxxw
-NOW新闻台,http://cdn.163189.xyz/163189/now
-TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
-TVB PLUS,https://cdn10.163189.xyz/163189/tvbp/
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,https://cdn10.163189.xyz/163189/mzt/
-HOYTV,http://cdn6.163189.xyz/163189/hoy
-HOYTV,http://cdn.163189.xyz/163189/hoy
-HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
-HOY资讯台,http://cdn.163189.xyz/163189/hoy78
-VIUTV,https://cdn10.163189.xyz/163189/viu/
-VIUTVSIX,https://cdn10.163189.xyz/163189/viu6/
-RTHK 31,http://cdn.163189.xyz/163189/rthk31
-RTHK 32,http://cdn.163189.xyz/163189/rthk32
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-CCTV1港澳版,http://cdn6.163189.xyz/163189/cctv1
-五星体育,https://cdn15.163189.xyz/163189/wxty
-重温经典,http://cdn6.163189.xyz/163189/cwjd
-广东珠江,http://cdn2.163189.xyz/163189/gdzj
-广东体育,http://cdn2.163189.xyz/163189/gdty
-澳视澳门,http://cdn6.163189.xyz/163189/asam
-澳视卫星,http://cdn6.163189.xyz/163189/as
-澳门体育,http://cdn6.163189.xyz/163189/amty
-澳门综艺,http://cdn6.163189.xyz/163189/amzy
-澳门莲花,http://cdn6.163189.xyz/163189/amlh
-华丽翡翠台,http://cdn6.163189.xyz/163189/jade
-翡翠一台(TVB1),http://cdn6.163189.xyz/163189/tvb1
-TVBJ,http://cdn6.163189.xyz/163189/j1
-TVB翡翠剧集台,http://cdn6.163189.xyz/163189/tvbd
-TVB亚洲武侠,http://cdn6.163189.xyz/163189/yzwx
-娱乐新闻台,http://cdn6.163189.xyz/163189/ylxw
-TVB星河,http://cdn6.163189.xyz/163189/tvbxh
-TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
-TVB星河,https://cdn10.163189.xyz/163189/xinghe/
-黄金华剧台,https://cdn10.163189.xyz/163189/hjhjt/
-天映新加坡,https://cdn10.163189.xyz/163189/typd/
-天映经典频道,https://cdn10.163189.xyz/163189/ccm/
-千禧经典台,http://o11.163189.xyz/stream/live/tvbc/
-天映频道,http://o11.163189.xyz/stream/live/typd/
-天映经典频道,http://o11.163189.xyz/stream/live/ccm/
-龙华电影,http://cdn8.163189.xyz/163189/lhdy
-龙华经典台,http://cdn8.163189.xyz/163189/lhjd
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
-ASTRO AOD,http://o11.163189.xyz/stream/live/aod/
-ASTRO AEC,http://o11.163189.xyz/stream/live/aec/
-ASTRO 欢喜台,http://o11.163189.xyz/stream/live/hxt/
-IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
-八度空间,http://cdn6.163189.xyz/163189/8tv
-CHANNEL 5,http://cdn6.163189.xyz/163189/ch5
-CHANNEL 8,http://cdn6.163189.xyz/163189/ch8
-CHANNEL U,http://cdn6.163189.xyz/163189/chu
-纬来电影台,https://smt.1678520.xyz/163189/wldy
-纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
-纬来体育台,https://smt.1678520.xyz/163189/wlty
-龙祥时代,https://smt.1678520.xyz/163189/lxsd
-东森电影,https://smt.1678520.xyz/163189/dsdy
-东森戏剧,https://smt.1678520.xyz/163189/dsxj
-东森洋片,https://smt.1678520.xyz/163189/dsyp
+翡翠台,http://tianlun.f3322.net:19991/stream/channelid/715595266?profile=matroska
+翡翠台高清,http://tianlun.f3322.net:19991/stream/channelid/171604664?profile=matroska
+明珠台,http://zwg6818.vicp.net:28000/bysid/2.mpeg
+TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
+無綫新聞台,http://zwg6818.vicp.net:28000/bysid/83
+鳳凰衛視香港台,http://zwg6818.vicp.net:28000/bysid/85
+SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
+astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+智林體育,http://iptv.4666888.xyz/iptv2A.php?id=5
+JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
+鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+千禧經典,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVB娛樂新聞,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
+澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
+中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
+TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
+非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
+民視,http://iptv.4666888.xyz/iptv2A.php?id=55
+華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
+靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
+東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
+緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=54
+龍華電影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
+金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
+民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
+民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
+東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
+八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
+韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
+娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
+綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
@@ -704,57 +692,6 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 經典卡通-FastTV飛速看,http://4gtv.cnlive.club/channel/53488299/index.m3u8?q=1782639885837
 經典迪士尼-FastTV飛速看,http://4gtv.cnlive.club/channel/n4ae53aed/index.m3u8?q=1782639885837
 東離劍遊紀-FastTV飛速看,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
-
-极速风云,#genre#
-SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
-SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
-astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
-TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
-智林體育,http://iptv.4666888.xyz/iptv2A.php?id=5
-JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
-SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
-鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-千禧經典,http://iptv.4666888.xyz/iptv2A.php?id=22
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
-TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
-TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-TVB娛樂新聞,http://iptv.4666888.xyz/iptv2A.php?id=36
-MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
-TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
-中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
-TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
-非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
-民視,http://iptv.4666888.xyz/iptv2A.php?id=55
-華藝中文,http://iptv.4666888.xyz/iptv2A.php?id=37
-愛奇藝,http://iptv.4666888.xyz/iptv2A.php?id=21
-靖洋戲劇,http://iptv.4666888.xyz/iptv2A.php?id=42
-靖天電影,http://iptv.4666888.xyz/iptv2A.php?id=56
-東森電影,http://iptv.4666888.xyz/iptv2A.php?id=48
-緯來電影,http://iptv.4666888.xyz/iptv2A.php?id=54
-龍華電影,http://iptv.4666888.xyz/iptv2A.php?id=45
-龍華洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
-風雲恐怖電影,http://iptv.4666888.xyz/iptv2A.php?id=59
-ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
-梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
-Duck TV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
-MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
-金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
-民視綜藝,http://iptv.4666888.xyz/iptv2A.php?id=46
-民視影劇,http://iptv.4666888.xyz/iptv2A.php?id=53
-TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
-臺視綜合,http://iptv.4666888.xyz/iptv2A.php?id=51
-東森綜合2,http://iptv.4666888.xyz/iptv2A.php?id=58
-八度空間,http://iptv.4666888.xyz/iptv2A.php?id=52
-韓流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
-娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
-綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
 美国US,#genre#,DE=3
 COZI TV SD,http://108.181.20.255:27347/livehttpplay?channel_id=23000
