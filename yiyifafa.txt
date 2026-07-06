@@ -413,8 +413,6 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
-翡翠台,http://tianlun.f3322.net:19991/stream/channelid/715595266?profile=matroska
-翡翠台,http://tianlun.f3322.net:19991/stream/channelid/171604664?profile=matroska
 明珠台,http://119.32.12.73:2905/rtp/225.1.101.139:7523
 明珠台,http://zwg6818.vicp.net:28000/bysid/2.mpeg
 TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
