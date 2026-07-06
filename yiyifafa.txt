@@ -420,8 +420,6 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
 無綫新聞台,http://zwg6818.vicp.net:28000/bysid/83
 鳳凰衛視香港台,http://zwg6818.vicp.net:28000/bysid/85
-ViuTVsix,http://beishan008.asuscomm.com:8889/bysid/96
-ViuTV,http://beishan008.asuscomm.com:8889/bysid/99
 SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
 astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
