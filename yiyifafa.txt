@@ -515,7 +515,7 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
-翡翠台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovL2V2ZXJ5ZGF5dHYudG9wL2xpdmUvZ2dpcHR2L2phZGUvcGxheWxpc3QubTN1OA==
+翡翠台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
 明珠台,http://119.32.12.73:2905/rtp/225.1.101.139:7523
 明珠台,http://zwg6818.vicp.net:28000/bysid/2.mpeg
 TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
