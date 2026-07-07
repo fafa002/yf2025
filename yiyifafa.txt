@@ -583,10 +583,10 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 
 2026世界杯,#genre#
 咪咕频道,https://live.666666.zip/migu/1.m3u8
-广东体育,http://cdn2.163189.xyz/163189/gdty
+广东体育,https://2.fast.hidns.vip/163189/gdty
 CCTV5,https://live.666666.zip/stream/20233432.m3u8
 CCTV5,https://live.666666.zip/cctv/5.m3u8
-澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门体育,https://cdn6.cc.cd/163189/amty
 ELTA体育1,https://live.666666.zip/stream/16697898.m3u8
 ELTA体育1,https://live.666666.zip/elta/index.m3u8
 ELTA体育2,https://live.666666.zip/stream/28361755.m3u8
