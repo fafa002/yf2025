@@ -5083,6 +5083,8 @@ CCTV17,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/5643_c17.m3u8
 新疆卫视,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/5643_xinjiang.m3u8
 西藏卫视,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/5643_xizang.m3u8
 兵团卫视,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/5643_bingtuan.m3u8
+海南卫视,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/189_hnws.m3u8
+三沙卫视,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/189_sshws.m3u8
 北京纪实科教,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/5643_beijingjishihd02.m3u8
 东北热剧,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/dbrj.m3u8
 中国功夫,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/zggf.m3u8
@@ -5104,6 +5106,7 @@ CCTV17,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/5643_c17.m3u8
 精品纪录,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/jpjl.m3u8
 精品综合,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/jpzh.m3u8
 金牌综艺,http://120.220.164.81/shenhe.str.vod01.icntvcdn.com/live/jpzy.m3u8
+
 
 安徽JD,#genre#,DE=3
 CCTV1,http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
