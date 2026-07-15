@@ -782,6 +782,7 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 東離劍遊紀-FastTV飛速看,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
 
 斯玛特,#genre#
+切换EXO解码,1
 44,http://smt.aimy.qzz.io/?channel=44
 45,http://smt.aimy.qzz.io/?channel=45
 46,http://smt.aimy.qzz.io/?channel=46
