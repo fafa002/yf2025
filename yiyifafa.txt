@@ -676,7 +676,7 @@ SKY SPORTS RACING,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236227
 美国beIN体育,http://23.237.104.106:8080/USA_BEIN/tracks-v1a1/mono.m3u8
 
 四季台湾,#genre#
-中天新闻,rtmp://www.ipanlian.com/live/ztxw
+中天新闻,http://www.ipanlian.com:8080/live/333ztxw.m3u8
 中天新闻,rtmp://jiaohesy.cn/live/ztxw
 中天新闻,rtmp://ai.gdjs.net.cn/live/332000-ztxw2
 中天新闻,rtmp://media.atmsiot.com/live/ztxw
