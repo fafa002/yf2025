@@ -515,6 +515,7 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 
 极速港台2,#genre#,DE=3
 盗源狗si全家 全家下地狱
+翡翠台,https://luxiang.nbltv.dpdns.org/?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
