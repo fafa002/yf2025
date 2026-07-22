@@ -522,6 +522,12 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 翡翠台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
 凤凰中文台,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/ggiptv/jade/playlist.m3u8
 
+中天新闻,http://173.208.234.146/live/ctinews.m3u8
+美亚电影,http://173.208.234.146/live/mymovie.m3u8
+天映频道,http://173.208.234.146/live/typd.m3u8
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
+
 SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
 astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
