@@ -683,9 +683,6 @@ SKY SPORTS RACING,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236227
 中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
 中天新闻,http://hsjky.com.cn:8081/live/111ztxw.m3u8
-镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
-TVBS新闻,http://jnzq.ohoyee.com:9080/live/332332-tvbsxw.m3u8
-寰宇新闻,http://jnzq.ohoyee.com:9080/live/332332-hyxw.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
 台视新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
 原視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
@@ -695,6 +692,26 @@ TVBS新闻,http://jnzq.ohoyee.com:9080/live/332332-tvbsxw.m3u8
 民視,http://211.72.174.95:8115/0.ts
 台視,http://211.72.174.95:8112/0.ts
 東森新聞,http://211.72.174.95:8138/0.ts
+
+中視,http://220.135.241.47:8301/0.ts
+中視新聞,http://220.135.241.47:8302/0.ts
+中視經典,http://220.135.241.47:8321/0.ts
+中視菁采,http://220.135.241.47:8322/0.ts
+客家电视,http://220.135.241.47:8303/0.ts
+公視,http://220.135.241.47:8305/0.ts
+PTSxs,http://220.135.241.47:8312/0.ts
+公視台語台,http://220.135.241.47:8306/0.ts
+民視,http://220.135.241.47:8308/0.ts
+民視第一台,http://220.135.241.47:8309/0.ts
+民視台灣台,http://220.135.241.47:8311/0.ts
+民視新聞台,http://220.135.241.47:8310/0.ts
+台視,http://220.135.241.47:8313/0.ts
+台視新聞,http://220.135.241.47:8314/0.ts
+台視綜合,http://220.135.241.47:8316/0.ts
+台視財經,http://220.135.241.47:8315/0.ts
+華視,http://220.135.241.47:8317/0.ts 
+華視新聞資訊,http://220.135.241.47:8319/0.ts
+華視教育體育文化,http://220.135.241.47:8318/0.ts
 
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
