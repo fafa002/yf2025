@@ -684,7 +684,7 @@ SKY SPORTS RACING,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236227
 中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
 中天新闻,http://hsjky.com.cn:8081/live/111ztxw.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
-台视新聞,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台视新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 原視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 中視,http://211.72.174.95:8113/0.ts
 華視,http://211.72.174.95:8114/0.ts
@@ -1118,7 +1118,7 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 格格睡醒了,https://cdn-3.ttvb.eu.org/douyin/42347122605
 晓晓,https://cdn-3.ttvb.eu.org/douyin/147258247158d
 朱朱,https://cdn-3.ttvb.eu.org/douyin/36914825720a
-
+期许,https://cdn-3.ttvb.eu.org/douyin/40332559204
 央视网,http://cfss.cc/cdn/dy/cctv.com.flv
 小央视频,http://cfss.cc/cdn/dy/cctv_video.flv
 CCTV4,http://cfss.cc/cdn/dy/CCTV4...flv
