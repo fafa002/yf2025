@@ -414,7 +414,7 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 2026八仙,http://111.229.219.148:808/Cache/lzgg/7a367b98744276dba9ea2844bf13ab1e.m3u8
 2019哪吒之魔童降世,http://111.229.219.148:808/Cache/lzgg/67f35a41a439e00540d0d88f62d3d56a.m3u8
 2025哪吒之魔童闹海,https://play.modujx11.com/20250802/Cha4M4YU/index.m3u8
-2016美人鱼https://vodcnd12.myqqdd.com/20250622/1wNEi7n7/index.m3u8
+2016美人鱼,https://vodcnd12.myqqdd.com/20250622/1wNEi7n7/index.m3u8
 2001少林足球,https://vip.lzcdn2.com/20220521/7147_3b73302c/index.m3u8
 2004功夫,https://cdn1.ryplay1.com/20240910/7703_9dc7d493/index.m3u8
 1996食神,https://play.modujx15.com/20240826/pUDgrWmX/index.m3u8
