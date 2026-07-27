@@ -411,6 +411,7 @@ TVB plus备,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 爱看电影,#genre#
 2026功夫女足,https://v.lfthirtytwo.com/20260723/8846_f4084a75/index.m3u8
 2026功夫 女足,https://v.fengbao11.com/video/gongfunvzu/618845436188/index.m3u8
+2026 功夫女足,https://vip.dytt-network.com/20260723/36526_9c21455c/index.m3u8
 2026八仙,http://111.229.219.148:808/Cache/lzgg/7a367b98744276dba9ea2844bf13ab1e.m3u8
 2019哪吒之魔童降世,http://111.229.219.148:808/Cache/lzgg/67f35a41a439e00540d0d88f62d3d56a.m3u8
 2025哪吒之魔童闹海,https://play.modujx11.com/20250802/Cha4M4YU/index.m3u8
