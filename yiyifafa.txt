@@ -816,7 +816,47 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 東離劍遊紀-FastTV飛速看,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
 
 今日影视,#genre#
-又拉闸,1
+翡翠台,http://139.159.221.112/jr.php?id=2bc1e037cf7dd25ffd1cf86731fdb774&l=0
+翡翠台,http://139.159.221.112/jr.php?id=2bc1e037cf7dd25ffd1cf86731fdb774&l=1
+翡翠台,http://139.159.221.112/jr.php?id=2bc1e037cf7dd25ffd1cf86731fdb774&l=2
+翡翠台,http://139.159.221.112/jr.php?id=6098a7b44d68d0b1fc873e13c67f6eb95f3fb5e35cab231f40d8d00d114aea7a&l=0
+翡翠台,http://139.159.221.112/jr.php?id=8af80a34673113c829dc945ed4241567afb3ddce413056391a3616753be5ae33&l=0
+翡翠台,http://139.159.221.112/jr.php?id=8af80a34673113c829dc945ed4241567b078dc086c58c2a52105eec4ad7e1b10&l=0
+翡翠台,http://139.159.221.112/jr.php?id=29d0d221342c64dc167270a43c8a6493760f9809cd00201aa3d236b023b4fc21&l=0
+翡翠台,http://139.159.221.112/jr.php?id=6a307d5ddde29e59d0c479f4520a349a5162c2d9dd753e3056de6d13c3593465&l=0
+TVBPlus,http://139.159.221.112/jr.php?id=2fff0e795ee22d45e03703a8ef6198dc&l=0
+TVBPlus,http://139.159.221.112/jr.php?id=2fff0e795ee22d45e03703a8ef6198dc&l=1
+TVBPlus,http://139.159.221.112/jr.php?id=2fff0e795ee22d45e03703a8ef6198dc&l=2
+TVBPlus,http://139.159.221.112/jr.php?id=2fff0e795ee22d45e03703a8ef6198dc&l=3
+TVBPlus,http://139.159.221.112/jr.php?id=2fff0e795ee22d45e03703a8ef6198dc&l=4
+无线新闻台,http://139.159.221.112/jr.php?id=be56349b9771c2813686cf938e25fd59188dfbfaf34daf7808a26d68fb1a7c3d&l=0
+无线新闻台,http://139.159.221.112/jr.php?id=be56349b9771c2813686cf938e25fd59188dfbfaf34daf7808a26d68fb1a7c3d&l=1
+无线新闻台,http://139.159.221.112/jr.php?id=be56349b9771c2813686cf938e25fd59188dfbfaf34daf7808a26d68fb1a7c3d&
+明珠台,http://139.159.221.112/jr.php?id=dc5b9e01613a8b31868245a52003571a&l=0
+明珠台,http://139.159.221.112/jr.php?id=dc5b9e01613a8b31868245a52003571a&l=1
+明珠台,http://139.159.221.112/jr.php?id=dc5b9e01613a8b31868245a52003571a&l=2
+明珠台,http://139.159.221.112/jr.php?id=dc5b9e01613a8b31868245a52003571a&l=3
+明珠台,http://139.159.221.112/jr.php?id=dc5b9e01613a8b31868245a52003571a&l=4
+TVB生活台,http://139.159.221.112/jr.php?id=cfce93d1e11c1bff93c18dab3f29759b&l=0
+TVB生活台,http://139.159.221.112/jr.php?id=cfce93d1e11c1bff93c18dab3f29759b&l=1
+星河,http://139.159.221.112/jr.php?id=b93d84053bc86924a4a4e7c0f485c131&l=0
+星河,http://139.159.221.112/jr.php?id=b93d84053bc86924a4a4e7c0f485c131&l=1
+星空卫视,http://139.159.221.112/jr.php?id=684d07a60b8836a8493f67f159ed049f&l=0
+TVB1,http://139.159.221.112/jr.php?id=448b74cdd8bd69d464f791181fc3ef1e&l=0
+明珠劇集台,http://139.159.221.112/jr.php?id=edcad445f360911d31e2f2d4776b6ea655f2f1acbf50e809058277a2367e0a17&l=0
+TVBJ1,http://139.159.221.112/jr.php?id=d9c75d64d4b6ac534b747f9a99735c3d&l=0
+翡翠劇集台,http://139.159.221.112/jr.php?id=1ca1e1ed74fbc811eae584cd00485eace3ab026f0c6113e58285fcccfaf0ea9f&l=0
+翡翠娛樂台,http://139.159.221.112/jr.php?id=6fa8ae78987b233391a792bb4e2160ec22b91addd6f313bdbd7c16ccb5944958&l=0
+POP C,http://139.159.221.112/jr.php?id=9a123886f108a829a2d307bcee9d2960&l=0
+POP C,http://139.159.221.112/jr.php?id=9a123886f108a829a2d307bcee9d2960&l=1
+Now爆谷台,http://139.159.221.112/jr.php?id=77b862e5fea4b1145514bd88e4e135d9&l=0
+Now爆谷台,http://139.159.221.112/jr.php?id=77b862e5fea4b1145514bd88e4e135d9&l=1
+Now爆谷台,http://139.159.221.112/jr.php?id=77b862e5fea4b1145514bd88e4e135d9&l=2
+Now爆谷台,http://139.159.221.112/jr.php?id=77b862e5fea4b1145514bd88e4e135d9&l=3
+Now星影台,http://139.159.221.112/jr.php?id=0f0a4ccad408e76dbeac98b1f9d0f455188dfbfaf34daf7808a26d68fb1a7c3d&l=0
+Now星影台,http://139.159.221.112/jr.php?id=0f0a4ccad408e76dbeac98b1f9d0f455188dfbfaf34daf7808a26d68fb1a7c3d&l=1
+Now星影台,http://139.159.221.112/jr.php?id=0f0a4ccad408e76dbeac98b1f9d0f455188dfbfaf34daf7808a26d68fb1a7c3d&l=2
+Now星影台,http://139.159.221.112/jr.php?id=0f0a4ccad408e76dbeac98b1f9d0f455188dfbfaf34daf7808a26d68fb1a7c3d
 
 美国UA(挂梯子),#genre# 
 DHE HD,http://108.181.23.41:80/livehttpplay?channel_id=23504
