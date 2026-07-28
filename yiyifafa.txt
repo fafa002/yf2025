@@ -421,7 +421,9 @@ AK电影,#genre#
 1996食神,https://play.modujx15.com/20240826/pUDgrWmX/index.m3u8
 1994破坏之王,https://cdn7.ryplay7.com/20240915/380_11f89ab4/index.m3u8
 1994九品芝麻官,https://vip.dytt-live.com/20250330/2684_7c4bf50b/index.m3u8
+1993逃学威龙3之龙过鸡年,https://play.modujx15.com/20240825/VgswEazn/index.m3u8
 1991逃学威龙,https://vip.dytt-film.com/20250311/12297_35fcfa9e/index.m3u8
+1990赌侠,https://play.modujx11.com/20241224/mBSx76B4/index.m3u8
 
 极速港台,#genre#,DE=3
 翡翠台4K(字幕),https://cdn3.indevs.in/stream/tvb/fct4k/
