@@ -727,6 +727,15 @@ PTSxs,http://220.135.241.47:8312/0.ts
 華視新聞資訊,http://220.135.241.47:8319/0.ts
 華視教育體育文化,http://220.135.241.47:8318/0.ts
 
+三立新聞,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+中天新聞,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+東森新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+中視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+華視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+民視新聞,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
