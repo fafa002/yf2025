@@ -418,10 +418,12 @@ AK电影,#genre#
 2016美人鱼,https://vodcnd12.myqqdd.com/20250622/1wNEi7n7/index.m3u8
 2001少林足球,https://vip.lzcdn2.com/20220521/7147_3b73302c/index.m3u8
 2004功夫,https://cdn1.ryplay1.com/20240910/7703_9dc7d493/index.m3u8
+1997家有喜事,https://cdn7.ryplay7.com/20250208/10599_69233b69/index.m3u8
 1996食神,https://play.modujx15.com/20240826/pUDgrWmX/index.m3u8
 1994破坏之王,https://cdn7.ryplay7.com/20240915/380_11f89ab4/index.m3u8
 1994九品芝麻官,https://vip.dytt-live.com/20250330/2684_7c4bf50b/index.m3u8
 1993逃学威龙3之龙过鸡年,https://play.modujx15.com/20240825/VgswEazn/index.m3u8
+1992鹿鼎记2神龙教,https://play.modujx16.com/20240830/hhzZN6Th/index.m3u8
 1991逃学威龙,https://vip.dytt-film.com/20250311/12297_35fcfa9e/index.m3u8
 1990赌侠,https://play.modujx11.com/20241224/mBSx76B4/index.m3u8
 
