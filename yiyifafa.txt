@@ -737,6 +737,7 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 東離劍遊紀-FastTV飛速看,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
 
 今日影视,#genre#
+需切换EXO解码,1
 凤凰资讯台,http://139.159.221.112:80/today/hm.php?id=e34151762672e487e28f9a20f6a6a371&key=***
 凤凰香港台,http://139.159.221.112:80/today/hm.php?id=ee0b3b912283bf8f698bcc4213849074&key=***
 凤凰中文台,http://139.159.221.112:80/today/hm.php?id=804195d372e84a6eec06115fbbc0f14a&key=***
