@@ -531,7 +531,6 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 
 极速港台2,#genre#,DE=3
 盗源狗si全家 全家下地狱
-翡翠台,https://luxiang.nbltv.dpdns.org/?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
@@ -605,6 +604,15 @@ TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
 四季台湾,#genre#
+三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+
 中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
 中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
