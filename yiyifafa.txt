@@ -615,8 +615,8 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
-中天新闻,http://iactive-clink.com:8081/live/888ztxw.m3u8
-中天新闻,http://111.0.115.129:8081/live/666ztxw.m3u8
+中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
+中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
 中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8
 民視新聞,http://211.72.174.95:8117/0.ts
