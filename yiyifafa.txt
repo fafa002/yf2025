@@ -748,8 +748,40 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 
 今日影视,#genre#
 需切换EXO解码,1
-
-
+翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
+TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
+HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
+HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
+黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
+黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
+黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
+美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
+美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
+港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
+港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
+翡翠台,https://ktpremium.world/live/LT1976F/A9177/492383.ts
+星河,https://ktpremium.world/live/LT1976F/A9177/492384.ts
+无线新闻,https://ktpremium.world/live/LT1976F/A9177/492389.ts
+功夫,https://ktpremium.world/live/LT1976F/A9177/492390.ts
+hoy77,https://ktpremium.world/live/LT1976F/A9177/492391.ts
+RHK32,https://ktpremium.world/live/LT1976F/A9177/492402.ts
+hoy78,https://ktpremium.world/live/LT1976F/A9177/492403.ts
+凤凰中文,https://ktpremium.world/live/LT1976F/A9177/492398.ts
+凤凰资讯,https://ktpremium.world/live/LT1976F/A9177/492399.ts
+凤凰香港,https://ktpremium.world/live/LT1976F/A9177/492400.ts
+now爆谷台,https://ktpremium.world/live/LT1976F/A9177/958132.ts
+now星影台,https://ktpremium.world/live/LT1976F/A9177/958131.ts
+now体育,https://ktpremium.world/live/LT1976F/A9177/958133.ts
+now体育1,https://ktpremium.world/live/LT1976F/A9177/958134.ts
+now体育2,https://ktpremium.world/live/LT1976F/A9177/958135.ts
+now体育3,https://ktpremium.world/live/LT1976F/A9177/958136.ts
+now体育4,https://ktpremium.world/live/LT1976F/A9177/958137.ts
+now体育5,https://ktpremium.world/live/LT1976F/A9177/958138.ts
+now体育6,https://ktpremium.world/live/LT1976F/A9177/958139.ts
+now体育7,https://ktpremium.world/live/LT1976F/A9177/958140.ts
+now体育8,https://ktpremium.world/live/LT1976F/A9177/958141.ts
+now体育9,https://ktpremium.world/live/LT1976F/A9177/958142.ts
 
 美国UA(挂梯子),#genre# 
 DHE HD,http://108.181.23.41:80/livehttpplay?channel_id=23504
