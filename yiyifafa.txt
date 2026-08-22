@@ -760,28 +760,152 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
 港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
-翡翠台,https://ktpremium.world/live/LT1976F/A9177/492383.ts
-星河,https://ktpremium.world/live/LT1976F/A9177/492384.ts
-无线新闻,https://ktpremium.world/live/LT1976F/A9177/492389.ts
-功夫,https://ktpremium.world/live/LT1976F/A9177/492390.ts
-hoy77,https://ktpremium.world/live/LT1976F/A9177/492391.ts
-RHK32,https://ktpremium.world/live/LT1976F/A9177/492402.ts
-hoy78,https://ktpremium.world/live/LT1976F/A9177/492403.ts
-凤凰中文,https://ktpremium.world/live/LT1976F/A9177/492398.ts
-凤凰资讯,https://ktpremium.world/live/LT1976F/A9177/492399.ts
+
+TVB翡翠,https://ktpremium.world/live/LT1976F/A9177/492383.ts
+TVB星河,https://ktpremium.world/live/LT1976F/A9177/492384.ts
+TVB明珠,https://ktpremium.world/live/LT1976F/A9177/492386.ts
+無線新聞,https://ktpremium.world/live/LT1976F/A9177/492389.ts
+Asian Action 亚洲武侠台,https://ktpremium.world/live/LT1976F/A9177/492390.ts
+HOYTV77,https://ktpremium.world/live/LT1976F/A9177/492391.ts
+鳳凰衛視,https://ktpremium.world/live/LT1976F/A9177/492398.ts
+鳳凰資訊,https://ktpremium.world/live/LT1976F/A9177/492399.ts
 凤凰香港,https://ktpremium.world/live/LT1976F/A9177/492400.ts
-now爆谷台,https://ktpremium.world/live/LT1976F/A9177/958132.ts
-now星影台,https://ktpremium.world/live/LT1976F/A9177/958131.ts
-now体育,https://ktpremium.world/live/LT1976F/A9177/958133.ts
-now体育1,https://ktpremium.world/live/LT1976F/A9177/958134.ts
-now体育2,https://ktpremium.world/live/LT1976F/A9177/958135.ts
-now体育3,https://ktpremium.world/live/LT1976F/A9177/958136.ts
-now体育4,https://ktpremium.world/live/LT1976F/A9177/958137.ts
-now体育5,https://ktpremium.world/live/LT1976F/A9177/958138.ts
-now体育6,https://ktpremium.world/live/LT1976F/A9177/958139.ts
-now体育7,https://ktpremium.world/live/LT1976F/A9177/958140.ts
-now体育8,https://ktpremium.world/live/LT1976F/A9177/958141.ts
-now体育9,https://ktpremium.world/live/LT1976F/A9177/958142.ts
+港臺31,https://ktpremium.world/live/LT1976F/A9177/492401.ts
+港臺32,https://ktpremium.world/live/LT1976F/A9177/492402.ts
+HOY TV資訊台,https://ktpremium.world/live/LT1976F/A9177/492403.ts
+陽光衛視,https://ktpremium.world/live/LT1976F/A9177/492423.ts
+亞旅衛視,https://ktpremium.world/live/LT1976F/A9177/492424.ts
+C18跑马,https://ktpremium.world/live/LT1976F/A9177/870527.ts
+Viu TV,https://ktpremium.world/live/LT1976F/A9177/870528.ts
+Viu TV 6,https://ktpremium.world/live/LT1976F/A9177/877042.ts
+TVB Plus,https://ktpremium.world/live/LT1976F/A9177/910934.ts
+天映频道,https://ktpremium.world/live/LT1976F/A9177/910937.ts
+Thrill,https://ktpremium.world/live/LT1976F/A9177/945566.ts
+天映經典頻道,https://ktpremium.world/live/LT1976F/A9177/945567.ts
+SUPER FREE,https://ktpremium.world/live/LT1976F/A9177/945568.ts
+千禧经典台,https://ktpremium.world/live/LT1976F/A9177/945569.ts
+亚洲剧台,https://ktpremium.world/live/LT1976F/A9177/945570.ts
+黄金翡翠台,https://ktpremium.world/live/LT1976F/A9177/910935.ts
+KIX,https://ktpremium.world/live/LT1976F/A9177/910940.ts
+美亚电影,https://ktpremium.world/live/LT1976F/A9177/930001.ts
+Now 星影台,https://ktpremium.world/live/LT1976F/A9177/958131.ts
+Now 爆谷台,https://ktpremium.world/live/LT1976F/A9177/958132.ts
+NowJelli 紫金国际台,https://ktpremium.world/live/LT1976F/A9177/910952.ts
+tvN,https://ktpremium.world/live/LT1976F/A9177/1013757.ts
+Now直播台,https://ktpremium.world/live/LT1976F/A9177/1013763.ts
+Now新闻台,https://ktpremium.world/live/LT1976F/A9177/1013765.ts
+Now财经台,https://ktpremium.world/live/LT1976F/A9177/1013766.ts
+Now体育,https://ktpremium.world/live/LT1976F/A9177/958133.ts
+Now体育1,https://ktpremium.world/live/LT1976F/A9177/958134.ts
+Now体育2,https://ktpremium.world/live/LT1976F/A9177/958135.ts
+Now体育3,https://ktpremium.world/live/LT1976F/A9177/958136.ts
+Now体育4,https://ktpremium.world/live/LT1976F/A9177/958137.ts
+Now体育5,https://ktpremium.world/live/LT1976F/A9177/958138.ts
+Now体育6,https://ktpremium.world/live/LT1976F/A9177/958139.ts
+Now体育7,https://ktpremium.world/live/LT1976F/A9177/958140.ts
+Now体育8,https://ktpremium.world/live/LT1976F/A9177/958141.ts
+Now体育9,https://ktpremium.world/live/LT1976F/A9177/958142.ts
+HOY TV国际财经台,https://ktpremium.world/live/LT1976F/A9177/1029311.ts
+美亚C+,https://ktpremium.world/live/LT1976F/A9177/1111702.ts
+民视,https://ktpremium.world/live/LT1976F/A9177/515015.ts
+华视,https://ktpremium.world/live/LT1976F/A9177/515017.ts
+中视,https://ktpremium.world/live/LT1976F/A9177/515019.ts
+靖天国际台,https://ktpremium.world/live/LT1976F/A9177/515025.ts
+龙华戏剧,https://ktpremium.world/live/LT1976F/A9177/515083.ts
+TVBS精采,https://ktpremium.world/live/LT1976F/A9177/515128.ts
+纬来电影,https://ktpremium.world/live/LT1976F/A9177/515159.ts
+好消息,https://ktpremium.world/live/LT1976F/A9177/515168.ts
+好消息 2,https://ktpremium.world/live/LT1976F/A9177/515170.ts
+台视,https://ktpremium.world/live/LT1976F/A9177/515021.ts
+TVBS HD,https://ktpremium.world/live/LT1976F/A9177/870537.ts
+亞洲旅遊台,https://ktpremium.world/live/LT1976F/A9177/515100.ts
+探索频道,https://ktpremium.world/live/LT1976F/A9177/870683.ts
+探索動力,https://ktpremium.world/live/LT1976F/A9177/870687.ts
+动物星球,https://ktpremium.world/live/LT1976F/A9177/870689.ts
+Discovery Asia,https://ktpremium.world/live/LT1976F/A9177/698399.ts
+探索科学,https://ktpremium.world/live/LT1976F/A9177/1013875.ts
+纬来日本台,https://ktpremium.world/live/LT1976F/A9177/870550.ts
+中视菁采,https://ktpremium.world/live/LT1976F/A9177/684837.ts
+采昌影剧,https://ktpremium.world/live/LT1976F/A9177/870545.ts
+纬来体育,https://ktpremium.world/live/LT1976F/A9177/877044.ts
+東森超視34.5,https://ktpremium.world/live/LT1976F/A9177/877045.ts
+中天亚洲台,https://ktpremium.world/live/LT1976F/A9177/877046.ts
+Hakka TV,https://ktpremium.world/live/LT1976F/A9177/877052.ts
+三立综合,https://ktpremium.world/live/LT1976F/A9177/877054.ts
+三立live inew,https://ktpremium.world/live/LT1976F/A9177/515184.ts
+三立新闻HD,https://ktpremium.world/live/LT1976F/A9177/515185.ts
+民视新闻,https://ktpremium.world/live/LT1976F/A9177/515191.ts
+民视新闻,https://ktpremium.world/live/LT1976F/A9177/515192.ts
+东森财经,https://ktpremium.world/live/LT1976F/A9177/515196.ts
+台视新闻,https://ktpremium.world/live/LT1976F/A9177/515200.ts
+非凡新闻HD,https://ktpremium.world/live/LT1976F/A9177/515205.ts
+中视新闻,https://ktpremium.world/live/LT1976F/A9177/515206.ts
+纬来精彩,https://ktpremium.world/live/LT1976F/A9177/900848.ts
+人间卫视,https://ktpremium.world/live/LT1976F/A9177/900860.ts
+靖洋戏剧,https://ktpremium.world/live/LT1976F/A9177/900861.ts
+靖天映画,https://ktpremium.world/live/LT1976F/A9177/900862.ts
+ELTA综合,https://ktpremium.world/live/LT1976F/A9177/900865.ts
+龙华电影,https://ktpremium.world/live/LT1976F/A9177/918602.ts
+靖天戏剧台,https://ktpremium.world/live/LT1976F/A9177/918600.ts
+TVBS歡樂台,https://ktpremium.world/live/LT1976F/A9177/918585.ts
+民视台湾台,https://ktpremium.world/live/LT1976F/A9177/918589.ts
+三立戏剧,https://ktpremium.world/live/LT1976F/A9177/918593.ts
+民视综艺台,https://ktpremium.world/live/LT1976F/A9177/918590.ts
+靖天日本,https://ktpremium.world/live/LT1976F/A9177/918597.ts
+靖天育乐,https://ktpremium.world/live/LT1976F/A9177/918595.ts
+靖天综合,https://ktpremium.world/live/LT1976F/A9177/918598.ts
+公视戏剧,https://ktpremium.world/live/LT1976F/A9177/515023.ts
+豬哥亮歌廳秀,https://ktpremium.world/live/LT1976F/A9177/918599.ts
+中视经典,https://ktpremium.world/live/LT1976F/A9177/726090.ts
+八大精彩,https://ktpremium.world/live/LT1976F/A9177/995280.ts
+客家电视台,https://ktpremium.world/live/LT1976F/A9177/995282.ts
+采昌影剧,https://ktpremium.world/live/LT1976F/A9177/995284.ts
+靖天欢乐台,https://ktpremium.world/live/LT1976F/A9177/995286.ts
+古典音乐台,https://ktpremium.world/live/LT1976F/A9177/995288.ts
+龙华日韩,https://ktpremium.world/live/LT1976F/A9177/948087.ts
+东森戏剧,https://ktpremium.world/live/LT1976F/A9177/1003296.ts
+东森综合,https://ktpremium.world/live/LT1976F/A9177/1003297.ts
+三立台湾,https://ktpremium.world/live/LT1976F/A9177/1003298.ts
+中天综合,https://ktpremium.world/live/LT1976F/A9177/1003299.ts
+三立都会,https://ktpremium.world/live/LT1976F/A9177/1003300.ts
+EYETV 旅游,https://ktpremium.world/live/LT1976F/A9177/1003303.ts
+民视旅游台,https://ktpremium.world/live/LT1976F/A9177/918592.ts
+民视戏剧台,https://ktpremium.world/live/LT1976F/A9177/918591.ts
+龙华经典,https://ktpremium.world/live/LT1976F/A9177/1029148.ts
+龙华偶像,https://ktpremium.world/live/LT1976F/A9177/1029149.ts
+靖天资讯,https://ktpremium.world/live/LT1976F/A9177/918596.ts
+八大综艺台,https://ktpremium.world/live/LT1976F/A9177/995281.ts
+寰宇新闻台,https://ktpremium.world/live/LT1976F/A9177/857803.ts
+TVBS News 新闻台,https://ktpremium.world/live/LT1976F/A9177/870536.ts
+中天新闻 HD,https://ktpremium.world/live/LT1976F/A9177/870539.ts
+东森新闻,https://ktpremium.world/live/LT1976F/A9177/870544.ts
+年代新闻,https://ktpremium.world/live/LT1976F/A9177/877060.ts
+CNBC,https://ktpremium.world/live/LT1976F/A9177/900839.ts
+阿里郎,https://ktpremium.world/live/LT1976F/A9177/900868.ts
+新唐人亚太,https://ktpremium.world/live/LT1976F/A9177/906443.ts
+台新闻,https://ktpremium.world/live/LT1976F/A9177/903164.ts
+台视财经,https://ktpremium.world/live/LT1976F/A9177/918583.ts
+Rusia Today,https://ktpremium.world/live/LT1976F/A9177/995375.ts
+寰宇新闻台湾台,https://ktpremium.world/live/LT1976F/A9177/1003301.ts
+华视新闻,https://ktpremium.world/live/LT1976F/A9177/918584.ts
+AXN,https://ktpremium.world/live/LT1976F/A9177/515075.ts
+Cinemax,https://ktpremium.world/live/LT1976F/A9177/515076.ts
+MOVIE MOVIE,https://ktpremium.world/live/LT1976F/A9177/870555.ts
+HBO HD,https://ktpremium.world/live/LT1976F/A9177/870553.ts
+HBO HIts,https://ktpremium.world/live/LT1976F/A9177/870554.ts
+HBO Family,https://ktpremium.world/live/LT1976F/A9177/900875.ts
+HBO Signature,https://ktpremium.world/live/LT1976F/A9177/900881.ts
+华纳电影,https://ktpremium.world/live/LT1976F/A9177/900866.ts
+好莱坞电影台,https://ktpremium.world/live/LT1976F/A9177/684844.ts
+东森电影,https://ktpremium.world/live/LT1976F/A9177/870557.ts
+东森洋片,https://ktpremium.world/live/LT1976F/A9177/870558.ts
+龙华洋片,https://ktpremium.world/live/LT1976F/A9177/515085.ts
+龙祥时代,https://ktpremium.world/live/LT1976F/A9177/694086.ts
+美亚电影,https://ktpremium.world/live/LT1976F/A9177/870561.ts
+AMC电影台,https://ktpremium.world/live/LT1976F/A9177/995220.ts
+靖天电影台,https://ktpremium.world/live/LT1976F/A9177/995222.ts
+STAR MOVIES,https://ktpremium.world/live/LT1976F/A9177/915593.ts
+wedotv Movies,https://ktpremium.world/live/LT1976F/A9177/947918.ts
 
 美国UA(挂梯子),#genre# 
 DHE HD,http://108.181.23.41:80/livehttpplay?channel_id=23504
