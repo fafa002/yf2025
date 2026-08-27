@@ -845,7 +845,6 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 
-极速,#genre#
 鳳凰中文,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰中文備&key=***
 鳳凰資訊,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊_1&key=***
 鳳凰香港,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
