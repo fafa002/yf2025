@@ -393,7 +393,7 @@ closer,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6c60frc7
 盗源狗si全家 全家下地狱
 QQ群,1
 1084023630,1
-扫码进群,1
+扫码进群,https://pan.vma.cc/pan/v/41ebd0ffd333d4fc95af228ef81b2e3a?ext=mp4
 永久免费,3
 谨防被骗,4
 如果看不了,6
@@ -746,8 +746,92 @@ TVBS台劇台,http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=178263988583
 經典迪士尼-FastTV飛速看,http://4gtv.cnlive.club/channel/n4ae53aed/index.m3u8?q=1782639885837
 東離劍遊紀-FastTV飛速看,http://4gtv.cnlive.club/channel/nb3eed91/index.m3u8?q=1782639885837
 
+秒开台湾,#genre#
+探索世界頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1257
+愛自然頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1263
+搖滾娛樂頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1260
+搖滾電影頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1254
+飯店介紹-藍山大飯店(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=custom19
+台視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1047
+中視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1048
+華視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1049
+民視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1050
+公視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1201
+人間衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1198
+大愛電視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1216
+好消息頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1231
+Trace Sport Stars(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1003
+DISCOVERY(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1002
+旅遊生活(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1005
+動物星球(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1004
+亞洲旅遊(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1219
+momo親子台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1007
+東森幼幼HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1008
+ANIMAX 卡通動畫頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1060
+公視兒少台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=custom29
+緯來綜合HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1044
+八大第一HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1043
+八大綜合HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1019
+三立台灣HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1021
+三立都會HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1020
+韓國娛樂台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1024
+東森綜合HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1041
+超視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1180
+中天綜合HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1022
+中天娛樂HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1023
+東風衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1195
+MUCH TV(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1189
+東森戲劇HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1042
+八大戲劇HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1057
+TVBS歡樂HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1018
+緯來戲劇(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1186
+JET綜合(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1009
+國興衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1010
+中視菁采台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1235
+緯來日本HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1026
+Taiwan Plus(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1238
+年代新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1192
+東森新聞HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1014
+中天新聞HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1015
+民視新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1204
+三立新聞HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1016
+TVBS新聞HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1051
+TVBS HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1251
+非凡新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1013
+非凡商業(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1012
+東森財經HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1017
+寰宇新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1222
+壹新聞(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1242
+CNBC(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1063
+Bloomberg News(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1066
+NHK WORLD PREMIUM(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1027
+鏡電視新聞台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1031
+好萊塢電影HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1025
+緯來電影HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1183
+NHK WORLD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1245
+HBO(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1029
+AXN(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1054
+CINEMAX HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1030
+AMC 電影台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1032
+寵物頻道(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1040
+緯來育樂HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1045
+緯來體育HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1011
+博斯運動二(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1225
+momo 綜合台(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1248
+DAZN 1(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1069
+DAZN 2(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1072
+廈門衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1033
+CCTV4-中央衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1034
+海峽衛視HD(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1035
+浙江衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1036
+東方衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1037
+湖南衛視(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1038
+鳯凰衛視資訊(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1210
+鳯凰衛視中文(阿爬),http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1213
+
 今日影视,#genre#
 需切换EXO解码,1
+请勿打赏,1
 翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
 TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
@@ -760,6 +844,78 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
 港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
+
+极速,#genre#
+鳳凰中文,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰中文備&key=***
+鳳凰資訊,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊_1&key=***
+鳳凰香港,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
+鳳凰資訊,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊_1&key=***
+翡翠台,http://49.232.143.177:80/pyxg/hmy.php?id=翡翠台_1&key=***
+無綫新聞,http://49.232.143.177:80/pyxg/hmy.php?id=無綫新聞_1&key=***
+TVBPlus,http://49.232.143.177:80/pyxg/hmy.php?id=TVBPlus_1&key=***
+明珠台,http://49.232.143.177:80/pyxg/hmy.php?id=明珠台&key=***
+翡翠台,http://49.232.143.177:80/pyxg/hmy.php?id=翡翠台備&key=***
+TVBPlus,http://49.232.143.177:80/pyxg/hmy.php?id=TVBPlus備&key=***
+無綫新聞,http://49.232.143.177:80/pyxg/hmy.php?id=無綫新聞備&key=***
+明珠台b,http://49.232.143.177:80/pyxg/hmy.php?id=明珠台b&key=***
+ViUTV,http://49.232.143.177:80/pyxg/hmy.php?id=ViUTV&key=***
+ViUTVSix,http://49.232.143.177:80/pyxg/hmy.php?id=ViUTVSix&key=***
+HOY77,http://49.232.143.177:80/pyxg/hmy.php?id=HOYTV&key=***
+HOY78,http://49.232.143.177:80/pyxg/hmy.php?id=HOY資訊台&key=***
+HOY76,http://49.232.143.177:80/pyxg/hmy.php?id=HOY財經台&key=***
+18台,http://49.232.143.177:80/pyxg/hmy.php?id=18台&key=***
+Now新聞台,http://49.232.143.177:80/pyxg/hmy.php?id=Now新聞台&key=***
+Now財經台,http://49.232.143.177:80/pyxg/hmy.php?id=Now財經台&key=***
+TVB星河,http://49.232.143.177:80/pyxg/hmy.php?id=TVB星河&key=***
+功夫台,http://49.232.143.177:80/pyxg/hmy.php?id=功夫台&key=***
+天映經典,http://49.232.143.177:80/pyxg/hmy.php?id=天映經典&key=***
+美亚电影台,http://49.232.143.177:80/pyxg/hmy.php?id=美亚电影台&key=***
+POPC,http://49.232.143.177:80/pyxg/hmy.php?id=POPC&key=***
+中國電影,http://49.232.143.177:80/pyxg/hmy.php?id=中國電影&key=***
+中視,http://49.232.143.177:80/pyxg/hmy.php?id=中視&key=***
+華視,http://49.232.143.177:80/pyxg/hmy.php?id=華視&key=***
+民視,http://49.232.143.177:80/pyxg/hmy.php?id=民視&key=***
+民視台灣,http://49.232.143.177:80/pyxg/hmy.php?id=民視台灣&key=***
+民視第一,http://49.232.143.177:80/pyxg/hmy.php?id=民視第一&key=***
+台視,http://49.232.143.177:80/pyxg/hmy.php?id=台視&key=***
+台視綜合,http://49.232.143.177:80/pyxg/hmy.php?id=台視綜合&key=***
+公視,http://49.232.143.177:80/pyxg/hmy.php?id=公視&key=***
+中天綜合,http://49.232.143.177:80/pyxg/hmy.php?id=中天綜合&key=***
+八大綜合,http://49.232.143.177:80/pyxg/hmy.php?id=八大綜合&key=***
+八大第一,http://49.232.143.177:80/pyxg/hmy.php?id=八大第一&key=***
+東森綜合,http://49.232.143.177:80/pyxg/hmy.php?id=東森綜合&key=***
+東森電影,http://49.232.143.177:80/pyxg/hmy.php?id=東森電影&key=***
+緯來電影,http://49.232.143.177:80/pyxg/hmy.php?id=緯來電影&key=***
+三立都會,http://49.232.143.177:80/pyxg/hmy.php?id=三立都會&key=***
+三立台灣,http://49.232.143.177:80/pyxg/hmy.php?id=三立台灣&key=***
+龍華偶像,http://49.232.143.177:80/pyxg/hmy.php?id=龍華偶像&key=***
+龍華電影,http://49.232.143.177:80/pyxg/hmy.php?id=龍華電影&key=***
+龍華經典,http://49.232.143.177:80/pyxg/hmy.php?id=龍華經典&key=***
+好萊塢電影,http://49.232.143.177:80/pyxg/hmy.php?id=好萊塢電影&key=***
+TVBS備,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS備&key=***
+中天新聞備,http://49.232.143.177:80/pyxg/hmy.php?id=中天新聞備&key=***
+東森新聞備,http://49.232.143.177:80/pyxg/hmy.php?id=東森新聞備&key=***
+華視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=華視新聞&key=***
+中視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=中視新聞&key=***
+台視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=台視新聞&key=***
+民視新聞,http://49.232.143.177:80/pyxg/hmy.php?id=民視新聞&key=***
+TVBS新聞,http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
+三立新聞,http://49.232.143.177:80/pyxg/hmy.php?id=三立新聞&key=***
+年代新聞,http://49.232.143.177:80/pyxg/hmy.php?id=年代新聞&key=***
+壹新聞,http://49.232.143.177:80/pyxg/hmy.php?id=壹新聞&key=***
+非凡新聞,http://49.232.143.177:80/pyxg/hmy.php?id=非凡新聞&key=***
+鏡新聞,http://49.232.143.177:80/pyxg/hmy.php?id=鏡新聞&key=***
+環宇台灣,http://49.232.143.177:80/pyxg/hmy.php?id=環宇台灣&key=***
+緯來體育,http://49.232.143.177:80/pyxg/hmy.php?id=緯來體育&key=***
+NBATV,http://49.232.143.177:80/pyxg/hmy.php?id=NBATV&key=***
+CCTV5,http://49.232.143.177:80/pyxg/hmy.php?id=CCTV5&key=***
+广东体育,http://49.232.143.177:80/pyxg/hmy.php?id=广东体育&key=***
+ELTA體育1,http://49.232.143.177:80/pyxg/hmy.php?id=ELTA體育1&key=***
+ELTA體育2,http://49.232.143.177:80/pyxg/hmy.php?id=ELTA體育2&key=***
+TSNSport1,http://49.232.143.177:80/pyxg/hmy.php?id=TSNSport1&key=***
+TSNSport2,http://49.232.143.177:80/pyxg/hmy.php?id=TSNSport2&key=***
+TSNSport3,http://49.232.143.177:80/pyxg/hmy.php?id=TSNSport3&key=***
+TSNSport4,http://49.232.143.177:80/pyxg/hmy.php?id=TSNSport4&key=***
 
 美国UA(挂梯子),#genre# 
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
