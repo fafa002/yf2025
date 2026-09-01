@@ -763,6 +763,18 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 
+Now新闻台,http://yyzb.bhzz.today:61212/5/admin.php?cid=BVZZAQYICgINUVgEUQEDVVQDVggGVgYGAQQAAARWBlI=&token=PlayAuth_秒播
+Now财经台,http://yyzb.bhzz.today:61212/5/admin.php?cid=BlEMV1wIA1VSUwlVBVpQBgsCUlpUBlUBUFdRBgICBFo=&token=PlayAuth_秒播
+Now直播台,http://yyzb.bhzz.today:61212/5/admin.php?cid=BlIPUlQIC1MDUlwOBgAFBlQHVVkHVVZUAgMDUlVUUwc=&token=PlayAuth_秒播
+Now华剧台,http://yyzb.bhzz.today:61212/5/admin.php?cid=VQcAXQQOAgVRBg4DAFEFBwMMV14ABwwEAgQEAl9WVwY=&token=PlayAuth_秒播
+Now剧集台,http://yyzb.bhzz.today:61212/5/admin.php?cid=AwZbBVBaBQJQAVwCAAQHAQsAVQwCAQ1RC1QCUgIGA1s=&token=PlayAuth_秒播
+Now紫金国际,http://yyzb.bhzz.today:61212/5/admin.php?cid=A1AOXVMLAQAMAwlVVwcHAlQGBQgEBAVVVwBXA1JUB1A=&token=PlayAuth_秒播
+Now体育台,http://yyzb.bhzz.today:61212/5/admin.php?cid=AlEMV1deAFhQU1hTAAEBD1dSUQsEVQADAwVWUV8GAVA=&token=PlayAuth_秒播
+Now星影国,http://yyzb.bhzz.today:61212/5/admin.php?cid=AwQPXVwIA1cHUwgDA1IBVVdQUQsMAQZcBQoLUV8AAFY=&token=PlayAuth_秒播
+Now星影粤,http://yyzb.bhzz.today:61212/5/admin.php?cid=Vl1dAgQKAAMBUAAFBVZQDgIAUwEBDgBTBlQDAF5dCQY=&token=PlayAuth_秒播
+Now爆谷国,http://yyzb.bhzz.today:61212/5/admin.php?cid=AFcJUlNZUQNSUQoOBVdUBVQHUF1UD1cBAlYHAFUACFE=&token=PlayAuth_秒播
+Now爆谷粤,http://yyzb.bhzz.today:61212/5/admin.php?cid=BlddXFFeVlAAVwoDAQAGUlBSBg5QBwIAAwYHUQJcBFQ=&token=PlayAuth_秒播
+
 鳳凰中文,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰中文備&key=***
 鳳凰資訊,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊_1&key=***
 鳳凰香港,http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
