@@ -735,19 +735,6 @@ TVBS台劇台,http://las.aptv168.com:8084/channel/49342c47/index.m3u8
 經典電影台,http://las.aptv168.com:8084/channel/n2eb7240a/index.m3u8
 經典卡通台,http://las.aptv168.com:8084/channel/n2faf04ad/index.m3u8
 精選動漫台,http://las.aptv168.com:8084/channel/n1ecb3c7f/index.m3u8
-客家好劇-FastTV飛速看,http://las.aptv168.com:8084/channel/n1f7f47/index.m3u8
-懷舊經典電影-FastTV飛速看,http://las.aptv168.com:8084/channel/n424d08b7/index.m3u8
-精選華語電影-FastTV飛速看,http://las.aptv168.com:8084/channel/750a2ada/index.m3u8
-國外電影精選-FastTV飛速看,http://las.aptv168.com:8084/channel/32bc6076/index.m3u8
-日韓電影大賞-FastTV飛速看,http://las.aptv168.com:8084/channel/n5541a0ca/index.m3u8
-台灣傳奇-FastTV飛速看,http://las.aptv168.com:8084/channel/n496c6dde/index.m3u8
-精彩陸劇1台-FastTV飛速看,http://las.aptv168.com:8084/channel/n7179beac/index.m3u8
-精彩陸劇2台-FastTV飛速看,http://las.aptv168.com:8084/channel/n69c8194d/index.m3u8
-金光布袋戲-FastTV飛速看,http://las.aptv168.com:8084/channel/n3000a7f1/index.m3u8
-哆啦A夢-FastTV飛速看,http://las.aptv168.com:8084/channel/9fc6b5c/index.m3u8
-經典卡通-FastTV飛速看,http://las.aptv168.com:8084/channel/53488299/index.m3u8
-經典迪士尼-FastTV飛速看,http://las.aptv168.com:8084/channel/n4ae53aed/index.m3u8
-東離劍遊紀-FastTV飛速看,http://las.aptv168.com:8084/channel/nb3eed91/index.m3u8
 
 今日影视,#genre#
 需切换EXO解码,1
