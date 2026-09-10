@@ -438,8 +438,11 @@ AK电影,#genre#
 极速港台（挂梯）,#genre#,DE=3
 翡翠台4K(字幕),https://cdn3.indevs.in/stream/tvb/fct4k/
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
-CCTV1港澳版,https://cdn6.cc.cd/163189/cctv1
-CCTV13,https://10.fast.hidns.vip/163189/cctv13/
+翡翠台,https://cdn6.cc.cd/163189/fct
+翡翠台(字幕),https://cdn3.indevs.in/stream/tvb/fct/
+明珠台(字幕),https://cdn3.indevs.in/stream/tvb/mzt/
+无线新闻台,https://cdn6.cc.cd/163189/wxxwt
+无线新闻台,https://cdn6.cc.cd/163189/wxxw
 TVB Plus(字幕),https://cdn3.indevs.in/stream/tvb/tvbp/
 HOY TV,https://cdn6.cc.cd/163189/hoy
 HOY TV,https://fast.hidns.vip/163189/hoy
@@ -450,6 +453,8 @@ ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
 NOW新闻台,https://fast.hidns.vip/163189/now
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
+CCTV1港澳版,https://cdn6.cc.cd/163189/cctv1
+CCTV13,https://10.fast.hidns.vip/163189/cctv13/
 澳视澳门,https://cdn6.cc.cd/163189/asam
 澳视卫星,https://cdn6.cc.cd/163189/as
 澳门体育,https://cdn6.cc.cd/163189/amty
@@ -461,10 +466,6 @@ RTHK32,https://fast.hidns.vip/163189/rthk32
 TVB1,https://cdn6.cc.cd/163189/tvb1
 TVBJ1,https://cdn6.cc.cd/163189/j1
 翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
-翡翠台,https://cdn6.cc.cd/163189/fct
-翡翠台(字幕),https://cdn3.indevs.in/stream/tvb/fct/
-明珠台(字幕),https://cdn3.indevs.in/stream/tvb/mzt/
-无线新闻台,https://cdn6.cc.cd/163189/wxxw
 广东珠江,https://2.fast.hidns.vip/163189/gdzj
 广东体育,https://2.fast.hidns.vip/163189/gdty
 八度空间,https://cdn6.cc.cd/163189/8tv
@@ -482,7 +483,6 @@ CHU,https://cdn6.cc.cd/163189/chu
 华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
 TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
-无线新闻台,https://cdn6.cc.cd/163189/wxxwt
 TVB星河,https://cdn6.cc.cd/163189/tvbxh
 海峡卫视,https://10.fast.hidns.vip/163189/hxws/
 海峡卫视,https://168.sryze.cc/163189/hxws
@@ -542,8 +542,7 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
-翡翠台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
-凤凰中文台,http://a68c7fdd1bed6600da71182507b4eab9.everydaytv.top/live/ggiptv/jade/playlist.m3u8
+无线新闻,http://iactive-clink.com:8081/live/yifaTV-007.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -675,67 +674,6 @@ tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv731
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv741
 momo'tv,rtmp://f13h.mine.nu/sat/tv761
-
-四季台湾2,#genre#
-民視第一台,http://las.aptv168.com:8084/channel/nc56ba28/index.m3u8
-民視台灣台,http://las.aptv168.com:8084/channel/nce5d867/index.m3u8
-民視,http://las.aptv168.com:8084/channel/n7222a63c/index.m3u8
-大愛電視,http://las.aptv168.com:8084/channel/n7d3037d2/index.m3u8
-中視,http://las.aptv168.com:8084/channel/n722644d8/index.m3u8
-華視,http://las.aptv168.com:8084/channel/n721fc25a/index.m3u8
-三立綜合台,http://las.aptv168.com:8084/channel/45c7d3e3/index.m3u8
-客家電視台,http://las.aptv168.com:8084/channel/n855e5fe/index.m3u8
-八大綜藝台,http://las.aptv168.com:8084/channel/662e9334/index.m3u8
-TVBS精采台,http://las.aptv168.com:8084/channel/49d50255/index.m3u8
-靖天綜合台,http://las.aptv168.com:8084/channel/3f6ecb92/index.m3u8
-靖天日本台,http://las.aptv168.com:8084/channel/3f1816f7/index.m3u8
-原住民族電視台,http://las.aptv168.com:8084/channel/4f20dc68/index.m3u8
-LiveABC互動英語頻道,http://las.aptv168.com:8084/channel/2a571abf/index.m3u8
-達文西頻道,http://las.aptv168.com:8084/channel/n1d7d9ddb/index.m3u8
-Nick Jr. 兒童頻道,http://las.aptv168.com:8084/channel/23ac0723/index.m3u8
-尼克兒童頻道,http://las.aptv168.com:8084/channel/51bbda39/index.m3u8
-DreamWorks 夢工廠動畫,http://las.aptv168.com:8084/channel/n451655ef/index.m3u8
-靖天卡通台,http://las.aptv168.com:8084/channel/3ed78a45/index.m3u8
-靖洋卡通Nice Bingo,http://las.aptv168.com:8084/channel/n15c65427/index.m3u8
-MOMO親子台,http://las.aptv168.com:8084/channel/n33a56e39/index.m3u8
-鏡電視新聞台,http://las.aptv168.com:8084/channel/351c8485/index.m3u8
-東森新聞台,http://las.aptv168.com:8084/channel/n5ca63a3a/index.m3u8
-華視新聞,http://las.aptv168.com:8084/channel/n692bc32c/index.m3u8
-民視新聞台,http://las.aptv168.com:8084/channel/nca14742/index.m3u8
-三立新聞iNEWS,http://las.aptv168.com:8084/channel/4fa717ad/index.m3u8
-TVBS新聞,http://las.aptv168.com:8084/channel/n1ea96b20/index.m3u8
-東森財經新聞台,http://las.aptv168.com:8084/channel/57ce2e74/index.m3u8
-中視新聞,http://las.aptv168.com:8084/channel/7e6461d6/index.m3u8
-中天新聞台,http://las.aptv168.com:8084/channel/3824d067/index.m3u8
-寰宇新聞台,http://las.aptv168.com:8084/channel/n4da4274/index.m3u8
-寰宇新聞台灣台,http://las.aptv168.com:8084/channel/n37458587/index.m3u8
-TVBS,http://las.aptv168.com:8084/channel/58f128b2/index.m3u8
-民視綜藝台,http://las.aptv168.com:8084/channel/nc46cff5/index.m3u8
-豬哥亮歌廳秀,http://las.aptv168.com:8084/channel/n4271efdd/index.m3u8
-靖天育樂台,http://las.aptv168.com:8084/channel/3f7d0a6e/index.m3u8
-KLT-靖天國際台,http://las.aptv168.com:8084/channel/n481b36ac/index.m3u8
-Nice TV 靖天歡樂台,http://las.aptv168.com:8084/channel/n122ce57e/index.m3u8
-靖天資訊台,http://las.aptv168.com:8084/channel/3fae463b/index.m3u8
-TVBS歡樂台,http://las.aptv168.com:8084/channel/498f035d/index.m3u8
-公視戲劇,http://las.aptv168.com:8084/channel/7fdd881e/index.m3u8
-八大精彩台,http://las.aptv168.com:8084/channel/6626a9ca/index.m3u8
-靖天戲劇台,http://las.aptv168.com:8084/channel/3f07b409/index.m3u8
-靖洋戲劇台,http://las.aptv168.com:8084/channel/48117ce7/index.m3u8
-金光布袋戲,http://las.aptv168.com:8084/channel/n125d8ecd/index.m3u8
-ROCK Action,http://las.aptv168.com:8084/channel/n21b197ce/index.m3u8
-采昌影劇台,http://las.aptv168.com:8084/channel/n97ba44a/index.m3u8
-靖天映畫,http://las.aptv168.com:8084/channel/n610faa83/index.m3u8
-靖天電影台,http://las.aptv168.com:8084/channel/3fcf6ae8/index.m3u8
-影迷數位電影台,http://las.aptv168.com:8084/channel/n79da43c0/index.m3u8
-amc電影台,http://las.aptv168.com:8084/channel/n4f2af9e/index.m3u8
-CinemaWorld,http://las.aptv168.com:8084/channel/n7815b83e/index.m3u8
-大愛二台,http://las.aptv168.com:8084/channel/n7d3932e9/index.m3u8
-人間衛視,http://las.aptv168.com:8084/channel/7ed5b6d3/index.m3u8
-TVBS綜藝台,http://las.aptv168.com:8084/channel/49d6d25d/index.m3u8
-TVBS台劇台,http://las.aptv168.com:8084/channel/49342c47/index.m3u8
-經典電影台,http://las.aptv168.com:8084/channel/n2eb7240a/index.m3u8
-經典卡通台,http://las.aptv168.com:8084/channel/n2faf04ad/index.m3u8
-精選動漫台,http://las.aptv168.com:8084/channel/n1ecb3c7f/index.m3u8
 
 今日影视,#genre#
 需切换EXO解码,1
