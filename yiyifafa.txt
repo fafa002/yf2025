@@ -1,5 +1,4 @@
 抖音K歌,#genre#,DE=3
-切换EXO解码,1
 小米YU7,http://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0nrolvog65uva9acetg&ratio=720p&line=0
 小米SU7 ultra,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cv4jntnog65skq4ct860&ratio=720p&line=0
 朴彩英-APT,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02f52g10003css23uiljht5d6b6mnq0&ratio=720p&line=0
@@ -220,7 +219,6 @@ F4-决不能失去你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f
 张韶涵-12首合集,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct7cdovog65o09j282vg&ratio=720p&line=0
 
 清风DJ,#genre#,DE=3
-切换EXO解码,1
 女孩DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2aa0qfog65vmvgg5sjg&ratio=720p&line=0
 gamgamDJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cr8r23nog65mnbf3616g&ratio=720p&line=0
 离开我的依赖DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2hio3nog65lre771jt0&ratio=720p&line=0
@@ -276,7 +274,6 @@ DJ369-全粤语Electro音乐打造廿四味鬼佬凉茶包房上头串烧,https:
 DJVinCent-全粤语Electro港台女声唱K必点粤听粤过瘾DJ串烧,https://mp4.djuu.com/c2/16/2026/b355cd7e4ac8489d.m4a
 
 欧美music,#genre#,DE=3
-切换EXO解码,1
 Nevada,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300ff30000but4f2452a13sf6temog&ratio=720p&line=0
 Unstoppable,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ce4av3bc77u7mqoje2kg&ratio=720p&line=0
 once upon a time,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cumt1mfog65krksdg31g&ratio=720p&line=0
@@ -396,9 +393,6 @@ QQ群,1
 1084023630,1
 扫码进群,https://pan.vma.cc/pan/v/41ebd0ffd333d4fc95af228ef81b2e3a?ext=mp4
 永久免费,3
-谨防被骗,4
-如果看不了,6
-卡顿切换EXO解码,8
 换安卓9盒子,7
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
