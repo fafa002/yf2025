@@ -944,6 +944,7 @@ RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 广东好女人,https://cdn.ttvb.eu.org/douyin/69766729938
 Lumina,https://cdn.ttvb.eu.org/douyin/86292842871
 The,https://cdn.ttvb.eu.org/douyin/91425370684
+大燕儿,https://cdn.ttvb.eu.org/douyin/74005228754
 央视网,http://cfss.cc/cdn/dy/cctv.com.flv
 小央视频,http://cfss.cc/cdn/dy/cctv_video.flv
 CCTV4,http://cfss.cc/cdn/dy/CCTV4...flv
