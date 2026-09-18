@@ -535,9 +535,8 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 极速港台2,#genre#,DE=3
 盗源狗si全家 全家下地狱
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
-翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
-无线新闻,http://iactive-clink.com:8081/live/yifaTV-125.m3u8
+无线新闻,http://play.wenxiang.cn/live/yifaTV-125.flv
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
