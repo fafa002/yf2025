@@ -537,7 +537,7 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 盗源狗si全家 全家下地狱
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
-无线新闻,http://play.wenxiang.cn/live/yifaTV-125.flv
+无线新闻台,http://school.3class.cc:8088/live/yifaTV-125.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -693,22 +693,6 @@ tvbs,http://61.221.215.25:8800/hls/9/index.m3u8
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv731
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv741
 momo'tv,rtmp://f13h.mine.nu/sat/tv761
-
-今日影视,#genre#
-需切换EXO解码,1
-请勿打赏,1
-翡翠台,http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-TVBPlus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
-HOY76,http://play.wenxiang.cn/live/02267bba92f0f4b8291abefa0560664f.flv
-HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
-HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
-黄金华剧台,https://play.wenxiang.cn/live/6071069c620fa62c961d173617efbc33.flv
-黄金华剧台粤,https://play.wenxiang.cn/live/08b0fcc45b136a36749c524a3a140efa.flv
-黄金翡翠台,https://play.wenxiang.cn/live/0389d29514f0290d6c774eb18f0d604a.flv
-美亚电影台粤,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
-港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
-港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 
 美国UA(挂梯子),#genre# 
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
