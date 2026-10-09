@@ -3723,6 +3723,12 @@ CCTV-卫生健康,http://198.204.228.26/live/wsjk.m3u8
 周润发电影,http://198.204.228.26/live/lbzrf.m3u8
 周星驰电影,http://198.204.228.26/live/lbzxc.m3u8
 林正英影院,http://198.204.228.26/live/lblzy.m3u8
+江苏卫视4k,http://198.204.228.26/live/jsws4k.m3u8
+深圳卫视4k,http://198.204.228.26/live/szws4k.m3u8
+广东卫视4k,http://198.204.228.26/live/gdws4k.m3u8
+山东卫视4k,http://198.204.228.26/live/sdws4k.m3u8
+四川卫视4k,http://198.204.228.26/live/scws4k.m3u8
+浙江卫视4k,http://198.204.228.26/live/zjws4k.m3u8
 
 央视频5,#genre#,DE=3
 CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
