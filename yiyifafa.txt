@@ -534,20 +534,17 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 
 极速港台2,#genre#,DE=3
 盗源狗si全家 全家下地狱
+翡翠台,rtmp://128.14.206.166/pull-f5.flive.douyincdn.com/live/jade
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
-翡翠台,http://183.239.248.218:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-无线新闻台,rtmp://school.3class.cc/live/yifaTV-125
+无线新闻台,rtmp://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
-美亚电影,http://173.208.234.146/live/mymovie.m3u8
-天映频道,http://173.208.234.146/live/typd.m3u8
-爆谷台,http://173.208.234.146/live/nowbg.m3u8
-星影台,http://173.208.234.146/live/nowxy.m3u8
+寰宇新闻,rtmp://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw
+
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 
 FightSports,http://iptv.4666888.xyz/iptv2A.php?id=1
@@ -611,34 +608,9 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
 中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
 中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
-
-
-中视,http://173.208.234.146/live/ctv.m3u8
-中视新闻,http://173.208.234.146/live/ctvnews.m3u8
-中视经典,http://173.208.234.146/live/ctvjd.m3u8
-中视菁采,http://173.208.234.146/live/ctvjc.m3u8
-台视,http://173.208.234.146/live/ttv.m3u8
-台视新闻,http://173.208.234.146/live/ttvnews.m3u8
-台视综合,http://173.208.234.146/live/ttvzh.m3u8
-台视财经,http://173.208.234.146/live/ttvcj.m3u8
-民视,http://173.208.234.146/live/ftv.m3u8
-民视新闻台,http://173.208.234.146/live/ftvnews.m3u8
-民视台湾台,http://173.208.234.146/live/ftvtw.m3u8
-民视第一台,http://173.208.234.146/live/ftvdy.m3u8
-华视,http://173.208.234.146/live/cts.m3u8
-华视新闻资讯,http://173.208.234.146/live/ctsnews.m3u8
-华视教育体育文化,http://173.208.234.146/live/ctsjy.m3u8
-公视,http://173.208.234.146/live/pts.m3u8
-公视台语台,http://173.208.234.146/live/ptsty.m3u8
-小公视,http://173.208.234.146/live/ptsse.m3u8
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
-TVBS新闻台,http://173.208.234.146/live/tvbsnews.m3u8
-东森新闻,http://173.208.234.146/live/ebcnews.m3u8
-三立新闻,http://173.208.234.146/live/setnews.m3u8
 
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 原视,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
