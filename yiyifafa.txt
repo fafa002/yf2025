@@ -433,6 +433,7 @@ AK电影,#genre#
 极速港台（挂梯）,#genre#,DE=3
 翡翠台4K(字幕),https://cdn3.indevs.in/stream/tvb/fct4k/
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
+翡翠台,http://cc.123.rr.kg/163189/fct
 翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台(字幕),https://cdn3.indevs.in/stream/tvb/fct/
 明珠台(字幕),https://cdn3.indevs.in/stream/tvb/mzt/
