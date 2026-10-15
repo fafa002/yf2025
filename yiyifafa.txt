@@ -1317,364 +1317,61 @@ SKY Sports,http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b
 tvN Sports,http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=6f12b06f12f567be
 tvN Sports,http://159.75.4.149:99/清风/iptv.php?token=34abb01fd234bd0a96bde85b6d580ff8&ch=e7e96d8a4af2f758
 
-今日影视2,#genre#
-翡翠台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca9b19519b657d52&t=248853064077959358&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca9b19519b657d52&t=534200000097943639&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca9b19519b657d52&t=503878555584261117&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca9b19519b657d52&t=21986453203907691&line=3&token=xxx
-翡翠台(香港·时区),http://jy.bhzz.today:2026/YY1/WMHS.php?id=3ae9a4fe4ffaf359&t=1029301615848482507&line=0&token=xxx
-翡翠台(美加·东岸时区),http://jy.bhzz.today:2026/YY1/WMHS.php?id=e60dd2b48ff6b1f4&t=972624609284917354&line=0&token=xxx
-翡翠台(美加·西岸时区),http://jy.bhzz.today:2026/YY1/WMHS.php?id=3145d313a46d56a1&t=1085203289753218843&line=0&token=xxx
-翡翠台(欧·新时区),http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a08992a471f7603&t=763353186058344123&line=0&token=xxx
-翡翠台(英国时区),http://jy.bhzz.today:2026/YY1/WMHS.php?id=317ab4ebbb6adacf&t=71352950462237131&line=0&token=xxx
-TVB Plus,http://jy.bhzz.today:2026/YY1/WMHS.php?id=58c7f18e56cd65ef&t=864891801886160784&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=58c7f18e56cd65ef&t=421654433350041247&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=58c7f18e56cd65ef&t=186592741088053160&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=58c7f18e56cd65ef&t=227296608114338973&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=58c7f18e56cd65ef&t=734122235061123442&line=4&token=xxx
-TVB无线新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e2a459939946582&t=522504146354820362&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e2a459939946582&t=922906957074737706&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e2a459939946582&t=978738619480665953&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e2a459939946582&t=219377493178552636&line=3&token=xxx
-TVB无线新闻台(北美),http://jy.bhzz.today:2026/YY1/WMHS.php?id=4c4aaf16c9c0da97&t=516140847953073098&line=0&token=xxx
-mySUPER獎門人,http://jy.bhzz.today:2026/YY1/WMHS.php?id=221c7414ca827d8c&t=160347158114819820&line=0&token=xxx
-mySUPER EYT,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d9276f660640df3d&t=870904508875478194&line=0&token=xxx
-mySUPER識食,http://jy.bhzz.today:2026/YY1/WMHS.php?id=14de0f6f0880d8c0&t=572138383662197637&line=0&token=xxx
-mySUPER識嘆,http://jy.bhzz.today:2026/YY1/WMHS.php?id=386692e28d37b7c8&t=769716485972788379&line=0&token=xxx
-mySUPER Music,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e294723828f3326c&t=775364026360565623&line=0&token=xxx
-mySUPER金曲,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fd2a5019b92638b5&t=138235434876431171&line=0&token=xxx
-mySUPER煲劇,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6c69d11b83ea49e8&t=595943680853596800&line=0&token=xxx
-mySUPER劇場,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d9d41659952ec0d1&t=1119830448125816050&line=0&token=xxx
-mySUPER話當年,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a7effb067369970a&t=929280865762954197&line=0&token=xxx
-TVB明珠台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a2f8b3cea152bdb&t=168461950025336661&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a2f8b3cea152bdb&t=430426093247478851&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a2f8b3cea152bdb&t=161288454774974089&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a2f8b3cea152bdb&t=603844249242141674&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a2f8b3cea152bdb&t=60599383846133700&line=4&token=xxx
-TVB生活台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5dd1075b2964ce69&t=725022030975064909&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=5dd1075b2964ce69&t=233975321076478304&line=1&token=xxx
-TVB星河频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1c02066efc921cd4&t=683217157677626704&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1c02066efc921cd4&t=89814386233699598&line=1&token=xxx
-凤凰资讯台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b52ed95ecc9995cb&t=520516514496227735&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b52ed95ecc9995cb&t=23321041484973907&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b52ed95ecc9995cb&t=458315569427975133&line=2&token=xxx
-凤凰香港台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e1c841a88936f25&t=530664631720909616&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e1c841a88936f25&t=743958446150567809&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e1c841a88936f25&t=1067366677706926791&line=2&token=xxx
-凤凰中文台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9936695abc4b24ad&t=357350930942614731&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9936695abc4b24ad&t=489983798713404535&line=1&token=xxx
-星空卫视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bc420cf8383e85e2&t=646561327491237044&line=0&token=xxx
-TVB1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b71dd076e70fa0d6&t=356516503650968483&line=0&token=xxx
-TVB Pearl Drama 明珠劇集台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=935aa025f6e56ca8&t=1151934546032278081&line=0&token=xxx
-TVBJ1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7844d14da114e1f3&t=4832561060284980&line=0&token=xxx
-TVB Drama 翡翠劇集台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b8fe37e97c194021&t=934728972241235404&line=0&token=xxx
-TVB E 翡翠娛樂台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a177afe2aeb95dac&t=540381131093620703&line=0&token=xxx
-PopC,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d8ed2d51621b7d04&t=285717265127679356&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d8ed2d51621b7d04&t=824109316607921549&line=1&token=xxx
-Now爆谷台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=da44f51738a954b2&t=61363714014730893&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=da44f51738a954b2&t=399260920409374434&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=da44f51738a954b2&t=1049183922029679465&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=da44f51738a954b2&t=1049100074120966020&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=da44f51738a954b2&t=16178252982572315&line=4&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=da44f51738a954b2&t=357087165273940516&line=5&token=xxx
-Now爆谷星影台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f18ac38d01c267e3&t=165179623737140141&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f18ac38d01c267e3&t=440680690980480780&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f18ac38d01c267e3&t=162058084050728667&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f18ac38d01c267e3&t=1034951272784244403&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f18ac38d01c267e3&t=273355203122225681&line=4&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f18ac38d01c267e3&t=726500698784292835&line=5&token=xxx
-Now華劇台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a2327c0557eecbcc&t=357811011650868779&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a2327c0557eecbcc&t=453990344921235600&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a2327c0557eecbcc&t=751346056845153451&line=2&token=xxx
-Now劇集台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6c8132ebc43d45c3&t=640522728402669290&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=6c8132ebc43d45c3&t=848635431935102089&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=6c8132ebc43d45c3&t=730442767603369354&line=2&token=xxx
-Now新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=cb3ed5cc1afe83a4&t=610381741869581925&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=cb3ed5cc1afe83a4&t=235069989970412286&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=cb3ed5cc1afe83a4&t=224305493673571189&line=2&token=xxx
-Now直播台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=095ce2490bf15e40&t=573261116329413298&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=095ce2490bf15e40&t=494001704429435397&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=095ce2490bf15e40&t=850972527776342854&line=2&token=xxx
-Now财经台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=24706f4ce26f45de&t=537289554510495055&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=24706f4ce26f45de&t=701399340880882731&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=24706f4ce26f45de&t=663483739493173831&line=2&token=xxx
-NowJelli紫金国际,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4c601cfbd616349a&t=1141615562472794084&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4c601cfbd616349a&t=777853503295013312&line=1&token=xxx
-NowSports1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=12f763686b3669de&t=164912471173410782&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=12f763686b3669de&t=914614928380295822&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=12f763686b3669de&t=118722867598890634&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=12f763686b3669de&t=36608269715985776&line=3&token=xxx
-NowSports2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a93c3f38980efd2&t=945462030788154813&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a93c3f38980efd2&t=293478889229361947&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a93c3f38980efd2&t=1009452888720790923&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1a93c3f38980efd2&t=501880901352430665&line=3&token=xxx
-NowSports3#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2aa4dd8789161ad4&t=1072747524637745415&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2aa4dd8789161ad4&t=600957437522538141&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2aa4dd8789161ad4&t=934353465060513570&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2aa4dd8789161ad4&t=724186427069747997&line=3&token=xxx
-NowSports4,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c5712995789ffda0&t=1095031031768586516&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c5712995789ffda0&t=19350376906138144&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c5712995789ffda0&t=703290195343318435&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c5712995789ffda0&t=996359938597054007&line=3&token=xxx
-NowSports5,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9d99028f5dd72ee0&t=584361772874279666&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9d99028f5dd72ee0&t=550203029870576139&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9d99028f5dd72ee0&t=293219769827906497&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9d99028f5dd72ee0&t=788796311728948846&line=3&token=xxx
-NowSports6,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8d450799549e8403&t=404856447596741156&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8d450799549e8403&t=222180320005574724&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8d450799549e8403&t=51517948834911168&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8d450799549e8403&t=1143690200502413087&line=3&token=xxx
-NowSports7,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bb8937df129cd01d&t=951589604119348044&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=bb8937df129cd01d&t=203249293659297674&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=bb8937df129cd01d&t=795983439496967213&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=bb8937df129cd01d&t=513627618314431804&line=3&token=xxx
-NowSports618,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f740e6c2d5bbf09a&t=1128709802448891947&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f740e6c2d5bbf09a&t=954251251990339083&line=1&token=xxx
-NowSports651,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d0461539e6fa5890&t=109431207795058799&line=0&token=xxx
-NowSports652,http://jy.bhzz.today:2026/YY1/WMHS.php?id=490ab603cd3b089b&t=523649188950410926&line=0&token=xxx
-NowSports英超,http://jy.bhzz.today:2026/YY1/WMHS.php?id=81a628c9b04e00a7&t=535438176036353428&line=0&token=xxx
-NowSports英超1台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ebb8af969a337b28&t=912578429816637437&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ebb8af969a337b28&t=1080045097523089293&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ebb8af969a337b28&t=1141019085464119241&line=2&token=xxx
-NowSports英超2台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8e914925b6c5578c&t=42262669188713424&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8e914925b6c5578c&t=951288563023610692&line=1&token=xxx
-NowSports英超3台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4446ef14ff7f36f6&t=962257179294707196&line=0&token=xxx
-NowSports英超4台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=58d12b1bda1dbfeb&t=765031915004817595&line=0&token=xxx
-NowSports英超5台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d46e41800c4b2dd2&t=811715745343998148&line=0&token=xxx
-NowSports英超6台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=56aaa859c1ebbc12&t=1054746588606639980&line=0&token=xxx
-bEIN Sports 1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fd9ff057e42bbb57&t=1006884542870284916&line=0&token=xxx
-bEIN Sports 2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b71b8189a18969c8&t=761504546372876007&line=0&token=xxx
-NowGolf 2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1071075d580d6beb&t=320869822971934227&line=0&token=xxx
-NowGolf 3,http://jy.bhzz.today:2026/YY1/WMHS.php?id=65f2975c1bef29a7&t=1121679100969827067&line=0&token=xxx
-Now630体育台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ef6e756b8f4e3936&t=1076777206089052214&line=0&token=xxx
-NowSports641,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e9f3888c6bd30de2&t=789486064679522310&line=0&token=xxx
-NowSports647,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1660b7fb0f405ca9&t=241724446238240821&line=0&token=xxx
-NowSportsPlus,http://jy.bhzz.today:2026/YY1/WMHS.php?id=dc0b31e5e01b5316&t=773022034719517759&line=0&token=xxx
-澳门莲花,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2d267162eb55f961&t=102374161462168719&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2d267162eb55f961&t=253796508156183893&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2d267162eb55f961&t=921275731804981785&line=2&token=xxx
-TVB功夫台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c37b41ae9d809573&t=840606233981274571&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c37b41ae9d809573&t=657423288661757437&line=1&token=xxx
-凤凰电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3ea54960d444c595&t=53584109018891260&line=0&token=xxx
-龙祥电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6f021ad5b758b2a8&t=911960020880798391&line=0&token=xxx
-WOW TV,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e1148d05a0d18369&t=770069870773134278&line=0&token=xxx
-KTSF26美国旧金山,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e1e2342821423401&t=429430089792978225&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e1e2342821423401&t=1076253548793868829&line=1&token=xxx
-中国电影频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=dfc5e2217c10d2ab&t=108593834869918768&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=dfc5e2217c10d2ab&t=413242619823987409&line=1&token=xxx
-Thrill,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5d3a0a0bdc97ddcd&t=88402843850836626&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=5d3a0a0bdc97ddcd&t=1076350823634575489&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=5d3a0a0bdc97ddcd&t=875217238949154035&line=2&token=xxx
-天映经典,http://jy.bhzz.today:2026/YY1/WMHS.php?id=95fbe855a1df5dc7&t=1259552355004903&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=95fbe855a1df5dc7&t=448448720223384476&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=95fbe855a1df5dc7&t=949232336788865726&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=95fbe855a1df5dc7&t=661388887882289640&line=3&token=xxx
-香港卫视HKS,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6b5df9f48474d2cc&t=221835067057539936&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=6b5df9f48474d2cc&t=753058962956190464&line=1&token=xxx
-HOY 76,http://jy.bhzz.today:2026/YY1/WMHS.php?id=13e4296292c012fb&t=550657358816179103&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=13e4296292c012fb&t=224311007298383122&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=13e4296292c012fb&t=966185106918925488&line=2&token=xxx
-HOY 77,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4e227d783eb0cd91&t=541727835979137035&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4e227d783eb0cd91&t=749814606851347144&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4e227d783eb0cd91&t=1079348669402087589&line=2&token=xxx
-HOY 78,http://jy.bhzz.today:2026/YY1/WMHS.php?id=923e3765eebb6f11&t=738599445614168921&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=923e3765eebb6f11&t=922655287108842814&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=923e3765eebb6f11&t=1091995766780159597&line=2&token=xxx
-無線衛星亞洲台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=84c9990043a8c6ef&t=485787662956502252&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=84c9990043a8c6ef&t=167323835928526928&line=1&token=xxx
-ViuTV,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c023187e5a2cac2d&t=172498429752471562&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c023187e5a2cac2d&t=855368716312934764&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c023187e5a2cac2d&t=660390439825683605&line=2&token=xxx
-ViuTV6,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b6c97c7593ee1568&t=549537255320364941&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b6c97c7593ee1568&t=370279117090125310&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b6c97c7593ee1568&t=686816459539013446&line=2&token=xxx
-RTHK 31,http://jy.bhzz.today:2026/YY1/WMHS.php?id=15aaf7e77b310c41&t=468497147495058201&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=15aaf7e77b310c41&t=444787724250744358&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=15aaf7e77b310c41&t=95315681322502812&line=2&token=xxx
-RTHK 32,http://jy.bhzz.today:2026/YY1/WMHS.php?id=620bf4c8c9813768&t=779206515510341491&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=620bf4c8c9813768&t=141125554488320572&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=620bf4c8c9813768&t=345128463210697906&line=2&token=xxx
-RTHK 33,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f37c23a3c55ed577&t=250432624817092593&line=0&token=xxx
-RTHK 34,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0377aeddd87878bc&t=873739262863330504&line=0&token=xxx
-RTHK 35,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f622087ac0796184&t=355005336421580024&line=0&token=xxx
-新时代1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=94ab762aeca438e9&t=39414018336816052&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=94ab762aeca438e9&t=1027204246669859064&line=1&token=xxx
-新时代2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=311e21b721c0b762&t=1060699525771443971&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=311e21b721c0b762&t=29898670050990852&line=1&token=xxx
-新时代温哥华,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e3b946646158e0b4&t=909456925825782130&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e3b946646158e0b4&t=1110374632335068661&line=1&token=xxx
-城市电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5dd0d9286b1075b6&t=944774301508911097&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=5dd0d9286b1075b6&t=916683070020735206&line=1&token=xxx
-中旺电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a4bfeb3e5b032b02&t=767905807204506059&line=0&token=xxx
-FashionBox,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9f8f39f240a81fba&t=891470278757768753&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9f8f39f240a81fba&t=80256210212683232&line=1&token=xxx
-摇滚电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c29d50d39d8e8ce5&t=601451700846957529&line=0&token=xxx,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c29d50d39d8e8ce5&t=55491133870281264&line=1&token=xxx,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c29d50d39d8e8ce5&t=897236456219572082&line=2&token=xxx
-摇滚娱乐,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e5f69213b12f1c9e&t=575211200988799787&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e5f69213b12f1c9e&t=178147965688800195&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e5f69213b12f1c9e&t=146898971844886468&line=2&token=xxx
-摇滚极限,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6568e161a356c442&t=665871065965818348&line=0&token=xxx
-HKC18台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5164221dc5c5d120&t=854283167284022358&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=5164221dc5c5d120&t=113348565831120798&line=1&token=xxx
-C18跑马,http://jy.bhzz.today:2026/YY1/WMHS.php?id=66d2b0402f2df2d0&t=838132519797753375&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=66d2b0402f2df2d0&t=730590562015483805&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=66d2b0402f2df2d0&t=662168573167309637&line=2&token=xxx
-88跑马台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=74fc7d3efd4ed9df&t=1063869668001815240&line=0&token=xxx
-Now668跑马台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1b4723a1999f2830&t=274573540527064366&line=0&token=xxx
-Now336报价台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=53e3c0676b32a623&t=93180626869114488&line=0&token=xxx
-黄金翡翠台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2783370d0045a117&t=1071982319866198919&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2783370d0045a117&t=755560443355866004&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2783370d0045a117&t=985243973122642641&line=2&token=xxx
-MyTV千禧经典台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=84cce62e53346ba1&t=96371873525714538&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=84cce62e53346ba1&t=606760212880360774&line=1&token=xxx
-亚洲剧台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2b61640acda7f05e&t=150572786806541987&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2b61640acda7f05e&t=881667464700098744&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2b61640acda7f05e&t=654008339541713789&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2b61640acda7f05e&t=874923440025526857&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2b61640acda7f05e&t=66381514550972032&line=4&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2b61640acda7f05e&t=566018695329296172&line=5&token=xxx
-华语剧台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=88cfbd6b5a463e2d&t=7927074481211698&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=88cfbd6b5a463e2d&t=988315103146470247&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=88cfbd6b5a463e2d&t=465546673619927975&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=88cfbd6b5a463e2d&t=440713628649867460&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=88cfbd6b5a463e2d&t=133563909844004415&line=4&token=xxx
-Kix,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e6ca88bac78bcf9d&t=945686514550204093&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e6ca88bac78bcf9d&t=191685786953883261&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e6ca88bac78bcf9d&t=321757716106250090&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e6ca88bac78bcf9d&t=750612106361624482&line=3&token=xxx
-TVB娱乐新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7bba2893013ed851&t=523148438834993718&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=7bba2893013ed851&t=327606773735435962&line=1&token=xxx","http://jy.bhzz.today:2026/YY1/WMHS.php?id=7bba2893013ed851&t=622847847584877692&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=7bba2893013ed851&t=183839958355114578&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=7bba2893013ed851&t=1089636098389651533&line=4&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=7bba2893013ed851&t=1116207425499263850&line=5&token=xxx
-亚洲综合娱乐台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=614b7b3301a3c808&t=180764956800107094&line=0&token=xxx
-黃金華劇台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=847b114f43ab7eb8&t=1002901189101683585&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=847b114f43ab7eb8&t=474091021536071189&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=847b114f43ab7eb8&t=1106047820883497686&line=2&token=xxx
-TVBSuperFree,http://jy.bhzz.today:2026/YY1/WMHS.php?id=91a75aac61795350&t=465376760459315851&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=91a75aac61795350&t=208637124454202561&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=91a75aac61795350&t=499342428247929518&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=91a75aac61795350&t=803073546744457268&line=3&token=xxx
-戏曲台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6b428e04f109fb90&t=357760613197633993&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=6b428e04f109fb90&t=215793721220899471&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=6b428e04f109fb90&t=308648388076641045&line=2&token=xxx
-Hands UP,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d3daa95940afd9a0&t=94933286629171408&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d3daa95940afd9a0&t=912809834128686585&line=1&token=xxx
-DreamWorks,http://jy.bhzz.today:2026/YY1/WMHS.php?id=def4a8e6dcb35677&t=419440044493702218&line=0&token=xxx
-粤语片台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4820b528c86b5d25&t=859292376970941997&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4820b528c86b5d25&t=252417621829405279&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4820b528c86b5d25&t=1034946692232902063&line=2&token=xxx
-美亚电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8467323d62ebf5ab&t=252606643928602189&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8467323d62ebf5ab&t=585952801685110685&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8467323d62ebf5ab&t=617549873463551137&line=2&token=xxx","http://jy.bhzz.today:2026/YY1/WMHS.php?id=8467323d62ebf5ab&t=222890273394874680&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8467323d62ebf5ab&t=336004228107418066&line=4&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8467323d62ebf5ab&t=1115201395958372188&line=5&token=xxx
-HBOHits,http://jy.bhzz.today:2026/YY1/WMHS.php?id=906430197071759f&t=38320517267563166&line=0&token=xxx
-HBOFamily,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7ac60ed5d6e929c8&t=684397730268879945&line=0&token=xxx
-HBOSignature,http://jy.bhzz.today:2026/YY1/WMHS.php?id=59c79fdb9059ea52&t=174136069463505095&line=0&token=xxx
-MovieMovie,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e484bbb4e2af6e2c&t=354242984589514375&line=0&token=xxx
-Action Hollywood Movies,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7ee18f8f1fca0737&t=72615799441833435&line=0&token=xxx
-Rialto Classic Movies,http://jy.bhzz.today:2026/YY1/WMHS.php?id=60ca335d61ebd5ed&t=408499009582096342&line=0&token=xxx
-Docsville,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f7ea11e0b5323413&t=723987456898354254&line=0&token=xxx
-Pulse Documentaries,http://jy.bhzz.today:2026/YY1/WMHS.php?id=cf609b267ee24968&t=973499094614321619&line=0&token=xxx
-Global Trekker,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b8cd7a7a21937020&t=217228013072735009&line=0&token=xxx
-CreationTV,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ce74aee745378d4d&t=714173527385686029&line=0&token=xxx
-Mezzo Live,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5682271122fa8238&t=200345311657603767&line=0&token=xxx
-Concerto,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f1a2abfffd08c3f8&t=650234023726494841&line=0&token=xxx
-Now90s00s,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d70292d2d8671b7c&t=377950117046327746&line=0&token=xxx
-mySUPER Sports,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e203d968fdbc3edc&t=91017745332899356&line=0&token=xxx
-mySUPER直播足球2台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=cb32db02dafa9d78&t=867233101198763001&line=0&token=xxx
-mySUPER直播足球3台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=605d727d126f9ad1&t=58164490115648355&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=605d727d126f9ad1&t=748008435019871772&line=1&token=xxx
-mySUPER直播足球4台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3fda29ccb07aebb6&t=292633631014728781&line=0&token=xxx
-mySUPER直播足球5台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5af02b5646fa48b5&t=1042017180315768752&line=0&token=xxx
-mySUPER直播足球6台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9219e53d6d4b8995&t=207190027940271913&line=0&token=xxx
-澳視澳門,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fa21f4b4991156d7&t=606077004036393254&line=0&token=xxx
-澳視葡文,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b8f338eda15495cf&t=172190306050682886&line=0&token=xxx
-澳門體育,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0c16e18cb3329a84&t=251579478406194624&line=0&token=xxx
-澳門資訊,http://jy.bhzz.today:2026/YY1/WMHS.php?id=150e81c81cbdeb59&t=737360978722408043&line=0&token=xxx
-澳門綜藝,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c54ed6a85aa9c17b&t=1028701401953299731&line=0&token=xxx
-澳門衛星,http://jy.bhzz.today:2026/YY1/WMHS.php?id=17c8119429229432&t=755553882216190128&line=0&token=xxx
-NickJr儿童频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=842322dc6ff5f97b&t=446846003146375481&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=842322dc6ff5f97b&t=289672423690388824&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=842322dc6ff5f97b&t=269691820708201337&line=2&token=xxx
-中视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8ce4f7f396a14b5f&t=797847204751002031&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8ce4f7f396a14b5f&t=1107394457196370767&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8ce4f7f396a14b5f&t=1009868622783692816&line=2&token=xxx
-中视新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=37aac0d833743893&t=42611015304828294&line=0&token=xxx","http://jy.bhzz.today:2026/YY1/WMHS.php?id=37aac0d833743893&t=321021088986781035&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=37aac0d833743893&t=787620941565908091&line=2&token=xxx
-中视经典,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d77f4a118f1fa06b&t=617895847656979382&line=0&token=xxx
-中视菁采,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bbc2abfbe02db520&t=669692788967442795&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=bbc2abfbe02db520&t=295827335264456327&line=1&token=xxx
-公视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=960f723245448439&t=100114494239059403&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=960f723245448439&t=574199661468737451&line=1&token=xxx
-小公视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8651b17a1363647f&t=688009333362538527&line=0&token=xxx
-公视戏剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d48208e1bde7acb7&t=477495141711384463&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d48208e1bde7acb7&t=803413361983733715&line=1&token=xxx
-公视台语台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=518bd73688cc2407&t=298192168344193111&line=0&token=xxx
-公视新闻网,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b6263c60da253f83&t=254293298901563102&line=0&token=xxx
-民视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1f5cb7f8687ab60e&t=1094314111661231505&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1f5cb7f8687ab60e&t=740726322447280142&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1f5cb7f8687ab60e&t=345134495895650877&line=2&token=xxx
-民视第一台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8bfd0e99b6437852&t=58273503073231412&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8bfd0e99b6437852&t=390734486653829245&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8bfd0e99b6437852&t=96018438938487291&line=2&token=xxx
-民视台湾台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fba0106851541d64&t=198094822709981546&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=fba0106851541d64&t=88461688361278725&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=fba0106851541d64&t=696416934372776124&line=2&token=xxx
-民视新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df8b0c41f0da56f&t=706020202683548286&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df8b0c41f0da56f&t=69385727102461656&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df8b0c41f0da56f&t=84401852041509244&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4df8b0c41f0da56f&t=1124795668851263960&line=3&token=xxx
-民视影剧台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=06d9eb45af481c53&t=785072266898063688&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=06d9eb45af481c53&t=362613266621028775&line=1&token=xxx
-民视旅游台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=672a598cb1f6f253&t=847881032368950886&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=672a598cb1f6f253&t=119881600775179896&line=1&token=xxx
-民视综艺台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b8e2e9f069781b56&t=1151868238183340156&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b8e2e9f069781b56&t=573046314457594552&line=1&token=xxx
-台视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d1a92e4301097a73&t=1121737853758712053&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d1a92e4301097a73&t=602505443781595536&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d1a92e4301097a73&t=599427712377172189&line=2&token=xxx
-台视新闻HD,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a4c4a06515af3bad&t=1073558413791569301&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a4c4a06515af3bad&t=1130237471646868094&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a4c4a06515af3bad&t=985593331312187782&line=2&token=xxx
-台视综合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f224561883f84224&t=459026499825662020&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f224561883f84224&t=596986498262723277&line=1&token=xxx
-台视财经,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bec324db1c1b2a62&t=401694192987360212&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=bec324db1c1b2a62&t=281526754845721868&line=1&token=xxx
-台湾戏剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=741b25d8b63babc6&t=1118426001251503811&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=741b25d8b63babc6&t=89179020740035138&line=1&token=xxx
-华视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f1eae43af85dbf3e&t=116855166835454742&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f1eae43af85dbf3e&t=1043063793222138116&line=1&token=xxx","http://jy.bhzz.today:2026/YY1/WMHS.php?id=f1eae43af85dbf3e&t=308252631535600297&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f1eae43af85dbf3e&t=611917307848586375&line=3&token=xxx
-CTS华视新闻资讯,http://jy.bhzz.today:2026/YY1/WMHS.php?id=be2aa27174c63515&t=894103413760714022&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=be2aa27174c63515&t=1014645016759869752&line=1&token=xxx
-霹雳台湾台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ade63f3cb2b1a70c&t=176973857963423717&line=0&token=xxx
-壹新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=727fa47e10abaa40&t=188485642543216627&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=727fa47e10abaa40&t=849154837256780983&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=727fa47e10abaa40&t=381542699630918014&line=2&token=xxx
-壹电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6dd899103d33b7ed&t=809027204012485165&line=0&token=xxx
-JET综合台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2efb8aa56d2a6d6f&t=360891882748021620&line=0&token=xxx
-年代新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2c3aefae870d058a&t=159512046049082640&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2c3aefae870d058a&t=232556975401832743&line=1&token=xxx
-年代Much,http://jy.bhzz.today:2026/YY1/WMHS.php?id=393c1dbf70aa3865&t=837554770222868122&line=0&token=xxx
-非凡新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8a4f70c55fe2c122&t=411665439927415133&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8a4f70c55fe2c122&t=731070183027682978&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8a4f70c55fe2c122&t=659947504619563720&line=2&token=xxx
-非凡商业,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3e09cada2ae03e2e&t=831377766772981235&line=0&token=xxx
-寰宇新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=74dff16b9a15e132&t=611249138464040875&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=74dff16b9a15e132&t=197068532780924664&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=74dff16b9a15e132&t=440263680416344451&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=74dff16b9a15e132&t=71422010225617653&line=3&token=xxx
-寰宇新闻台湾,http://jy.bhzz.today:2026/YY1/WMHS.php?id=80f22eaf49398551&t=1079255072273355750&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=80f22eaf49398551&t=652770935367430217&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=80f22eaf49398551&t=500311326216637458&line=2&token=xxx
-寰宇财经,http://jy.bhzz.today:2026/YY1/WMHS.php?id=eab9094db18bf1c0&t=832283416280110744&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=eab9094db18bf1c0&t=257351492083876980&line=1&token=xxx
-鏡新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=61aa2c4a25646292&t=420523180610043177&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=61aa2c4a25646292&t=268045590807158439&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=61aa2c4a25646292&t=62726358277467818&line=2&token=xxx
-东森超视美洲,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca3815939f69b834&t=161390554770603419&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca3815939f69b834&t=869117429146004526&line=1&token=xxx
-东森美洲,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a5f48eef1392b52a&t=85349414647432574&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a5f48eef1392b52a&t=196744598587235705&line=1&token=xxx
-东森美洲卫视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ae9ccb4240e7954c&t=268871077164987970&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ae9ccb4240e7954c&t=580489411611537429&line=1&token=xxx
-东森中国台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=dc40d917cf9d1b7c&t=129966934234580053&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=dc40d917cf9d1b7c&t=198527096100328460&line=1&token=xxx
-东森超视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=163e6c3e3bd21f2b&t=821978311924458288&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=163e6c3e3bd21f2b&t=905542040785121269&line=1&token=xxx
-东森亚洲,http://jy.bhzz.today:2026/YY1/WMHS.php?id=566017e6d22d7b5e&t=249109001317641333&line=0&token=xxx
-东森综合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=524d539ec5fb663b&t=698309241824177859&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=524d539ec5fb663b&t=881470804769808464&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=524d539ec5fb663b&t=802204363905019412&line=2&token=xxx
-东森新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4a80586d55204ad1&t=857831609179942886&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4a80586d55204ad1&t=354025744016648729&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4a80586d55204ad1&t=598851663885283629&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4a80586d55204ad1&t=1060569098657039131&line=3&token=xxx
-东森财经,http://jy.bhzz.today:2026/YY1/WMHS.php?id=be1189740305fdb1&t=889128881425524698&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=be1189740305fdb1&t=256176138450767207&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=be1189740305fdb1&t=710676120989502229&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=be1189740305fdb1&t=844225468428940859&line=3&token=xxx
-东森LIVE,http://jy.bhzz.today:2026/YY1/WMHS.php?id=542bfb3143a171c0&t=1120354283980468115&line=0&token=xxx
-东森电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1e378f2d1a49befa&t=318703684203160896&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1e378f2d1a49befa&t=420514695979569052&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1e378f2d1a49befa&t=599621670033330594&line=2&token=xxx
-东森洋片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=404c047310e78077&t=38410562139429009&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=404c047310e78077&t=1142712795347248801&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=404c047310e78077&t=283159593080775747&line=2&token=xxx
-东森戏剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0d8ed9cd9a485328&t=453909676583431246&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=0d8ed9cd9a485328&t=1013697611525357604&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=0d8ed9cd9a485328&t=870670674612881111&line=2&token=xxx
-东森幼幼,http://jy.bhzz.today:2026/YY1/WMHS.php?id=70905dac749b7d3f&t=74660752973774215&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=70905dac749b7d3f&t=1076722542219165230&line=1&token=xxx
-东森亚洲幼幼,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f0e766f3a0b8e201&t=280643626721305796&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f0e766f3a0b8e201&t=145537501578344804&line=1&token=xxx
-MOMO綜合台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d1f37a4ea008f630&t=1120051189695694083&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d1f37a4ea008f630&t=856893052677544771&line=1&token=xxx
-MOMO亲子台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b051f4b8bd147328&t=621296747023208047&line=0&token=xxx
-MOMO台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5230a590dff003ee&t=1023289173284144724&line=0&token=xxx
-国兴卫视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=776a4c30f9485621&t=869033541798339330&line=0&token=xxx
-龙祥时代,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9d00d6e33b1b43a5&t=980538260112176543&line=0&token=xxx
-龙华偶像,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d83278857f07c25d&t=2670221317236390&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d83278857f07c25d&t=1770833224869970&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d83278857f07c25d&t=382401861540937205&line=2&token=xxx
-龙华电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=54182cdbf73c35c9&t=584437034176851789&line=0&token=xxx
-龙华戏剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c47a015df8a7d023&t=427852316647779636&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c47a015df8a7d023&t=249147651430844083&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c47a015df8a7d023&t=585526781553747976&line=2&token=xxx
-龙华日韩,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6df0f1613e0095a7&t=525346820363394861&line=0&token=xxx
-龙华电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e0a07815c0135b40&t=484630100721022360&line=0&token=xxx
-龙华影剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bd5c00d98572f07a&t=312508873332774346&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=bd5c00d98572f07a&t=25881850557318113&line=1&token=xxx
-龙华洋片,http://jy.bhzz.today:2026/YY1/WMHS.php?id=498d7e72e2241e4d&t=600570786881410862&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=498d7e72e2241e4d&t=208298033683174625&line=1&token=xxx
-龙华卡通,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2d1d0e82d6fe8c55&t=615454247838902998&line=0&token=xxx
-龙华经典,http://jy.bhzz.today:2026/YY1/WMHS.php?id=feb7ba9ae4e3835f&t=320200617015019582&line=0&token=xxx
-三立都会台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=168e9996f3341055&t=262752939193445965&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=168e9996f3341055&t=706076918707543601&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=168e9996f3341055&t=542969569037184744&line=2&token=xxx
-三立综合台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2c7f2c9e1577a5d0&t=658779073314533254&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2c7f2c9e1577a5d0&t=374838809213290852&line=1&token=xxx
-三立台湾台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ab8296062e7e525a&t=1039636876482724961&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ab8296062e7e525a&t=581912479748924073&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ab8296062e7e525a&t=16743224978350478&line=2&token=xxx
-三立戏剧台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=254ea8766c2e4f42&t=453860328862072774&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=254ea8766c2e4f42&t=689706096460797080&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=254ea8766c2e4f42&t=1125954003342005304&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=254ea8766c2e4f42&t=895337681938063184&line=3&token=xxx
-三立新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=db8e1e5ca873263b&t=419334798685092443&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=db8e1e5ca873263b&t=1075428245733127483&line=1&token=xxx
-三立iNEWS,http://jy.bhzz.today:2026/YY1/WMHS.php?id=13121185610dfe71&t=567164349711945243&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=13121185610dfe71&t=508748070976174238&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=13121185610dfe71&t=1009456690635240101&line=2&token=xxx
-三立国际台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=34bdd15dc90c5ac8&t=827658012567571129&line=0&token=xxx
-LIVE三立,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f068117db9b4ec47&t=1042043870672337652&line=0&token=xxx
-中天新闻,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4a789f0e146848bd&t=1118690804604866828&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4a789f0e146848bd&t=499821763003324264&line=1&token=xxx
-中天综合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3525e2a679703119&t=1071923443969643766&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=3525e2a679703119&t=883784307936414718&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=3525e2a679703119&t=635883467110811431&line=2&token=xxx
-中天娱乐,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9906b83f3d72734e&t=1045074001626953&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9906b83f3d72734e&t=495826372072631737&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9906b83f3d72734e&t=758887890479928269&line=2&token=xxx
-纬来综合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ec3baf9a66ce9843&t=85374446094835568&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ec3baf9a66ce9843&t=933886547238794711&line=1&token=xxx
-纬来精彩,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c5d801259c031416&t=925123107535711218&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c5d801259c031416&t=969966068641003042&line=1&token=xxx
-纬来戏剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca50dadfa16b56e6&t=935343578691752823&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ca50dadfa16b56e6&t=1140775158140734125&line=1&token=xxx
-纬来日本,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4a808304b7f0e526&t=243270431777706435&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4a808304b7f0e526&t=164656328124111203&line=1&token=xxx
-纬来育乐,http://jy.bhzz.today:2026/YY1/WMHS.php?id=74cc4c3b644c367a&t=1035051657398557069&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=74cc4c3b644c367a&t=447241286617493388&line=1&token=xxx
-纬来电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fc7ad76c4c1e4938&t=930682800252461675&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=fc7ad76c4c1e4938&t=571723351199299738&line=1&token=xxx
-纬来体育,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c0331d87d7f452e2&t=63773627755443505&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c0331d87d7f452e2&t=122569489536699518&line=1&token=xxx
-八大第一台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2f8a0d01bccc84df&t=26735800242238853&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2f8a0d01bccc84df&t=412818610667102259&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2f8a0d01bccc84df&t=690642129840692769&line=2&token=xxx
-八大戏剧台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1476762175b4e0d6&t=242353301687971104&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1476762175b4e0d6&t=52667489470941011&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1476762175b4e0d6&t=1128992854192043097&line=2&token=xxx
-八大综合台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4c3a712dc806012b&t=609944240565157992&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4c3a712dc806012b&t=401477166358189240&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4c3a712dc806012b&t=38866435887067021&line=2&token=xxx
-八大综艺台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=cfcd3e474862baeb&t=508965043967645595&line=0&token=xxx
-八大精彩台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ff9fb2009308649c&t=324239972928399410&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ff9fb2009308649c&t=287481537455910260&line=1&token=xxx
-八大娱乐台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=93306d1688e26f98&t=648795822065282187&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=93306d1688e26f98&t=485698370752193728&line=1&token=xxx
-TVBS新闻台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9e74834dab995f15&t=1046029502270653165&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9e74834dab995f15&t=908323997792772463&line=1&token=xxx
-TVBS精采台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=460826f2194d580a&t=170430368536677819&line=0&token=xxx
-TVBS欢乐台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=43248b82479b4c53&t=496461974316246292&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=43248b82479b4c53&t=39847300854832121&line=1&token=xxx
-TVBSHD,http://jy.bhzz.today:2026/YY1/WMHS.php?id=cbb6def1ad830c42&t=896390629038193137&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=cbb6def1ad830c42&t=327379897864538477&line=1&token=xxx
-TVBS NEWS,http://jy.bhzz.today:2026/YY1/WMHS.php?id=24a535e7ba7cc0a3&t=983048357601750804&line=0&token=xxx
-靖天综合台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=42f6add10bc8940d&t=619688395441378701&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=42f6add10bc8940d&t=713815084049195600&line=1&token=xxx
-靖天日本台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2767aba8fc1dddf1&t=322273937207605776&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2767aba8fc1dddf1&t=1081955551879490090&line=1&token=xxx
-靖天卡通台#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2ed91160f4113c2c&t=697215714866036305&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=2ed91160f4113c2c&t=654827826674990142&line=1&token=xxx
-靖洋卡通台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b0de36f520d39b30&t=393407469224875083&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b0de36f520d39b30&t=1071571790110401325&line=1&token=xxx
-靖天电影台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=43cc23bff60ec9ea&t=614916070971589188&line=0&token=xxx
-靖天资讯台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=cf47a3fbc7191291&t=324250294875829233&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=cf47a3fbc7191291&t=208112392942982590&line=1&token=xxx
-靖天国际台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f041b84008349c90&t=108412109949049114&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f041b84008349c90&t=1004465251740510865&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=f041b84008349c90&t=206103565257828641&line=2&token=xxx
-靖天戏剧台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bb25bf263bfafa5c&t=210327458131707676&line=0&token=xxx
-靖洋戏剧台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c16e51a09d1c5116&t=267979444291464495&line=0&token=xxx
-靖天育乐台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=de45e5bf131bce40&t=557944360479589224&line=0&token=xxx
-靖天映画台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9186b6abb65eafe7&t=458433440017917681&line=0&token=xxx
-靖天欢乐台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b6cf41f07ffc26cc&t=487809882221425989&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b6cf41f07ffc26cc&t=595768924165018643&line=1&token=xxx
-華藝MBC綜合台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d36cf8225a7b4cf4&t=1055629079621083616&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d36cf8225a7b4cf4&t=751270011673488830&line=1&token=xxx
-LUXE TV,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8b1a9e5c636bf7de&t=980189727705154288&line=0&token=xxx
-Trvl旅游台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3831735cbed3c6a9&t=684356560185416581&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=3831735cbed3c6a9&t=961451998274893202&line=1&token=xxx
-美食星球,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d8addab13f019467&t=718874043811866929&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=d8addab13f019467&t=729669795887898042&line=1&token=xxx
-亚洲旅游台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1560bd39dc0df19f&t=304156525904482027&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=1560bd39dc0df19f&t=287870682736851714&line=1&token=xxx
-台湾Plus,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7b21472210e347f7&t=745984242092260335&line=0&token=xxx
-EYETV旅游,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e2ec9bf7e145ce21&t=818619844843698131&line=0&token=xxx
-EYETV戏剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1c0bfc2d71f52afd&t=1046705125816756437&line=0&token=xxx
-DAZN1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b7d561c13508894c&t=470199320291607375&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b7d561c13508894c&t=346145898262899050&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b7d561c13508894c&t=968555332998124150&line=2&token=xxx
-DAZN2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=64837201c87da04f&t=836171601415575739&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=64837201c87da04f&t=695478793788204124&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=64837201c87da04f&t=606661196423312248&line=2&token=xxx
-ELTA日韩,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fa58a1661d401bb7&t=931874818136755277&line=0&token=xxx
-ELTA影剧,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4ce28b5068ebffb2&t=559855048822428097&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4ce28b5068ebffb2&t=511863780545967952&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4ce28b5068ebffb2&t=1088403703353209222&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4ce28b5068ebffb2&t=475158398782499233&line=3&token=xxx
-ELTA综合,http://jy.bhzz.today:2026/YY1/WMHS.php?id=eb4519ff98ed3271&t=751582014081311373&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=eb4519ff98ed3271&t=161253114123111110&line=1&token=xxx
-ELTA娱乐,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e9b8e4bf48fcf416&t=552994279670314261&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e9b8e4bf48fcf416&t=1096159414256883784&line=1&token=xxx,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e9b8e4bf48fcf416&t=887534994307606633&line=2&token=xxx
-ELTA生活旅游,http://jy.bhzz.today:2026/YY1/WMHS.php?id=28372ad35725b01a&t=99420298766142251&line=0&token=xxx
-ELTA体育1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=abb287204f5cdbfd&t=88678800342582163&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=abb287204f5cdbfd&t=902616276871465059&line=1&token=xxx
-ELTA体育2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5ec5c2c475a70399&t=654714686628847261&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=5ec5c2c475a70399&t=629863961296727833&line=1&token=xxx
-ELTA体育3,http://jy.bhzz.today:2026/YY1/WMHS.php?id=81e7c51cac8b6492&t=653151884421007788&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=81e7c51cac8b6492&t=280937956321796054&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=81e7c51cac8b6492&t=975436223679763703&line=2&token=xxx
-ELTA体育4,http://jy.bhzz.today:2026/YY1/WMHS.php?id=33cc96cb6e964c72&t=1005755095891468979&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=33cc96cb6e964c72&t=926510643441342377&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=33cc96cb6e964c72&t=576601136586145318&line=2&token=xxx
-ELTA体育MAX1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=d8b7f651d84f56bd&t=102664995641387787&line=0&token=xxx
-ELTA体育MAX2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a9026f0543e16849&t=751368950785470555&line=0&token=xxx
-ELTA体育MAX3,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1fa88399d887ca1c&t=702707379909877590&line=0&token=xxx
-ELTA体育MAX4,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7d3d0395316429a1&t=335117541354085372&line=0&token=xxx
-ELTA体育MAX5,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7d27e754372f06e0&t=704403403078887043&line=0&token=xxx
-ELTA体育MAX6,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1d7dd96ae7490d13&t=747476914288999711&line=0&token=xxx
-ELTA体育MAX7,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6f587c1a4386a8c7&t=1103248604674990396&line=0&token=xxx
-ELTA体育MAX8,http://jy.bhzz.today:2026/YY1/WMHS.php?id=25ed962815103ef4&t=1048552949066765176&line=0&token=xxx
-ELTA体育MAX9,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6bf78885061d6ad9&t=522424403918293685&line=0&token=xxx
-ELTA体育MAX10,http://jy.bhzz.today:2026/YY1/WMHS.php?id=087e2747aff344b4&t=804577650415137637&line=0&token=xxx
-GinxTV电竞频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=72c13e415111f248&t=232010860825298117&line=0&token=xxx
-博斯运动1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=753b7916fbb83bd2&t=621835531441993819&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=753b7916fbb83bd2&t=1095202496929619842&line=1&token=xxx
-博斯运动2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a17846b9e90602ba&t=1081010487661046978&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a17846b9e90602ba&t=998519069190230633&line=1&token=xxx
-博斯高球1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=991cdb578c9d6540&t=204439038598786617&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=991cdb578c9d6540&t=1150219609313937736&line=1&token=xxx
-博斯高球2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0dce29da9b2b661a&t=584734994897188640&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=0dce29da9b2b661a&t=722377967969787460&line=1&token=xxx
-博斯网球,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bb53a965d8812441&t=744123785561037839&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=bb53a965d8812441&t=698852387741954049&line=1&token=xxx
-博斯无限,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c29f170a29c5309e&t=381722896779462428&line=0&token=xxx
-博斯无限2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=653dcf34abf7afd5&t=927368629485261800&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=653dcf34abf7afd5&t=438032784088934237&line=1&token=xxx
-博斯魅力,http://jy.bhzz.today:2026/YY1/WMHS.php?id=64ea4d7e310e64b0&t=705806862066346525&line=0&token=xxx
-智林体育台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ebf4250ff716f3a9&t=619260707841608128&line=0&token=xxx
-TRACE SportStars,http://jy.bhzz.today:2026/YY1/WMHS.php?id=403a2652e867c39c&t=826608492028356562&line=0&token=xxx
-Z频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e0486458afc2acb&t=421438882517640474&line=0&token=xxx
-Cartoonito,http://jy.bhzz.today:2026/YY1/WMHS.php?id=21b0019f5d4469c5&t=206634113740980741&line=0&token=xxx
-CN卡通频道,:["http://jy.bhzz.today:2026/YY1/WMHS.php?id=e5a153c9e2fef159&t=248621412502339104&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e5a153c9e2fef159&t=26958930075820535&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e5a153c9e2fef159&t=884716849387148013&line=2&token=xxx
-尼克儿童频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=aff72f590421118b&t=1035211753270207312&line=0&token=xxx
-Boomerang,http://jy.bhzz.today:2026/YY1/WMHS.php?id=f91022004ce9aab1&t=254704742738437742&line=0&token=xxx
-BBC Cbeebies,http://jy.bhzz.today:2026/YY1/WMHS.php?id=597a0a45a4ada300&t=168964443463901785&line=0&token=xxx
-梦工厂动画,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2d79dcaf2f0b5719&t=520387227511712226&line=0&token=xxx
-精选动漫台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4739eac36f886188&t=772466184798423179&line=0&token=xxx
-经典卡通台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=51f40ebcd3de2d6b&t=751188887784662228&line=0&token=xxx
-美亚电影台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a4c5b4ec410ba13f&t=872712404730715020&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a4c5b4ec410ba13f&t=815046573070098428&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a4c5b4ec410ba13f&t=456372892332959684&line=2&token=xxx
-Thrill惊悚,http://jy.bhzz.today:2026/YY1/WMHS.php?id=dd518c7e40caf6f0&t=205022413639886032&line=0&token=xxx
-AXN頻道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c7dfdf674454a5cb&t=1002249590979784078&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c7dfdf674454a5cb&t=701876653356892512&line=1&token=xxx
-华纳电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=4fd78fb55a0b2bb0&t=468264126963198369&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4fd78fb55a0b2bb0&t=425208613907844945&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=4fd78fb55a0b2bb0&t=326876476802927852&line=2&token=xxx
-CinemaWorld,http://jy.bhzz.today:2026/YY1/WMHS.php?id=009323e07bdb197e&t=668400604617141631&line=0&token=xxx
-CINEMAX,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9b483584a8f77ed3&t=381154830045724007&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9b483584a8f77ed3&t=124097568326513154&line=1&token=xxx
-HBO HD,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c34e459d49369d5b&t=28675161223886208&line=0&token=xxx
-HBO原创,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8c2375820b486ecb&t=840469579221692624&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=8c2375820b486ecb&t=322401942058182256&line=1&token=xxx
-HBO强档,http://jy.bhzz.today:2026/YY1/WMHS.php?id=54694ad003e06eff&t=611879282230796077&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=54694ad003e06eff&t=716975252746034257&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=54694ad003e06eff&t=440692059258896381&line=2&token=xxx
-HBO家庭,http://jy.bhzz.today:2026/YY1/WMHS.php?id=a21d635cf717e158&t=1047955783488114102&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a21d635cf717e158&t=81586664779300904&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=a21d635cf717e158&t=1044485401526140334&line=2&token=xxx
-好莱坞电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0342d7d3f5f87ea0&t=51401510619930464&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=0342d7d3f5f87ea0&t=516681128743686072&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=0342d7d3f5f87ea0&t=496169042051514587&line=2&token=xxx
-amc最爱电影,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e2bafa6cbef1207&t=269493836564107189&line=0&token=xxx
-CatchPlay电影台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6fd06fec7a9a4dff&t=413239241933559024&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=6fd06fec7a9a4dff&t=75709231896662638&line=1&token=xxx
-RockEntertainment,http://jy.bhzz.today:2026/YY1/WMHS.php?id=965c1f09290f1102&t=333780204521117163&line=0&token=xxx
-RockAction,http://jy.bhzz.today:2026/YY1/WMHS.php?id=da40fc1d34cff0db&t=433616860015963026&line=0&token=xxx
-RockExtreme,http://jy.bhzz.today:2026/YY1/WMHS.php?id=3fb806d84401fe7b&t=58916146469077529&line=0&token=xxx
-经典电影台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=37b70f6c0b9ca0bf&t=715220027288328972&line=0&token=xxx
-采昌影剧台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e5f113df7a3b22fb&t=508887276635604188&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=e5f113df7a3b22fb&t=1121344539751929512&line=1&token=xxx
-红豆电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=fe958b999006bddc&t=37477143302383114&line=0&token=xxx
-信吉,http://jy.bhzz.today:2026/YY1/WMHS.php?id=91bcf417868b17d2&t=716030713590890638&line=0&token=xxx
-信大,http://jy.bhzz.today:2026/YY1/WMHS.php?id=eb82d173de62ed88&t=680441148347969140&line=0&token=xxx
-大立,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1353da2dc36aa7e0&t=352478227180124665&line=0&token=xxx
-达文西频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=77231b9b4b8a4599&t=651058001985749925&line=0&token=xxx
-Smart知识台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c3e9407d41e81e1c&t=228527055986457293&line=0&token=xxx
-电影原聲台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1c3b9b2226548001&t=141598817372140251&line=0&token=xxx
-客家电视台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e9c6159c7ae23d53&t=418052352132911897&line=0&token=xxx
-原住民频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2b8bda9b555804db&t=244230147770462553&line=0&token=xxx
-新唐人亞太台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6a292133f266ac29&t=319106948686470301&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=6a292133f266ac29&t=32007064408792837&line=1&token=xxx
-韩国娱乐台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=39cd6038edfc2651&t=1060795947656195226&line=0&token=xxx
-Channel [V],http://jy.bhzz.today:2026/YY1/WMHS.php?id=56f182df5e1865a0&t=295891643864855571&line=0&token=xxx
-古典音樂台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=bfbef75a0397a0c4&t=573066857288827234&line=0&token=xxx
-MezzoLive,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6a228d624d4e404e&t=851402212291269949&line=0&token=xxx
-猪哥亮歌厅秀,http://jy.bhzz.today:2026/YY1/WMHS.php?id=073b20dd05257e05&t=183242037495863879&line=0&token=xxx
-麥哲倫頻道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9956d2d8cb0c1d81&t=466200439567365037&line=0&token=xxx
-幸福空间居家台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=e8863176985965b6&t=497551757146796662&line=0&token=xxx
-空中英语教室,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6b34fe2c21f62dee&t=19919434357513674&line=0&token=xxx
-ELTV生活英语台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ab27acfb994f78ca&t=123894911206927734&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ab27acfb994f78ca&t=155101467274928606&line=1&token=xxx
-互动英语频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=60507e7cf17994a5&t=171202272741534755&line=0&token=xxx
-历史频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=390a9cdda25b8af7&t=184130361715693285&line=0&token=xxx
-HISTORY2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b5035b385b4983d6&t=460586885300458350&line=0&token=xxx
-INULTRA,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7dbb56dfad502d5e&t=662522639346449908&line=0&token=xxx
-半島國際新聞台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=1b6e6e87679080cb&t=1100265659066360260&line=0&token=xxx
-国家地理野生海外版,http://jy.bhzz.today:2026/YY1/WMHS.php?id=452863bef217c263&t=528055160822494151&line=0&token=xxx
-动物星球,http://jy.bhzz.today:2026/YY1/WMHS.php?id=9e0aae8a7243b7a6&t=406694706584725301&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=9e0aae8a7243b7a6&t=715677305727808259&line=1&token=xxx
-探索频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7666aa287ebd519f&t=508879657391579338&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=7666aa287ebd519f&t=713194423481652509&line=1&token=xxx
-探索动力,http://jy.bhzz.today:2026/YY1/WMHS.php?id=963f76a2c144a91c&t=1135157469036148816&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=963f76a2c144a91c&t=929124318615983951&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=963f76a2c144a91c&t=924442077115592741&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=963f76a2c144a91c&t=194771633500244614&line=3&token=xxx
-探索科学,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c18915c5c5414574&t=596639754806053932&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c18915c5c5414574&t=133950390571865430&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c18915c5c5414574&t=786340020751160531&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c18915c5c5414574&t=666795643201677250&line=3&token=xxx
-探索亚洲,http://jy.bhzz.today:2026/YY1/WMHS.php?id=ed32c2ef7e298cba&t=689300543458401509&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ed32c2ef7e298cba&t=986691721114024393&line=1&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ed32c2ef7e298cba&t=720837871337476041&line=2&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ed32c2ef7e298cba&t=76966157457925840&line=3&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=ed32c2ef7e298cba&t=321079083568020741&line=4&token=xxx
-探索EVE,http://jy.bhzz.today:2026/YY1/WMHS.php?id=c1e54199236ca623&t=1136067260164339276&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=c1e54199236ca623&t=458366763870751637&line=1&token=xxx
-居家乐活频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=b909f30d30d97889&t=534741444248364211&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=b909f30d30d97889&t=254715071040834707&line=1&token=xxx
-CI罪案偵查頻道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=5fe88a62a9bc4f8e&t=273931530215673010&line=0&token=xxx
-亚洲美食频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=8ed75ed5c6abec56&t=305824774569979391&line=0&token=xxx
-CNEX频道,http://jy.bhzz.today:2026/YY1/WMHS.php?id=54509a4ab83ab823&t=242259557140484314&line=0&token=xxx
-人间卫视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=556c539bbebecb0c&t=984602913875260204&line=0&token=xxx
-华藏卫视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6068455495f353a3&t=60372263779035403&line=0&token=xxx
-大爱一台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=6401ead242cee8a8&t=83438930817703329&line=0&token=xxx
-大爱二台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2615d8588438c4ab&t=919220463754410780&line=0&token=xxx
-生命电视台,http://jy.bhzz.today:2026/YY1/WMHS.php?id=72e9badeecf6f7a5&t=1116135999685430610&line=0&token=xxx
-唯心电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=2e442016e05c9555&t=275128454570561086&line=0&token=xxx
-创世电视,http://jy.bhzz.today:2026/YY1/WMHS.php?id=396e8b2cf9c77c33&t=1088028205840279653&line=0&token=xxx
-好消息,http://jy.bhzz.today:2026/YY1/WMHS.php?id=0813a2e2eab12260&t=190878869648234774&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=0813a2e2eab12260&t=267753177483136953&line=1&token=xxx
-好消息2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=af800f09ca29e2c9&t=68437468921384465&line=0&token=xxx#http://jy.bhzz.today:2026/YY1/WMHS.php?id=af800f09ca29e2c9&t=856337674779832401&line=1&token=xxx
-国会频道1,http://jy.bhzz.today:2026/YY1/WMHS.php?id=df2267ff58614d11&t=961481650090228319&line=0&token=xxx
-国会频道2,http://jy.bhzz.today:2026/YY1/WMHS.php?id=7617146ed6ffe04b&t=742367917351572141&line=0&token=xxx
+土拨鼠web,#genre#,DE=3
+凤凰中文,webview://http://m.iptv807.com/?act=play&tid=gt&id=1
+凤凰资讯,webview://http://m.iptv807.com/?act=play&tid=gt&id=2
+凤凰香港,webview://http://m.iptv807.com/?act=play&tid=gt&id=3
+翡翠台,webview://http://m.iptv807.com/?act=play&tid=gt&id=5
+翡翠台,webview://http://m.iptv807.com/?act=play&tid=tv&id=24
+无线新闻,webview://http://m.iptv807.com/?act=play&tid=gt&id=6
+tvbplus,webview://http://m.iptv807.com/?act=play&tid=gt&id=8
+tvbplus,webview://http://x.gtjj.top/app/index.php?i=1&c=entry&sub_openid=osX0w1KsYYWu0rxmAzWPV0XLkKyY&time=1&rid=17&do=index&m=wxz_wzbagent
+明珠台,webview://http://m.iptv807.com/?act=play&tid=gt&id=9
+hoy78,webview://http://m.iptv807.com/?act=play&tid=gt&id=11
+有线18,webview://http://m.iptv807.com/?act=play&tid=gt&id=12
+有线18备,webview://http://m.iptv807.com/?act=play&tid=gt&id=13
+now新闻,webview://http://m.iptv807.com/?act=play&tid=gt&id=17
+now财经,webview://http://m.iptv807.com/?act=play&tid=gt&id=18
+viutv,webview://http://m.iptv807.com/?act=play&tid=gt&id=19
+viutv6,webview://http://m.iptv807.com/?act=play&tid=gt&id=20
+hoy76,webview://http://m.iptv807.com/?act=play&tid=gt&id=22
+huy78,webview://http://m.iptv807.com/?act=play&tid=gt&id=23
+hoy77,webview://http://m.iptv807.com/?act=play&tid=gt&id=24
+港台电视31,webview://http://m.iptv807.com/?act=play&tid=gt&id=26
+港台电视32,webview://http://m.iptv807.com/?act=play&tid=gt&id=27
+香港卫视 HKS,webview://http://m.iptv807.com/?act=play&tid=gt&id=30
+澳门莲花,webview://http://m.iptv807.com/?act=play&tid=gt&id=35
+澳門卫视,webview://http://m.iptv807.com/?act=play&tid=gt&id=36
+澳视资讯,webview://http://m.iptv807.com/?act=play&tid=gt&id=37
+澳視澳門,webview://http://m.iptv807.com/?act=play&tid=gt&id=38
+澳門 Macau,webview://http://m.iptv807.com/?act=play&tid=gt&id=39
+澳视综艺,webview://http://m.iptv807.com/?act=play&tid=gt&id=40
+澳亚卫视,webview://http://m.iptv807.com/?act=play&tid=gt&id=41
+中天新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=43
+东森新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=44
+东森财经新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=45
+中视新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=46
+台视新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=47
+三立新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=48
+非凡新闻,webview://http://m.iptv807.com/?act=play&tid=gt&id=49
+民视新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=50
+华视新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=51
+镜电视新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=52
+寰宇新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=53
+寰宇新闻台湾台,webview://http://m.iptv807.com/?act=play&tid=gt&id=54
+TVBS 新闻台,webview://http://m.iptv807.com/?act=play&tid=gt&id=55
+TVBS HD,webview://http://m.iptv807.com/?act=play&tid=gt&id=56
+中视 HD,webview://http://m.iptv807.com/?act=play&tid=gt&id=60
+台视 HD,webview://http://m.iptv807.com/?act=play&tid=gt&id=61
+民视 HD,webview://http://m.iptv807.com/?act=play&tid=gt&id=62
+华视 HD,webview://http://m.iptv807.com/?act=play&tid=gt&id=63
+緯來體育台,webview://http://m.iptv807.com/?act=play&tid=gt&id=73
+纬来日本台,webview://http://m.iptv807.com/?act=play&tid=gt&id=74
+纬来育乐台,webview://http://m.iptv807.com/?act=play&tid=gt&id=75
+ELEVEN 1( DAZN 1),webview://http://m.iptv807.com/?act=play&tid=gt&id=76
+ELEVEN 2( DAZN 2),webview://http://m.iptv807.com/?act=play&tid=gt&id=77
+爱尔达体育1台,webview://http://m.iptv807.com/?act=play&tid=gt&id=79
+爱尔达体育2台,webview://http://m.iptv807.com/?act=play&tid=gt&id=80
 
 抖音直播,#genre#,DE=3
 水水家猪蹄,https://cdn.ttvb.eu.org/douyin/ssjzt777
