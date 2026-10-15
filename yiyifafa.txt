@@ -431,9 +431,20 @@ AK电影,#genre#
 1990赌侠,https://play.modujx11.com/20241224/mBSx76B4/index.m3u8
 
 极速港台（挂梯）,#genre#,DE=3
+翡翠台,http://cc.123.rr.kg/163189/fct
+无线新闻台,http://cc.123.rr.kg/163189/wxxwt
+HOY TV,https://cc.123.rr.kg/163189/hoy
+凤凰中文,https://cc.123.rr.kg/163189/fhzw
+凤凰资讯,https://cc.123.rr.kg/163189/fhzx
+凤凰香港,https://cc.123.rr.kg/163189/fhhk
+华丽翡翠台,https://cc.123.rr.kg/163189/hlfct
+TVB亚洲武侠,https://cc.123.rr.kg/163189/yzwx
+TVB娱乐新闻台,https://cc.123.rr.kg/163189/ylxw
+TVB星河,https://cc.123.rr.kg/163189/tvbxh
+华丽翡翠台(硬字幕),https://cc.123.rr.kg/163189/jade
+
 翡翠台4K(字幕),https://cdn3.indevs.in/stream/tvb/fct4k/
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
-翡翠台,http://cc.123.rr.kg/163189/fct
 翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台(字幕),https://cdn3.indevs.in/stream/tvb/fct/
 明珠台(字幕),https://cdn3.indevs.in/stream/tvb/mzt/
@@ -545,7 +556,7 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 
 寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
-
+TVB Plus,http://167.88.62.43:64012/0.ts
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 
 FightSports,http://iptv.4666888.xyz/iptv2A.php?id=1
