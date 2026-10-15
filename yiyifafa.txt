@@ -623,6 +623,11 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 台视,http://211.72.174.95:8112/0.ts
 东森新闻,http://211.72.174.95:8138/0.ts
 
+中视经典,http://167.88.62.43:64008/0.ts
+中视箐采,http://167.88.62.43:64009/0.ts
+美食星球,http://167.88.62.43:64017/0.ts
+非凡新闻,http://167.88.62.43:64018/0.ts
+
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
