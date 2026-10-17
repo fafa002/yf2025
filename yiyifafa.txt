@@ -541,6 +541,7 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 翡翠台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jade.flv
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
+翡翠台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
 翡翠台,http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 无线新闻台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 无线新闻台,rtmp://school.3class.cc/live/yifaTV-125
