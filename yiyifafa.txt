@@ -647,168 +647,385 @@ DAZN-体育,rtmp://f13h.mine.nu/sat/tv731
 DAZN-体育,rtmp://f13h.mine.nu/sat/tv741
 momo'tv,rtmp://f13h.mine.nu/sat/tv761
 
-美国UA(挂梯子),#genre# 
-CGTN,https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
-CGTN1,https://live-stream.cgtn.com/event-live/CGTN_1_1PVvR6ZBAZ2/index.m3u8
-DHE HD,http://108.181.23.41:80/livehttpplay?channel_id=23504
-SEÑAL COLOMBIA HD ,http://108.181.23.41:80/livehttpplay?channel_id=23510
-CARACOL HD COLOMBIA,http://108.181.23.41:80/livehttpplay?channel_id=23513
-RCN HD COLOMBIA,http://108.181.23.41:80/livehttpplay?channel_id=23515
-DISNEY CHANELL HD,http://108.181.23.41:80/livehttpplay?channel_id=23517
-ESPN PREMIUM HD,http://108.181.23.41:80/livehttpplay?channel_id=23523
-TELEANTIOQUIA HD COLOMBIA,http://108.181.23.41:80/livehttpplay?channel_id=23532
-WIN SPORTS PREMIUM  COL,http://108.181.23.41:80/livehttpplay?channel_id=23542
-ON DIRECTV HD,http://108.181.23.41:80/livehttpplay?channel_id=23544
-WinSports HD,http://108.181.23.41:80/livehttpplay?channel_id=23548
-UNIVERSAL COMEDY HD,http://108.181.23.41:80/livehttpplay?channel_id=23550
-GOLDEN PLUS MX HD,http://108.181.23.41:80/livehttpplay?channel_id=23623
-NTN 24 HORAS ,http://108.181.23.41:80/livehttpplay?channel_id=23705
+美国UA(挂梯子),#genre#
+Wonder,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+V2Beat,https://abr.de1se01.v2beat.live/playlist.m3u8
+uctv,https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+Trace Urban tv,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+SportyStuffTV uk,https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+skitv tv,https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+qvc beauty uk,https://live-qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+OutsideTVPlus us,https://outsidetvplus-xumo.amagi.tv/playlist.m3u8
+OneNewsNetwork.us,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+NRB Network [USA],https://uni10rtmp.tulix.tv/nrbtvlive/nrbtvlive.stream/playlist.m3u8
+NBC News,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+MAVTVSelect us,https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
+MAVTV us,https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+LiveNOWfromFOX.us,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+Leo jose,https://list.iptvcat.com/my_list/s/f941a1259615aa91505e37fe249fea5c.m3u8
+LegoChannel us,https://legochannel-vizio.amagi.tv/playlist.m3u8
+KidoodleTV ca,https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+Hunt Channel,https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+gospel TV,http://live-h1.frontlayer.net/fl492017/live/chunks.m3u8
+Fashion TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+edition.cnn,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+EDGEsport uk,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+EbS+ Live (Europe by Satellite),https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8
+EbS Live (Europe by Satellite),https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8
+DW-TV English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+cna tv，https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+ZooMoo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+VICE (720p),https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+Red Bull TV (1080p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+bbc.com news world,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+barazatv hd,https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+AYV,https://1219373429.rsc.cdn77.org/live/stream-1/chunklist.m3u8
+Angel TV America,https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelamerica_all/chunklist_b1431072.m3u8
+Al Jazeera Live,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+30A TV MUSIC,https://30a-tv.com/music.m3u8
+30A TV,https://30a-tv.com/my999.m3u8
+DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+CBS News (720p),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+Buzzr (1080p),https://buzzr-samsungus.amagi.tv/playlist.m3u8
+Adventure Sports TV (1080p),https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
+AFV (720p),https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+ABC News (720p),https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+24 Hour Free Movies (720p),https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
+1-2-3 TV (270p),https://123tv-mx1.flex-cdn.net/index.m3u8
+3sat (720p) [Geo-blocked],https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+Adria Music Television,https://adriaapp.b-cdn.net/1080p/index.m3u8
+Adventure Earth (1080p),https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+Adventure Earth (720p),https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+Alex Berlin (1080p),https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+Allgäu TV (1080p),https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+Altenburg TV (1080p),https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+Altenburg TV,https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+ANIMAL KINGDOM (720p),https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+Anixe + (360p),https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+Anixe HD Serie (360p),https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+ARD-alpha (720p),https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+ARD-alpha (720p),https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+Aristo TV (360p),https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+ARTE (720p) [Geo-blocked],https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+Augsburg TV (1080p),https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+Augsburg TV (a.tv) (1080p),https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+Autentic History (1080p),https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+Autentic Travel (1080p),https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+Baden TV (1080p),http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+Baden TV (1080p),http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+Baden TV (1080p),https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+Bibel TV (720p),https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+Bibel TV Impuls (720p),https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+Bibel TV Musik (720p),https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+BLK Regional TV (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+BLK TV (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+BLK TV Hohenmölsen (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
+BR Fernsehen Nord (720p),https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+BR Fernsehen Sud (1080p),https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+Chemnitz Fernsehen (1080p),https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+Cira TV (1080p),https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+Cira TV,https://cira-tv.akamaized.net/hls/stream_0.m3u8
+Das Erste HD (1080p),https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+DASDING 90.8 (720p),https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+Deluxe Dance (1080p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+Deluxe Lounge (720p),https://jmp2.uk/stvp-CHAJ0500413A
+Deluxe Music (720p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+Deluxe Rap (1080p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+DMF (1080p),https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+Dokusat (1080p),https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+Dresden Fernsehen (1080p),https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+DW Arabic (1080p),https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+DW English (1080p),https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+DW English (720p),http://170.83.16.50/DW/index.m3u8
+DW English (720p),https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
+DW English (576p),http://stream.mcquack.net/440/index.m3u8
+DW English (576p),https://cdn-7.pishow.tv/live/431/master.m3u8
+DW Espanol (1080p),https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+DW Espanol (1080p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660
+DW Espanol (720p),http://45.162.231.38:7779/DW/index.m3u8
+DW Russian (1080p),https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+EchtJetzt TV (720p),https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+Erz-TV Stollberg (576p),https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+Filstalwelle (1080p),https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+Finest TV (288p),https://media.finest.tv/hls/live.m3u8
+Folx Music Television,https://folxapp.b-cdn.net/1080p/index.m3u8
+Franken Fernsehen (Nürnberg) (1080p),https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+FrankenPlus (1080p),https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+Hamburg 1 (1080p),https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+Handystar (404p),https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+Hope Channel German (1080p),https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+hr-fernsehen (1080p),https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+HSE (1080p),https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+HSE24 Extra (1080p),https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+HSE24 Trend (576p),https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+iSTUFF (720p),https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+Juwelo (720p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+Kanal12 Spremberg TV (404p),https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+KaufBei TV (576p),https://api.alpaca.t62a.com/hls/9103/index.m3u8
+KaufBei TV,https://elephant.t62a.com/hls/8103/index.m3u8
+KiKA (1080p) [Geo-blocked],https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+KiKA (1080p),https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+KulturMD (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+labor14 (720p),https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+Lausitzwelle (1080p),https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+Leipzig Fernsehen (1080p),https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+Light Channel (576p),http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+Magenta Musik 360 (1080p),https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
+MC TV (720p),https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+MDF.1 (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+MDR Fernsehen Sachsen (1080p) [Geo-blocked],https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked],https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+MDR Fernsehen Thüringen (1080p) [Geo-blocked],https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+More Than Sports TV (1080p),https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+Motorvision (576p),http://hls127.freeott.top:8080/Motorvision/video.m3u8
+Motorvision TV (720p),https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+München TV (1080p),https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+Nachrichten 360 (1080p) [Geo-blocked],https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+Nash Kinomir (576p),http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+NDR Fernsehen International (720p),https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+NDR Hamburg (720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+NDR Mecklenburg-Vorpommern (720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+NDR Niedersachsen (720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+NDR Schleswig-Holstein (720p),https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+Nickelodeon,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+Nickelodeon Deutschland [Geo-blocked],https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+Niederbayern TV (720p),https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+Niederbayern TV Deggendorf & Straubing (1080p),https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+Niederbayern TV Landshut (1080p),https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+Niederbayern TV Landshut (1080p),https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+Niederbayern TV Passau (1080p),https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+Noa 4 Hamburg (1080p),https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+Noa 4 Norderstedt (1080p),https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+NRWision (1080p),https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+Oberpfalz TV (1080p),https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+OF-TV Offenbach (720p),https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+OF-TV Offenbach (720p),https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+OK4 (720p) [Geo-blocked],https://s.ok54.de/abr_ok4/live/playlist.m3u8
+OK54 (720p) [Geo-blocked],https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+Dessau (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+Dessau (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+Dessau (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+Flensburg (576p),https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+Kaiserslautern (720p) [Geo-blocked],https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+Kassel (720p) [Geo-blocked],https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+Kiel (576p),https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+Magdeburg (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+Magdeburg (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+Merseburg-Querfurt (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+Merseburg-Querfurt (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
+Rhein-Main (576p) [Geo-blocked],https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+Salzwedel (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+Salzwedel (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+Salzwedel (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8
+Stendal (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+Stendal (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+Trier (720p) [Geo-blocked],https://s.ok54.de/ott/webstream/playlist.m3u8
+Weinstraße (Neustadt) (432p) [Geo-blocked],https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+Wernigerode (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+Wernigerode (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+OK-TV Ludwigshafen (720p) [Geo-blocked],https://s.ok54.de/oklu/livestream/playlist.m3u8
+One Adria,https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+One Music Television,https://oneapp.b-cdn.net/1080p/index.m3u8
+Ost West (576p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+Ost West 24 (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+Parlamentsfernsehen 1 (1080p) [Geo-blocked],https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+Parlamentsfernsehen 1 (1080p),https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+Parlamentsfernsehen 2 (1080p),https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+Parlamentsfernsehen 3 (1080p),https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+Parlamentsfernsehen 4 (1080p),https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+Phoenix (720p) [Geo-blocked],https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+PUNKTum Fernsehen (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+QVC 2 Germany (540p),https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+QVC Germany (720p),https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+QVC Style Germany (540p),https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+Radio 21 TV (720p),https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+Radio Bremen Fernsehen (1080p) [Geo-blocked],https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+Radio Weser TV Bremen (576p),https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+Radio Weser TV Bremen (576p),https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+RAN1 (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+RAN1 (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+RBB Berlin (1080p) [Geo-blocked],https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+RBB Brandenburg (1080p) [Geo-blocked],https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+RBW (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+RBW (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8
+RBW Bitterfeld-Wolfen (1080p),https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+Regio TV Bodensee (1080p),https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+Regio TV Stuttgart (1080p),https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+RFH (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+RFH (1080p),https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
+RFO (1080p),https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+RiC (1080p),https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+Rock Antenne,https://stream.rockantenne.de/rockantenne/stream/mp3
+Rockland TV (480p),https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+RT DE (1080p),https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+RT DE (1080p),https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+Saarland Fernsehen 1 (1080p),https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+Saarland Fernsehen 2 (720p),https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+Sachsen Eins (1080p),https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+Salve TV (720p),https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
+Seenluft24 (1080p),https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+Sender Neu Jerusalem (576p),https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+Sonnenklar TV (1080p),http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+Sonus FM TV (1080p),http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+Sonus FM TV (1080p),https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
+Sophia TV (720p),https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+Sophia TV Español (720p),https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+Sophia TV Français (720p),https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+Sophia TV Italy (720p),https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+SR Fernsehen (720p),https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+SRF (1080p),https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+SWR 3 Visual Radio (720p),https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked],https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked],https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+Tagesschau 24 (720p),https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+teltOwkanal (1080p),https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+Terra Mater WILD (1080p),https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+Terra Mater WILD English (1080p),https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+Tide TV (1080p),https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+Tide TV (1080p),https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+TV38 Südost-Niedersachen (1080p),https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+TV Ingolstadt (1080p),https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+TV Mainfranken (1080p),https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+TV Oberfranken (TVO) (1080p),https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+TVA (1080p),https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+TVRUS,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+TVRUS+,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+Unserding (720p) [Geo-blocked],https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
+Volksmusik TV (1080p),https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+WDR 1 Live (720p),https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+WDR 1 Live (720p),https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+WDR Fernsehen (720p),https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+WDR Fernsehen Aachen (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+WDR Fernsehen Bielefeld (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+WDR Fernsehen Bonn (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+WDR Fernsehen Dortmund (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+WDR Fernsehen Duisburg (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+WDR Fernsehen Düsseldorf (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+WDR Fernsehen Essen (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+WDR Fernsehen Köln (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+WDR Fernsehen Münster (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+WDR Fernsehen Siegen (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+WDR Fernsehen Wuppertal (720p) [Geo-blocked],https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+Welt der Wunder TV (576p),https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+YOL TV,https://live.yoltv.com/hls/stream.m3u8
+ZDF (720p) [Geo-blocked],https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+ZDFinfo (720p) [Geo-blocked],https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+ZDFneo (720p) [Geo-blocked],https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+Zwei Music Television,https://zweiapp.b-cdn.net/1080p/index.m3u8
+DW English (576p),https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+DW English (576p),https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+MTV,https://ma.anixa.tv/clips/stream/mtv/playlist.php
+Comedy Central,https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+DW Espanol (720p),http://138.121.15.230:9002/DW/index.m3u8
+ZDF,https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+3sat,https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+RTL,https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+SWR Fernsehen HD,https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
+n-tv,https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+RTL Super,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+VOX,https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+RTL Zwei,https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8
+WELT,https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+Nitro,https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+Disney Channel,http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
+ProSieben Maxx,http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass
+ZDFneo,http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass
+kabel eins Doku,http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
+RiC,https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
+DMAX (576p),http://5.180.164.197:8080/DMAX/index.m3u8
+ProSieben Maxx HD (360p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+Disney Channel (576p),https://s6.hopslan.com/disneyX/index.m3u8
+ZDFneo (720p),http://5.180.164.197:8080/ZDFNEO/index.m3u8
+kabel eins Doku (720p),https://s6.hopslan.com/dokuX/index.m3u8
+TLC (576p),https://s6.hopslan.com/tlcX/index.m3u8
+DW English (1080p),https://freem3u.xyz/api/live/play.m3u8?vid=109
+ProSieben Maxx (576p),https://s6.hopslan.com/pro7maxxX/index.m3u8
+Da Vinci Asia Vietnam (1080p),https://vmttv.dpdns.org/tv360/?id=davinci-hd
+Das Erste HD (1080p) [Geo-blocked],https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+TELE 5 (576p),https://s6.hopslan.com/tele5X/index.m3u8
 
 英国UK(挂梯子),#genre# 
-UK ULTRA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451783
-SERVICE INFORMATION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1515133
-BBC1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693835
-BBC2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693836
-BBC NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693834
-SKY CINEMA FAMILY,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138166
-SKY CINEMA ACTION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138160
-SKY SPORTS ACTION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190954
-ALIBI ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693833
-Bloomberg,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693837
-Boomerang,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693838
-Cartoon Network,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693839
-CHANNEL 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693840
-CHANNEL 5,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693841
-Colors,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693842
-Comedy Central,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693843
-Crime Investigation,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693844
-Dazn PPV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693897
-Discovery,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693845
-E4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693846
-Eurosports 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693847
-Eurosports 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693848
-FILM 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693849
-GB News,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693850
-GOLD,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693851
-ITV1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693855
-ITV 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693852
-ITV 3,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693853
-ITV 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693854
-LFC,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693856
-More4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693857
-MTV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693858
-MUTV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693859
-Nat Geo WIld,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693860
-National Geo,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693861
-Nick Jr,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693863
-NICK,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693862
-RTE 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693865
-RTE 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693866
-SKY ARTS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693867
-SKY ATLANTIC,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693868
-SKY COMEDY,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693869
-SKY CRIME,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693870
-SKY HISTORY 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693872
-SKY KIDS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693873
-SKY NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693875
-SKY SHOWCASE,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693876
-SKY SPORTS NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138133
-Sky Sports News,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693881
-Sky Sports Football,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693877
-Sky Sports Golf,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693878
-Sky Sports Main Events,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693879
-Sky Sports Mix,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693880
-Sky Sports Premier League,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693882
-Sky Sports Racing,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693883
-SKY WITNESS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693884
-SONY MAX,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693885
-SONY TV,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693886
-SYFY,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693887
-TLC,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693888
-UTSAV GOLD,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693889
-UTSAV PLUS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693890
-Viaplay 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693891
-Viaplay 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693892
-Virgin 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693893
-VIRGIN 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693894
-Watch,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693895
-Zee Tv,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693896
-SKY CINEMA PREMIERE,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138157
-SKY CINEMA HITS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138161
-SKY CINEMA COMEDY,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138164
-SKY CINEMA DRAMA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138165
-SKY CINEMA SCIFI & HORROR,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138162
-SKY CINEMA THRILLER,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138163
-SKY CINEMA GREATS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138159
-SKY CINEMA SELECT,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138158
-SKY CINEMA ANIMATION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138167
-PREMIER SPORTS 1 IR,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138151
-PREMIER SPORTS 1 UK,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138153
-PREMIER SPORTS 2 IR,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138152
-PREMIER SPORTS 2 UK,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138154
-SKY SPORTS MAIN EVENT,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138134
-TNT SPORTS 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190957
-SKY CINEMA PREMIER,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190958
-SKY SPORTS MIX,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190955
-SKY SPORTS PREMIER LEAGUE,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/190956
-SKY SPORTS FOOTBALL,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138135
-SKY SPORTS CRICKET,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138140
-SKY SPORTS GOLF,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138139
-SKY SPORTS F1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138141
-SKY SPORTS ARENA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138137
-SKY SPORTS RACING,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138143
-BOXNATION,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138168
-TNT SPORT 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138145
-TNT SPORT 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138146
-TNT SPORT 3 ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138147
-TNT SPORT 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/138148
-TNT SPORTS 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/309614
-TNT SPORTS 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/309613
-TNT SPORTS 3,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/309612
-TNT SPORTS 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/309611
-Sky Nature,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693874
-RACING UK,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/693864
-NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1491133
-SKY NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10536
-SKY  NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13639
-BLOOMBERG NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13642
-BBC NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10582
-BBC PARLIAMENT,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/77363
-BBC WORLD NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13645
-BBC ONE NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/77360
-CNN ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10576
-EURONEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/246753
-EURONEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13638
-ALJAZEERA NEWS ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13644
-GB NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/148668
-CBS NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/246756
-FOX NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13640
-RTE NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/13643
-BBC GENERAL,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1451779
-BBC 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/22246
-BBC ᴴᴰ 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10580
-BBC 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/22244
-BBC ᴴᴰ 2,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10579
-BBC ᴴᴰ 3 CBBC ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10578
-BBC 4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/22243
-BBC CBBC ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/10581
-BBC 2 Northern Ireland,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690833
-BBC ALBA,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690824
-BBC FOUR,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690823
-BBC One Channel Islands,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690825
-BBC One North East & Cumbria,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690827
-BBC One Northern Ireland,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690822
-BBC One North West,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690828
-BBC One South East,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690829
-BBC One Wales,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690821
-BBC One West,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690830
-BBC One Yorkshire & Lincolnshire,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690826
-BBC One Yorkshire,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690831
-BBC Red Button 1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690832
-BBC SCOTLAND ˢᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690818
-BBC SCOTLAND ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690819
-BBC SCOTLAND ᴴᴰ,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/690820
-BBC NEWS,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/22242
+Channel Name,Unicast Link,Multicast IP
+OMAN TV HD,http://162.212.178.70:4842/bysid/802,239.108.3.34:49152
+SUDAN TV,http://162.212.178.70:4842/bysid/803,239.108.3.35:49152
+AL EKHBARIYA,http://162.212.178.70:4842/bysid/805,239.108.3.37:49152
+CANAL ALGERIE,http://162.212.178.70:4842/bysid/808,239.108.3.40:49152
+JORDAN TV,http://162.212.178.70:4842/bysid/812,239.108.3.44:49152
+KUWAIT TV1 (Delay 7/8h),http://162.212.178.70:4842/bysid/815,239.108.3.47:49152
+KTV AL AKHBAR (Delay 7/8h),http://162.212.178.70:4842/bysid/816,239.108.3.48:49152
+Libya Al Watanya,http://162.212.178.69:4242/bysid/7,236.2.0.7:49152
+Saudi - Quran,http://162.212.178.69:4242/bysid/8,236.2.0.8:49152
+Saudi - Sunnah,http://162.212.178.69:4242/bysid/9,236.2.0.9:49152
+SAUDI TV HD,http://162.212.178.69:4242/bysid/10,236.2.0.10:49152
+Iran E Arayee SD,http://162.212.178.69:4242/bysid/16,236.2.0.16:49152
+RTPI,http://162.212.178.69:4242/bysid/608,236.2.2.96:49152
+RDP Internacional,http://162.212.178.69:4242/bysid/609,236.2.2.97:49152
+CCTV 4N,http://162.212.178.70:4642/bysid/1,239.106.0.1:49152
+CGTN,http://162.212.178.70:4642/bysid/2,239.106.0.2:49152
+CGTN F,http://162.212.178.70:4642/bysid/3,239.106.0.3:49152
+CGTN E,http://162.212.178.70:4642/bysid/7,239.106.0.7:49152
+CGTN DOCUMENTARY,http://162.212.178.70:4642/bysid/8,239.106.0.8:49152
+CCTV 4US,http://162.212.178.70:4642/bysid/882,239.106.3.114:49152
+CGTN,http://162.212.178.70:4642/bysid/883,239.106.3.115:49152
+OMAN TV HD,http://162.212.178.69:4442/bysid/802,236.4.3.34:49152
+SUDAN TV,http://162.212.178.69:4442/bysid/803,236.4.3.35:49152
+AL EKHBARIYA,http://162.212.178.69:4442/bysid/805,236.4.3.37:49152
+CANAL ALGERIE,http://162.212.178.69:4442/bysid/808,236.4.3.40:49152
+JORDAN TV,http://162.212.178.69:4442/bysid/812,236.4.3.44:49152
+KUWAIT TV1 (Delay 7/8h),http://162.212.178.69:4442/bysid/815,236.4.3.47:49152
+KTV AL AKHBAR (Delay 7/8h),http://162.212.178.69:4442/bysid/816,236.4.3.48:49152
+OMAN TV HD,http://162.212.178.69:4042/bysid/802,236.0.3.34:49152
+SUDAN TV,http://162.212.178.69:4042/bysid/803,236.0.3.35:49152
+AL EKHBARIYA,http://162.212.178.69:4042/bysid/805,236.0.3.37:49152
+CANAL ALGERIE,http://162.212.178.69:4042/bysid/808,236.0.3.40:49152
+JORDAN TV,http://162.212.178.69:4042/bysid/812,236.0.3.44:49152
+KUWAIT TV1 (Delay 7/8h),http://162.212.178.69:4042/bysid/815,236.0.3.47:49152
+KTV AL AKHBAR (Delay 7/8h),http://162.212.178.69:4042/bysid/816,236.0.3.48:49152
+HOPE CHANNEL,http://162.212.178.69:4742/bysid/1,236.7.0.1:49152
+Daystar,http://162.212.178.69:4742/bysid/2,236.7.0.2:49152
+TVGE Internacional,http://162.212.178.69:4742/bysid/4,236.7.0.4:49152
+HOPE CHANNEL,http://162.212.178.69:4742/bysid/10,236.7.0.10:49152
+LLBN His-Word TV,http://162.212.178.69:4742/bysid/11,236.7.0.11:49152
+ESPERANZA TV,http://162.212.178.69:4742/bysid/12,236.7.0.12:49152
+SBN Domestic,http://162.212.178.69:4742/bysid/71,236.7.0.71:49152
+HOPE CHANNEL,http://162.212.178.69:4742/bysid/201,236.7.0.201:49152
+ESPERANZA TV,http://162.212.178.69:4742/bysid/202,236.7.0.202:49152
+Al Mayadeen TV,http://162.212.178.70:4442/bysid/2,239.104.0.2:49152
+EEE NETWORK,http://162.212.178.70:4442/bysid/11,239.104.0.11:49152
+Parole Di Vita,http://162.212.178.70:4442/bysid/21,239.104.0.21:49152
+Al Sirat TV,http://162.212.178.70:4442/bysid/26,239.104.0.26:49152
+TBN TV,http://162.212.178.70:4442/bysid/318,239.104.1.62:49152
+Church Channel,http://162.212.178.70:4442/bysid/319,239.104.1.63:49152
+Smile of a Child,http://162.212.178.70:4442/bysid/321,239.104.1.65:49152
+Positiv,http://162.212.178.70:4442/bysid/322,239.104.1.66:49152
+Al Maghribia,http://162.212.178.70:4442/bysid/380,239.104.1.124:49152
+2M Morocco,http://162.212.178.70:4442/bysid/381,239.104.1.125:49152
+Tele Congo,http://162.212.178.70:4442/bysid/524,239.104.2.12:49152
+Radio Congo,http://162.212.178.70:4442/bysid/525,239.104.2.13:49152
+CCTV 4N,http://162.212.178.69:4542/bysid/1,236.5.0.1:49152
+CGTN,http://162.212.178.69:4542/bysid/2,236.5.0.2:49152
+CGTN F,http://162.212.178.69:4542/bysid/3,236.5.0.3:49152
+CGTN E,http://162.212.178.69:4542/bysid/7,236.5.0.7:49152
+CGTN DOCUMENTARY,http://162.212.178.69:4542/bysid/8,236.5.0.8:49152
+CCTV 4US,http://162.212.178.69:4542/bysid/882,236.5.3.114:49152
+CGTN,http://162.212.178.69:4542/bysid/883,236.5.3.115:49152
+SABA World Promo,http://162.212.178.70:4542/bysid/813,239.105.3.45:49152
+SABA World Promo,http://162.212.178.70:4542/bysid/819,239.105.3.51:49152
+SABA World Promo,http://162.212.178.70:4542/bysid/829,239.105.3.61:49152
+SABA World Promo,http://162.212.178.70:4542/bysid/1522,239.105.5.242:49152
+PRESS TV,http://162.212.178.70:4542/bysid/1531,239.105.5.251:49152
+HISPAN TV,http://162.212.178.70:4542/bysid/1532,239.105.5.252:49152
+iFILM ENGLISH,http://162.212.178.70:4542/bysid/1533,239.105.5.253:49152
+CCTV 4N,http://at0sat.tulix.tv:4542/bysid/1,236.5.0.1:49152
+CGTN,http://at0sat.tulix.tv:4542/bysid/2,236.5.0.2:49152
+CGTN F,http://at0sat.tulix.tv:4542/bysid/3,236.5.0.3:49152
+CGTN E,http://at0sat.tulix.tv:4542/bysid/7,236.5.0.7:49152
+CGTN DOCUMENTARY,http://at0sat.tulix.tv:4542/bysid/8,236.5.0.8:49152
+CCTV 4US,http://at0sat.tulix.tv:4542/bysid/882,236.5.3.114:49152
+CGTN,http://at0sat.tulix.tv:4542/bysid/883,236.5.3.115:49152
 
 韩国KR,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1905,132 +2122,6 @@ NBA经典,http://k.061899.xyz/k.php?id=nba
 凤凰香港,http://k.061899.xyz/k.php?id=fhhk
 
 咪咕央视2,#genre#
-CCTV1综合,http://smartzhu.cn:1234/608807420
-CCTV2财经,http://smartzhu.cn:1234/631780532
-CCTV3综艺,http://smartzhu.cn:1234/624878271
-CCTV4中文国际,http://smartzhu.cn:1234/631780421
-CCTV5体育,http://smartzhu.cn:1234/641886683
-CCTV5+体育赛事,http://smartzhu.cn:1234/641886773
-CCTV6电影,http://smartzhu.cn:1234/624878396
-CCTV7国防军事,http://smartzhu.cn:1234/673168121
-CCTV8电视剧,http://smartzhu.cn:1234/624878356
-CCTV9纪录,http://smartzhu.cn:1234/673168140
-CCTV10科教,http://smartzhu.cn:1234/624878405
-CCTV11戏曲,http://smartzhu.cn:1234/667987558
-CCTV12社会与法,http://smartzhu.cn:1234/673168185
-CCTV13新闻,http://smartzhu.cn:1234/608807423
-CCTV14少儿,http://smartzhu.cn:1234/624878440
-CCTV15音乐,http://smartzhu.cn:1234/673168223
-CCTV17农业农村,http://smartzhu.cn:1234/673168256
-CCTV4欧洲,http://smartzhu.cn:1234/608807419
-CCTV4美洲,http://smartzhu.cn:1234/608807416
-CGTN外语纪录,http://smartzhu.cn:1234/609006487
-CGTN阿拉伯语,http://smartzhu.cn:1234/609154345
-CGTN西班牙语,http://smartzhu.cn:1234/609006450
-CGTN法语,http://smartzhu.cn:1234/609006476
-CGTN俄语,http://smartzhu.cn:1234/609006446
-老故事,http://smartzhu.cn:1234/884121956
-发现之旅,http://smartzhu.cn:1234/624878970
-中学生,http://smartzhu.cn:1234/708869532
-CGTN,http://smartzhu.cn:1234/609017205
-东方卫视,http://smartzhu.cn:1234/651632648
-江苏卫视,http://smartzhu.cn:1234/623899368
-广东卫视,http://smartzhu.cn:1234/608831231
-北京卫视,http://smartzhu.cn:1234/630287636
-辽宁卫视,http://smartzhu.cn:1234/630291707
-河北卫视,http://smartzhu.cn:1234/962042070
-江西卫视,http://smartzhu.cn:1234/783847495
-河南卫视,http://smartzhu.cn:1234/790187291
-陕西卫视,http://smartzhu.cn:1234/738910838
-大湾区卫视,http://smartzhu.cn:1234/608917627
-湖北卫视,http://smartzhu.cn:1234/947472496
-吉林卫视,http://smartzhu.cn:1234/947472500
-青海卫视,http://smartzhu.cn:1234/947472506
-东南卫视,http://smartzhu.cn:1234/849116810
-海南卫视,http://smartzhu.cn:1234/947472502
-海峡卫视,http://smartzhu.cn:1234/849119120
-中国农林卫视,http://smartzhu.cn:1234/956904896
-兵团卫视,http://smartzhu.cn:1234/956923145
-宁夏卫视,http://smartzhu.cn:1234/738910535
-重庆卫视,http://smartzhu.cn:1234/738910914
-三沙卫视,http://smartzhu.cn:1234/961023778
-黑龙江卫视,http://smartzhu.cn:1234/738906901
-上海新闻综合,http://smartzhu.cn:1234/651632657
-上视东方影视,http://smartzhu.cn:1234/617290047
-上海第一财经,http://smartzhu.cn:1234/608780988
-南京新闻综合频道,http://smartzhu.cn:1234/838109047
-南京教科频道,http://smartzhu.cn:1234/838153729
-南京十八频道,http://smartzhu.cn:1234/838151753
-体育休闲频道,http://smartzhu.cn:1234/626064707
-江苏城市频道,http://smartzhu.cn:1234/626064714
-江苏国际,http://smartzhu.cn:1234/626064674
-江苏教育,http://smartzhu.cn:1234/628008321
-江苏影视频道,http://smartzhu.cn:1234/626064697
-江苏综艺频道,http://smartzhu.cn:1234/626065193
-公共新闻频道,http://smartzhu.cn:1234/626064693
-盐城新闻综合,http://smartzhu.cn:1234/639731825
-淮安新闻综合,http://smartzhu.cn:1234/639731826
-泰州新闻综合,http://smartzhu.cn:1234/639731818
-连云港新闻综合,http://smartzhu.cn:1234/639731715
-宿迁新闻综合,http://smartzhu.cn:1234/639731832
-徐州新闻综合,http://smartzhu.cn:1234/639731747
-优漫卡通频道,http://smartzhu.cn:1234/626064703
-江阴新闻综合,http://smartzhu.cn:1234/955227979
-南通新闻综合,http://smartzhu.cn:1234/955227985
-宜兴新闻综合,http://smartzhu.cn:1234/955227996
-溧水新闻综合,http://smartzhu.cn:1234/639737327
-陕西银龄频道,http://smartzhu.cn:1234/956909362
-陕西都市青春频道,http://smartzhu.cn:1234/956909358
-陕西秦腔频道,http://smartzhu.cn:1234/956909303
-陕西新闻资讯频道,http://smartzhu.cn:1234/956909289
-财富天下,http://smartzhu.cn:1234/956923159
-镇江新闻综合,http://smartzhu.cn:1234/639731783
-海南广播电视总台新闻频道,http://smartzhu.cn:1234/962067517
-海南广播电视总台自贸频道,http://smartzhu.cn:1234/962045226
-海南广播电视总台社会与法频道,http://smartzhu.cn:1234/962045223
-海南广播电视总台文旅频道,http://smartzhu.cn:1234/962067526
-海南广播电视总台少儿频道,http://smartzhu.cn:1234/962067523
-广东珠江频道,http://smartzhu.cn:1234/639731952
-赛事最经典,http://smartzhu.cn:1234/646596895
-体坛名栏汇,http://smartzhu.cn:1234/629943305
-四海钓鱼,http://smartzhu.cn:1234/637444975
-陕西体育休闲频道,http://smartzhu.cn:1234/956909356
-24小时城市联赛轮播台,http://smartzhu.cn:1234/915512915
-武术世界,http://smartzhu.cn:1234/958475359
-快乐垂钓,http://smartzhu.cn:1234/961930263
-建党105周年巡礼,http://smartzhu.cn:1234/713600957
-经典香港电影,http://smartzhu.cn:1234/625703337
-新片放映厅,http://smartzhu.cn:1234/619495952
-CHC影迷电影,http://smartzhu.cn:1234/952383261
-CHC动作电影,http://smartzhu.cn:1234/644368714
-CHC家庭影院,http://smartzhu.cn:1234/644368373
-和美乡途轮播台,http://smartzhu.cn:1234/713591450
-南方影视,http://smartzhu.cn:1234/614961829
-中国天气,http://smartzhu.cn:1234/959986621
-CETV1,http://smartzhu.cn:1234/923287154
-CETV2,http://smartzhu.cn:1234/923287211
-CETV4,http://smartzhu.cn:1234/923287339
-山东教育,http://smartzhu.cn:1234/609154353
-熊猫频道01高清,http://smartzhu.cn:1234/609158151
-熊猫频道1,http://smartzhu.cn:1234/608933610
-熊猫频道2,http://smartzhu.cn:1234/608933640
-熊猫频道3,http://smartzhu.cn:1234/608934619
-熊猫频道4,http://smartzhu.cn:1234/608934721
-熊猫频道5,http://smartzhu.cn:1234/608935104
-熊猫频道6,http://smartzhu.cn:1234/608935797
-熊猫频道7,http://smartzhu.cn:1234/609169286
-熊猫频道8,http://smartzhu.cn:1234/609169287
-熊猫频道9,http://smartzhu.cn:1234/609169226
-熊猫频道10,http://smartzhu.cn:1234/609169285
-最强综艺趴,http://smartzhu.cn:1234/629942228
-嘉佳卡通,http://smartzhu.cn:1234/614952364
-经典动画大集合,http://smartzhu.cn:1234/629942219
-新动漫,http://smartzhu.cn:1234/961930269
-新动力量创一流,http://smartzhu.cn:1234/713589837
-中华特产,http://smartzhu.cn:1234/959986618
-环球旅游,http://smartzhu.cn:1234/958475356
-梨园频道,http://smartzhu.cn:1234/961930369
-
 CCTV1综合,http://my1nas.dpdns.org:1234/608807420
 CCTV2财经,http://my1nas.dpdns.org:1234/631780532
 CCTV3综艺,http://my1nas.dpdns.org:1234/624878271
@@ -5561,7 +5652,6 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 香蕉2,rtmp://112.29.121.74/live/易發TV-xjt
 松视1,rtmp://112.29.121.74/live/易發TV-s1t
 惊艳2,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-极限电影,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/cx_ddeea82ff347ac7ca7de44b6aad6a.flv
 惊艳(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘多拉(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 彩虹(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
