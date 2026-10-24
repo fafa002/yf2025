@@ -3204,6 +3204,50 @@ CETV4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 咪咕直播29,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1
 咪咕直播30,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1
 
+咪咕体育2,#genre#,DE=3
+睛彩篮球,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ2NC5tM3U4
+睛彩青少,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ2NS5tM3U4
+睛彩广场舞,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ2Ni5tM3U4
+睛彩竞技,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ2Ny5tM3U4
+咪咕视频-1,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ2OC5tM3U4
+咪咕视频-2,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ2OS5tM3U4
+咪咕视频-3,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3MC5tM3U4
+咪咕视频-4,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3MS5tM3U4
+咪咕视频-5,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3Mi5tM3U4
+咪咕视频-6,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3My5tM3U4
+咪咕视频-7,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3NC5tM3U4
+咪咕视频-8,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3NS5tM3U4
+咪咕视频-9,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3Ni5tM3U4
+咪咕视频-10,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3Ny5tM3U4
+咪咕视频-11,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3OC5tM3U4
+咪咕视频-12,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ3OS5tM3U4
+咪咕视频-13,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4MC5tM3U4
+咪咕视频-14,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4MS5tM3U4
+咪咕视频-15,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4Mi5tM3U4
+咪咕视频-16,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4My5tM3U4
+咪咕视频-24,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4NC5tM3U4
+咪咕视频-25,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4NS5tM3U4
+咪咕视频-26,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4Ni5tM3U4
+咪咕视频-27,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4Ny5tM3U4
+咪咕视频-28,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4OC5tM3U4
+咪咕视频-29,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ4OS5tM3U4
+咪咕视频-30,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5MC5tM3U4
+咪咕视频-31,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5MS5tM3U4
+咪咕视频-32,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5Mi5tM3U4
+咪咕视频-33,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5My5tM3U4
+咪咕视频-34,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5NC5tM3U4
+咪咕视频-35,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5NS5tM3U4
+咪咕视频-36,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5Ni5tM3U4
+咪咕视频-37,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5Ny5tM3U4
+咪咕视频-38,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5OC5tM3U4
+咪咕视频-39,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzQ5OS5tM3U4
+咪咕视频-40,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzUwMC5tM3U4
+咪咕视频-41,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzUwMS5tM3U4
+咪咕视频-42,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzUwMi5tM3U4
+咪咕视频-43,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzUwMy5tM3U4
+咪咕视频-44,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzUwNC5tM3U4
+咪咕视频-45,http://www.kaniptv.cn/uadl.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ1LjE5Mi45Ny4xNzA6ODg4MC9wbGF5LzUwNS5tM3U4
+
 央视频,#genre#,DE=3
 CCTV-1HD,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV-2HD,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
@@ -3990,6 +4034,327 @@ CCTV-5+HD,http://173.208.212.130:8181/1080p/cctv5p.m3u8
 江苏卫视,http://173.208.212.130:8181/720p/jsws.m3u8
 江苏卫视,http://173.208.212.130:8181/1080p/jsws.m3u8
 浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
+
+央视频7,#genre#,DE=3
+CCTV-1 综合,http://145.239.65.119:20345/cctv1.m3u8
+CCTV-2 财经,http://145.239.65.119:20345/cctv2.m3u8
+CCTV-3 综艺,http://145.239.65.119:20345/cctv3.m3u8
+CCTV-4 中文国际,http://145.239.65.119:20345/cctv4.m3u8
+CCTV-5 体育,http://145.239.65.119:20345/cctv5.m3u8
+CCTV-5+ 体育赛事,http://145.239.65.119:20345/cctv5p.m3u8
+CCTV-6 电影,http://145.239.65.119:20345/cctv6.m3u8
+CCTV-7 国防军事,http://145.239.65.119:20345/cctv7.m3u8
+CCTV-8 电视剧,http://145.239.65.119:20345/cctv8.m3u8
+CCTV-9 纪录,http://145.239.65.119:20345/cctv9.m3u8
+CCTV-10 科教,http://145.239.65.119:20345/cctv10.m3u8
+CCTV-11 戏曲,http://145.239.65.119:20345/cctv11.m3u8
+CCTV-12 社会与法,http://145.239.65.119:20345/cctv12.m3u8
+CCTV-13 新闻,http://145.239.65.119:20345/cctv13.m3u8
+CCTV-14 少儿,http://145.239.65.119:20345/cctv14.m3u8
+CCTV-15 音乐,http://145.239.65.119:20345/cctv15.m3u8
+CCTV-16 奥林匹克,http://145.239.65.119:20345/cctv16.m3u8
+CCTV-16 4K,http://145.239.65.119:20345/cctv164k.m3u8
+CCTV-17 农业农村,http://145.239.65.119:20345/cctv17.m3u8
+CCTV-4K 超高清,http://145.239.65.119:20345/cctv4k.m3u8
+CCTV-8K 超高清,http://145.239.65.119:20345/cctv8k.m3u8
+CGTN,http://145.239.65.119:20345/cgtn.m3u8
+CGTN 法语,http://145.239.65.119:20345/cgtnfr.m3u8
+CGTN 俄语,http://145.239.65.119:20345/cgtnru.m3u8
+CGTN 阿拉伯语,http://145.239.65.119:20345/cgtnar.m3u8
+CGTN 西班牙语,http://145.239.65.119:20345/cgtnes.m3u8
+CGTN 纪录,http://145.239.65.119:20345/cgtndoc.m3u8
+CCTV 风云剧场,http://145.239.65.119:20345/cctvfyjc.m3u8
+CCTV 第一剧场,http://145.239.65.119:20345/cctvdyjc.m3u8
+CCTV 怀旧剧场,http://145.239.65.119:20345/cctvhjjc.m3u8
+CETV-1,http://145.239.65.119:20345/cetv1.m3u8
+国学频道,http://145.239.65.119:20345/guoxue.m3u8
+北京卫视,http://145.239.65.119:20345/bjws.m3u8
+江苏卫视,http://145.239.65.119:20345/jsws.m3u8
+东方卫视,http://145.239.65.119:20345/dfws.m3u8
+浙江卫视,http://145.239.65.119:20345/zjws.m3u8
+湖南卫视,http://145.239.65.119:20345/hnws.m3u8
+湖北卫视,http://145.239.65.119:20345/hbws.m3u8
+广东卫视,http://145.239.65.119:20345/gdws.m3u8
+广西卫视,http://145.239.65.119:20345/gxws.m3u8
+黑龙江卫视,http://145.239.65.119:20345/hljws.m3u8
+海南卫视,http://145.239.65.119:20345/hainanws.m3u8
+重庆卫视,http://145.239.65.119:20345/cqws.m3u8
+深圳卫视,http://145.239.65.119:20345/szws.m3u8
+四川卫视,http://145.239.65.119:20345/scws.m3u8
+河南卫视,http://145.239.65.119:20345/henanws.m3u8
+东南卫视,http://145.239.65.119:20345/dnws.m3u8
+贵州卫视,http://145.239.65.119:20345/gzws.m3u8
+江西卫视,http://145.239.65.119:20345/jxws.m3u8
+辽宁卫视,http://145.239.65.119:20345/lnws.m3u8
+安徽卫视,http://145.239.65.119:20345/ahws.m3u8
+河北卫视,http://145.239.65.119:20345/hebws.m3u8
+山东卫视,http://145.239.65.119:20345/sdws.m3u8
+天津卫视,http://145.239.65.119:20345/tjws.m3u8
+吉林卫视,http://145.239.65.119:20345/jlws.m3u8
+陕西卫视,http://145.239.65.119:20345/saxws.m3u8
+宁夏卫视,http://145.239.65.119:20345/nxws.m3u8
+内蒙古卫视,http://145.239.65.119:20345/nmgws.m3u8
+云南卫视,http://145.239.65.119:20345/ynws.m3u8
+山西卫视,http://145.239.65.119:20345/shanxiws.m3u8
+青海卫视,http://145.239.65.119:20345/qhws.m3u8
+西藏卫视,http://145.239.65.119:20345/xizangws.m3u8
+新疆卫视,http://145.239.65.119:20345/xjws.m3u8
+
+CCTV-1 综合,http://xymm.1000s.dpdns.org:8767/cctv1.m3u8
+CCTV-2 财经,http://xymm.1000s.dpdns.org:8767/cctv2.m3u8
+CCTV-3 综艺,http://xymm.1000s.dpdns.org:8767/cctv3.m3u8
+CCTV-4 中文国际,http://xymm.1000s.dpdns.org:8767/cctv4.m3u8
+CCTV-5 体育,http://xymm.1000s.dpdns.org:8767/cctv5.m3u8
+CCTV-5+ 体育赛事,http://xymm.1000s.dpdns.org:8767/cctv5p.m3u8
+CCTV-6 电影,http://xymm.1000s.dpdns.org:8767/cctv6.m3u8
+CCTV-7 国防军事,http://xymm.1000s.dpdns.org:8767/cctv7.m3u8
+CCTV-8 电视剧,http://xymm.1000s.dpdns.org:8767/cctv8.m3u8
+CCTV-9 纪录,http://xymm.1000s.dpdns.org:8767/cctv9.m3u8
+CCTV-10 科教,http://xymm.1000s.dpdns.org:8767/cctv10.m3u8
+CCTV-11 戏曲,http://xymm.1000s.dpdns.org:8767/cctv11.m3u8
+CCTV-12 社会与法,http://xymm.1000s.dpdns.org:8767/cctv12.m3u8
+CCTV-13 新闻,http://xymm.1000s.dpdns.org:8767/cctv13.m3u8
+CCTV-14 少儿,http://xymm.1000s.dpdns.org:8767/cctv14.m3u8
+CCTV-15 音乐,http://xymm.1000s.dpdns.org:8767/cctv15.m3u8
+CCTV-16 奥林匹克,http://xymm.1000s.dpdns.org:8767/cctv16.m3u8
+CCTV-16 4K,http://xymm.1000s.dpdns.org:8767/cctv164k.m3u8
+CCTV-17 农业农村,http://xymm.1000s.dpdns.org:8767/cctv17.m3u8
+CCTV-4K 超高清,http://xymm.1000s.dpdns.org:8767/cctv4k.m3u8
+CCTV-8K 超高清,http://xymm.1000s.dpdns.org:8767/cctv8k.m3u8
+CGTN,http://xymm.1000s.dpdns.org:8767/cgtn.m3u8
+CGTN 法语,http://xymm.1000s.dpdns.org:8767/cgtnfr.m3u8
+CGTN 俄语,http://xymm.1000s.dpdns.org:8767/cgtnru.m3u8
+CGTN 阿拉伯语,http://xymm.1000s.dpdns.org:8767/cgtnar.m3u8
+CGTN 西班牙语,http://xymm.1000s.dpdns.org:8767/cgtnes.m3u8
+CGTN 纪录,http://xymm.1000s.dpdns.org:8767/cgtndoc.m3u8
+CCTV 风云剧场,http://xymm.1000s.dpdns.org:8767/cctvfyjc.m3u8
+CCTV 第一剧场,http://xymm.1000s.dpdns.org:8767/cctvdyjc.m3u8
+CCTV 怀旧剧场,http://xymm.1000s.dpdns.org:8767/cctvhjjc.m3u8
+CETV-1,http://xymm.1000s.dpdns.org:8767/cetv1.m3u8
+国学频道,http://xymm.1000s.dpdns.org:8767/guoxue.m3u8
+北京卫视,http://xymm.1000s.dpdns.org:8767/bjws.m3u8
+江苏卫视,http://xymm.1000s.dpdns.org:8767/jsws.m3u8
+东方卫视,http://xymm.1000s.dpdns.org:8767/dfws.m3u8
+浙江卫视,http://xymm.1000s.dpdns.org:8767/zjws.m3u8
+湖南卫视,http://xymm.1000s.dpdns.org:8767/hnws.m3u8
+湖北卫视,http://xymm.1000s.dpdns.org:8767/hbws.m3u8
+广东卫视,http://xymm.1000s.dpdns.org:8767/gdws.m3u8
+广西卫视,http://xymm.1000s.dpdns.org:8767/gxws.m3u8
+黑龙江卫视,http://xymm.1000s.dpdns.org:8767/hljws.m3u8
+海南卫视,http://xymm.1000s.dpdns.org:8767/hainanws.m3u8
+重庆卫视,http://xymm.1000s.dpdns.org:8767/cqws.m3u8
+深圳卫视,http://xymm.1000s.dpdns.org:8767/szws.m3u8
+四川卫视,http://xymm.1000s.dpdns.org:8767/scws.m3u8
+河南卫视,http://xymm.1000s.dpdns.org:8767/henanws.m3u8
+东南卫视,http://xymm.1000s.dpdns.org:8767/dnws.m3u8
+贵州卫视,http://xymm.1000s.dpdns.org:8767/gzws.m3u8
+江西卫视,http://xymm.1000s.dpdns.org:8767/jxws.m3u8
+辽宁卫视,http://xymm.1000s.dpdns.org:8767/lnws.m3u8
+安徽卫视,http://xymm.1000s.dpdns.org:8767/ahws.m3u8
+河北卫视,http://xymm.1000s.dpdns.org:8767/hebws.m3u8
+山东卫视,http://xymm.1000s.dpdns.org:8767/sdws.m3u8
+天津卫视,http://xymm.1000s.dpdns.org:8767/tjws.m3u8
+吉林卫视,http://xymm.1000s.dpdns.org:8767/jlws.m3u8
+陕西卫视,http://xymm.1000s.dpdns.org:8767/saxws.m3u8
+宁夏卫视,http://xymm.1000s.dpdns.org:8767/nxws.m3u8
+内蒙古卫视,http://xymm.1000s.dpdns.org:8767/nmgws.m3u8
+云南卫视,http://xymm.1000s.dpdns.org:8767/ynws.m3u8
+山西卫视,http://xymm.1000s.dpdns.org:8767/shanxiws.m3u8
+青海卫视,http://xymm.1000s.dpdns.org:8767/qhws.m3u8
+西藏卫视,http://xymm.1000s.dpdns.org:8767/xizangws.m3u8
+新疆卫视,http://xymm.1000s.dpdns.org:8767/xjws.m3u8
+
+CCTV-1 综合,http://51.75.118.151:20299/cctv1.m3u8
+CCTV-2 财经,http://51.75.118.151:20299/cctv2.m3u8
+CCTV-3 综艺,http://51.75.118.151:20299/cctv3.m3u8
+CCTV-4 中文国际,http://51.75.118.151:20299/cctv4.m3u8
+CCTV-5 体育,http://51.75.118.151:20299/cctv5.m3u8
+CCTV-5+ 体育赛事,http://51.75.118.151:20299/cctv5p.m3u8
+CCTV-6 电影,http://51.75.118.151:20299/cctv6.m3u8
+CCTV-7 国防军事,http://51.75.118.151:20299/cctv7.m3u8
+CCTV-8 电视剧,http://51.75.118.151:20299/cctv8.m3u8
+CCTV-9 纪录,http://51.75.118.151:20299/cctv9.m3u8
+CCTV-10 科教,http://51.75.118.151:20299/cctv10.m3u8
+CCTV-11 戏曲,http://51.75.118.151:20299/cctv11.m3u8
+CCTV-12 社会与法,http://51.75.118.151:20299/cctv12.m3u8
+CCTV-13 新闻,http://51.75.118.151:20299/cctv13.m3u8
+CCTV-14 少儿,http://51.75.118.151:20299/cctv14.m3u8
+CCTV-15 音乐,http://51.75.118.151:20299/cctv15.m3u8
+CCTV-16 奥林匹克,http://51.75.118.151:20299/cctv16.m3u8
+CCTV-16 4K,http://51.75.118.151:20299/cctv164k.m3u8
+CCTV-17 农业农村,http://51.75.118.151:20299/cctv17.m3u8
+CCTV-4K 超高清,http://51.75.118.151:20299/cctv4k.m3u8
+CCTV-8K 超高清,http://51.75.118.151:20299/cctv8k.m3u8
+CGTN,http://51.75.118.151:20299/cgtn.m3u8
+CGTN 法语,http://51.75.118.151:20299/cgtnfr.m3u8
+CGTN 俄语,http://51.75.118.151:20299/cgtnru.m3u8
+CGTN 阿拉伯语,http://51.75.118.151:20299/cgtnar.m3u8
+CGTN 西班牙语,http://51.75.118.151:20299/cgtnes.m3u8
+CGTN 纪录,http://51.75.118.151:20299/cgtndoc.m3u8
+CCTV 风云剧场,http://51.75.118.151:20299/cctvfyjc.m3u8
+CCTV 第一剧场,http://51.75.118.151:20299/cctvdyjc.m3u8
+CCTV 怀旧剧场,http://51.75.118.151:20299/cctvhjjc.m3u8
+CETV-1,http://51.75.118.151:20299/cetv1.m3u8
+国学频道,http://51.75.118.151:20299/guoxue.m3u8
+北京卫视,http://51.75.118.151:20299/bjws.m3u8
+江苏卫视,http://51.75.118.151:20299/jsws.m3u8
+东方卫视,http://51.75.118.151:20299/dfws.m3u8
+浙江卫视,http://51.75.118.151:20299/zjws.m3u8
+湖南卫视,http://51.75.118.151:20299/hnws.m3u8
+湖北卫视,http://51.75.118.151:20299/hbws.m3u8
+广东卫视,http://51.75.118.151:20299/gdws.m3u8
+广西卫视,http://51.75.118.151:20299/gxws.m3u8
+黑龙江卫视,http://51.75.118.151:20299/hljws.m3u8
+海南卫视,http://51.75.118.151:20299/hainanws.m3u8
+重庆卫视,http://51.75.118.151:20299/cqws.m3u8
+深圳卫视,http://51.75.118.151:20299/szws.m3u8
+四川卫视,http://51.75.118.151:20299/scws.m3u8
+河南卫视,http://51.75.118.151:20299/henanws.m3u8
+东南卫视,http://51.75.118.151:20299/dnws.m3u8
+贵州卫视,http://51.75.118.151:20299/gzws.m3u8
+江西卫视,http://51.75.118.151:20299/jxws.m3u8
+辽宁卫视,http://51.75.118.151:20299/lnws.m3u8
+安徽卫视,http://51.75.118.151:20299/ahws.m3u8
+河北卫视,http://51.75.118.151:20299/hebws.m3u8
+山东卫视,http://51.75.118.151:20299/sdws.m3u8
+天津卫视,http://51.75.118.151:20299/tjws.m3u8
+吉林卫视,http://51.75.118.151:20299/jlws.m3u8
+陕西卫视,http://51.75.118.151:20299/saxws.m3u8
+宁夏卫视,http://51.75.118.151:20299/nxws.m3u8
+内蒙古卫视,http://51.75.118.151:20299/nmgws.m3u8
+云南卫视,http://51.75.118.151:20299/ynws.m3u8
+山西卫视,http://51.75.118.151:20299/shanxiws.m3u8
+青海卫视,http://51.75.118.151:20299/qhws.m3u8
+西藏卫视,http://51.75.118.151:20299/xizangws.m3u8
+新疆卫视,http://51.75.118.151:20299/xjws.m3u8
+
+CCTV-1 综合,http://47.100.209.208:8767/cctv1.m3u8
+CCTV-2 财经,http://47.100.209.208:8767/cctv2.m3u8
+CCTV-3 综艺,http://47.100.209.208:8767/cctv3.m3u8
+CCTV-4 中文国际,http://47.100.209.208:8767/cctv4.m3u8
+CCTV-5 体育,http://47.100.209.208:8767/cctv5.m3u8
+CCTV-5+ 体育赛事,http://47.100.209.208:8767/cctv5p.m3u8
+CCTV-6 电影,http://47.100.209.208:8767/cctv6.m3u8
+CCTV-7 国防军事,http://47.100.209.208:8767/cctv7.m3u8
+CCTV-8 电视剧,http://47.100.209.208:8767/cctv8.m3u8
+CCTV-9 纪录,http://47.100.209.208:8767/cctv9.m3u8
+CCTV-10 科教,http://47.100.209.208:8767/cctv10.m3u8
+CCTV-11 戏曲,http://47.100.209.208:8767/cctv11.m3u8
+CCTV-12 社会与法,http://47.100.209.208:8767/cctv12.m3u8
+CCTV-13 新闻,http://47.100.209.208:8767/cctv13.m3u8
+CCTV-14 少儿,http://47.100.209.208:8767/cctv14.m3u8
+CCTV-15 音乐,http://47.100.209.208:8767/cctv15.m3u8
+CCTV-16 奥林匹克,http://47.100.209.208:8767/cctv16.m3u8
+CCTV-16 4K,http://47.100.209.208:8767/cctv164k.m3u8
+CCTV-17 农业农村,http://47.100.209.208:8767/cctv17.m3u8
+CCTV-4K 超高清,http://47.100.209.208:8767/cctv4k.m3u8
+CCTV-8K 超高清,http://47.100.209.208:8767/cctv8k.m3u8
+CGTN,http://47.100.209.208:8767/cgtn.m3u8
+CGTN 法语,http://47.100.209.208:8767/cgtnfr.m3u8
+CGTN 俄语,http://47.100.209.208:8767/cgtnru.m3u8
+CGTN 阿拉伯语,http://47.100.209.208:8767/cgtnar.m3u8
+CGTN 西班牙语,http://47.100.209.208:8767/cgtnes.m3u8
+CGTN 纪录,http://47.100.209.208:8767/cgtndoc.m3u8
+CCTV 风云剧场,http://47.100.209.208:8767/cctvfyjc.m3u8
+CCTV 第一剧场,http://47.100.209.208:8767/cctvdyjc.m3u8
+CCTV 怀旧剧场,http://47.100.209.208:8767/cctvhjjc.m3u8
+CETV-1,http://47.100.209.208:8767/cetv1.m3u8
+国学频道,http://47.100.209.208:8767/guoxue.m3u8
+北京卫视,http://47.100.209.208:8767/bjws.m3u8
+江苏卫视,http://47.100.209.208:8767/jsws.m3u8
+东方卫视,http://47.100.209.208:8767/dfws.m3u8
+浙江卫视,http://47.100.209.208:8767/zjws.m3u8
+湖南卫视,http://47.100.209.208:8767/hnws.m3u8
+湖北卫视,http://47.100.209.208:8767/hbws.m3u8
+广东卫视,http://47.100.209.208:8767/gdws.m3u8
+广西卫视,http://47.100.209.208:8767/gxws.m3u8
+黑龙江卫视,http://47.100.209.208:8767/hljws.m3u8
+海南卫视,http://47.100.209.208:8767/hainanws.m3u8
+重庆卫视,http://47.100.209.208:8767/cqws.m3u8
+深圳卫视,http://47.100.209.208:8767/szws.m3u8
+四川卫视,http://47.100.209.208:8767/scws.m3u8
+河南卫视,http://47.100.209.208:8767/henanws.m3u8
+东南卫视,http://47.100.209.208:8767/dnws.m3u8
+贵州卫视,http://47.100.209.208:8767/gzws.m3u8
+江西卫视,http://47.100.209.208:8767/jxws.m3u8
+辽宁卫视,http://47.100.209.208:8767/lnws.m3u8
+安徽卫视,http://47.100.209.208:8767/ahws.m3u8
+河北卫视,http://47.100.209.208:8767/hebws.m3u8
+山东卫视,http://47.100.209.208:8767/sdws.m3u8
+天津卫视,http://47.100.209.208:8767/tjws.m3u8
+吉林卫视,http://47.100.209.208:8767/jlws.m3u8
+陕西卫视,http://47.100.209.208:8767/saxws.m3u8
+宁夏卫视,http://47.100.209.208:8767/nxws.m3u8
+内蒙古卫视,http://47.100.209.208:8767/nmgws.m3u8
+云南卫视,http://47.100.209.208:8767/ynws.m3u8
+山西卫视,http://47.100.209.208:8767/shanxiws.m3u8
+青海卫视,http://47.100.209.208:8767/qhws.m3u8
+西藏卫视,http://47.100.209.208:8767/xizangws.m3u8
+新疆卫视,http://47.100.209.208:8767/xjws.m3u8
+
+CCTV-1,http://tsl76.vfoo.cc:2096/cctv1.m3u8
+CCTV-2,http://tsl76.vfoo.cc:2096/cctv2.m3u8
+CCTV-3,http://tsl76.vfoo.cc:2096/cctv3.m3u8
+CCTV-4,http://tsl76.vfoo.cc:2096/cctv4.m3u8
+CCTV-5,http://tsl76.vfoo.cc:2096/cctv5.m3u8
+CCTV-5+,http://tsl76.vfoo.cc:2096/cctv5p.m3u8
+CCTV-6,http://tsl76.vfoo.cc:2096/cctv6.m3u8
+CCTV-7,http://tsl76.vfoo.cc:2096/cctv7.m3u8
+CCTV-8,http://tsl76.vfoo.cc:2096/cctv8.m3u8
+CCTV-9,http://tsl76.vfoo.cc:2096/cctv9.m3u8
+CCTV-10,http://tsl76.vfoo.cc:2096/cctv10.m3u8
+CCTV-11,http://tsl76.vfoo.cc:2096/cctv11.m3u8
+CCTV-12,http://tsl76.vfoo.cc:2096/cctv12.m3u8
+CCTV-13,http://tsl76.vfoo.cc:2096/cctv13.m3u8
+CCTV-14,http://tsl76.vfoo.cc:2096/cctv14.m3u8
+CCTV-15,http://tsl76.vfoo.cc:2096/cctv15.m3u8
+CCTV-16,http://tsl76.vfoo.cc:2096/cctv16.m3u8
+CCTV-16 4K,http://tsl76.vfoo.cc:2096/cctv164k.m3u8
+CCTV-17,http://tsl76.vfoo.cc:2096/cctv17.m3u8
+CCTV-4K,http://tsl76.vfoo.cc:2096/cctv4k.m3u8
+CCTV-8K,http://tsl76.vfoo.cc:2096/cctv8k.m3u8
+CGTN,http://tsl76.vfoo.cc:2096/cgtn.m3u8
+CGTN法语,http://tsl76.vfoo.cc:2096/cgtnfr.m3u8
+CGTN俄语,http://tsl76.vfoo.cc:2096/cgtnru.m3u8
+CGTN阿拉伯语,http://tsl76.vfoo.cc:2096/cgtnar.m3u8
+CGTN西班牙语,http://tsl76.vfoo.cc:2096/cgtnes.m3u8
+CGTN 纪录,http://tsl76.vfoo.cc:2096/cgtndoc.m3u8
+CCTV 风云剧场,http://tsl76.vfoo.cc:2096/cctvfyjc.m3u8
+CCTV 第一剧场,http://tsl76.vfoo.cc:2096/cctvdyjc.m3u8
+CCTV 怀旧剧场,http://tsl76.vfoo.cc:2096/cctvhjjc.m3u8
+北京卫视,http://tsl76.vfoo.cc:2096/bjws.m3u8
+江苏卫视,http://tsl76.vfoo.cc:2096/jsws.m3u8
+东方卫视,http://tsl76.vfoo.cc:2096/dfws.m3u8
+浙江卫视,http://tsl76.vfoo.cc:2096/zjws.m3u8
+湖南卫视,http://tsl76.vfoo.cc:2096/hnws.m3u8
+湖北卫视,http://tsl76.vfoo.cc:2096/hbws.m3u8
+广东卫视,http://tsl76.vfoo.cc:2096/gdws.m3u8
+广西卫视,http://tsl76.vfoo.cc:2096/gxws.m3u8
+黑龙江卫视,http://tsl76.vfoo.cc:2096/hljws.m3u8
+海南卫视,http://tsl76.vfoo.cc:2096/hainanws.m3u8
+重庆卫视,http://tsl76.vfoo.cc:2096/cqws.m3u8
+深圳卫视,http://tsl76.vfoo.cc:2096/szws.m3u8
+四川卫视,http://tsl76.vfoo.cc:2096/scws.m3u8
+河南卫视,http://tsl76.vfoo.cc:2096/henanws.m3u8
+东南卫视,http://tsl76.vfoo.cc:2096/dnws.m3u8
+贵州卫视,http://tsl76.vfoo.cc:2096/gzws.m3u8
+江西卫视,http://tsl76.vfoo.cc:2096/jxws.m3u8
+辽宁卫视,http://tsl76.vfoo.cc:2096/lnws.m3u8
+安徽卫视,http://tsl76.vfoo.cc:2096/ahws.m3u8
+河北卫视,http://tsl76.vfoo.cc:2096/hebws.m3u8
+山东卫视,http://tsl76.vfoo.cc:2096/sdws.m3u8
+天津卫视,http://tsl76.vfoo.cc:2096/tjws.m3u8
+吉林卫视,http://tsl76.vfoo.cc:2096/jlws.m3u8
+陕西卫视,http://tsl76.vfoo.cc:2096/saxws.m3u8
+宁夏卫视,http://tsl76.vfoo.cc:2096/nxws.m3u8
+内蒙古卫视,http://tsl76.vfoo.cc:2096/nmgws.m3u8
+云南卫视,http://tsl76.vfoo.cc:2096/ynws.m3u8
+山西卫视,http://tsl76.vfoo.cc:2096/shanxiws.m3u8
+青海卫视,http://tsl76.vfoo.cc:2096/qhws.m3u8
+西藏卫视,http://tsl76.vfoo.cc:2096/xizangws.m3u8
+新疆卫视,http://tsl76.vfoo.cc:2096/xjws.m3u8
+CETV-1,http://tsl76.vfoo.cc:2096/cetv1.m3u8
+国学频道,http://tsl76.vfoo.cc:2096/guoxue.m3u8
 
 天翼有线,#genre#
 东方卫视,http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8
