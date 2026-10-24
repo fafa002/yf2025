@@ -548,6 +548,9 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+凤凰资讯480p,http://ccav.zone.id/php/fh.php?id=1
+凤凰中文480p,http://ccav.zone.id/php/fh.php?id=2
+凤凰香港480p,http://ccav.zone.id/php/fh.php?id=3
 
 寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 TVB Plus,http://167.88.62.43:64012/0.ts
