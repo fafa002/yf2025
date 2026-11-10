@@ -185,7 +185,7 @@ mr-森林,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2ofpk
 林韵乔/叶梓晴-机场北,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cp32qpjc77uf5eu3igtg&ratio=720p&line=0
 麦浚龙-耿耿于怀,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cf2gn93c77uam6kuerdg&ratio=720p&line=0
 菊梓乔-忘掉我自己,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cr7ia6vog65n4msgpru0&ratio=720p&line=0
-吴若希-越难越爱,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000chcdhdfog65g2p9hdi7g&ratio=720p&line=0
+吴若希-越难越爱,
 吴若希-爱要撑下去,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdm727rc77u3lnlca32g&ratio=720p&line=0
 吴若希-爱要撑下去,https://vd2.bdstatic.com/mda-sjrsd1jeznwj7ejk/576p/h264/1793039881303435557/mda-sjrsd1jeznwj7ejk.mp4
 吴若希-错过了,https://vd3.bdstatic.com/mda-sjdzp111ms6cviyt/576p/h264/1792021637715995986/mda-sjdzp111ms6cviyt.mp4
@@ -194,7 +194,7 @@ mr-森林,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2ofpk
 邓岳章-不做情人,https://vd4.bdstatic.com/mda-pb2e7m3xap7pxmdy/cae_h264/1675419344932965683/mda-pb2e7m3xap7pxmdy.mp4
 何仟仟-魔鬼邂逅,https://vd4.bdstatic.com/mda-sjav7hjgve605sx3/576p/h264/1791751080136615186/mda-sjav7hjgve605sx3.mp4
 邓紫棋-17首合集,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cucbtmfog65l35tmqu7g&ratio=720p&line=0
-陈婉箐-不负众望,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cu95487og65l3i02957g&ratio=720p&line=0
+陈婉箐-不负众望,
 飞儿乐团-月牙湾,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c4tmklbc77u4upig9730&ratio=720p&line=0
 飞儿乐团-lydia,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000cu0hhh7og65rn9pfdt0g&ratio=720p&line=0
 飞儿乐团-我们的爱,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c895oo3c77ud27p9ic50&ratio=720p&line=0
@@ -5919,9 +5919,9 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 
 私密频道_169169,#genre#
 移动网专用,
-惊艳1,rtmp://kyyq.naiwch.com/live/易發TV-jyt
-香蕉2,rtmp://kyyq.naiwch.com/live/易發TV-xjt
-松视1,rtmp://kyyq.naiwch.com/live/易發TV-s1t
+惊艳1,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jyt.flv
+香蕉2,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/xjt.flv
+松视1,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/s1t.flv
 惊艳2,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
 惊艳(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘多拉(挂梯),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
