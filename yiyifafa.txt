@@ -1,6 +1,6 @@
 抖音K歌,#genre#,DE=3
-街道办GDC/欧阳耀莹-春娇与志明,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f890000bt2sn535j22kbcal83p0&ratio=720p&line=0
 街道办GDC/欧阳耀莹-春娇与志明,https://vd3.bdstatic.com/mda-nm2jiq3rts9e996m/cae_h264/1670140421381860308/mda-nm2jiq3rts9e996m.mp4
+街道办GDC/欧阳耀莹-春娇与志明,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f890000bt2sn535j22kbcal83p0&ratio=720p&line=0
 朴彩英-APT,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02f52g10003css23uiljht5d6b6mnq0&ratio=720p&line=0
 朴彩英-APT,https://vd3.bdstatic.com/mda-qm6huzfife1qmywr/576p/youjia_clip_normal_sv/1733576017477697961/mda-qm6huzfife1qmywr.mp4
 wonder girls-Nobody,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c6loblbc77u7hd3mel20&ratio=720p&line=0
@@ -411,6 +411,12 @@ closer,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6c60frc7
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,http://go.bkpcp.top/mg/zjws
 湖南卫视4K,http://go.bkpcp.top/mg/hunws
+江苏卫视4K超高清,http://8.138.7.223/tv/jsws4k.php
+广东卫视4K超高清,http://nn.7x9d.cn/91tv1.php?e=gdws4k
+深圳卫视4K超高清,http://nn.7x9d.cn/91tv1.php?e=szws4k
+湖南卫视4K超高清,http://nn.7x9d.cn/91tv1.php?e=hnws4k
+浙江卫视4K超高清,http://nn.7x9d.cn/91tv1.php?e=zjws4k
+东方卫视4K超高清,http://nn.7x9d.cn/91tv1.php?e=dfws4k
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
