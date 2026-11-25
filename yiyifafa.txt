@@ -447,9 +447,33 @@ AK电影,#genre#
 1990赌侠,https://play.modujx11.com/20241224/mBSx76B4/index.m3u8
 
 极速港台（挂梯）,#genre#,DE=3
-翡翠台,http://cc.123.rr.kg/163189/fct
-无线新闻台,http://cc.123.rr.kg/163189/wxxwt
+凤凰中文,https://cc.123.rr.kg/163189/fhzw
+翡翠台,https://cc.123.rr.kg/163189/fct
+无线新闻台,https://cc.123.rr.kg/163189/wxxwt
+无线新闻台,https://cc.123.rr.kg/163189/wxxw
 HOY TV,https://cc.123.rr.kg/163189/hoy
+HCCTV1港澳版,https://cc.123.rr.kg/163189/cctv1
+澳视澳门,https://cc.123.rr.kg/163189/asam
+澳视卫星,https://cc.123.rr.kg/163189/as
+澳门体育,https://cc.123.rr.kg/163189/amty
+澳门综艺,https://cc.123.rr.kg/163189/amzy
+澳门莲花,https://cc.123.rr.kg/163189/amlh
+重温经典,https://cc.123.rr.kg/163189/cwjd
+凤凰资讯,https://cc.123.rr.kg/163189/fhzx
+凤凰香港,https://cc.123.rr.kg/163189/fhhk
+TVB1,https://cc.123.rr.kg/163189/tvb1
+TVBJ1,https://cc.123.rr.kg/163189/j1
+翡翠剧集台,https://cc.123.rr.kg/163189/tvbd
+八度空间,https://cc.123.rr.kg/163189/8tv
+CH5,https://cc.123.rr.kg/163189/ch5
+CH8,https://cc.123.rr.kg/163189/ch8
+CHU,https://cc.123.rr.kg/163189/chu
+华丽翡翠台,https://cc.123.rr.kg/163189/hlfct
+TVB亚洲武侠,https://cc.123.rr.kg/163189/yzwx
+TVB娱乐新闻台,https://cc.123.rr.kg/163189/ylxw
+TVB星河,https://cc.123.rr.kg/163189/tvbxh
+华丽翡翠台(硬字幕),https://cc.123.rr.kg/163189/jade
+
 NOW爆谷,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
 NOW星影,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
 NOW华剧,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju
