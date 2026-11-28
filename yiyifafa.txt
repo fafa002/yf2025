@@ -447,6 +447,12 @@ AK电影,#genre#
 1990赌侠,https://play.modujx11.com/20241224/mBSx76B4/index.m3u8
 
 极速港台（挂梯）,#genre#,DE=3
+NOW爆谷,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
+NOW星影,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
+NOW华剧,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju
+NOW紫金,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-zijin
+CM+,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-cmjia
+
 凤凰中文,https://cc.123.rr.kg/163189/fhzw
 翡翠台,https://cc.123.rr.kg/163189/fct
 无线新闻台,https://cc.123.rr.kg/163189/wxxwt
@@ -473,11 +479,6 @@ TVB亚洲武侠,https://cc.123.rr.kg/163189/yzwx
 TVB娱乐新闻台,https://cc.123.rr.kg/163189/ylxw
 TVB星河,https://cc.123.rr.kg/163189/tvbxh
 华丽翡翠台(硬字幕),https://cc.123.rr.kg/163189/jade
-
-NOW爆谷,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
-NOW星影,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
-NOW华剧,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju
-NOW紫金,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-zijin
 
 翡翠台4K(字幕),https://cdn3.indevs.in/stream/tvb/fct4k/
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
